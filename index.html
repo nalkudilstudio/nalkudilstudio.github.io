@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nalkudil Studio — Build What Matters</title>
+  <meta name="description" content="Nalkudil Studio builds meaningful apps for real life — relationships, family, finances and beyond." />
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --teal:  #1DBFB0;
+      --gold:  #E8A83A;
+      --navy:  #0D1B2A;
+      --navy2: #112233;
+      --card:  rgba(255,255,255,0.04);
+      --border:rgba(255,255,255,0.07);
+      --text:  #F0F4F8;
+      --muted: rgba(240,244,248,0.45);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--navy);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ── NAV ── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 16px 40px;
+      background: rgba(13,27,42,0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 18px; font-weight: 700;
+      letter-spacing: 1px;
+    }
+    .nav-logo span.n { color: var(--teal); }
+    .nav-logo span.s { color: var(--gold); }
+    .nav-links { display: flex; gap: 28px; list-style: none; }
+    .nav-links a {
+      color: var(--muted); text-decoration: none;
+      font-size: 13px; letter-spacing: 0.5px;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--teal); }
+
+    /* ── HERO ── */
+    .hero {
+      min-height: 100vh;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      text-align: center;
+      padding: 120px 24px 80px;
+      position: relative; overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; top: -200px; left: 50%; transform: translateX(-50%);
+      width: 600px; height: 600px;
+      background: radial-gradient(circle, rgba(29,191,176,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .logo-mark {
+      width: 88px; height: 88px;
+      background: linear-gradient(135deg, rgba(29,191,176,0.15), rgba(232,168,58,0.1));
+      border: 1px solid rgba(29,191,176,0.3);
+      border-radius: 22px;
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 32px; font-weight: 700;
+      margin: 0 auto 28px;
+    }
+    .logo-mark .ln { color: var(--teal); }
+    .logo-mark .ls { color: var(--gold); }
+    .studio-label {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 11px; letter-spacing: 4px;
+      color: var(--gold); text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    h1 {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: clamp(36px, 6vw, 64px);
+      font-weight: 700; line-height: 1.1;
+      margin-bottom: 20px;
+    }
+    h1 .teal { color: var(--teal); }
+    h1 .gold { color: var(--gold); }
+    .hero-sub {
+      font-size: clamp(15px, 2vw, 18px);
+      color: var(--muted); max-width: 520px;
+      margin: 0 auto 40px; line-height: 1.7;
+    }
+    .hero-tagline {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 12px; letter-spacing: 3px;
+      color: var(--teal); text-transform: uppercase;
+      margin-bottom: 12px; opacity: 0.7;
+    }
+    .cta-row { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+    .btn {
+      padding: 13px 28px; border-radius: 10px;
+      font-size: 14px; font-weight: 500;
+      text-decoration: none; letter-spacing: 0.3px;
+      transition: all 0.2s; cursor: pointer;
+    }
+    .btn-primary {
+      background: var(--teal); color: var(--navy);
+      font-weight: 700;
+    }
+    .btn-primary:hover { background: #22d4c4; transform: translateY(-1px); }
+    .btn-ghost {
+      border: 1px solid var(--border); color: var(--text);
+    }
+    .btn-ghost:hover { border-color: var(--teal); color: var(--teal); }
+
+    /* ── SECTION ── */
+    section { padding: 80px 24px; max-width: 1080px; margin: 0 auto; }
+    .section-label {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 11px; letter-spacing: 4px;
+      color: var(--teal); text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    h2 {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: clamp(24px, 4vw, 36px);
+      font-weight: 700; margin-bottom: 12px;
+    }
+    .section-sub {
+      color: var(--muted); font-size: 15px;
+      max-width: 480px; margin-bottom: 48px;
+    }
+
+    /* ── APPS GRID ── */
+    .apps-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .app-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px; padding: 28px;
+      transition: border-color 0.2s, transform 0.2s;
+      position: relative; overflow: hidden;
+    }
+    .app-card:hover { border-color: rgba(29,191,176,0.3); transform: translateY(-2px); }
+    .app-card.featured { border-color: rgba(29,191,176,0.25); }
+    .app-card.featured::before {
+      content: 'LIVE';
+      position: absolute; top: 16px; right: 16px;
+      background: rgba(29,191,176,0.15);
+      color: var(--teal); font-size: 10px;
+      font-family: 'Chakra Petch', sans-serif;
+      letter-spacing: 2px; padding: 3px 8px;
+      border-radius: 4px; border: 1px solid rgba(29,191,176,0.3);
+    }
+    .app-card.wip::before {
+      content: 'COMING SOON';
+      position: absolute; top: 16px; right: 16px;
+      background: rgba(232,168,58,0.1);
+      color: var(--gold); font-size: 10px;
+      font-family: 'Chakra Petch', sans-serif;
+      letter-spacing: 2px; padding: 3px 8px;
+      border-radius: 4px; border: 1px solid rgba(232,168,58,0.2);
+    }
+    .app-icon { font-size: 36px; margin-bottom: 14px; }
+    .app-name {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 18px; font-weight: 700;
+      color: var(--text); margin-bottom: 8px;
+    }
+    .app-desc { color: var(--muted); font-size: 14px; line-height: 1.6; }
+
+    /* ── ABOUT ── */
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 48px; align-items: center;
+    }
+    .about-text p { color: var(--muted); font-size: 15px; line-height: 1.8; margin-bottom: 16px; }
+    .about-text p strong { color: var(--teal); font-weight: 600; }
+    .about-stats {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    .stat-card {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 20px; text-align: center;
+    }
+    .stat-num {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 28px; font-weight: 700; color: var(--teal);
+    }
+    .stat-label { font-size: 12px; color: var(--muted); margin-top: 4px; }
+
+    /* ── DIVIDER ── */
+    .divider {
+      border: none; border-top: 1px solid var(--border);
+      margin: 0 24px;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      text-align: center; padding: 48px 24px;
+      border-top: 1px solid var(--border);
+    }
+    .footer-logo {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 20px; font-weight: 700;
+      margin-bottom: 16px;
+    }
+    .social-row {
+      display: flex; gap: 20px;
+      justify-content: center; margin-bottom: 20px;
+    }
+    .social-row a {
+      color: var(--muted); text-decoration: none;
+      font-size: 13px; transition: color 0.2s;
+    }
+    .social-row a:hover { color: var(--teal); }
+    .footer-copy { color: var(--muted); font-size: 12px; }
+    .footer-copy a { color: var(--teal); text-decoration: none; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      nav { padding: 14px 20px; }
+      .nav-links { display: none; }
+      .about-grid { grid-template-columns: 1fr; gap: 32px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-logo"><span class="n">N</span><span class="s">S</span> &nbsp;NALKUDIL STUDIO</div>
+    <ul class="nav-links">
+      <li><a href="#apps">Apps</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="logo-mark"><span class="ln">N</span><span class="ls">S</span></div>
+    <p class="hero-tagline">நல்குடில் — Good Home</p>
+    <p class="studio-label">Nalkudil Studio</p>
+    <h1>Build What<br/><span class="teal">Truly</span> <span class="gold">Matters</span></h1>
+    <p class="hero-sub">We craft apps for real life — relationships, family, and finances. Built with love from Chennai, India. 🇮🇳</p>
+    <div class="cta-row">
+      <a href="#apps" class="btn btn-primary">Our Apps</a>
+      <a href="#contact" class="btn btn-ghost">Say Hello</a>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- APPS -->
+  <section id="apps">
+    <p class="section-label">What We Build</p>
+    <h2>Our Apps</h2>
+    <p class="section-sub">Each app solves a real problem for real people. No fluff, no filler.</p>
+
+    <div class="apps-grid">
+
+      <div class="app-card featured">
+        <div class="app-icon">💚</div>
+        <div class="app-name">Spouse</div>
+        <p class="app-desc">Build your relationship in 2 minutes a day. Real-time connection, shared memories, love meter, and daily rituals for couples.</p>
+      </div>
+
+      <div class="app-card wip">
+        <div class="app-icon">👫</div>
+        <div class="app-name">Partner</div>
+        <p class="app-desc">A warm spin-off of Spouse — designed for partners at every stage of their relationship journey.</p>
+      </div>
+
+      <div class="app-card wip">
+        <div class="app-icon">🤝</div>
+        <div class="app-name">Bestie</div>
+        <p class="app-desc">Keep your friendships alive. The Spouse experience, reimagined for your closest friends.</p>
+      </div>
+
+      <div class="app-card wip">
+        <div class="app-icon">💰</div>
+        <div class="app-name">BudgetKutty</div>
+        <p class="app-desc">Family expense manager built for Indian households. Simple, shared, and stress-free budgeting.</p>
+      </div>
+
+      <div class="app-card wip">
+        <div class="app-icon">💎</div>
+        <div class="app-name">Design My Jewelry</div>
+        <p class="app-desc">Visualise and design your dream jewelry. Personalised, beautiful, and made for every occasion.</p>
+      </div>
+
+      <div class="app-card wip">
+        <div class="app-icon">📈</div>
+        <div class="app-name">GoTrend</div>
+        <p class="app-desc">Stay ahead of the curve. Trend discovery and insights, built for creators and marketers.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- ABOUT -->
+  <section id="about">
+    <p class="section-label">Who We Are</p>
+    <h2>A Family That Builds</h2>
+
+    <div class="about-grid">
+      <div class="about-text">
+        <p><strong>Nalkudil</strong> means "Good Home" in Tamil — and that's exactly what we're building. A studio rooted in family values, creating apps that make everyday life a little more meaningful.</p>
+        <p>We're <strong>Sarav & Vidhya</strong>, a husband-and-wife team from Chennai, India. Parents to Dhruv (8) and Raashvi (2). We started Nalkudil Studio to build products that matter — for couples, families, friends, and creators.</p>
+        <p>Our goal is simple: <strong>build passive income through purposeful apps</strong>, publishing, and community — one meaningful product at a time.</p>
+      </div>
+      <div class="about-stats">
+        <div class="stat-card">
+          <div class="stat-num">6+</div>
+          <div class="stat-label">Apps in the pipeline</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">2026</div>
+          <div class="stat-label">Launch year</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">Chennai</div>
+          <div class="stat-label">Made in India 🇮🇳</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">💚</div>
+          <div class="stat-label">Built with love</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- CONTACT -->
+  <section id="contact" style="text-align:center;">
+    <p class="section-label">Get In Touch</p>
+    <h2>Say Hello 👋</h2>
+    <p class="section-sub" style="margin: 0 auto 32px;">Have a question, feedback, or just want to say hi? We'd love to hear from you.</p>
+    <a href="mailto:nalkudilstudio@gmail.com" class="btn btn-primary">nalkudilstudio@gmail.com</a>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-logo"><span style="color:var(--teal)">NALKUDIL</span> <span style="color:var(--gold)">STUDIO</span></div>
+    <div class="social-row">
+      <a href="https://www.youtube.com/@nalkudil" target="_blank">YouTube</a>
+      <a href="https://www.instagram.com/nalkudil/" target="_blank">Instagram</a>
+      <a href="https://github.com/nalkudilstudio" target="_blank">GitHub</a>
+      <a href="https://nalkudilstudio.github.io/spouse-docs/privacy-policy" target="_blank">Privacy Policy</a>
+    </div>
+    <p class="footer-copy">© 2026 Nalkudil Studio. Made with 💚 in Chennai, India.<br/>
+    <a href="https://nalkudilstudio.github.io/spouse-docs/privacy-policy">Privacy Policy</a> &nbsp;·&nbsp; nalkudilstudio@gmail.com</p>
+  </footer>
+
+</body>
+</html>

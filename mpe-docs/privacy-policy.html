@@ -1,0 +1,189 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/><title>Privacy Policy — Metal Price Estimator | Nalkudil Studio</title><link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet"/><style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --teal: #1DBFB0; --gold: #E8A83A; --navy: #0D1B2A; --navy2: #112233;
+      --card: rgba(255,255,255,0.04); --border: rgba(255,255,255,0.07);
+      --text: #F0F4F8; --muted: rgba(240,244,248,0.45);
+    }
+    html { scroll-behavior: smooth; }
+    body { background: var(--navy); color: var(--text); font-family: 'Inter', sans-serif; line-height: 1.6; min-height: 100vh; }
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; padding: 0 40px; height: 60px;
+      background: rgba(13,27,42,0.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border);
+    }
+    .nav-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
+    .nav-ns {
+      width: 32px; height: 32px; border-radius: 8px;
+      background: linear-gradient(135deg, rgba(29,191,176,0.2), rgba(232,168,58,0.1));
+      border: 1px solid rgba(29,191,176,0.35); display: flex; align-items: center; justify-content: center;
+      font-family: 'Chakra Petch', sans-serif; font-size: 12px; font-weight: 700;
+    }
+    .nav-ns .nn { color: var(--teal); } .nav-ns .ns { color: var(--gold); }
+    .nav-brand { font-family: 'Chakra Petch', sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1px; color: var(--text); }
+    .nav-center { display: flex; gap: 28px; list-style: none; position: absolute; left: 50%; transform: translateX(-50%); }
+    .nav-center a { color: var(--muted); text-decoration: none; font-size: 13px; letter-spacing: 0.5px; transition: color 0.2s; }
+    .nav-center a:hover { color: var(--teal); }
+    .nav-right { margin-left: auto; display: flex; gap: 20px; align-items: center; }
+    .nav-right a { color: var(--muted); text-decoration: none; font-size: 13px; letter-spacing: 0.3px; transition: color 0.2s; }
+    .nav-right a:hover { color: var(--teal); }
+    .nav-right a.back { color: var(--teal); }
+    .nav-right a.back:hover { opacity: 0.8; }
+    .page-hero { padding: 110px 24px 64px; text-align: center; max-width: 760px; margin: 0 auto; position: relative; }
+    .page-hero::before {
+      content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+      width: 500px; height: 400px; background: radial-gradient(circle, rgba(29,191,176,0.09) 0%, transparent 70%); pointer-events: none; z-index: 0;
+    }
+    .page-hero > * { position: relative; z-index: 1; }
+    .app-badge {
+      display: inline-block; margin-bottom: 18px; background: rgba(29,191,176,0.08);
+      border: 1px solid rgba(29,191,176,0.25); border-radius: 20px; padding: 5px 16px;
+      font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 2px; color: var(--teal); text-transform: uppercase;
+    }
+    h1 { font-family: 'Chakra Petch', sans-serif; font-size: clamp(28px, 5vw, 48px); font-weight: 700; line-height: 1.15; margin-bottom: 16px; }
+    h1 .teal { color: var(--teal); } h1 .gold { color: var(--gold); }
+    .hero-sub { color: var(--muted); font-size: clamp(14px, 2vw, 16px); max-width: 520px; margin: 0 auto 32px; line-height: 1.75; }
+    .pp-intro { background: var(--card); border: 1px solid rgba(29,191,176,0.2); border-radius: 14px; padding: 24px 28px; margin-bottom: 40px; }
+    .pp-intro p { color: var(--muted); font-size: 14px; line-height: 1.7; }
+    .pp-intro strong { color: var(--text); }
+    .toc-box { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 22px 28px; margin-bottom: 40px; }
+    .toc-box h3 { font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 14px; }
+    .toc-box ol { padding-left: 18px; }
+    .toc-box li { margin-bottom: 6px; }
+    .toc-box li a { color: var(--teal); text-decoration: none; font-size: 14px; }
+    .toc-box li a:hover { text-decoration: underline; }
+    .pp-section { margin-bottom: 48px; }
+    .pp-section-num { font-family: 'Chakra Petch', sans-serif; font-size: 10px; letter-spacing: 3px; color: var(--gold); text-transform: uppercase; margin-bottom: 8px; }
+    .pp-section h2 { font-size: clamp(16px, 2.5vw, 20px); padding-top: 20px; border-top: 1px solid var(--border); margin-bottom: 16px; font-family: 'Chakra Petch', sans-serif; }
+    .pp-section p, .pp-section li { color: var(--muted); font-size: 14px; line-height: 1.75; }
+    .pp-section ul, .pp-section ol { padding-left: 20px; margin-top: 10px; }
+    .pp-section li { margin-bottom: 5px; }
+    .shield-badge { display: inline-flex; align-items: center; gap: 8px; background: rgba(20,210,184,0.1); border: 1px solid rgba(20,210,184,0.3); border-radius: 8px; padding: 8px 14px; margin-top: 12px; font-size: 13px; color: var(--teal); font-weight: 600; }
+    footer { text-align: center; padding: 48px 24px; border-top: 1px solid var(--border); margin-top: 40px; }
+    .footer-logo { font-family: 'Chakra Petch', sans-serif; font-size: 18px; font-weight: 700; margin-bottom: 18px; }
+    .footer-links { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 18px; }
+    .footer-links a { color: var(--muted); text-decoration: none; font-size: 13px; transition: color 0.2s; }
+    .footer-links a:hover { color: var(--teal); }
+    .footer-copy { color: var(--muted); font-size: 12px; }
+    @media (max-width: 768px) { nav { padding: 0 16px; } .nav-center { display: none; } }
+</style></head><body>
+<nav>
+  <a href="https://nalkudilstudio.github.io" class="nav-logo">
+    <div class="nav-ns"><span class="nn">N</span><span class="ns">S</span></div>
+    <span class="nav-brand">NALKUDIL STUDIO</span>
+  </a>
+  <ul class="nav-center">
+    <li><a href="https://nalkudilstudio.github.io/mpe-docs">Getting Started</a></li>
+    <li><a href="https://nalkudilstudio.github.io/mpe-docs/terms">Terms of Service</a></li>
+  </ul>
+  <div class="nav-right">
+    <a href="https://nalkudilstudio.github.io/mpe-docs/privacy-policy">Privacy Policy</a>
+    <a href="https://nalkudilstudio.github.io" class="back">← Back to Studio</a>
+  </div>
+</nav>
+
+<div class="page-hero" style="padding-bottom:32px">
+  <span class="app-badge">🪙 Metal Price Estimator</span>
+  <h1>Privacy Policy</h1>
+  <p class="hero-sub" style="margin-bottom:0">📅 Last updated: October 2026 &nbsp;·&nbsp; 🏢 Nalkudil Studio &nbsp;·&nbsp; 📧 nalkudilstudio@gmail.com</p>
+</div>
+
+<div style="max-width:860px;margin:0 auto;padding:0 24px">
+  <div class="pp-intro">
+    <p><strong>Zero Network Mandate:</strong> <strong>Metal Price Estimator</strong> is built with a 100% offline, privacy-first architecture. The application contains <strong>zero network permissions</strong> (<code>android.permission.INTERNET</code> is not declared). Your precious metals holdings, purchase history, custom metal rates, and valuation quotes are stored strictly on your device.</p>
+    <div class="shield-badge">🔒 100% Offline · No Network Permissions · No Cloud Storage</div>
+  </div>
+
+  <div class="toc-box">
+    <h3>Contents</h3>
+    <ol>
+      <li><a href="#m1">1. Information We Store Locally</a></li>
+      <li><a href="#m2">2. Offline Architecture & Absence of Internet Access</a></li>
+      <li><a href="#m3">3. Local Room SQLite Database & Biometrics</a></li>
+      <li><a href="#m4">4. Quote Sharing & Native Intents</a></li>
+      <li><a href="#m5">5. Third-Party Libraries & Telemetry</a></li>
+      <li><a href="#m6">6. Data Retention & Control</a></li>
+      <li><a href="#m7">7. Children's Privacy</a></li>
+      <li><a href="#m8">8. Statutory Compliance (DPDP Act 2023)</a></li>
+      <li><a href="#m9">9. Contact Us</a></li>
+    </ol>
+  </div>
+
+  <div class="pp-section" id="m1">
+    <div class="pp-section-num">Section 01</div>
+    <h2>Information We Store Locally</h2>
+    <p>When you use Metal Price Estimator, the following information is saved solely inside your phone's private storage:</p>
+    <ul>
+      <li><strong>Jewellery Valuation History:</strong> Item names, gross weights, stone deductions, net weights, wastage (VA) in grams and percentages, making charges, and 3% GST figures.</li>
+      <li><strong>Custom Metal Rates:</strong> Your configured spot board rates for 24K, 22K (916), 18K, 14K, Silver, and Platinum.</li>
+      <li><strong>Display Preferences:</strong> Selected currency symbol, default weight unit (Grams, Pavans, Tolas), and UI theme (Obsidian Dark / Light Ivory).</li>
+    </ul>
+    <p>None of this information is ever sent to Nalkudil Studio or any third party.</p>
+  </div>
+
+  <div class="pp-section" id="m2">
+    <div class="pp-section-num">Section 02</div>
+    <h2>Offline Architecture &amp; Absence of Internet Access</h2>
+    <p>Metal Price Estimator does not request or possess the <code>android.permission.INTERNET</code> permission in its Android Manifest. It is technologically impossible for the app to connect to any remote server, API endpoint, ad provider, or analytics service.</p>
+  </div>
+
+  <div class="pp-section" id="m3">
+    <div class="pp-section-num">Section 03</div>
+    <h2>Local Room SQLite Database &amp; Biometrics</h2>
+    <p>All valuation logs and assets are stored in a local Android Room SQLite database within the app's sandboxed data partition. If you enable the optional Biometric App Lock, access to your valuation history is guarded by Android's hardware Keystore (Fingerprint / Face / Device PIN).</p>
+  </div>
+
+  <div class="pp-section" id="m4">
+    <div class="pp-section-num">Section 04</div>
+    <h2>Quote Sharing &amp; Native Intents</h2>
+    <p>When you use the "Share Quote" feature, formatted text or quote summaries are handed directly to Android's native system share sheet (e.g., to WhatsApp or Messaging). Metal Price Estimator does not log, track, or monitor what application you choose to share with.</p>
+  </div>
+
+  <div class="pp-section" id="m5">
+    <div class="pp-section-num">Section 05</div>
+    <h2>Third-Party Libraries &amp; Telemetry</h2>
+    <p>We do not bundle any ad SDKs, analytics trackers, or user profiling tools. All calculation routines (stone deduction, wastage percentage, Pavan/Tola conversion, compounding appreciation) are compiled directly within the app binary.</p>
+  </div>
+
+  <div class="pp-section" id="m6">
+    <div class="pp-section-num">Section 06</div>
+    <h2>Data Retention &amp; Control</h2>
+    <p>You have complete control over your history and records:</p>
+    <ul>
+      <li>You can delete individual valuation entries or clear all history in the History screen.</li>
+      <li>Uninstalling the app or clearing storage in Android settings erases 100% of your records immediately and permanently.</li>
+    </ul>
+  </div>
+
+  <div class="pp-section" id="m7">
+    <div class="pp-section-num">Section 07</div>
+    <h2>Children's Privacy</h2>
+    <p>Metal Price Estimator does not collect personal data from anyone, including children under 13.</p>
+  </div>
+
+  <div class="pp-section" id="m8">
+    <div class="pp-section-num">Section 08</div>
+    <h2>Statutory Compliance (DPDP Act 2023)</h2>
+    <p>By confining all data to the user's personal hardware and never transmitting personal identifiers, Metal Price Estimator fully complies with India's <strong>Digital Personal Data Protection Act, 2023</strong> principles of purpose limitation and data minimization.</p>
+  </div>
+
+  <div class="pp-section" id="m9">
+    <div class="pp-section-num">Section 09</div>
+    <h2>Contact Us</h2>
+    <p>If you have any questions about Metal Price Estimator or our privacy architecture, please contact:</p>
+    <p style="margin-top:10px"><a href="mailto:nalkudilstudio@gmail.com" style="color:var(--teal)">nalkudilstudio@gmail.com</a></p>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-logo"><span style="color:var(--teal)">NALKUDIL</span> <span style="color:var(--gold)">STUDIO</span></div>
+  <div class="footer-links">
+    <a href="https://nalkudilstudio.github.io">← Studio Home</a>
+    <a href="https://nalkudilstudio.github.io/mpe-docs">Getting Started</a>
+    <a href="https://nalkudilstudio.github.io/mpe-docs/terms">Terms of Service</a>
+    <a href="mailto:nalkudilstudio@gmail.com">Contact</a>
+    <a href="https://github.com/nalkudilstudio" target="_blank">GitHub</a>
+  </div>
+  <p class="footer-copy">© 2026 <a href="https://nalkudilstudio.github.io" style="color:var(--teal);text-decoration:none;">Nalkudil Studio</a>. Made with 💚 in Chennai, India.</p>
+</footer>
+</body></html>

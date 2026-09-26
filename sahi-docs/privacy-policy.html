@@ -1,0 +1,229 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/><title>Privacy Policy — Sahi | Nalkudil Studio</title><link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet"/><style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --teal: #1DBFB0; --gold: #E8A83A; --navy: #0D1B2A; --navy2: #112233;
+      --card: rgba(255,255,255,0.04); --border: rgba(255,255,255,0.07);
+      --text: #F0F4F8; --muted: rgba(240,244,248,0.45);
+    }
+    html { scroll-behavior: smooth; }
+    body { background: var(--navy); color: var(--text); font-family: 'Inter', sans-serif; line-height: 1.6; min-height: 100vh; }
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; padding: 0 40px; height: 60px;
+      background: rgba(13,27,42,0.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border);
+    }
+    .nav-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
+    .nav-ns {
+      width: 32px; height: 32px; border-radius: 8px;
+      background: linear-gradient(135deg, rgba(29,191,176,0.2), rgba(232,168,58,0.1));
+      border: 1px solid rgba(29,191,176,0.35); display: flex; align-items: center; justify-content: center;
+      font-family: 'Chakra Petch', sans-serif; font-size: 12px; font-weight: 700;
+    }
+    .nav-ns .nn { color: var(--teal); } .nav-ns .ns { color: var(--gold); }
+    .nav-brand { font-family: 'Chakra Petch', sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1px; color: var(--text); }
+    .nav-center { display: flex; gap: 28px; list-style: none; position: absolute; left: 50%; transform: translateX(-50%); }
+    .nav-center a { color: var(--muted); text-decoration: none; font-size: 13px; letter-spacing: 0.5px; transition: color 0.2s; }
+    .nav-center a:hover { color: var(--teal); }
+    .nav-right { margin-left: auto; display: flex; gap: 20px; align-items: center; }
+    .nav-right a { color: var(--muted); text-decoration: none; font-size: 13px; letter-spacing: 0.3px; transition: color 0.2s; }
+    .nav-right a:hover { color: var(--teal); }
+    .nav-right a.back { color: var(--teal); }
+    .nav-right a.back:hover { opacity: 0.8; }
+    .page-hero { padding: 110px 24px 64px; text-align: center; max-width: 760px; margin: 0 auto; position: relative; }
+    .page-hero::before {
+      content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+      width: 500px; height: 400px; background: radial-gradient(circle, rgba(29,191,176,0.09) 0%, transparent 70%); pointer-events: none; z-index: 0;
+    }
+    .page-hero > * { position: relative; z-index: 1; }
+    .app-badge {
+      display: inline-block; margin-bottom: 18px; background: rgba(29,191,176,0.08);
+      border: 1px solid rgba(29,191,176,0.25); border-radius: 20px; padding: 5px 16px;
+      font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 2px; color: var(--teal); text-transform: uppercase;
+    }
+    h1 { font-family: 'Chakra Petch', sans-serif; font-size: clamp(28px, 5vw, 48px); font-weight: 700; line-height: 1.15; margin-bottom: 16px; }
+    h1 .teal { color: var(--teal); } h1 .gold { color: var(--gold); }
+    .hero-sub { color: var(--muted); font-size: clamp(14px, 2vw, 16px); max-width: 520px; margin: 0 auto 32px; line-height: 1.75; }
+    .pp-intro { background: var(--card); border: 1px solid rgba(29,191,176,0.2); border-radius: 14px; padding: 24px 28px; margin-bottom: 40px; }
+    .pp-intro p { color: var(--muted); font-size: 14px; line-height: 1.7; }
+    .pp-intro strong { color: var(--text); }
+    .toc-box { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 22px 28px; margin-bottom: 40px; }
+    .toc-box h3 { font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 14px; }
+    .toc-box ol { padding-left: 18px; }
+    .toc-box li { margin-bottom: 6px; }
+    .toc-box li a { color: var(--teal); text-decoration: none; font-size: 14px; }
+    .toc-box li a:hover { text-decoration: underline; }
+    .pp-section { margin-bottom: 48px; }
+    .pp-section-num { font-family: 'Chakra Petch', sans-serif; font-size: 10px; letter-spacing: 3px; color: var(--gold); text-transform: uppercase; margin-bottom: 8px; }
+    .pp-section h2 { font-size: clamp(16px, 2.5vw, 20px); padding-top: 20px; border-top: 1px solid var(--border); margin-bottom: 16px; font-family: 'Chakra Petch', sans-serif; }
+    .pp-section p, .pp-section li { color: var(--muted); font-size: 14px; line-height: 1.75; }
+    .pp-section ul, .pp-section ol { padding-left: 20px; margin-top: 10px; }
+    .pp-section li { margin-bottom: 5px; }
+    .pp-table { width: 100%; border-collapse: collapse; margin-top: 16px; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+    .pp-table th { font-size: 11px; font-weight: 700; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; padding: 10px 16px; background: rgba(255,255,255,0.02); border-bottom: 1px solid var(--border); text-align: left; }
+    .pp-table td { font-size: 13px; padding: 12px 16px; border-bottom: 1px solid var(--border); color: var(--muted); vertical-align: top; }
+    .pp-table tr:last-child td { border-bottom: none; }
+    .shield-badge { display: inline-flex; align-items: center; gap: 8px; background: rgba(20,210,184,0.1); border: 1px solid rgba(20,210,184,0.3); border-radius: 8px; padding: 8px 14px; margin-top: 12px; font-size: 13px; color: var(--teal); font-weight: 600; }
+    footer { text-align: center; padding: 48px 24px; border-top: 1px solid var(--border); margin-top: 40px; }
+    .footer-logo { font-family: 'Chakra Petch', sans-serif; font-size: 18px; font-weight: 700; margin-bottom: 18px; }
+    .footer-links { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 18px; }
+    .footer-links a { color: var(--muted); text-decoration: none; font-size: 13px; transition: color 0.2s; }
+    .footer-links a:hover { color: var(--teal); }
+    .footer-copy { color: var(--muted); font-size: 12px; }
+    @media (max-width: 768px) { nav { padding: 0 16px; } .nav-center { display: none; } }
+</style></head><body>
+<nav>
+  <a href="https://nalkudilstudio.github.io" class="nav-logo">
+    <div class="nav-ns"><span class="nn">N</span><span class="ns">S</span></div>
+    <span class="nav-brand">NALKUDIL STUDIO</span>
+  </a>
+  <ul class="nav-center">
+    <li><a href="https://nalkudilstudio.github.io/sahi-docs">Getting Started</a></li>
+    <li><a href="https://nalkudilstudio.github.io/sahi-docs/terms">Terms of Service</a></li>
+  </ul>
+  <div class="nav-right">
+    <a href="https://nalkudilstudio.github.io/sahi-docs/privacy-policy">Privacy Policy</a>
+    <a href="https://nalkudilstudio.github.io" class="back">← Back to Studio</a>
+  </div>
+</nav>
+
+<div class="page-hero" style="padding-bottom:32px">
+  <span class="app-badge">🛡️ Sahi Financial Suite</span>
+  <h1>Privacy Policy</h1>
+  <p class="hero-sub" style="margin-bottom:0">📅 Last updated: October 2026 &nbsp;·&nbsp; 🏢 Nalkudil Studio &nbsp;·&nbsp; 📧 nalkudilstudio@gmail.com</p>
+</div>
+
+<div style="max-width:860px;margin:0 auto;padding:0 24px">
+  <div class="pp-intro">
+    <p><strong>Our Absolute Sovereign Guarantee:</strong> <strong>Sahi</strong> is architected with a strict <strong>Air-Gapped Sovereign Philosophy</strong>. The application contains <strong>zero network permissions</strong> (<code>android.permission.INTERNET</code> is strictly absent from its Android manifest). Sahi cannot connect to the internet, cannot send telemetry, contains no ad networks or third-party trackers, and stores 100% of your data exclusively on your physical device.</p>
+    <div class="shield-badge">🔒 100% Air-Gapped · Zero Network Access · Zero Cloud Storage</div>
+  </div>
+
+  <div class="toc-box">
+    <h3>Contents</h3>
+    <ol>
+      <li><a href="#s1">1. Information We Collect (And What We Never Collect)</a></li>
+      <li><a href="#s2">2. Zero Network Permission Mandate</a></li>
+      <li><a href="#s3">3. On-Device Storage & Biometric Shield</a></li>
+      <li><a href="#s4">4. Third-Party Services & Trackers</a></li>
+      <li><a href="#s5">5. Client-Side Graphic Sharing</a></li>
+      <li><a href="#s6">6. Data Retention & Deletion</a></li>
+      <li><a href="#s7">7. Children's Privacy</a></li>
+      <li><a href="#s8">8. Statutory Compliance (DPDP Act 2023)</a></li>
+      <li><a href="#s9">9. Changes to this Policy</a></li>
+      <li><a href="#s10">10. Contact Us</a></li>
+    </ol>
+  </div>
+
+  <div class="pp-section" id="s1">
+    <div class="pp-section-num">Section 01</div>
+    <h2>Information We Collect (And What We Never Collect)</h2>
+    <p><strong>Data you enter into Sahi:</strong></p>
+    <ul>
+      <li><strong>Cashflow & Income:</strong> Monthly take-home pay, statutory EPF/NPS deductions, household essentials, and dependent allocations.</li>
+      <li><strong>Debt Portfolio:</strong> Loan balances, interest rates, tenures, and monthly EMIs (Home loan, Car loan, Personal loan, Gold loan, Education loan).</li>
+      <li><strong>Precious Metals Vault:</strong> Locker gram quantities (22K gold, 24K bullion, silver, platinum) and DigiGold/SGB units.</li>
+      <li><strong>Family Context:</strong> Age, target retirement age, senior citizen parent flag, and dependent counts.</li>
+    </ul>
+    <p style="margin-top:12px"><strong>Where does this data go?</strong></p>
+    <p>Every single piece of information you input remains strictly confined to your device's internal SQLite database (Room). Neither Nalkudil Studio, nor any cloud server, nor any external party can ever view, intercept, or retrieve your profile.</p>
+  </div>
+
+  <div class="pp-section" id="s2">
+    <div class="pp-section-num">Section 02</div>
+    <h2>Zero Network Permission Mandate</h2>
+    <p>Unlike standard fintech and banking apps, Sahi does not ask for or use the <code>android.permission.INTERNET</code> permission. You can verify this independently at any time in Android Settings &gt; Apps &gt; Sahi &gt; Permissions.</p>
+    <ul>
+      <li>No remote servers or cloud databases exist for Sahi.</li>
+      <li>No analytics SDKs (no Firebase Analytics, Google Analytics, Mixpanel, or CleverTap).</li>
+      <li>No crash-reporting network beacons (no Sentry, Bugsnag, or Crashlytics).</li>
+      <li>No advertising identifiers (AAID) or tracking cookies.</li>
+    </ul>
+  </div>
+
+  <div class="pp-section" id="s3">
+    <div class="pp-section-num">Section 03</div>
+    <h2>On-Device Storage &amp; Biometric Shield</h2>
+    <table class="pp-table">
+      <thead>
+        <tr><th>Security Layer</th><th>Mechanism</th><th>Scope</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong style="color:var(--text)">Local SQLite Database</strong></td>
+          <td>Android Room SQLite internal storage</td>
+          <td>Sandbox app directory; inaccessible to other installed applications.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:var(--text)">Hardware Biometrics</strong></td>
+          <td>Android Keystore (BiometricPrompt)</td>
+          <td>Optional biometric fingerprint / face lock that secures the master financial profile upon backgrounding.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:var(--text)">Background Masking Scrim</strong></td>
+          <td>Lifecycle-aware security overlay</td>
+          <td>Blurs and masks sensitive financial balances in the Android recent apps carousel.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="pp-section" id="s4">
+    <div class="pp-section-num">Section 04</div>
+    <h2>Third-Party Services &amp; Trackers</h2>
+    <p>Sahi integrates <strong>zero</strong> third-party software development kits (SDKs) that transmit data over networks. The application is completely self-contained. All calculation engines (Salary Planner, Home Budget, Retirement, Gold Price, Gold Loan, DigiGold, FD, RD, Home Loan Prepayment) are written in pure Kotlin algorithms executing directly on your phone's CPU.</p>
+  </div>
+
+  <div class="pp-section" id="s5">
+    <div class="pp-section-num">Section 05</div>
+    <h2>Client-Side Graphic Sharing</h2>
+    <p>When you choose to export or share a financial health summary card or quote via WhatsApp or message apps, the card image is rendered completely on-device using Android's native Canvas engine into your private temporary cache directory. The file is handed over to your chosen app via Android's secure <code>FileProvider</code>. Sahi has no visibility into where or to whom you send the image.</p>
+  </div>
+
+  <div class="pp-section" id="s6">
+    <div class="pp-section-num">Section 06</div>
+    <h2>Data Retention &amp; Deletion</h2>
+    <p>Because we do not store your data on any server, you maintain complete sovereignty over your data at all times:</p>
+    <ul>
+      <li>You can reset or wipe all entered numbers from the Profile settings screen inside the app.</li>
+      <li>Clearing the app's storage in Android Settings or uninstalling the app permanently deletes 100% of your records immediately.</li>
+    </ul>
+  </div>
+
+  <div class="pp-section" id="s7">
+    <div class="pp-section-num">Section 07</div>
+    <h2>Children's Privacy</h2>
+    <p>Sahi is an adult financial planning utility. We do not knowingly collect or solicit data from children under 13 (or under 18 in relevant jurisdictions). The app does not transmit any information externally under any circumstance.</p>
+  </div>
+
+  <div class="pp-section" id="s8">
+    <div class="pp-section-num">Section 08</div>
+    <h2>Statutory Compliance (DPDP Act 2023)</h2>
+    <p>In accordance with India's <strong>Digital Personal Data Protection Act, 2023 (DPDP Act)</strong>, Sahi embodies the highest standard of Privacy by Design. Because no personal data is transferred off the data principal's hardware, no cross-border processing occurs, and zero profiling or surveillance takes place.</p>
+  </div>
+
+  <div class="pp-section" id="s9">
+    <div class="pp-section-num">Section 09</div>
+    <h2>Changes to this Policy</h2>
+    <p>If we update our offline architectural guarantees in a major release, we will provide an in-app changelog notification. The 'Last Updated' timestamp at the top of this document always indicates the operative release version.</p>
+  </div>
+
+  <div class="pp-section" id="s10">
+    <div class="pp-section-num">Section 10</div>
+    <h2>Contact Us</h2>
+    <p>For questions or architectural clarifications regarding Sahi's sovereign design, reach out directly to the founders:</p>
+    <p style="margin-top:10px"><a href="mailto:nalkudilstudio@gmail.com" style="color:var(--teal)">nalkudilstudio@gmail.com</a></p>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-logo"><span style="color:var(--teal)">NALKUDIL</span> <span style="color:var(--gold)">STUDIO</span></div>
+  <div class="footer-links">
+    <a href="https://nalkudilstudio.github.io">← Studio Home</a>
+    <a href="https://nalkudilstudio.github.io/sahi-docs">Getting Started</a>
+    <a href="https://nalkudilstudio.github.io/sahi-docs/terms">Terms of Service</a>
+    <a href="mailto:nalkudilstudio@gmail.com">Contact</a>
+    <a href="https://github.com/nalkudilstudio" target="_blank">GitHub</a>
+  </div>
+  <p class="footer-copy">© 2026 <a href="https://nalkudilstudio.github.io" style="color:var(--teal);text-decoration:none;">Nalkudil Studio</a>. Made with 💚 in Chennai, India.</p>
+</footer>
+</body></html>

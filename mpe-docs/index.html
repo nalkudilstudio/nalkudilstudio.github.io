@@ -1,0 +1,131 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/><title>Metal Price Estimator — Getting Started | Nalkudil Studio</title><link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet"/><style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --teal: #1DBFB0; --gold: #E8A83A; --navy: #0D1B2A; --navy2: #112233;
+      --card: rgba(255,255,255,0.04); --border: rgba(255,255,255,0.07);
+      --text: #F0F4F8; --muted: rgba(240,244,248,0.45);
+    }
+    html { scroll-behavior: smooth; }
+    body { background: var(--navy); color: var(--text); font-family: 'Inter', sans-serif; line-height: 1.6; min-height: 100vh; }
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; padding: 0 40px; height: 60px;
+      background: rgba(13,27,42,0.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border);
+    }
+    .nav-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
+    .nav-ns {
+      width: 32px; height: 32px; border-radius: 8px;
+      background: linear-gradient(135deg, rgba(29,191,176,0.2), rgba(232,168,58,0.1));
+      border: 1px solid rgba(29,191,176,0.35); display: flex; align-items: center; justify-content: center;
+      font-family: 'Chakra Petch', sans-serif; font-size: 12px; font-weight: 700;
+    }
+    .nav-ns .nn { color: var(--teal); } .nav-ns .ns { color: var(--gold); }
+    .nav-brand { font-family: 'Chakra Petch', sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1px; color: var(--text); }
+    .nav-center { display: flex; gap: 28px; list-style: none; position: absolute; left: 50%; transform: translateX(-50%); }
+    .nav-center a { color: var(--muted); text-decoration: none; font-size: 13px; letter-spacing: 0.5px; transition: color 0.2s; }
+    .nav-center a:hover { color: var(--teal); }
+    .nav-right { margin-left: auto; display: flex; gap: 20px; align-items: center; }
+    .nav-right a { color: var(--muted); text-decoration: none; font-size: 13px; letter-spacing: 0.3px; transition: color 0.2s; }
+    .nav-right a:hover { color: var(--teal); }
+    .nav-right a.back { color: var(--teal); }
+    .nav-right a.back:hover { opacity: 0.8; }
+    .page-hero { padding: 110px 24px 64px; text-align: center; max-width: 760px; margin: 0 auto; position: relative; }
+    .page-hero::before {
+      content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+      width: 500px; height: 400px; background: radial-gradient(circle, rgba(29,191,176,0.09) 0%, transparent 70%); pointer-events: none; z-index: 0;
+    }
+    .page-hero > * { position: relative; z-index: 1; }
+    .app-badge {
+      display: inline-block; margin-bottom: 18px; background: rgba(29,191,176,0.08);
+      border: 1px solid rgba(29,191,176,0.25); border-radius: 20px; padding: 5px 16px;
+      font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 2px; color: var(--teal); text-transform: uppercase;
+    }
+    h1 { font-family: 'Chakra Petch', sans-serif; font-size: clamp(28px, 5vw, 48px); font-weight: 700; line-height: 1.15; margin-bottom: 16px; }
+    h1 .teal { color: var(--teal); } h1 .gold { color: var(--gold); }
+    .hero-sub { color: var(--muted); font-size: clamp(14px, 2vw, 16px); max-width: 560px; margin: 0 auto 32px; line-height: 1.75; }
+    .section-wrap { max-width: 1080px; margin: 0 auto; padding: 40px 24px; }
+    .features-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 32px; }
+    .feature-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 24px; transition: border-color 0.2s, transform 0.2s; }
+    .feature-card:hover { border-color: rgba(29,191,176,0.3); transform: translateY(-2px); }
+    .feature-icon { font-size: 32px; margin-bottom: 12px; }
+    .feature-name { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+    .feature-desc { color: var(--muted); font-size: 13px; line-height: 1.6; }
+    footer { text-align: center; padding: 48px 24px; border-top: 1px solid var(--border); margin-top: 40px; }
+    .footer-logo { font-family: 'Chakra Petch', sans-serif; font-size: 18px; font-weight: 700; margin-bottom: 18px; }
+    .footer-links { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 18px; }
+    .footer-links a { color: var(--muted); text-decoration: none; font-size: 13px; transition: color 0.2s; }
+    .footer-links a:hover { color: var(--teal); }
+    .footer-copy { color: var(--muted); font-size: 12px; }
+    @media (max-width: 768px) { nav { padding: 0 16px; } .nav-center { display: none; } }
+</style></head><body>
+<nav>
+  <a href="https://nalkudilstudio.github.io" class="nav-logo">
+    <div class="nav-ns"><span class="nn">N</span><span class="ns">S</span></div>
+    <span class="nav-brand">NALKUDIL STUDIO</span>
+  </a>
+  <ul class="nav-center">
+    <li><a href="https://nalkudilstudio.github.io/mpe-docs">Getting Started</a></li>
+    <li><a href="https://nalkudilstudio.github.io/mpe-docs/privacy-policy">Privacy Policy</a></li>
+    <li><a href="https://nalkudilstudio.github.io/mpe-docs/terms">Terms of Service</a></li>
+  </ul>
+  <div class="nav-right">
+    <a href="https://nalkudilstudio.github.io" class="back">← Back to Studio</a>
+  </div>
+</nav>
+
+<div class="page-hero">
+  <span class="app-badge">🪙 Retail Precision Counter</span>
+  <h1>Metal Price <span class="teal">Estimator</span></h1>
+  <p class="hero-sub">The everyday Indian jewellery shopping companion. Calculate stone deductions, wastage (VA) in grams, Pavan &amp; Tola equivalents, and GST before stepping into the showroom.</p>
+</div>
+
+<div class="section-wrap">
+  <h2 style="font-family:'Chakra Petch',sans-serif;font-size:24px;color:var(--text);margin-bottom:8px;">Core Capabilities</h2>
+  <p style="color:var(--muted);font-size:14px;">Built with verified showroom billing formulas from top Indian jewellers.</p>
+
+  <div class="features-grid">
+    <div class="feature-card">
+      <div class="feature-icon">💎</div>
+      <div class="feature-name">Gross vs Net Stone Deduction</div>
+      <p class="feature-desc">Instantly deduct gemstone and enamel weight so you only pay for actual gold.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">⚖️</div>
+      <div class="feature-name">Wastage (VA) Grams &amp; Percentage</div>
+      <p class="feature-desc">Convert verbal jeweller quotes ("12% VA") into exact billable grams with 1-tap quick chips.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🪙</div>
+      <div class="feature-name">Pavan &amp; Tola Regional Units</div>
+      <p class="feature-desc">Seamlessly view weights in Sovereign/Pavan (8g) or North Indian Tola (11.6638g) with live conversions.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">📊</div>
+      <div class="feature-name">Asset Allocation &amp; Worth</div>
+      <p class="feature-desc">Track your physical holdings over time with purchase costs, current market valuations, and appreciation gains.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">💬</div>
+      <div class="feature-name">1-Tap WhatsApp Quotes</div>
+      <p class="feature-desc">Generate formatted text quotes with clear price breakdowns to share with family or jewellers.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🔒</div>
+      <div class="feature-name">Hardware Biometric Lock</div>
+      <p class="feature-desc">Protect your precious metal holdings and private valuation logs with Fingerprint or Face unlock.</p>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-logo"><span style="color:var(--teal)">NALKUDIL</span> <span style="color:var(--gold)">STUDIO</span></div>
+  <div class="footer-links">
+    <a href="https://nalkudilstudio.github.io">← Studio Home</a>
+    <a href="https://nalkudilstudio.github.io/mpe-docs/privacy-policy">Privacy Policy</a>
+    <a href="https://nalkudilstudio.github.io/mpe-docs/terms">Terms of Service</a>
+    <a href="mailto:nalkudilstudio@gmail.com">Contact</a>
+    <a href="https://github.com/nalkudilstudio" target="_blank">GitHub</a>
+  </div>
+  <p class="footer-copy">© 2026 <a href="https://nalkudilstudio.github.io" style="color:var(--teal);text-decoration:none;">Nalkudil Studio</a>. Made with 💚 in Chennai, India.</p>
+</footer>
+</body></html>

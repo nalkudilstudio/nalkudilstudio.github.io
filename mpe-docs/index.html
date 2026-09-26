@@ -4,7 +4,8 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Metal Price Estimator — Getting Started &amp; Features | Nalkudil Studio</title>
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪙</text></svg>"/>
+  <meta name="description" content="Calculate stone deductions, wastage (VA) in grams, Pavan &amp; Tola equivalents, and GST before stepping into the showroom."/>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg"/>
   <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -65,36 +66,42 @@
     .btn-ghost:hover { border-color: rgba(29,191,176,0.4); color: var(--teal); }
 
     /* Section container */
-    .section-wrap { max-width: 1080px; margin: 0 auto; padding: 60px 24px; }
+    .section-wrap { max-width: 1080px; margin: 0 auto; padding: 64px 24px; }
     .section-label { font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 2.5px; color: var(--teal); text-transform: uppercase; margin-bottom: 8px; }
     h2 { font-family: 'Chakra Petch', sans-serif; font-size: clamp(22px, 3.5vw, 32px); font-weight: 700; color: var(--text); margin-bottom: 12px; }
     .section-sub { color: var(--muted); font-size: 15px; max-width: 540px; margin-bottom: 44px; }
+    hr.divider { border: none; border-top: 1px solid var(--border); margin: 0 auto; max-width: 1080px; }
 
-    /* Steps */
-    .steps-grid { display: grid; gap: 16px; }
+    /* Steps 3-Column Parallel Grid (Spouse Design Standard) */
+    .steps {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
     .step-card {
-      background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 28px 32px;
-      display: grid; grid-template-columns: 52px 1fr; gap: 20px; align-items: start;
+      background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 28px;
+      position: relative; transition: border-color 0.2s, transform 0.2s;
     }
+    .step-card:hover { border-color: rgba(29,191,176,0.3); transform: translateY(-2px); }
     .step-num {
-      width: 52px; height: 52px; border-radius: 12px; flex-shrink: 0;
-      background: rgba(29,191,176,0.08); border: 1px solid rgba(29,191,176,0.25);
-      display: flex; align-items: center; justify-content: center;
-      font-family: 'Chakra Petch', sans-serif; font-size: 13px; font-weight: 700; color: var(--teal);
+      font-family: 'Chakra Petch', sans-serif; font-size: 48px; font-weight: 700;
+      color: var(--teal); opacity: 0.15; position: absolute; top: 16px; right: 20px; line-height: 1;
     }
-    .step-body h3 { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; margin-bottom: 6px; color: var(--text); }
-    .step-body p { color: var(--muted); font-size: 14px; margin-bottom: 14px; line-height: 1.65; }
-    .step-body ul { list-style: none; }
-    .step-body ul li { font-size: 13px; color: var(--muted); padding: 4px 0 4px 18px; position: relative; line-height: 1.55; }
-    .step-body ul li::before { content: '→'; position: absolute; left: 0; color: var(--teal); font-size: 11px; top: 5px; }
+    .step-icon { font-size: 32px; margin-bottom: 14px; }
+    .step-card h3 { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; margin-bottom: 10px; color: var(--text); }
+    .step-card p { color: var(--muted); font-size: 14px; line-height: 1.7; margin-bottom: 12px; }
+    .step-card ul { list-style: none; margin-top: 10px; }
+    .step-card ul li { color: var(--muted); font-size: 13px; padding: 4px 0 4px 16px; position: relative; line-height: 1.55; }
+    .step-card ul li::before { content: '▸'; position: absolute; left: 0; color: var(--teal); font-size: 10px; top: 6px; }
 
     /* Features Grid */
     .features-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 18px; }
     .feature-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 26px; transition: border-color 0.2s, transform 0.2s; }
     .feature-card:hover { border-color: rgba(29,191,176,0.3); transform: translateY(-2px); }
-    .feature-icon { font-size: 32px; margin-bottom: 12px; }
-    .feature-tag { font-family: 'Chakra Petch', sans-serif; font-size: 10px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; margin-bottom: 6px; }
-    .feature-card h3 { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
+    .feature-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+    .feature-emoji { font-size: 28px; }
+    .feature-name { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; color: var(--text); }
+    .feature-tag { font-family: 'Chakra Petch', sans-serif; font-size: 10px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; }
     .feature-card p { color: var(--muted); font-size: 13px; line-height: 1.6; }
     .feature-card ul { list-style: none; margin-top: 12px; }
     .feature-card ul li { font-size: 13px; color: var(--muted); padding: 3px 0 3px 14px; position: relative; }
@@ -112,6 +119,18 @@
     details[open] summary::after { content: '×'; }
     .faq-body { padding: 0 22px 16px; color: var(--muted); font-size: 14px; line-height: 1.7; }
 
+    /* Co-Create Roadmap CTA */
+    .cocreate {
+      background: linear-gradient(135deg, rgba(29,191,176,0.06), rgba(232,168,58,0.04));
+      border: 1px solid rgba(29,191,176,0.25); border-radius: 20px; padding: 48px 36px; text-align: center;
+    }
+    .cocreate-label { font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 4px; color: var(--gold); text-transform: uppercase; margin-bottom: 12px; }
+    .cocreate h2 { font-family: 'Chakra Petch', sans-serif; font-size: clamp(22px, 3.5vw, 32px); font-weight: 700; margin-bottom: 14px; }
+    .cocreate > p { color: var(--muted); font-size: 15px; max-width: 580px; margin: 0 auto 32px; line-height: 1.7; }
+    .cocreate-steps { display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 24px; }
+    .cocreate-step { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 8px 16px; font-size: 13px; color: var(--text); display: flex; align-items: center; gap: 8px; }
+    .cocreate-step span { color: var(--teal); font-family: 'Chakra Petch', sans-serif; font-weight: 700; }
+
     /* Footer */
     footer { text-align: center; padding: 48px 24px; border-top: 1px solid var(--border); margin-top: 40px; }
     .footer-logo { font-family: 'Chakra Petch', sans-serif; font-size: 18px; font-weight: 700; margin-bottom: 18px; }
@@ -119,7 +138,7 @@
     .footer-links a { color: var(--muted); text-decoration: none; font-size: 13px; transition: color 0.2s; }
     .footer-links a:hover { color: var(--teal); }
     .footer-copy { color: var(--muted); font-size: 12px; }
-    @media (max-width: 768px) { nav { padding: 0 16px; } .nav-center { display: none; } .step-card { grid-template-columns: 1fr; } }
+    @media (max-width: 768px) { nav { padding: 0 16px; } .nav-center { display: none; } }
   </style>
 </head>
 <body>
@@ -152,48 +171,49 @@
 
 <div class="section-wrap" id="steps">
   <p class="section-label">Getting Started</p>
-  <h2>Calculate Showroom Bills in 3 Easy Steps</h2>
-  <p class="section-sub">Never get caught off guard by complex jeweller markup formulas again.</p>
+  <h2>Up &amp; Running in 3 Steps</h2>
+  <p class="section-sub">Never get caught off guard by complex showroom billing markups again.</p>
 
-  <div class="steps-grid">
+  <div class="steps">
     <div class="step-card">
       <div class="step-num">01</div>
-      <div class="step-body">
-        <h3>Set Spot Board Rates</h3>
-        <p>Configure today's showroom bullion rates across all purity tiers with one tap.</p>
-        <ul>
-          <li>22K (916 Hallmarked Gold), 24K (Pure Bullion / Coins), and 18K (Diamond Studded Jewellery)</li>
-          <li>Silver (Fine 999 and Standard 925 Sterling) &amp; Platinum rates per gram</li>
-          <li>Rates persist offline in secure local storage on your device</li>
-        </ul>
-      </div>
+      <div class="step-icon">🪙</div>
+      <h3>Set Spot Board Rates</h3>
+      <p>Configure today's showroom bullion rates across all purity tiers with one tap.</p>
+      <ul>
+        <li>22K (916 Hallmarked Gold), 24K (Bullion), and 18K (Diamond Jewellery)</li>
+        <li>Silver (Fine 999 &amp; Standard 925) &amp; Platinum rates per gram</li>
+        <li>Rates persist offline in encrypted local storage on your device</li>
+      </ul>
     </div>
+
     <div class="step-card">
       <div class="step-num">02</div>
-      <div class="step-body">
-        <h3>Enter Gross Weight &amp; Deduct Stones</h3>
-        <p>Isolate pure precious metal weight from synthetic gems, zirconias, and enamel beads.</p>
-        <ul>
-          <li>Enter Gross Weight in grams directly from showroom scale readouts</li>
-          <li>Input Gemstone / Bead / Enamel weight to deduct instantly</li>
-          <li>Live Net Weight calculation prevents paying gold price for decorative stones</li>
-        </ul>
-      </div>
+      <div class="step-icon">💎</div>
+      <h3>Enter Gross &amp; Deduct Stones</h3>
+      <p>Isolate pure precious metal weight from synthetic gems, zirconias, and enamel beads.</p>
+      <ul>
+        <li>Enter Gross Weight in grams directly from showroom weighing scales</li>
+        <li>Input Gemstone / Bead / Enamel weight to deduct instantly</li>
+        <li>Live Net Weight calculation prevents paying gold price for decorative stones</li>
+      </ul>
     </div>
+
     <div class="step-card">
       <div class="step-num">03</div>
-      <div class="step-body">
-        <h3>Pick Wastage % &amp; View 3% GST Breakup</h3>
-        <p>Unpack hidden Value Addition (VA) and statutory tax charges before swiping.</p>
-        <ul>
-          <li>Quick chips for standard wastage tiers (8%, 10%, 12%, 14%, 18%) or custom grams</li>
-          <li>See Making Charges (VA) isolated from metal value in real Indian Rupees</li>
-          <li>Complete 3% GST (1.5% CGST + 1.5% SGST) breakdown ready for counter negotiation</li>
-        </ul>
-      </div>
+      <div class="step-icon">⚖️</div>
+      <h3>Pick Wastage &amp; View 3% GST</h3>
+      <p>Unpack hidden Value Addition (VA) and statutory tax charges before swiping.</p>
+      <ul>
+        <li>Quick chips for standard wastage tiers (8%, 10%, 12%, 14%, 18%) or grams</li>
+        <li>See Making Charges (VA) isolated from metal value in real Indian Rupees</li>
+        <li>Complete 3% GST (1.5% CGST + 1.5% SGST) breakdown ready for negotiation</li>
+      </ul>
     </div>
   </div>
 </div>
+
+<hr class="divider"/>
 
 <div class="section-wrap" id="features">
   <p class="section-label">Core Capabilities</p>
@@ -202,9 +222,13 @@
 
   <div class="features-grid">
     <div class="feature-card">
-      <div class="feature-icon">💎</div>
-      <div class="feature-tag">Transparency</div>
-      <h3>Gross vs Net Stone Deduction</h3>
+      <div class="feature-header">
+        <div class="feature-emoji">💎</div>
+        <div>
+          <div class="feature-name">Gross vs Net Deduction</div>
+          <div class="feature-tag">Transparency</div>
+        </div>
+      </div>
       <p>Instantly deduct gemstone and enamel weight so you only pay for actual gold.</p>
       <ul>
         <li>Eliminates paying ₹7,000+/g for decorative beads</li>
@@ -212,10 +236,15 @@
         <li>Supports multi-item mixed ornaments</li>
       </ul>
     </div>
+
     <div class="feature-card">
-      <div class="feature-icon">⚖️</div>
-      <div class="feature-tag">Value Addition</div>
-      <h3>Wastage (VA) Grams &amp; Percentage</h3>
+      <div class="feature-header">
+        <div class="feature-emoji">⚖️</div>
+        <div>
+          <div class="feature-name">Wastage (VA) Grams &amp; %</div>
+          <div class="feature-tag">Value Addition</div>
+        </div>
+      </div>
       <p>Convert verbal jeweller quotes ("12% VA") into exact billable grams with 1-tap quick chips.</p>
       <ul>
         <li>Toggle between percentage and flat weight markup</li>
@@ -223,10 +252,15 @@
         <li>Audits showroom estimate sheets in real-time</li>
       </ul>
     </div>
+
     <div class="feature-card">
-      <div class="feature-icon">🪙</div>
-      <div class="feature-tag">Regional Precision</div>
-      <h3>Pavan &amp; Tola Regional Units</h3>
+      <div class="feature-header">
+        <div class="feature-emoji">🪙</div>
+        <div>
+          <div class="feature-name">Pavan &amp; Tola Regional Units</div>
+          <div class="feature-tag">Regional Precision</div>
+        </div>
+      </div>
       <p>Seamlessly view weights in Sovereign/Pavan (8g) or North Indian Tola (11.6638g) with live conversions.</p>
       <ul>
         <li>South Indian Pavan / Sovereign (8.000g) equivalency</li>
@@ -234,10 +268,15 @@
         <li>Live switching between grams, pavan, and tolas</li>
       </ul>
     </div>
+
     <div class="feature-card">
-      <div class="feature-icon">📊</div>
-      <div class="feature-tag">Portfolio</div>
-      <h3>Asset Allocation &amp; Net Worth</h3>
+      <div class="feature-header">
+        <div class="feature-emoji">📊</div>
+        <div>
+          <div class="feature-name">Asset Allocation &amp; Worth</div>
+          <div class="feature-tag">Portfolio</div>
+        </div>
+      </div>
       <p>Track your physical holdings over time with purchase costs, current market valuations, and appreciation gains.</p>
       <ul>
         <li>Track 22K jewellery, 24K bars, coins, and silver vessels</li>
@@ -245,10 +284,15 @@
         <li>Air-gapped portfolio with zero cloud syncing</li>
       </ul>
     </div>
+
     <div class="feature-card">
-      <div class="feature-icon">💬</div>
-      <div class="feature-tag">Negotiation</div>
-      <h3>1-Tap WhatsApp Quotes</h3>
+      <div class="feature-header">
+        <div class="feature-emoji">💬</div>
+        <div>
+          <div class="feature-name">1-Tap WhatsApp Quotes</div>
+          <div class="feature-tag">Negotiation</div>
+        </div>
+      </div>
       <p>Generate formatted text quotes with clear price breakdowns to share with family or jewellers.</p>
       <ul>
         <li>Formatted markdown summary with metal, VA, and GST</li>
@@ -256,10 +300,15 @@
         <li>Side-by-side comparison across competing showrooms</li>
       </ul>
     </div>
+
     <div class="feature-card">
-      <div class="feature-icon">🔒</div>
-      <div class="feature-tag">Defense in Depth</div>
-      <h3>Hardware Biometric Lock</h3>
+      <div class="feature-header">
+        <div class="feature-emoji">🔒</div>
+        <div>
+          <div class="feature-name">Hardware Biometric Lock</div>
+          <div class="feature-tag">Defense in Depth</div>
+        </div>
+      </div>
       <p>Protect your precious metal holdings and private valuation logs with Fingerprint or Face unlock.</p>
       <ul>
         <li>Android Keystore biometric hardware authentication</li>
@@ -269,6 +318,8 @@
     </div>
   </div>
 </div>
+
+<hr class="divider"/>
 
 <div class="section-wrap" id="faq">
   <p class="section-label">Frequently Asked Questions</p>
@@ -302,6 +353,26 @@
     </details>
   </div>
 </div>
+
+<hr class="divider"/>
+
+<section class="section-wrap" id="cocreate" style="padding-bottom: 20px;">
+  <div class="cocreate">
+    <p class="cocreate-label">Co-Create the Future</p>
+    <h2>Shape What We Build Next 💡</h2>
+    <p>Metal Price Estimator is built <em>with</em> our community of gold buyers and savers. Have a custom formula or regional unit that would make counter estimations faster? We want to hear it.</p>
+    <div class="cocreate-steps">
+      <div class="cocreate-step"><span>01</span> Open the MPE app</div>
+      <div class="cocreate-step"><span>→</span></div>
+      <div class="cocreate-step"><span>02</span> Go to Settings</div>
+      <div class="cocreate-step"><span>→</span></div>
+      <div class="cocreate-step"><span>03</span> Tap "Suggest Feature"</div>
+      <div class="cocreate-step"><span>→</span></div>
+      <div class="cocreate-step"><span>04</span> Propose your idea 🚀</div>
+    </div>
+    <p style="font-size:13px; color:var(--muted); margin-bottom:0;">Every proposal is read directly by the Nalkudil Studio development team.</p>
+  </div>
+</section>
 
 <footer>
   <div class="footer-logo"><span style="color:var(--teal)">NALKUDIL</span> <span style="color:var(--gold)">STUDIO</span></div>

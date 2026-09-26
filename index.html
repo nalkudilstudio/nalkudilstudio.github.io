@@ -101,9 +101,9 @@
     .divider { border:none; border-top:1px solid var(--border); margin:0 24px; }
     footer { text-align:center; padding:48px 24px; border-top:1px solid var(--border); }
     .footer-logo { font-family:'Chakra Petch',sans-serif; font-size:20px; font-weight:700; margin-bottom:16px; }
-    .social-row { display:flex; gap:20px; justify-content:center; margin-bottom:20px; flex-wrap:wrap; }
-    .social-row a { color:var(--muted); text-decoration:none; font-size:13px; transition:color .2s; }
-    .social-row a:hover { color:var(--teal); }
+    .social-row, .footer-links { display:flex; gap:20px; justify-content:center; margin-bottom:20px; flex-wrap:wrap; }
+    .social-row a, .footer-links a { color:var(--muted); text-decoration:none; font-size:13px; transition:color .2s; }
+    .social-row a:hover, .footer-links a:hover { color:var(--teal); }
     .footer-copy { color:var(--muted); font-size:12px; }
     @media(max-width:768px){nav{padding:14px 20px;}.nav-links{display:none;}.about-grid{grid-template-columns:1fr;gap:32px;}}
 </style></head><body>
@@ -260,12 +260,12 @@
 
 <footer>
   <div class="footer-logo"><span style="color:var(--teal)">NALKUDIL</span> <span style="color:var(--gold)">STUDIO</span></div>
-  <div class="social-row">
+  <div class="footer-links">
     <a href="mailto:nalkudilstudio@gmail.com">Contact</a>
     <a href="https://www.youtube.com/@nalkudil" target="_blank">YouTube</a>
     <a href="https://www.instagram.com/nalkudil/" target="_blank">Instagram</a>
     <a href="https://github.com/nalkudilstudio" target="_blank">GitHub</a>
   </div>
-  <p class="footer-copy">© 2026 Nalkudil Studio. Made with 💚 in Chennai, India.</p>
+  <p class="footer-copy">© 2026 <a href="https://nalkudilstudio.github.io" style="color:var(--teal);text-decoration:none;">Nalkudil Studio</a>. Made with 💚 in Chennai, India.</p>
 </footer>
 </body></html>

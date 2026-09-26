@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/><title>Sahi — Getting Started | Nalkudil Studio</title><link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet"/><style>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/><title>Sahi — Getting Started &amp; Feature Guide | Nalkudil Studio</title><link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet"/><style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
       --teal: #1DBFB0; --gold: #E8A83A; --navy: #0D1B2A; --navy2: #112233;
@@ -29,6 +29,8 @@
     .nav-right a:hover { color: var(--teal); }
     .nav-right a.back { color: var(--teal); }
     .nav-right a.back:hover { opacity: 0.8; }
+
+    /* Hero */
     .page-hero { padding: 110px 24px 64px; text-align: center; max-width: 760px; margin: 0 auto; position: relative; }
     .page-hero::before {
       content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
@@ -43,20 +45,70 @@
     h1 { font-family: 'Chakra Petch', sans-serif; font-size: clamp(28px, 5vw, 48px); font-weight: 700; line-height: 1.15; margin-bottom: 16px; }
     h1 .teal { color: var(--teal); } h1 .gold { color: var(--gold); }
     .hero-sub { color: var(--muted); font-size: clamp(14px, 2vw, 16px); max-width: 560px; margin: 0 auto 32px; line-height: 1.75; }
-    .section-wrap { max-width: 1080px; margin: 0 auto; padding: 40px 24px; }
-    .tools-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 32px; }
-    .tool-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 24px; transition: border-color 0.2s, transform 0.2s; }
-    .tool-card:hover { border-color: rgba(29,191,176,0.3); transform: translateY(-2px); }
-    .tool-icon { font-size: 32px; margin-bottom: 12px; }
-    .tool-name { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
-    .tool-desc { color: var(--muted); font-size: 13px; line-height: 1.6; }
+    .cta-row { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    .btn { padding: 12px 26px; border-radius: 10px; font-size: 14px; font-weight: 600; text-decoration: none; transition: all 0.2s; cursor: pointer; letter-spacing: 0.3px; }
+    .btn-primary { background: var(--teal); color: var(--navy); font-weight: 700; }
+    .btn-primary:hover { background: #22d4c4; transform: translateY(-1px); }
+    .btn-ghost { border: 1px solid var(--border); color: var(--text); }
+    .btn-ghost:hover { border-color: var(--teal); color: var(--teal); }
+
+    /* Sections */
+    .divider { border: none; border-top: 1px solid var(--border); margin: 0 24px; }
+    .section-wrap { max-width: 1080px; margin: 0 auto; padding: 72px 24px; }
+    .section-label { font-family: 'Chakra Petch', sans-serif; font-size: 11px; letter-spacing: 4px; color: var(--teal); text-transform: uppercase; margin-bottom: 10px; }
+    h2 { font-family: 'Chakra Petch', sans-serif; font-size: clamp(22px, 3.5vw, 32px); font-weight: 700; margin-bottom: 10px; color: var(--text); }
+    .section-sub { color: var(--muted); font-size: 15px; max-width: 520px; margin-bottom: 44px; }
+
+    /* Steps */
+    .steps-grid { display: grid; gap: 16px; }
+    .step-card {
+      background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 28px 32px;
+      display: grid; grid-template-columns: 52px 1fr; gap: 20px; align-items: start;
+    }
+    .step-num {
+      width: 52px; height: 52px; border-radius: 12px; flex-shrink: 0;
+      background: rgba(29,191,176,0.08); border: 1px solid rgba(29,191,176,0.25);
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Chakra Petch', sans-serif; font-size: 13px; font-weight: 700; color: var(--teal);
+    }
+    .step-body h3 { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; margin-bottom: 6px; color: var(--text); }
+    .step-body p { color: var(--muted); font-size: 14px; margin-bottom: 14px; line-height: 1.65; }
+    .step-body ul { list-style: none; }
+    .step-body ul li { font-size: 13px; color: var(--muted); padding: 4px 0 4px 18px; position: relative; line-height: 1.55; }
+    .step-body ul li::before { content: '→'; position: absolute; left: 0; color: var(--teal); font-size: 11px; top: 5px; }
+
+    /* Features Grid */
+    .features-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+    .feature-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 26px; transition: border-color 0.2s, transform 0.2s; }
+    .feature-card:hover { border-color: rgba(29,191,176,0.3); transform: translateY(-2px); }
+    .feature-icon { font-size: 32px; margin-bottom: 12px; }
+    .feature-tag { font-family: 'Chakra Petch', sans-serif; font-size: 10px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; margin-bottom: 6px; }
+    .feature-card h3 { font-family: 'Chakra Petch', sans-serif; font-size: 15px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
+    .feature-card p { color: var(--muted); font-size: 13px; line-height: 1.6; }
+    .feature-card ul { list-style: none; margin-top: 10px; }
+    .feature-card ul li { font-size: 13px; color: var(--muted); padding: 3px 0 3px 14px; position: relative; }
+    .feature-card ul li::before { content: '·'; position: absolute; left: 0; color: var(--teal); }
+
+    /* FAQ */
+    .faq-list { display: grid; gap: 8px; }
+    details { background: var(--card); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+    details summary {
+      padding: 16px 22px; cursor: pointer; font-weight: 600; font-size: 14px;
+      list-style: none; display: flex; justify-content: space-between; align-items: center; user-select: none;
+    }
+    details summary::-webkit-details-marker { display: none; }
+    details summary::after { content: '+'; font-size: 18px; color: var(--teal); flex-shrink: 0; margin-left: 12px; }
+    details[open] summary::after { content: '×'; }
+    .faq-body { padding: 0 22px 16px; color: var(--muted); font-size: 14px; line-height: 1.7; }
+
+    /* Footer */
     footer { text-align: center; padding: 48px 24px; border-top: 1px solid var(--border); margin-top: 40px; }
     .footer-logo { font-family: 'Chakra Petch', sans-serif; font-size: 18px; font-weight: 700; margin-bottom: 18px; }
     .footer-links { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 18px; }
     .footer-links a { color: var(--muted); text-decoration: none; font-size: 13px; transition: color 0.2s; }
     .footer-links a:hover { color: var(--teal); }
     .footer-copy { color: var(--muted); font-size: 12px; }
-    @media (max-width: 768px) { nav { padding: 0 16px; } .nav-center { display: none; } }
+    @media (max-width: 768px) { nav { padding: 0 16px; } .nav-center { display: none; } .step-card { grid-template-columns: 1fr; } }
 </style></head><body>
 <nav>
   <a href="https://nalkudilstudio.github.io" class="nav-logo">
@@ -64,71 +116,206 @@
     <span class="nav-brand">NALKUDIL STUDIO</span>
   </a>
   <ul class="nav-center">
-    <li><a href="https://nalkudilstudio.github.io/sahi-docs">Getting Started</a></li>
-    <li><a href="https://nalkudilstudio.github.io/sahi-docs/privacy-policy">Privacy Policy</a></li>
-    <li><a href="https://nalkudilstudio.github.io/sahi-docs/terms">Terms of Service</a></li>
+    <li><a href="#steps">Get Started</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#faq">FAQ</a></li>
   </ul>
   <div class="nav-right">
+    <a href="https://nalkudilstudio.github.io/sahi-docs/privacy-policy">Privacy Policy</a>
     <a href="https://nalkudilstudio.github.io" class="back">← Back to Studio</a>
   </div>
 </nav>
 
 <div class="page-hero">
-  <span class="app-badge">🪙 Sovereign Financial Suite</span>
-  <h1>Sahi — <span class="teal">Sovereign</span> <span class="gold">Intelligence</span></h1>
+  <span class="app-badge">🛡️ Sahi Financial Suite</span>
+  <h1>Sovereign Indian<br/><span class="teal">Financial</span> <span class="gold">Intelligence</span></h1>
   <p class="hero-sub">9 battle-tested personal finance decision engines consolidated into a 100% client-side, zero-permission, air-gapped Android application for Indian households.</p>
+  <div class="cta-row">
+    <a href="#steps" class="btn btn-primary">Get Started</a>
+    <a href="#features" class="btn btn-ghost">Explore the 9 Engines</a>
+  </div>
 </div>
 
-<div class="section-wrap">
-  <h2 style="font-family:'Chakra Petch',sans-serif;font-size:24px;color:var(--text);margin-bottom:8px;">The 9 Decision Engines</h2>
-  <p style="color:var(--muted);font-size:14px;">Every engine is deterministic, mathematical, and executed entirely on your hardware with 0 cloud sync.</p>
+<div class="section-wrap" id="steps">
+  <p class="section-label">Getting Started</p>
+  <h2>Up &amp; Running in 3 Steps</h2>
+  <p class="section-sub">Zero sign-in, zero cloud accounts, zero configuration delays. Pure local setup in 30 seconds.</p>
+  <div class="steps-grid">
+    <div class="step-card">
+      <div class="step-num">01</div>
+      <div class="step-body">
+        <h3>💼 Baseline Cashflow &amp; Reserves</h3>
+        <p>Input your monthly take-home salary, EPF/NPS contributions, and emergency reserves to unlock your instant Financial Health Score.</p>
+        <ul>
+          <li>Calculates true net disposable income after fixed deductions</li>
+          <li>Identifies your emergency cushion (3, 6, or 12 months)</li>
+          <li>Computes your debt-aware Human Life Value (HLV) term insurance target</li>
+        </ul>
+      </div>
+    </div>
+    <div class="step-card">
+      <div class="step-num">02</div>
+      <div class="step-body">
+        <h3>🏦 Configure Debt &amp; Physical Vault</h3>
+        <p>Set up existing home loans, car loans, gold loans, and physical locker precious metal quantities.</p>
+        <ul>
+          <li>Enter loan principals, interest rates, and active monthly EMIs</li>
+          <li>Record physical 22K jewellery, 24K bullion, silver, and platinum in grams</li>
+          <li>All 9 calculators synchronize with your single master profile</li>
+        </ul>
+      </div>
+    </div>
+    <div class="step-card">
+      <div class="step-num">03</div>
+      <div class="step-body">
+        <h3>🔒 Arm the Hardware Biometric Shield</h3>
+        <p>Protect your private financial data using Android Keystore hardware biometrics.</p>
+        <ul>
+          <li>Unlocks instantly via Fingerprint, Face, or device PIN</li>
+          <li>Automatic background blur scrim hides numbers in the recent apps carousel</li>
+          <li>100% offline — zero data ever touches the internet</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-  <div class="tools-grid">
-    <div class="tool-card">
-      <div class="tool-icon">💼</div>
-      <div class="tool-name">1. Salary Planner &amp; FHS</div>
-      <p class="tool-desc">True net in-hand cashflow, fixed commitments, living cost multiplier, and 0–100 Financial Health Scorecard.</p>
+<hr class="divider"/>
+
+<div class="section-wrap" id="features">
+  <p class="section-label">Complete Engine Suite</p>
+  <h2>The 9 Sovereign Decision Engines</h2>
+  <p class="section-sub">Pure deterministic Kotlin algorithms executing directly on your phone's processor.</p>
+
+  <div class="features-grid">
+    <div class="feature-card">
+      <div class="feature-icon">💼</div>
+      <div class="feature-tag">Cashflow</div>
+      <h3>1. Salary Planner &amp; FHS</h3>
+      <p>True net in-hand cashflow, fixed commitments, living cost multiplier, and 0–100 Financial Health Scorecard.</p>
+      <ul><li>Tax &amp; deduction breakdown</li><li>Debt-aware HLV term target</li><li>Dynamic safety net buffer</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">🏠</div>
-      <div class="tool-name">2. Home Budget &amp; Ledger</div>
-      <p class="tool-desc">50/30/20 Indian household envelopes, 21 local expense categories (maid, cook, milk, fastag, chit fund) and bill tracking.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">🏠</div>
+      <div class="feature-tag">Budget</div>
+      <h3>2. Home Budget &amp; Ledger</h3>
+      <p>50/30/20 Indian household envelopes with 21 local expense categories (maid, cook, milk, fastag, chit fund).</p>
+      <ul><li>Indian household envelopes</li><li>Due dates with 1-tap mark paid</li><li>Daily expense ledger</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">🏖️</div>
-      <div class="tool-name">3. Retirement &amp; EPF/NPS</div>
-      <p class="tool-desc">EPF compounding with statutory EPS capping, NPS 60/40 tax-free split, and Rule 9D advisory for high earners.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">🏖️</div>
+      <div class="feature-tag">Retirement</div>
+      <h3>3. Retirement &amp; EPF/NPS</h3>
+      <p>Statutory EPF monthly compounding, NPS 60/40 tax-free annuity split, and Rule 9D advisory for high earners.</p>
+      <ul><li>Statutory EPS capped accrual</li><li>NPS lump-sum vs annuity tax</li><li>₹2.5L PF limit advisory</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">👑</div>
-      <div class="tool-name">4. Gold Price &amp; VA Estimator</div>
-      <p class="tool-desc">Hallmarked 22K (916) / 24K pricing, net stone deductions, VA making charges, 3% GST, and Pavan/Tola units.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">👑</div>
+      <div class="feature-tag">Precious Metals</div>
+      <h3>4. Gold Price &amp; VA Estimator</h3>
+      <p>Hallmarked 22K (916) / 24K pricing, net stone deductions, VA making charges, 3% GST, and Pavan/Tola units.</p>
+      <ul><li>Gross vs Net stone deduction</li><li>Old gold scrap exchange value</li><li>Pavan (8g) &amp; Tola (11.6638g)</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">🏦</div>
-      <div class="tool-name">5. Gold Loan LTV &amp; Schemes</div>
-      <p class="tool-desc">RBI 75% statutory LTV ceiling, 30-day moving average pricing, margin call simulator, and 3 repayment methods.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">🏦</div>
+      <div class="feature-tag">Lending</div>
+      <h3>5. Gold Loan LTV &amp; Schemes</h3>
+      <p>RBI 75% statutory LTV ceiling, 30-day moving average pricing, margin call simulator, and 3 repayment methods.</p>
+      <ul><li>Interest-Only, Bullet &amp; EMI</li><li>75% statutory ceiling alert</li><li>Price drop margin call alert</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">📱</div>
-      <div class="tool-name">6. DigiGold SIP &amp; SGB</div>
-      <p class="tool-desc">3% GST and spread drag analysis, July 2024 revised tax brackets (12.5% LTCG after 24 months), and SGB tracking.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">📱</div>
+      <div class="feature-tag">Digital Gold</div>
+      <h3>6. DigiGold SIP &amp; SGB</h3>
+      <p>3% GST and spread drag analysis, July 2024 revised tax brackets (12.5% LTCG after 24 months), and SGB tracking.</p>
+      <ul><li>GST &amp; spread friction loss</li><li>Budget 2024 capital gains tax</li><li>Sovereign Gold Bond maturity</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">📈</div>
-      <div class="tool-name">7. Fixed Deposit (FD) &amp; TDS</div>
-      <p class="tool-desc">Cumulative reinvestment, periodic payout, Section 194A TDS reconciliation at ₹50K / ₹1L senior citizen thresholds.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">📈</div>
+      <div class="feature-tag">Deposits</div>
+      <h3>7. Fixed Deposit (FD) &amp; TDS</h3>
+      <p>Cumulative reinvestment, periodic payout, Section 194A TDS reconciliation at ₹50K / ₹1L senior thresholds.</p>
+      <ul><li>Senior citizen rate bonus</li><li>Quarterly compounding</li><li>Section 80C tax saver mode</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">🔄</div>
-      <div class="tool-name">8. Recurring Deposit (RD)</div>
-      <p class="tool-desc">Exact Indian Banks' Association (IBA) quarterly compounding formula with 12-month block tax reconciliation.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">🔄</div>
+      <div class="feature-tag">Deposits</div>
+      <h3>8. Recurring Deposit (RD)</h3>
+      <p>Exact Indian Banks' Association (IBA) quarterly compounding formula with 12-month block tax reconciliation.</p>
+      <ul><li>Official IBA bank formula</li><li>Maturity value precision</li><li>TDS deduction thresholds</li></ul>
     </div>
-    <div class="tool-card">
-      <div class="tool-icon">🚀</div>
-      <div class="tool-name">9. Home Loan Accelerator</div>
-      <p class="tool-desc">Reducing balance amortization with extra monthly EMIs, annual step-ups, lump-sum infusions, and crossover milestones.</p>
+
+    <div class="feature-card">
+      <div class="feature-icon">🚀</div>
+      <div class="feature-tag">Debt Freedom</div>
+      <h3>9. Home Loan Accelerator</h3>
+      <p>Reducing balance amortization with extra monthly EMIs, annual step-ups, lump-sum prepayments, and crossover milestones.</p>
+      <ul><li>Extra EMI interest savings</li><li>Annual prepayment step-up</li><li>Debt-free crossover date</li></ul>
     </div>
+
+    <div class="feature-card">
+      <div class="feature-icon">🖼️</div>
+      <div class="feature-tag">Sharing</div>
+      <h3>10. Sovereign Canvas Cards</h3>
+      <p>High-resolution 4:5 social share cards generated 100% on-device via native Canvas without external APIs.</p>
+      <ul><li>Zero cloud rendering</li><li>Shared securely via FileProvider</li><li>Clean dark glassmorphic design</li></ul>
+    </div>
+
+    <div class="feature-card">
+      <div class="feature-icon">🔒</div>
+      <div class="feature-tag">Hardware</div>
+      <h3>11. Biometric Enclave</h3>
+      <p>Hardware-level protection using Android Keystore with instant background blur masking.</p>
+      <ul><li>BiometricPrompt integration</li><li>Masking scrim in app carousel</li><li>Zero plaintext credential stores</li></ul>
+    </div>
+
+    <div class="feature-card">
+      <div class="feature-icon">🛡️</div>
+      <div class="feature-tag">Sovereignty</div>
+      <h3>12. Air-Gapped Philosophy</h3>
+      <p>Zero network permissions in AndroidManifest.xml. Sahi is technologically incapable of leaking data.</p>
+      <ul><li>No internet permission</li><li>No crashlytics or analytics</li><li>No advertising trackers</li></ul>
+    </div>
+  </div>
+</div>
+
+<hr class="divider"/>
+
+<div class="section-wrap" id="faq">
+  <p class="section-label">FAQ</p>
+  <h2>Common Questions</h2>
+  <div class="faq-list">
+    <details>
+      <summary>Does Sahi require an internet connection?</summary>
+      <div class="faq-body">No. Sahi is built with a strict Air-Gapped Sovereign Philosophy. The application completely omits <code>android.permission.INTERNET</code> from its manifest. It operates 100% offline, anywhere in the world, with zero connection to the outside web.</div>
+    </details>
+    <details>
+      <summary>Where is my financial and gold locker data stored?</summary>
+      <div class="faq-body">All profiles, loan details, salary allocations, and precious metals gram counts are stored solely in your device's internal SQLite database (Room) inside the app's sandboxed storage. Neither Nalkudil Studio nor any third party can access or read this data.</div>
+    </details>
+    <details>
+      <summary>Are the financial formulas verified against Indian banking standards?</summary>
+      <div class="faq-body">Yes. All formulas are rigorously unit-tested against statutory norms: IBA quarterly compounding for RDs, RBI Master Directions 75% LTV ceilings for gold loans, and Union Budget July 2024 capital gains tax brackets for digital gold.</div>
+    </details>
+    <details>
+      <summary>How does the Biometric Shield protect my numbers?</summary>
+      <div class="faq-body">When enabled, Sahi invokes Android's hardware Keystore via BiometricPrompt upon launch. Furthermore, whenever you switch apps, a lifecycle-aware masking scrim immediately obscures all financial balances in the Android recent apps carousel.</div>
+    </details>
+    <details>
+      <summary>Can I sync my Sahi profile across multiple devices or cloud?</summary>
+      <div class="faq-body">By deliberate architectural design, Sahi does not support cloud sync to ensure absolute data sovereignty. If you wish to migrate phones, you can re-enter your baseline profile in under 60 seconds on the new device.</div>
+    </details>
+    <details>
+      <summary>Is Sahi a SEBI-registered investment advisor?</summary>
+      <div class="faq-body">No. Sahi is a deterministic mathematical calculation utility designed for personal budgeting and estimation. It does not provide personalized investment, legal, or tax advisory services.</div>
+    </details>
   </div>
 </div>
 
@@ -141,6 +328,6 @@
     <a href="mailto:nalkudilstudio@gmail.com">Contact</a>
     <a href="https://github.com/nalkudilstudio" target="_blank">GitHub</a>
   </div>
-  <p class="footer-copy">© 2026 <a href="https://nalkudilstudio.github.io" style="color:var(--teal);text-decoration:none;">Nalkudil Studio</a>. Made with 💚 in Chennai, India.</p>
+  <p class="footer-copy">📅 Last Updated: October 2026 &nbsp;·&nbsp; © 2026 <a href="https://nalkudilstudio.github.io" style="color:var(--teal);text-decoration:none;">Nalkudil Studio</a>. Made with 💚 in Chennai, India.</p>
 </footer>
 </body></html>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="22" fill="#0D1B2A"/>
+  <text x="35" y="66" font-family="'Chakra Petch', sans-serif" font-weight="700" font-size="44" fill="#1DBFB0" text-anchor="middle">N</text>
+  <text x="65" y="66" font-family="'Chakra Petch', sans-serif" font-weight="700" font-size="44" fill="#E8A83A" text-anchor="middle">S</text>
+</svg>

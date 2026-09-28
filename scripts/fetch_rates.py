@@ -137,6 +137,56 @@ def fetch_ibja_rates():
     }
     return payload
 
+def send_telegram_update(data):
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        print("Telegram bot token or chat_id not configured. Skipping Telegram notification.")
+        return
+
+    g = data.get("gold", {})
+    s = data.get("silver", {})
+    p = data.get("platinum", {})
+    
+    date_str = data.get("as_of_market_date", "Today")
+    ist_time = data.get("formatted_ist", "")
+    
+    msg = (
+        f"🪙 <b>IBJA Benchmark Precious Metal Rates</b>\n"
+        f"📅 Market Date: <b>{date_str}</b>\n"
+        f"🕒 Synced: <code>{ist_time}</code>\n\n"
+        f"🟡 <b>Gold Rates (per gram):</b>\n"
+        f"• 24K (999): <b>₹{g.get('24k_per_gram', 0):,.2f}</b>\n"
+        f"• 22K (916): <b>₹{g.get('22k_per_gram', 0):,.2f}</b>\n"
+        f"• 18K (750): <b>₹{g.get('18k_per_gram', 0):,.2f}</b>\n"
+        f"• 14K (585): <b>₹{g.get('14k_per_gram', 0):,.2f}</b>\n"
+        f"• 1 Pavan (8g 22K): <b>₹{g.get('sovereign_8g_22k', 0):,.2f}</b>\n\n"
+        f"⚪ <b>Silver Rates:</b>\n"
+        f"• Fine 999: <b>₹{s.get('fine_999_per_gram', 0):,.2f} / g</b> (₹{s.get('fine_999_per_kg', 0):,.2f} / kg)\n"
+        f"• Sterling 925: <b>₹{s.get('sterling_925_per_gram', 0):,.2f} / g</b>\n\n"
+        f"🔘 <b>Platinum (950):</b> <b>₹{p.get('950_per_gram', 0):,.2f} / g</b>\n\n"
+        f"🌐 <a href=\"https://nalkudilstudio.github.io/data/rates.json\">rates.json</a> • "
+        f"<a href=\"https://iamsaravofficial.com/apps/gold-price-estimator/\">Estimator</a> • "
+        f"<a href=\"https://iamsaravofficial.com/apps/gold-loan-calculator/\">Loan Calc</a>"
+    )
+
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    payload = {
+        "chat_id": chat_id,
+        "text": msg,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True
+    }
+
+    try:
+        resp = requests.post(url, json=payload, timeout=15)
+        if resp.status_code == 200:
+            print("Successfully sent rate update to Telegram (@SaravMPBot).")
+        else:
+            print(f"Telegram API warning (status {resp.status_code}): {resp.text}", file=sys.stderr)
+    except Exception as err:
+        print(f"Failed to send Telegram message: {err}", file=sys.stderr)
+
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -154,10 +204,30 @@ def main():
             print("No existing rate file. Writing safe fallback baseline.")
             data = get_fallback_rates()
 
+    has_changed = True
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                prev = json.load(f)
+            prev_gold_24k = prev.get("gold", {}).get("24k_per_gram")
+            new_gold_24k = data.get("gold", {}).get("24k_per_gram")
+            prev_date = prev.get("as_of_market_date")
+            new_date = data.get("as_of_market_date")
+            if prev_gold_24k == new_gold_24k and prev_date == new_date:
+                has_changed = False
+        except Exception:
+            has_changed = True
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"Updated rates written to {OUTPUT_FILE}")
+
+    force_tg = os.environ.get("FORCE_TELEGRAM", "").lower() in ("1", "true", "yes")
+    if has_changed or force_tg:
+        send_telegram_update(data)
+    else:
+        print("Rates have not changed since last run. Skipping Telegram notification to avoid duplicate spam.")
 
 if __name__ == "__main__":
     main()

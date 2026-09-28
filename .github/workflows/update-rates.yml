@@ -5,6 +5,11 @@ on:
     # Runs every 4 hours (at minute 0 past every 4th hour UTC)
     - cron: '0 */4 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions dashboard
+    inputs:
+      force_telegram:
+        description: 'Force send update to Telegram (@SaravMPBot) even if rates unchanged'
+        required: false
+        default: 'true'
 
 permissions:
   contents: write
@@ -31,6 +36,10 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Fetch and Normalize Metal Rates
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FORCE_TELEGRAM: ${{ github.event.inputs.force_telegram || 'false' }}
         run: |
           python scripts/fetch_rates.py
 

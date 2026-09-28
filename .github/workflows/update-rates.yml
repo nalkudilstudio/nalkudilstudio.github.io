@@ -2,8 +2,10 @@ name: Update Live Metal Rates
 
 on:
   schedule:
-    # Runs every 4 hours (at minute 0 past every 4th hour UTC)
-    - cron: '0 */4 * * *'
+    # 07:15 UTC = 12:45 PM IST (Mon-Fri) ~30 mins after IBJA Morning/Opening rate bulletin
+    - cron: '15 7 * * 1-5'
+    # 12:00 UTC = 05:30 PM IST (Mon-Fri) ~30 mins after IBJA Evening/Closing rate bulletin
+    - cron: '0 12 * * 1-5'
   workflow_dispatch: # Allows manual trigger from GitHub Actions dashboard
     inputs:
       force_telegram:
@@ -39,7 +41,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          FORCE_TELEGRAM: ${{ github.event.inputs.force_telegram || 'false' }}
+          FORCE_TELEGRAM: ${{ github.event.inputs.force_telegram || 'true' }}
         run: |
           python scripts/fetch_rates.py
 

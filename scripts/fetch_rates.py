@@ -27,24 +27,24 @@ def get_fallback_rates():
         "source": "IBJA Benchmark (Fallback)",
         "currency": "INR",
         "gold": {
-            "24k_per_gram": 7560.00,
-            "22k_per_gram": 6930.00,
-            "18k_per_gram": 5670.00,
-            "14k_per_gram": 4410.00,
-            "sovereign_8g_22k": 55440.00
+            "24k_per_gram": 15200.00,
+            "22k_per_gram": 13900.00,
+            "18k_per_gram": 11400.00,
+            "14k_per_gram": 8900.00,
+            "sovereign_8g_22k": 111200.00
         },
         "silver": {
-            "fine_999_per_gram": 92.00,
-            "fine_999_per_kg": 92000.00,
-            "sterling_925_per_gram": 85.10
+            "fine_999_per_gram": 232.00,
+            "fine_999_per_kg": 232000.00,
+            "sterling_925_per_gram": 214.60
         },
         "platinum": {
-            "950_per_gram": 3120.00
+            "950_per_gram": 5730.00
         },
         "diamond_benchmark": {
-            "vvs_ef_per_carat": 68000.00,
-            "vs_gh_per_carat": 52000.00,
-            "si_ij_per_carat": 38000.00
+            "vvs_ef_per_carat": 125000.00,
+            "vs_gh_per_carat": 95000.00,
+            "si_ij_per_carat": 65000.00
         }
     }
 
@@ -61,70 +61,81 @@ def fetch_ibja_rates():
 
     soup = bs4.BeautifulSoup(resp.text, "html.parser")
 
-    # The historical/latest table contains AM and PM sessions
+    import re
+    date_pat = re.compile(r"^\d{2}/\d{2}/\d{4}$")
+    valid_rows = []
+
     for tr in soup.find_all("tr"):
         tds = [td.get_text(strip=True) for td in tr.find_all("td")]
-        if len(tds) >= 8 and "/" in tds[0]:
+        if len(tds) == 8 and date_pat.match(tds[0]):
             try:
-                date_str = tds[0]
-                g999_lot = float(tds[1])
-                g995_lot = float(tds[2])
-                g916_lot = float(tds[3])
-                g750_lot = float(tds[4])
-                g585_lot = float(tds[5])
-                silver_lot = float(tds[6])
-                plat_lot = float(tds[7])
-
-                # Lot conversions: Gold & Platinum are quoted per 20 grams
-                g24k = round(g999_lot / 20.0, 2)
-                g22k = round(g916_lot / 20.0, 2)
-                g18k = round(g750_lot / 20.0, 2)
-                g14k = round(g585_lot / 20.0, 2)
-                sovereign = round(g22k * 8.0, 2)
-
-                # Silver lot conversion to 1g and 1kg
-                silver_1g = round(silver_lot / 2500.0, 2) if silver_lot > 100000 else round(silver_lot / 1000.0, 2)
-                silver_1kg = round(silver_1g * 1000.0, 2)
-                silver_925 = round(silver_1g * 0.925, 2)
-
-                plat_1g = round(plat_lot / 20.0, 2)
-
-                now_utc = datetime.now(timezone.utc)
-                now_ist = datetime.now(IST)
-
-                payload = {
-                    "status": "success",
-                    "as_of_market_date": date_str,
-                    "last_updated_utc": now_utc.isoformat(),
-                    "formatted_ist": now_ist.strftime("%d %b %Y, %I:%M %p IST"),
-                    "source": "IBJA Benchmark (India Bullion and Jewellers Association)",
-                    "currency": "INR",
-                    "gold": {
-                        "24k_per_gram": g24k,
-                        "22k_per_gram": g22k,
-                        "18k_per_gram": g18k,
-                        "14k_per_gram": g14k,
-                        "sovereign_8g_22k": sovereign
-                    },
-                    "silver": {
-                        "fine_999_per_gram": silver_1g,
-                        "fine_999_per_kg": silver_1kg,
-                        "sterling_925_per_gram": silver_925
-                    },
-                    "platinum": {
-                        "950_per_gram": plat_1g
-                    },
-                    "diamond_benchmark": {
-                        "vvs_ef_per_carat": 68000.00,
-                        "vs_gh_per_carat": 52000.00,
-                        "si_ij_per_carat": 38000.00
-                    }
-                }
-                return payload
-            except (ValueError, IndexError):
+                float(tds[1])
+                float(tds[3])
+                valid_rows.append(tds)
+            except ValueError:
                 continue
 
-    raise ValueError("Could not parse valid rate rows from IBJA website.")
+    if not valid_rows:
+        raise ValueError("Could not parse valid rate rows from IBJA website.")
+
+    # Target the latest market date: prefer PM closing rate if available
+    target_row = valid_rows[0]
+    if len(valid_rows) >= 5 and valid_rows[4][0] == valid_rows[0][0]:
+        target_row = valid_rows[4]
+
+    date_str = target_row[0]
+    g999_lot = float(target_row[1])   # Gold 999 per 10 grams
+    g916_lot = float(target_row[3])   # Gold 916 (22K) per 10 grams
+    g750_lot = float(target_row[4])   # Gold 750 (18K) per 10 grams
+    g585_lot = float(target_row[5])   # Gold 585 (14K) per 10 grams
+    silver_lot = float(target_row[6]) # Silver 999 per 1 kg (1000g)
+    plat_lot = float(target_row[7])   # Platinum per 10 grams
+
+    # IBJA statutory standard: Gold is quoted per 10gm, Silver per 1kg, Platinum per 10gm
+    g24k = round(g999_lot / 10.0, 2)
+    g22k = round(g916_lot / 10.0, 2)
+    g18k = round(g750_lot / 10.0, 2)
+    g14k = round(g585_lot / 10.0, 2)
+    sovereign = round(g22k * 8.0, 2)
+
+    silver_1g = round(silver_lot / 1000.0, 2)
+    silver_1kg = round(silver_lot, 2)
+    silver_925 = round(silver_1g * 0.925, 2)
+
+    plat_1g = round((plat_lot / 10.0) * 0.95, 2)
+
+    now_utc = datetime.now(timezone.utc)
+    now_ist = datetime.now(IST)
+
+    payload = {
+        "status": "success",
+        "as_of_market_date": date_str,
+        "last_updated_utc": now_utc.isoformat(),
+        "formatted_ist": now_ist.strftime("%d %b %Y, %I:%M %p IST"),
+        "source": "IBJA Benchmark (India Bullion and Jewellers Association)",
+        "currency": "INR",
+        "gold": {
+            "24k_per_gram": g24k,
+            "22k_per_gram": g22k,
+            "18k_per_gram": g18k,
+            "14k_per_gram": g14k,
+            "sovereign_8g_22k": sovereign
+        },
+        "silver": {
+            "fine_999_per_gram": silver_1g,
+            "fine_999_per_kg": silver_1kg,
+            "sterling_925_per_gram": silver_925
+        },
+        "platinum": {
+            "950_per_gram": plat_1g
+        },
+        "diamond_benchmark": {
+            "vvs_ef_per_carat": 125000.00,
+            "vs_gh_per_carat": 95000.00,
+            "si_ij_per_carat": 65000.00
+        }
+    }
+    return payload
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)

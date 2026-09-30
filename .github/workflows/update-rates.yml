@@ -41,6 +41,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SNS_BOT_TOKEN: ${{ secrets.SNS_BOT_TOKEN }}
+          SNS_CHAT_ID: ${{ secrets.SNS_CHAT_ID }}
           FORCE_TELEGRAM: ${{ github.event.inputs.force_telegram || 'true' }}
         run: |
           python scripts/fetch_rates.py

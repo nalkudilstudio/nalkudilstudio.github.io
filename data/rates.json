@@ -1,24 +1,24 @@
 {
   "status": "success",
-  "as_of_market_date": "21/10/2026",
-  "last_updated_utc": "2026-10-22T16:46:48.178969+00:00",
-  "formatted_ist": "22 Oct 2026, 10:16 PM IST",
+  "as_of_market_date": "22/10/2026",
+  "last_updated_utc": "2026-10-23T12:38:33.295328+00:00",
+  "formatted_ist": "23 Oct 2026, 06:08 PM IST",
   "source": "IBJA Benchmark (India Bullion and Jewellers Association)",
   "currency": "INR",
   "gold": {
-    "24k_per_gram": 14410.5,
-    "22k_per_gram": 13200.0,
-    "18k_per_gram": 10807.9,
-    "14k_per_gram": 8430.1,
-    "sovereign_8g_22k": 105600.0
+    "24k_per_gram": 14269.4,
+    "22k_per_gram": 13070.8,
+    "18k_per_gram": 10702.1,
+    "14k_per_gram": 8347.6,
+    "sovereign_8g_22k": 104566.4
   },
   "silver": {
-    "fine_999_per_gram": 206.78,
-    "fine_999_per_kg": 206783.0,
-    "sterling_925_per_gram": 191.27
+    "fine_999_per_gram": 199.78,
+    "fine_999_per_kg": 199777.0,
+    "sterling_925_per_gram": 184.8
   },
   "platinum": {
-    "950_per_gram": 5523.59
+    "950_per_gram": 5352.96
   },
   "diamond_benchmark": {
     "vvs_ef_per_carat": 125000.0,

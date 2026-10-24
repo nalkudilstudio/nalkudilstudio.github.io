@@ -138,11 +138,10 @@ def fetch_ibja_rates():
     return payload
 
 def send_telegram_update(data):
-    token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-    if not token or not chat_id:
-        print("Telegram bot token or chat_id not configured. Skipping Telegram notification.")
-        return
+    # Destination: StashNStrike Telegram Channel ONLY (-1003914529389)
+    # Strictly isolated from @SaravMPBot
+    sns_token = os.environ.get("SNS_BOT_TOKEN") or os.environ.get("TELEGRAM_BOT_TOKEN") or "8707005193:AAE-Nz2nAnvoWeONdB81od-DHHuQDQqIvMI"
+    sns_chat_id = os.environ.get("SNS_CHAT_ID") or os.environ.get("TELEGRAM_CHAT_ID") or "-1003914529389"
 
     g = data.get("gold", {})
     s = data.get("silver", {})
@@ -170,43 +169,21 @@ def send_telegram_update(data):
         f"<a href=\"https://iamsaravofficial.com/apps/gold-loan-calculator/\">Loan Calc</a>"
     )
 
-    # 1. Primary destination: @SaravMPBot (Sarav DM)
-    url = f"https://api.telegram.org/bot{token}/sendMessage"
-    payload = {
-        "chat_id": chat_id,
+    sns_url = f"https://api.telegram.org/bot{sns_token}/sendMessage"
+    sns_payload = {
+        "chat_id": sns_chat_id,
         "text": msg,
         "parse_mode": "HTML",
         "disable_web_page_preview": True
     }
-
     try:
-        resp = requests.post(url, json=payload, timeout=15)
-        if resp.status_code == 200:
-            print("Successfully sent rate update to Telegram (@SaravMPBot).")
+        sns_resp = requests.post(sns_url, json=sns_payload, timeout=15)
+        if sns_resp.status_code == 200:
+            print(f"Successfully sent rate update to StashNStrike Channel ({sns_chat_id}).")
         else:
-            print(f"Telegram API warning (status {resp.status_code}): {resp.text}", file=sys.stderr)
+            print(f"Telegram SNS API warning (status {sns_resp.status_code}): {sns_resp.text}", file=sys.stderr)
     except Exception as err:
-        print(f"Failed to send Telegram message to @SaravMPBot: {err}", file=sys.stderr)
-
-    # 2. Secondary destination: StashNStrike Telegram Channel
-    sns_token = os.environ.get("SNS_BOT_TOKEN")
-    sns_chat_id = os.environ.get("SNS_CHAT_ID")
-    if sns_token and sns_chat_id:
-        sns_url = f"https://api.telegram.org/bot{sns_token}/sendMessage"
-        sns_payload = {
-            "chat_id": sns_chat_id,
-            "text": msg,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": True
-        }
-        try:
-            sns_resp = requests.post(sns_url, json=sns_payload, timeout=15)
-            if sns_resp.status_code == 200:
-                print("Successfully sent rate update to StashNStrike Channel.")
-            else:
-                print(f"Telegram SNS API warning (status {sns_resp.status_code}): {sns_resp.text}", file=sys.stderr)
-        except Exception as err:
-            print(f"Failed to send Telegram message to StashNStrike Channel: {err}", file=sys.stderr)
+        print(f"Failed to send Telegram message to StashNStrike Channel: {err}", file=sys.stderr)
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)

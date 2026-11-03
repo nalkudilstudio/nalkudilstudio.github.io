@@ -554,7 +554,8 @@ html_content = """<!DOCTYPE html>
     }
 
     .btn-copy {
-      padding: 8px 12px;
+      padding: 9px 13px;
+      min-height: 38px;
       border-radius: 8px;
       font-size: 12px;
       font-weight: 700;
@@ -565,9 +566,16 @@ html_content = """<!DOCTYPE html>
       cursor: pointer;
       display: inline-flex;
       align-items: center;
+      justify-content: center;
       gap: 6px;
       transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
       user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+
+    .btn-copy:active {
+      transform: scale(0.97);
     }
 
     .btn-copy:hover {
@@ -618,7 +626,8 @@ html_content = """<!DOCTYPE html>
     /* Master Copy Full Packet Button */
     .btn-master-packet {
       width: 100%;
-      padding: 10px 14px;
+      min-height: 44px;
+      padding: 11px 14px;
       border-radius: 10px;
       background: linear-gradient(135deg, rgba(230, 200, 117, 0.2), rgba(0, 240, 255, 0.15));
       border: 1px solid var(--gold);
@@ -632,6 +641,88 @@ html_content = """<!DOCTYPE html>
       justify-content: center;
       gap: 8px;
       transition: all 0.2s;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+
+    .btn-master-packet:active {
+      transform: scale(0.98);
+    }
+
+    /* Fallback Copy Modal (Restricted Mobile WebViews) */
+    .copy-modal-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      background: rgba(0, 0, 0, 0.78);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .copy-modal-backdrop.open {
+      display: flex;
+    }
+    .copy-modal-card {
+      background: #0E1420;
+      border: 1px solid rgba(230, 200, 117, 0.35);
+      border-radius: 16px;
+      width: 100%;
+      max-width: 520px;
+      max-height: 85vh;
+      display: flex;
+      flex-direction: column;
+      padding: 18px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+    }
+    .copy-modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+    .copy-modal-header h3 {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--gold-bright);
+      font-family: 'Outfit', sans-serif;
+    }
+    .btn-modal-close {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 20px;
+      cursor: pointer;
+      padding: 4px 8px;
+      line-height: 1;
+    }
+    .copy-modal-hint {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+    .copy-modal-textarea {
+      width: 100%;
+      height: 180px;
+      background: rgba(7, 11, 17, 0.95);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 10px;
+      color: var(--text);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      line-height: 1.5;
+      padding: 10px;
+      resize: vertical;
+      margin-bottom: 12px;
+      box-sizing: border-box;
+    }
+    .copy-modal-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
     }
 
     .btn-master-packet:hover {
@@ -888,6 +979,22 @@ html_content = """<!DOCTYPE html>
   <div class="toast-pill" id="toast-pill">
     <span id="toast-icon">✨</span>
     <span id="toast-msg">Copied to clipboard!</span>
+  </div>
+
+  <!-- Fallback Copy Modal for Mobile / Sandbox WebViews -->
+  <div class="copy-modal-backdrop" id="copy-modal" onclick="closeCopyModal(event)">
+    <div class="copy-modal-card" onclick="event.stopPropagation()">
+      <div class="copy-modal-header">
+        <h3 id="copy-modal-title">📋 Copy Text</h3>
+        <button class="btn-modal-close" onclick="closeCopyModal(event)" aria-label="Close">✕</button>
+      </div>
+      <p class="copy-modal-hint">Tap inside and press Copy, or use Select All below:</p>
+      <textarea class="copy-modal-textarea" id="copy-modal-textarea" readonly></textarea>
+      <div class="copy-modal-actions">
+        <button class="btn-copy gold" onclick="selectModalText()">Select All</button>
+        <button class="btn-copy" onclick="closeCopyModal()">Done</button>
+      </div>
+    </div>
   </div>
 
   <button class="btn-scroll-top" id="btn-scroll-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" aria-label="Back to Top">↑</button>
@@ -1190,14 +1297,14 @@ html_content = """<!DOCTYPE html>
 
               <!-- Quick Copy Action Suite -->
               <div class="actions-grid">
-                <button class="btn-copy gold" onclick="copySnippet(${JSON.stringify(item.title)}, this, 'Title')">📋 Copy Title</button>
-                <button class="btn-copy cyan" onclick="copySnippet(${JSON.stringify(item.description)}, this, 'Description')">📋 Copy Description</button>
-                <button class="btn-copy" onclick="copySnippet(${JSON.stringify(item.tags)}, this, 'Tags')">🏷️ Copy Tags</button>
-                <button class="btn-copy" onclick="copySnippet(${JSON.stringify(item.pinned_comment)}, this, 'Pinned Comment')">📌 Pinned Comment</button>
+                <button class="btn-copy gold" onclick="copyCardField('sarav_ai', ${ep}, 'title', this)">📋 Copy Title</button>
+                <button class="btn-copy cyan" onclick="copyCardField('sarav_ai', ${ep}, 'description', this)">📋 Copy Description</button>
+                <button class="btn-copy" onclick="copyCardField('sarav_ai', ${ep}, 'tags', this)">🏷️ Copy Tags</button>
+                <button class="btn-copy" onclick="copyCardField('sarav_ai', ${ep}, 'pinned_comment', this)">📌 Pinned Comment</button>
               </div>
 
               <!-- Master Packet Button -->
-              <button class="btn-master-packet" onclick="copySaravFullPacket(${ep}, this)">
+              <button class="btn-master-packet" onclick="copyCardField('sarav_ai', ${ep}, 'sarav_full_packet', this)">
                 ⚡ Copy Full YouTube Shorts Packet (Title + Desc + Tags + Pinned)
               </button>
 
@@ -1205,15 +1312,15 @@ html_content = """<!DOCTYPE html>
               <div class="poll-box">
                 <div class="poll-header">
                   <span class="poll-title">🗳️ YouTube Community Poll</span>
-                  <button class="btn-copy cyan" style="padding: 4px 10px; font-size: 11px;" onclick="copySnippet(${JSON.stringify(poll.full_text || '')}, this, 'Poll Packet')">📋 Copy Full Poll</button>
+                  <button class="btn-copy cyan" style="padding: 4px 10px; font-size: 11px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_full', this)">📋 Copy Full Poll</button>
                 </div>
                 <p class="poll-question-text">${escapeHtml(poll.question || '')}</p>
                 <div class="poll-options-list">
                   ${pollOptsHtml}
                 </div>
                 <div class="poll-actions-row">
-                  <button class="btn-copy" style="font-size: 11px; padding: 5px 8px;" onclick="copySnippet(${JSON.stringify(poll.question || '')}, this, 'Poll Question')">📋 Question</button>
-                  <button class="btn-copy" style="font-size: 11px; padding: 5px 8px;" onclick="copySnippet(${JSON.stringify((poll.options || []).join('\\n'))}, this, 'Options')">📋 Options (A-D)</button>
+                  <button class="btn-copy" style="font-size: 11px; padding: 5px 8px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_question', this)">📋 Question</button>
+                  <button class="btn-copy" style="font-size: 11px; padding: 5px 8px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_options', this)">📋 Options (A-D)</button>
                 </div>
               </div>
 
@@ -1267,13 +1374,13 @@ html_content = """<!DOCTYPE html>
               <h2 class="card-title-text">${escapeHtml(item.title)}</h2>
 
               <div class="actions-grid">
-                <button class="btn-copy gold" onclick="copySnippet(${JSON.stringify(item.title)}, this, 'Title')">📋 Copy Title</button>
-                <button class="btn-copy cyan" onclick="copySnippet(${JSON.stringify(item.description)}, this, 'Description')">📋 Copy Description</button>
-                <button class="btn-copy" onclick="copySnippet(${JSON.stringify(item.tags)}, this, 'Tags')">🏷️ Copy Tags</button>
-                <button class="btn-copy" onclick="copySnippet(${JSON.stringify(item.pinned_comment)}, this, 'Pinned Comment')">📌 Pinned Comment</button>
+                <button class="btn-copy gold" onclick="copyCardField('the_loop', ${ep}, 'title', this)">📋 Copy Title</button>
+                <button class="btn-copy cyan" onclick="copyCardField('the_loop', ${ep}, 'description', this)">📋 Copy Description</button>
+                <button class="btn-copy" onclick="copyCardField('the_loop', ${ep}, 'tags', this)">🏷️ Copy Tags</button>
+                <button class="btn-copy" onclick="copyCardField('the_loop', ${ep}, 'pinned_comment', this)">📌 Pinned Comment</button>
               </div>
 
-              <button class="btn-master-packet" onclick="copyLoopFullPacket(${ep}, this)">
+              <button class="btn-master-packet" onclick="copyCardField('the_loop', ${ep}, 'loop_full_packet', this)">
                 ⚡ Copy Full Loop Video Packet (Title + Desc + Tags + Pinned)
               </button>
 
@@ -1332,9 +1439,10 @@ html_content = """<!DOCTYPE html>
               <h2 class="card-title-text" style="font-family: 'Playfair Display', serif; font-size: 18px;">${escapeHtml(item.title)}</h2>
 
               <div class="actions-grid">
-                <button class="btn-copy gold" onclick="copySnippet(${JSON.stringify(item.caption)}, this, 'Instagram Caption')">📖 Copy Full Caption</button>
-                <button class="btn-copy cyan" onclick="copySnippet(${JSON.stringify(item.hashtags)}, this, 'Hashtags')">🏷️ Copy Hashtags (5)</button>
-                <button class="btn-copy" onclick="copySnippet(${JSON.stringify(item.punchline)}, this, 'Punchline')">💬 Copy Punchline</button>
+                <button class="btn-copy gold" onclick="copyCardField('sid_isha', ${day}, 'title', this)">📋 Copy Title</button>
+                <button class="btn-copy cyan" onclick="copyCardField('sid_isha', ${day}, 'caption', this)">📖 Copy Full Caption</button>
+                <button class="btn-copy" onclick="copyCardField('sid_isha', ${day}, 'hashtags', this)">🏷️ Copy Hashtags (5)</button>
+                <button class="btn-copy" onclick="copyCardField('sid_isha', ${day}, 'punchline', this)">💬 Copy Punchline</button>
               </div>
 
               <details class="field-drawer" open>
@@ -1384,9 +1492,10 @@ html_content = """<!DOCTYPE html>
               <h2 class="card-title-text">Inkling Tales • Ep. ${String(ep).padStart(3, '0')} (${escapeHtml(item.category)})</h2>
 
               <div class="actions-grid">
-                <button class="btn-copy cyan" onclick="copySnippet(${JSON.stringify(item.caption)}, this, 'Instagram Caption')">📖 Copy Reel Caption</button>
-                <button class="btn-copy" onclick="copySnippet(${JSON.stringify(item.hashtags)}, this, 'Hashtags')">🏷️ Copy Hashtags</button>
-                ${item.alt_text ? `<button class="btn-copy" onclick="copySnippet(${JSON.stringify(item.alt_text)}, this, 'Alt Text')">♿ Copy Alt Text</button>` : ''}
+                <button class="btn-copy gold" onclick="copyCardField('inkling_ig', ${ep}, 'title', this)">📋 Copy Title</button>
+                <button class="btn-copy cyan" onclick="copyCardField('inkling_ig', ${ep}, 'caption', this)">📖 Copy Reel Caption</button>
+                <button class="btn-copy" onclick="copyCardField('inkling_ig', ${ep}, 'hashtags', this)">🏷️ Copy Hashtags</button>
+                ${item.alt_text ? `<button class="btn-copy" onclick="copyCardField('inkling_ig', ${ep}, 'alt_text', this)">♿ Copy Alt Text</button>` : ''}
               </div>
 
               <details class="field-drawer" open>
@@ -1402,51 +1511,165 @@ html_content = """<!DOCTYPE html>
       `;
     }
 
-    // Packet Copy Helpers
-    function copySaravFullPacket(ep, btn) {
-      const item = (catalog.sarav_ai || []).find(x => x.episode === ep);
-      if (!item) return;
+    // Universal Master Field Copy Helper
+    function copyCardField(suite, id, field, btnElement) {
+      const items = catalog[suite] || [];
+      const item = items.find(x => (suite === 'sid_isha' ? x.day === id : x.episode === id));
+      if (!item) {
+        showToast('⚠️ Item not found in catalog.');
+        return;
+      }
 
-      const packet = `TITLE:\\n${item.title}\\n\\nDESCRIPTION:\\n${item.description}\\n\\nTAGS:\\n${item.tags}\\n\\nPINNED COMMENT:\\n${item.pinned_comment}`;
-      copySnippet(packet, btn, 'Full Shorts Packet');
+      let text = '';
+      let label = 'Text';
+
+      switch (field) {
+        case 'title':
+          text = item.title || (suite === 'inkling_ig' ? `Inkling Tales • Ep. ${String(id).padStart(3, '0')} (${item.category || ''})` : '');
+          label = 'Title';
+          break;
+        case 'description':
+          text = item.description || '';
+          label = 'Description';
+          break;
+        case 'tags':
+          text = item.tags || '';
+          label = 'Tags';
+          break;
+        case 'pinned_comment':
+          text = item.pinned_comment || '';
+          label = 'Pinned Comment';
+          break;
+        case 'sarav_full_packet':
+          text = `TITLE:\\n${item.title || ''}\\n\\nDESCRIPTION:\\n${item.description || ''}\\n\\nTAGS:\\n${item.tags || ''}\\n\\nPINNED COMMENT:\\n${item.pinned_comment || ''}`;
+          label = 'Full Shorts Packet';
+          break;
+        case 'loop_full_packet':
+          text = `TITLE:\\n${item.title || ''}\\n\\nDESCRIPTION:\\n${item.description || ''}\\n\\nTAGS:\\n${item.tags || ''}\\n\\nPINNED COMMENT:\\n${item.pinned_comment || ''}`;
+          label = 'Full Loop Video Packet';
+          break;
+        case 'poll_full':
+          text = (item.poll && item.poll.full_text) ? item.poll.full_text : '';
+          label = 'Full Poll';
+          break;
+        case 'poll_question':
+          text = (item.poll && item.poll.question) ? item.poll.question : '';
+          label = 'Poll Question';
+          break;
+        case 'poll_options':
+          text = (item.poll && item.poll.options) ? item.poll.options.join('\\n') : '';
+          label = 'Poll Options (A-D)';
+          break;
+        case 'caption':
+          text = item.caption || '';
+          label = (suite === 'sid_isha') ? 'Full Caption' : 'Reel Caption';
+          break;
+        case 'hashtags':
+          text = item.hashtags || '';
+          label = 'Hashtags';
+          break;
+        case 'punchline':
+          text = item.punchline || '';
+          label = 'Punchline';
+          break;
+        case 'alt_text':
+          text = item.alt_text || '';
+          label = 'Alt Text';
+          break;
+        default:
+          text = item[field] || '';
+          label = field;
+      }
+
+      copySnippet(text, btnElement, label);
+    }
+
+    // Packet Copy Helpers (Wrappers for backward compatibility)
+    function copySaravFullPacket(ep, btn) {
+      copyCardField('sarav_ai', ep, 'sarav_full_packet', btn);
     }
 
     function copyLoopFullPacket(ep, btn) {
-      const item = (catalog.the_loop || []).find(x => x.episode === ep);
-      if (!item) return;
-
-      const packet = `TITLE:\\n${item.title}\\n\\nDESCRIPTION:\\n${item.description}\\n\\nTAGS:\\n${item.tags}\\n\\nPINNED COMMENT:\\n${item.pinned_comment}`;
-      copySnippet(packet, btn, 'Full Loop Video Packet');
+      copyCardField('the_loop', ep, 'loop_full_packet', btn);
     }
 
-    // Clipboard Copy Execution with Toast & Haptics
-    function copySnippet(text, btnElement, label = 'Text') {
-      if (!text) return;
+    // Multi-Tier Mobile & Desktop Clipboard Engine
+    async function copySnippet(text, btnElement, label = 'Text') {
+      if (!text) {
+        showToast(`⚠️ No ${label} available to copy.`);
+        return;
+      }
 
+      let copied = false;
+
+      // Tier 1: Modern Async Clipboard API (Secure Context on Mobile & Desktop)
       if (navigator.clipboard && window.isSecureContext) {
-        navigator.clipboard.writeText(text).then(() => {
-          showCopySuccess(btnElement, label);
-        }).catch(() => fallbackCopy(text, btnElement, label));
+        try {
+          await navigator.clipboard.writeText(text);
+          copied = true;
+        } catch (err) {
+          copied = false;
+        }
+      }
+
+      // Tier 2: Synchronous execCommand Fallback (iOS Safari, Android WebViews)
+      if (!copied) {
+        copied = fallbackCopyExec(text);
+      }
+
+      // Outcome Handling
+      if (copied) {
+        showCopySuccess(btnElement, label);
       } else {
-        fallbackCopy(text, btnElement, label);
+        // Tier 3: Manual Modal for strictly sandboxed WebViews
+        showFallbackModal(text, label);
       }
     }
 
-    function fallbackCopy(text, btnElement, label) {
+    function fallbackCopyExec(text) {
+      let success = false;
       const ta = document.createElement('textarea');
       ta.value = text;
+
+      // Mobile WebKit optimization (prevent zoom, layout shift, keyboard popup)
+      ta.style.fontSize = '16px';
       ta.style.position = 'fixed';
-      ta.style.opacity = '0';
+      ta.style.top = '0';
+      ta.style.left = '-9999px';
+      ta.style.width = '2em';
+      ta.style.height = '2em';
+      ta.style.padding = '0';
+      ta.style.border = 'none';
+      ta.style.outline = 'none';
+      ta.style.boxShadow = 'none';
+      ta.style.background = 'transparent';
+      ta.setAttribute('readonly', '');
+
       document.body.appendChild(ta);
-      ta.focus();
-      ta.select();
+
       try {
-        document.execCommand('copy');
-        showCopySuccess(btnElement, label);
+        if (/iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream) {
+          const range = document.createRange();
+          range.selectNodeContents(ta);
+          const sel = window.getSelection();
+          if (sel) {
+            sel.removeAllRanges();
+            sel.addRange(range);
+          }
+          ta.setSelectionRange(0, 999999);
+        } else {
+          ta.select();
+          ta.setSelectionRange(0, ta.value.length);
+        }
+
+        success = document.execCommand('copy');
       } catch (err) {
-        showToast('❌ Copy failed. Please select manually.');
+        success = false;
+      } finally {
+        document.body.removeChild(ta);
       }
-      document.body.removeChild(ta);
+
+      return success;
     }
 
     function showCopySuccess(btnElement, label) {
@@ -1454,13 +1677,49 @@ html_content = """<!DOCTYPE html>
       showToast(`✨ Copied ${label} to clipboard!`);
 
       if (btnElement) {
-        const originalText = btnElement.innerHTML;
+        const originalHtml = btnElement.getAttribute('data-original-html') || btnElement.innerHTML;
+        if (!btnElement.getAttribute('data-original-html')) {
+          btnElement.setAttribute('data-original-html', originalHtml);
+        }
         btnElement.classList.add('success');
         btnElement.innerHTML = `✅ Copied!`;
-        setTimeout(() => {
+        clearTimeout(btnElement._copyResetTimer);
+        btnElement._copyResetTimer = setTimeout(() => {
           btnElement.classList.remove('success');
-          btnElement.innerHTML = originalText;
+          btnElement.innerHTML = btnElement.getAttribute('data-original-html') || originalHtml;
         }, 1600);
+      }
+    }
+
+    // Modal Copy Dialog Fallback
+    function showFallbackModal(text, label) {
+      const modal = document.getElementById('copy-modal');
+      const title = document.getElementById('copy-modal-title');
+      const textarea = document.getElementById('copy-modal-textarea');
+      if (!modal || !textarea) return;
+
+      if (title) title.textContent = `📋 Copy ${label}`;
+      textarea.value = text;
+      modal.classList.add('open');
+      textarea.focus();
+      textarea.select();
+    }
+
+    function closeCopyModal(event) {
+      if (event && event.target && event.target.id !== 'copy-modal' && !event.target.classList.contains('btn-modal-close')) {
+        return;
+      }
+      const modal = document.getElementById('copy-modal');
+      if (modal) modal.classList.remove('open');
+    }
+
+    function selectModalText() {
+      const textarea = document.getElementById('copy-modal-textarea');
+      if (textarea) {
+        textarea.focus();
+        textarea.select();
+        textarea.setSelectionRange(0, textarea.value.length);
+        showToast('✨ Text selected! Tap Copy in your menu.');
       }
     }
 

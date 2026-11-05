@@ -933,6 +933,10 @@
         <span>🤖 Sarav × AI</span>
         <span class="tab-count" id="count-sarav">100</span>
       </button>
+      <button class="nav-tab-btn" onclick="switchSuite('sarav_trends', this)">
+        <span>⚡ Tech Radar Trends</span>
+        <span class="tab-count" id="count-trends">6</span>
+      </button>
       <button class="nav-tab-btn" onclick="switchSuite('the_loop', this)">
         <span>🔁 The Loop</span>
         <span class="tab-count" id="count-loop">300</span>
@@ -1107,7 +1111,12 @@
 
       let chips = [{ id: 'all', label: 'All Items' }];
 
-      if (currentSuite === 'sarav_ai') {
+      if (currentSuite === 'sarav_trends') {
+        chips.push(
+          { id: 'active', label: '🚀 Active / Live' },
+          { id: 'queued', label: '⏳ Queued' }
+        );
+      } else if (currentSuite === 'sarav_ai') {
         chips.push(
           { id: 'c1', label: 'Cluster 1: LLMs (1–10)' },
           { id: 'c2', label: 'Cluster 2: Prompting (11–20)' },
@@ -1172,7 +1181,15 @@
         if (currentFilter === 'published' && !isPub) return false;
 
         // Suite specific filter
-        if (currentSuite === 'sarav_ai') {
+        if (currentSuite === 'sarav_trends') {
+        chips.push(
+          { id: 'active', label: '🚀 Active / Live' },
+          { id: 'queued', label: '⏳ Queued' }
+        );
+      } else if (currentSuite === 'sarav_trends') {
+          if (currentFilter === 'active' && item.status !== 'COMPLETED') return false;
+          if (currentFilter === 'queued' && item.status !== 'QUEUED') return false;
+        } else if (currentSuite === 'sarav_ai') {
           const ep = item.episode;
           if (currentFilter === 'c1' && !(ep >= 1 && ep <= 10)) return false;
           if (currentFilter === 'c2' && !(ep >= 11 && ep <= 20)) return false;
@@ -1236,8 +1253,15 @@
 
       filtered.forEach(item => {
         let cardHtml = '';
-        if (currentSuite === 'sarav_ai') {
+        if (currentSuite === 'sarav_trends') {
+        chips.push(
+          { id: 'active', label: '🚀 Active / Live' },
+          { id: 'queued', label: '⏳ Queued' }
+        );
+      } else if (currentSuite === 'sarav_ai') {
           cardHtml = buildSaravAICard(item, pubSet.has(item.episode));
+        } else if (currentSuite === 'sarav_trends') {
+          cardHtml = buildTrendsCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'the_loop') {
           cardHtml = buildTheLoopCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'sid_isha') {
@@ -1247,6 +1271,62 @@
         }
         container.insertAdjacentHTML('beforeend', cardHtml);
       });
+    }
+
+    // Builder: Sarav X AI Tech Radar Trends
+    function buildTrendsCard(item, isPublished) {
+      const ep = item.episode;
+      const coverUrl = item.cover_url || '';
+      const downloadName = item.cover_filename || `Shorts_Cover_Trend${String(ep).padStart(2, '0')}.png`;
+
+      return `
+        <article class="pub-card ${isPublished ? 'is-published' : ''}" id="card-sarav_trends-${ep}">
+          <div class="card-top">
+            <div class="card-meta-left">
+              <span class="ep-badge" style="background: linear-gradient(135deg, #EA580C, #F97316); color: #fff;">TREND #${String(ep).padStart(2, '0')}</span>
+              <span class="cat-badge">⚡ ${escapeHtml(item.day)}</span>
+              <span class="cat-badge">${escapeHtml(item.category || 'Tech Radar')}</span>
+              <span class="slot-badge">🕒 11:30 AM IST Daily</span>
+            </div>
+            <label class="status-check-label ${isPublished ? 'checked' : ''}">
+              <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('sarav_trends', ${ep})">
+              <span class="status-text">${isPublished ? 'Published ✅' : (item.status === 'COMPLETED' ? 'Ready 🚀' : 'Queued ⏳')}</span>
+            </label>
+          </div>
+
+          <div class="card-grid">
+            <div class="media-box">
+              <div class="preview-thumb-wrap">
+                ${coverUrl ? `<img src="${coverUrl}" alt="Trend ${ep} Cover" loading="lazy">` : `<div class="thumb-placeholder"><span>🖼️</span><span>Trend ${ep} Cover Pending</span></div>`}
+              </div>
+              ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download Cover</a>` : ''}
+            </div>
+
+            <div class="content-box">
+              <h2 class="card-title-text">${escapeHtml(item.title)}</h2>
+
+              <div class="actions-grid">
+                <button class="btn-copy gold" onclick="copyCardField('sarav_trends', ${ep}, 'title', this)">📋 Copy Title</button>
+                <button class="btn-copy cyan" onclick="copyCardField('sarav_trends', ${ep}, 'description', this)">📋 Copy Description</button>
+                <button class="btn-copy" onclick="copyCardField('sarav_trends', ${ep}, 'tags', this)">🏷️ Copy Tags</button>
+                <button class="btn-copy" onclick="copyCardField('sarav_trends', ${ep}, 'pinned_comment', this)">📌 Pinned Comment</button>
+              </div>
+
+              <button class="btn-master-packet" style="background: linear-gradient(135deg, #EA580C, #F97316);" onclick="copyCardField('sarav_trends', ${ep}, 'sarav_full_packet', this)">
+                ⚡ Copy Full Tech Radar Packet (Title + Desc + Tags + Pinned)
+              </button>
+
+              <details class="field-drawer">
+                <summary>
+                  <span>View Full Description &amp; Tags</span>
+                  <span>▾</span>
+                </summary>
+                <div class="field-drawer-body"><b>Description:</b><br>${escapeHtml(item.description)}<br><br><b>Tags:</b><br>${escapeHtml(item.tags)}<br><br><b>Pinned Comment:</b><br>${escapeHtml(item.pinned_comment)}</div>
+              </details>
+            </div>
+          </div>
+        </article>
+      `;
     }
 
     // Builder 1: Sarav X AI

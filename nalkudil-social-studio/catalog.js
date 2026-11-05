@@ -7846,5 +7846,91 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_100.jpg",
       "cover_filename": "cover_tale_100.jpg"
     }
-  ]
+  ],
+  "sarav_trends": [
+  {
+    "day": "Trend 1",
+    "episode": 1,
+    "concept": "Run Claude Code Unlimited Free (9Router)",
+    "category": "Zero-Cost AI Architecture",
+    "filename": "TREND_01_Run_Claude_Code_Unlimited_Free_9Router.mp4",
+    "title": "Run Claude Code With UNLIMITED Usage for Free - 9Router #shorts #ai",
+    "description": "STOP PAYING FOR CLAUDE LIMITS\n\nStop paying for Claude Code rate limits. An open-source middleware called 9Router lets you run unlimited coding sessions completely free. It sits silently between Claude Code and free endpoints like Gemini 2.0 Flash, Kimi, and GLM. The second your Claude rate limit hits, 9Router automatically switches to the next free model without interrupting your terminal session or losing context. It works out of the box with Claude Code, Cursor, Google Antigravity, and OpenAI Codex. Zero subscription fees, zero downtime. Follow Sarav AI for daily enterprise blueprints. Grab the 9Router setup guide below.",
+    "tags": "9Router, Claude Code, Free Claude Code, Cursor AI, Google Antigravity, AI Coding Agents, Gemini 2.0 Flash, Sarav x AI, Tech Radar",
+    "pinned_comment": "\ud83d\udc47 Have you hit Claude Code's rate limits yet? Comment 'ROUTER' if you want the setup guide!\n\nDrop your thoughts below \ud83d\udcac I read and reply to every comment.\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
+    "cover_url": "assets/sarav_trends/cover_trend01.png",
+    "cover_filename": "Shorts_Cover_Trend01.png",
+    "status": "COMPLETED"
+  },
+  {
+    "day": "Trend 2",
+    "episode": 2,
+    "concept": "Stop Paying $200/mo for AI: Free Antigravity Stack",
+    "category": "Zero-Cost AI Architecture",
+    "filename": "TREND_02_Stop_Paying_200_AI_Free_Setup_v3.mp4",
+    "title": "Stop Paying $200/mo for AI: Free Antigravity & Claude Code Setup #shorts #ai",
+    "description": "ZERO COST \u2022 UNLIMITED SESSIONS\n\nStop paying two hundred dollars a month for AI subscriptions. An enterprise architect just open-sourced his entire autonomous coding stack for free. It connects Claude Code directly to Google Antigravity, giving you over forty pre-configured skills, automated test runners, and real-time git workflows. Zero monthly SaaS fees. Universal Model Context Protocol servers connect your terminal directly to your local files, browsers, and databases. It runs completely open-source on your machine. One simple command sets up your entire autonomous developer workspace with zero vendor lock-in. Follow Sarav AI for daily enterprise blueprints. Grab the full setup guide below.",
+    "tags": "Google Antigravity, Claude Code, AI Subscriptions, Free AI Stack, Model Context Protocol, Open Source AI, Sarav x AI, Tech Radar",
+    "pinned_comment": "\ud83d\udc47 Stop burning $200/mo on AI wrappers! Comment 'BLUEPRINT' for the full open-source setup guide.\n\nDrop your tech stack below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
+    "cover_url": "assets/sarav_trends/cover_trend02.png",
+    "cover_filename": "Shorts_Cover_Trend02.png",
+    "status": "COMPLETED"
+  },
+  {
+    "day": "Trend 3",
+    "episode": 3,
+    "concept": "Top 3 AI Coding Skills for Non-Designers",
+    "category": "Zero-Cost AI Architecture",
+    "filename": "TREND_03_Top_3_AI_Coding_Skills_Non_Designers.mp4",
+    "title": "Top 3 AI Skills for Non-Designers: Make AI Apps Look Human Designed #shorts #ai",
+    "description": "KILL AI SLOP IN YOUR UI\n\nIf your AI-generated app looks like generic bootstrap from 2012, you're missing the top three skills that make interfaces look completely human-designed. First is the Taste skill. It strips away generic purple gradients and robotic borders, forcing Claude Code to use intentional typography and refined spacing. Second is the Emil Kowalski motion skill. It injects fluid spring physics and staggered layout animations instead of stiff robotic transitions. Third is the Impeccable standard. It mounts pre-audited accessible components so every button, modal, and card feels like a million-dollar SaaS product. Mount all three skills into Google Antigravity for free. Grab the setup blueprint below.",
+    "tags": "Claude Code Skills, AI Web Design, Google Antigravity, Frontend AI, Emil Kowalski Motion, UI UX Design, Sarav x AI, Tech Radar",
+    "pinned_comment": "\ud83d\udc47 Tired of ugly AI bootstrap templates? Comment 'SKILLS' and I'll send you the Taste & Motion config files!\n\nDrop your thoughts below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
+    "cover_url": "assets/sarav_trends/cover_trend03.png",
+    "cover_filename": "Shorts_Cover_Trend03.png",
+    "status": "QUEUED"
+  },
+  {
+    "day": "Trend 4",
+    "episode": 4,
+    "concept": "5 MCP Servers Every AI Developer Needs Right Now",
+    "category": "Zero-Cost AI Architecture",
+    "filename": "TREND_04_5_MCP_Servers_Every_AI_Developer_Needs.mp4",
+    "title": "5 MCP Servers Every AI Developer Needs Right Now (Anthropic Standard) #shorts #ai",
+    "description": "STOP COPY-PASTING INTO CHAT\n\nIf you're still copy-pasting code back and forth into chat boxes, you're wasting hours. These five Model Context Protocol servers give your AI real hands. First, Playwright MCP gives Claude full control of a headless browser for live clicks and form testing. Second, Filesystem MCP lets it refactor your local code directly. Third, Postgres MCP lets it execute live database queries safely. Fourth, Perplexity MCP allows real-time web research without switching tabs. Fifth is GitHub MCP. Claude reads git blame, reviews open pull requests, and pushes fixes automatically from your command line. Connect all five to Claude Code and Antigravity in two minutes. The config file is linked below.",
+    "tags": "Model Context Protocol, MCP Servers, Claude Code, Playwright MCP, Postgres MCP, GitHub MCP, Sarav x AI, Tech Radar",
+    "pinned_comment": "\ud83d\udc47 Which MCP server are you adding first? Comment 'MCP' for the complete plug-and-play config JSON!\n\nDrop your thoughts below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
+    "cover_url": "assets/sarav_trends/cover_trend04.png",
+    "cover_filename": "Shorts_Cover_Trend04.png",
+    "status": "QUEUED"
+  },
+  {
+    "day": "Trend 5",
+    "episode": 5,
+    "concept": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep",
+    "category": "Zero-Cost AI Architecture",
+    "filename": "TREND_05_5_Autonomous_AI_Features_While_You_Sleep.mp4",
+    "title": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep #shorts #ai",
+    "description": "DON'T BABYSIT AI PROMPTS\n\nEnterprise architects don't babysit AI prompts. Here are five autonomous workflows that run and maintain your entire tech stack while you sleep. First, autonomous test runners detect broken unit tests and trigger subagents to patch code overnight. Second, auto-refactoring cleans up technical debt across branches. Third, scheduled scrapers update your live database and analytics automatically. Fourth, 9Router failover silently switches endpoints if rate limits hit. Fifth, zero-cost social dispatches format and publish your builds across Telegram and GitHub without touching third-party SaaS wrappers. This is how you build leverage with zero capital burn. Follow Sarav AI for daily production blueprints.",
+    "tags": "Autonomous AI, AI Workflows, Enterprise AI, Google Antigravity, Claude Code, 9Router, Sarav x AI, Tech Radar",
+    "pinned_comment": "\ud83d\udc47 Want to automate your development stack overnight? Comment 'AUTONOMOUS' for the architecture flow diagram!\n\nDrop your questions below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
+    "cover_url": "assets/sarav_trends/cover_trend05.png",
+    "cover_filename": "Shorts_Cover_Trend05.png",
+    "status": "QUEUED"
+  },
+  {
+    "day": "Trend 6",
+    "episode": 6,
+    "concept": "Run a 100% Free AI Copilot Locally on Your Laptop",
+    "category": "Zero-Cost AI Architecture",
+    "filename": "TREND_06_Run_Free_AI_Copilot_Locally.mp4",
+    "title": "Run a 100% Free AI Copilot on Your Laptop (Zero Cloud Bills) #shorts #ai",
+    "description": "STOP PAYING $20/MO FOR COPILOT\n\nStop paying twenty dollars a month for AI code completions. You can run a private, high-speed coding copilot locally on your laptop for zero dollars. Install Ollama and pull Qwen 2.5 Coder 7B. It's an open-source model that outperforms GPT-4o-mini on software engineering benchmarks. Connect it directly to VS Code or Antigravity using Continue.dev. You get instant tab completions, inline diffs, and terminal execution with zero cloud lag. Zero monthly bills. Works completely offline on airplanes. And your company's proprietary code never touches an external server. One terminal command sets it up. Grab the step-by-step local install guide below.",
+    "tags": "Ollama, Qwen 2.5 Coder, Local AI, Free Copilot, Offline AI, VS Code AI, Sarav x AI, Tech Radar",
+    "pinned_comment": "\ud83d\udc47 Have you tried local AI coding yet? Comment 'LOCAL' for the 1-command install script!\n\nDrop your hardware specs below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
+    "cover_url": "assets/sarav_trends/cover_trend06.png",
+    "cover_filename": "Shorts_Cover_Trend06.png",
+    "status": "QUEUED"
+  }
+]
 };

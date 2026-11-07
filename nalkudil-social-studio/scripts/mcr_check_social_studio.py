@@ -181,7 +181,7 @@ try {
     vm.runInContext(appJs, sandbox);
 
     const catalog = sandbox.window.PUBLISHING_CATALOG;
-    const suites = ['sarav_ai', 'the_loop', 'sid_isha', 'inkling_ig'];
+    const suites = ['sarav_ai', 'sarav_trends', 'the_loop', 'sid_isha', 'inkling_ig'];
 
     let totalCards = 0;
     let totalCopyButtons = 0;
@@ -193,6 +193,7 @@ try {
             totalCards++;
             let cardHtml = '';
             if (suite === 'sarav_ai') cardHtml = sandbox.buildSaravAICard(item, false);
+            else if (suite === 'sarav_trends') cardHtml = sandbox.buildTrendsCard(item, false);
             else if (suite === 'the_loop') cardHtml = sandbox.buildTheLoopCard(item, false);
             else if (suite === 'sid_isha') cardHtml = sandbox.buildSidIshaCard(item, false);
             else if (suite === 'inkling_ig') cardHtml = sandbox.buildInklingIGCard(item, false);
@@ -267,7 +268,7 @@ try {
         print(f"  • Total Cards Audited: {result['totalCards']}")
         print(f"  • Total Copy Buttons Audited: {result['totalCopyButtons']}")
         if result['errorCount'] == 0:
-            print(f"  ✅ PASSED: All {result['totalCopyButtons']} copy buttons across all 4 suites resolve to 100% valid text!")
+            print(f"  ✅ PASSED: All {result['totalCopyButtons']} copy buttons across all 5 suites resolve to 100% valid text!")
         else:
             print(f"  ❌ FAILED: {result['errorCount']} resolution errors found:")
             for err in result['sampleErrors']:

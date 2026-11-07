@@ -1049,7 +1049,12 @@
         const checkLabel = cardEl.querySelector('.status-check-label');
         if (checkLabel) {
           checkLabel.classList.toggle('checked', isPub);
-          checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : 'Pending';
+          if (suite === 'sarav_trends') {
+            const trItem = (catalog.sarav_trends || []).find(x => x.episode === id);
+            checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : (trItem && trItem.status === 'COMPLETED' ? 'Ready 🚀' : 'Queued ⏳');
+          } else {
+            checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : 'Pending';
+          }
         }
       }
     }
@@ -1114,7 +1119,9 @@
       if (currentSuite === 'sarav_trends') {
         chips.push(
           { id: 'active', label: '🚀 Active / Live' },
-          { id: 'queued', label: '⏳ Queued' }
+          { id: 'queued', label: '⏳ Queued' },
+          { id: 'pending', label: '⏳ Pending' },
+          { id: 'published', label: '✅ Published' }
         );
       } else if (currentSuite === 'sarav_ai') {
         chips.push(
@@ -1182,11 +1189,6 @@
 
         // Suite specific filter
         if (currentSuite === 'sarav_trends') {
-        chips.push(
-          { id: 'active', label: '🚀 Active / Live' },
-          { id: 'queued', label: '⏳ Queued' }
-        );
-      } else if (currentSuite === 'sarav_trends') {
           if (currentFilter === 'active' && item.status !== 'COMPLETED') return false;
           if (currentFilter === 'queued' && item.status !== 'QUEUED') return false;
         } else if (currentSuite === 'sarav_ai') {
@@ -1254,14 +1256,9 @@
       filtered.forEach(item => {
         let cardHtml = '';
         if (currentSuite === 'sarav_trends') {
-        chips.push(
-          { id: 'active', label: '🚀 Active / Live' },
-          { id: 'queued', label: '⏳ Queued' }
-        );
-      } else if (currentSuite === 'sarav_ai') {
-          cardHtml = buildSaravAICard(item, pubSet.has(item.episode));
-        } else if (currentSuite === 'sarav_trends') {
           cardHtml = buildTrendsCard(item, pubSet.has(item.episode));
+        } else if (currentSuite === 'sarav_ai') {
+          cardHtml = buildSaravAICard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'the_loop') {
           cardHtml = buildTheLoopCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'sid_isha') {

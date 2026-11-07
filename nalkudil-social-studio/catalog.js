@@ -877,87 +877,87 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep037.png",
       "cover_filename": "Sarav_AI_Shorts_Ep037_Cover.png",
       "poll": {
-        "question": "What is 'Tree of Thoughts' (ToT) reasoning?",
+        "question": "What is 'Autonomous Planning' in agentic systems?",
         "options": [
-          "Planting trees using AI algorithms",
-          "Exploring multiple reasoning branches simultaneously, evaluating outcomes, and backtracking",
-          "Drawing family trees in PowerPoint",
-          "A decision tree in Excel"
+          "Writing 50 individual prompts manually",
+          "Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution",
+          "Asking ChatGPT to browse the web",
+          "Using multiple screens simultaneously"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 37/100\n\nWhat is 'Tree of Thoughts' (ToT) reasoning?\n\nA) Planting trees using AI algorithms\nB) Exploring multiple reasoning branches simultaneously, evaluating outcomes, and backtracking\nC) Drawing family trees in PowerPoint\nD) A decision tree in Excel\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 37/100\n\nWhat is 'Autonomous Planning' in agentic systems?\n\nA) Writing 50 individual prompts manually\nB) Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution\nC) Asking ChatGPT to browse the web\nD) Using multiple screens simultaneously\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
       "day": "Day 38",
       "episode": 38,
-      "concept": "Human in the Loop",
+      "concept": "Model Context Protocol (MCP)",
       "category": "Agentic AI",
-      "filename": "SIGMA_BYTE_38_Why_the_BEST_AI_Agents_St.mp4",
-      "title": "(Day 38/100) Stop 100% Unchecked AI Autonomy: Keep Humans in the Loop #shorts #ai",
-      "description": "Day 38 of 100 Days of Learning AI 👉 Stop 100% Unchecked AI Autonomy: Keep Humans in the Loop! 💡\nGiving AI uncontrolled write access to production databases or payment gateways is dangerous. Add Human-in-the-Loop approval gates.\n\n🧠 KEY TAKEAWAYS:\n- Human-in-the-Loop (HITL) pauses execution before high-risk irreversible actions.\n- Agents draft emails, SQL deletes, or money transfers, but require a human click to send.\n- Builds enterprise trust and safeguards against catastrophic hallucination loops.\n- The gold standard for deploying autonomous software in regulated industries.\n\n🔄 Let AI do 99% of the heavy lifting, but keep the human finger on the trigger.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 38 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nWould you let an AI agent autonomously send an email to your CEO without previewing it? Drop 'NEVER' or 'SURE' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #humanintheloop #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
-      "tags": "shorts, viral shorts, trending shorts, viral, trending, human in the loop, human in the loop explained, what is human in the loop, human in the loop ai, hitl agent architecture, safe ai autonomy, ai approval gates, enterprise agent safety, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
-      "pinned_comment": "👇 Day 38 Discussion: What is the highest risk action you allow your AI agents to execute without human approval? Drop your boundary below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 39 drops tomorrow at 6 PM! 🚀",
+      "filename": "SIGMA_BYTE_38_Why_Anthropics_MCP_Changes_Everything_for_AI_Tooling.mp4",
+      "title": "(Day 38/100) Stop Custom Tool Glue: Standardize on MCP #shorts #ai",
+      "description": "Day 38 of 100 Days of Learning AI 👉 Stop Custom Tool Glue: Standardize on MCP! 💡\nBefore MCP, connecting ten LLMs to five tools required fifty bespoke wrappers. Anthropic's Model Context Protocol acts like USB-C for AI: build an MCP server once and plug it directly into Claude, Cursor, Antigravity, or local agents.\n\n🧠 KEY TAKEAWAYS:\n- Model Context Protocol (MCP) is the universal open standard for AI-to-tool connections.\n- Build an MCP server once; connect it to Claude, Antigravity, Cursor, or any agent.\n- Decouples data sources (GitHub, PostgreSQL, Slack) from specific LLM models.\n- The 'USB-C moment' for artificial intelligence and tool integration.\n\n🔄 Stop writing custom glue code. Connect every tool with open MCP servers.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 38 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nHave you tested or built an MCP server yet? Drop 'TESTED' or 'LEARNING NOW' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #modelcontextprotocol #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
+      "tags": "shorts, viral shorts, trending shorts, model context protocol, mcp explained, what is model context protocol, what is mcp anthropic, mcp server tutorial, universal ai tool standard, anthropic mcp explained, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
+      "pinned_comment": "👇 Day 38 Discussion: Is Anthropic's Model Context Protocol (MCP) the permanent open standard for AI tools, or will competing protocols fragment the ecosystem? Drop your prediction below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 39 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep038.png",
       "cover_filename": "Sarav_AI_Shorts_Ep038_Cover.png",
       "poll": {
-        "question": "What is 'Human-in-the-Loop' (HITL) in autonomous workflows?",
+        "question": "What is the primary purpose of Anthropic's Model Context Protocol (MCP)?",
         "options": [
-          "A human typing prompts manually all day",
-          "Requiring human review & sign-off before executing high-risk actions (e.g. payments, deletion)",
-          "Playing video games during office hours",
-          "Replacing AI completely with human interns"
+          "A Minecraft gaming server mod",
+          "An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API",
+          "A cloud subscription billing mechanism",
+          "A method to speed up graphic rendering"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nWhat is 'Human-in-the-Loop' (HITL) in autonomous workflows?\n\nA) A human typing prompts manually all day\nB) Requiring human review & sign-off before executing high-risk actions (e.g. payments, deletion)\nC) Playing video games during office hours\nD) Replacing AI completely with human interns\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nWhat is the primary purpose of Anthropic's Model Context Protocol (MCP)?\n\nA) A Minecraft gaming server mod\nB) An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API\nC) A cloud subscription billing mechanism\nD) A method to speed up graphic rendering\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
       "day": "Day 39",
       "episode": 39,
-      "concept": "Agent Guardrails",
+      "concept": "Automated Evals & CI",
       "category": "Agentic AI",
-      "filename": "SIGMA_BYTE_39_The_Invisible_Fence_Keepi.mp4",
-      "title": "(Day 39/100) Stop Rogue AI Actions: Enforce Strict Guardrails #shorts #ai",
-      "description": "Day 39 of 100 Days of Learning AI 👉 Stop Rogue AI Actions: Enforce Strict Guardrails! 💡\nWithout fences, an AI agent could delete your database or leak customer PII. Guardrails act as deterministic runtime security filters.\n\n🧠 KEY TAKEAWAYS:\n- Guardrails inspect inputs and outputs before they hit the model or user.\n- Blocks prompt injections, PII leakage, banned topics, and destructive commands.\n- Implements strict token budgets and API rate limits to prevent runaway loops.\n- Uses frameworks like NeMo Guardrails and Guardrails AI for deterministic compliance.\n\n🔄 Prompts are suggestions; guardrails are unbreakable mathematical fences.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 39 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nDo you use software guardrails (like NeMo or Llama Guard) in your apps? Drop 'YES' or 'NOT YET' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #aiguardrails #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
-      "tags": "shorts, viral shorts, trending shorts, viral, trending, agent guardrails, agent guardrails explained, what is agent guardrails, ai guardrails, nemo guardrails tutorial, prevent rogue ai agents, llm security guardrails, agent boundary safety, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
-      "pinned_comment": "👇 Day 39 Discussion: What is your primary tool for AI guardrails? Regex filters, secondary small models, or dedicated frameworks? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 40 drops tomorrow at 6 PM! 🚀",
+      "filename": "SIGMA_BYTE_39_Evaluations_LLM_as_a_Judge_vs_Deterministic.mp4",
+      "title": "(Day 39/100) Stop Guessing AI Quality: Run Automated Evals #shorts #ai",
+      "description": "Day 39 of 100 Days of Learning AI 👉 Stop Guessing AI Quality: Run Automated Evals! 💡\nVibe checks are not an engineering strategy. Changing your prompt might fix one answer while breaking twenty others. Here is how production teams use fast deterministic assertions and LLM-as-a-Judge grading rubrics inside CI pipelines.\n\n🧠 KEY TAKEAWAYS:\n- Stop relying on vibe checks: prompt edits often introduce silent regressions across edge cases.\n- Fast deterministic checks validate schema adherence, latency bounds, and token budgets.\n- LLM-as-a-Judge scores semantic relevance, hallucination rates, and grounded citations.\n- Continuous evaluation in GitHub Actions CI ensures zero regressions ship to production.\n\n🔄 Measure before you ship. Never deploy AI updates based on gut feeling.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 39 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nHow do you evaluate your AI apps before pushing to production — manual vibe checks or automated evals? Drop 'VIBE' or 'EVALS' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #aievaluations #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
+      "tags": "shorts, viral shorts, trending shorts, ai evaluations, llm as a judge, automated ai testing, ragas eval, promptfoo, llm ci pipeline, ai benchmark, eval framework, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
+      "pinned_comment": "👇 Day 39 Discussion: How do you evaluate your AI apps before production: manual vibe checks, deterministic assertions, or LLM-as-a-Judge? Drop your workflow below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 40 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep039.png",
       "cover_filename": "Sarav_AI_Shorts_Ep039_Cover.png",
       "poll": {
-        "question": "What are 'Guardrails' in agentic systems?",
+        "question": "Why are 'Vibe Checks' insufficient for production AI engineering?",
         "options": [
-          "Physical fences around data center racks",
-          "Deterministic validation layers that enforce safety, schema, budget, and scope limits",
-          "The browser window borders",
-          "The terms of service checkbox"
+          "Vibes don't have enough colorful charts",
+          "Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions",
+          "Cloud APIs refuse prompts containing the word vibe",
+          "They consume 10x more GPU electricity"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nWhat are 'Guardrails' in agentic systems?\n\nA) Physical fences around data center racks\nB) Deterministic validation layers that enforce safety, schema, budget, and scope limits\nC) The browser window borders\nD) The terms of service checkbox\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nWhy are 'Vibe Checks' insufficient for production AI engineering?\n\nA) Vibes don't have enough colorful charts\nB) Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions\nC) Cloud APIs refuse prompts containing the word vibe\nD) They consume 10x more GPU electricity\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
       "day": "Day 40",
       "episode": 40,
-      "concept": "MCP",
+      "concept": "Local SLMs on NPUs",
       "category": "Agentic AI",
-      "filename": "SIGMA_BYTE_40_The_New_Standard_Letting.mp4",
-      "title": "(Day 40/100) Stop Writing Custom Tool Glue: Standardize on MCP #shorts #ai",
-      "description": "Day 40 of 100 Days of Learning AI 👉 Stop Writing Custom Tool Glue: Standardize on MCP! 💡\nWriting custom API wrappers for every database and tool is exhausting. Anthropic's Model Context Protocol (MCP) standardizes everything.\n\n🧠 KEY TAKEAWAYS:\n- Model Context Protocol (MCP) is the universal open standard for AI-to-tool connections.\n- Build an MCP server once; connect it to Claude, Antigravity, Cursor, or any agent.\n- Decouples data sources (GitHub, PostgreSQL, Slack) from specific LLM models.\n- The 'USB-C moment' for artificial intelligence and tool integration.\n\n🔄 Stop writing custom glue code. Connect every tool with open MCP servers.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 40 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nHave you tested or built an MCP server yet? Drop 'TESTED' or 'LEARNING NOW' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #modelcontextprotocol #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
-      "tags": "shorts, viral shorts, trending shorts, viral, trending, model context protocol, model context protocol explained, what is model context protocol, what is mcp anthropic, mcp server tutorial, universal ai tool standard, anthropic mcp explained, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
-      "pinned_comment": "👇 Day 40 Discussion: Is MCP the permanent standard for AI tool integration, or will OpenAI release a competing protocol? Drop your prediction below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 41 drops tomorrow at 6 PM! 🚀",
+      "filename": "SIGMA_BYTE_40_Cloud_AI_Is_Powerful_But_Edge_AI_Is_Free.mp4",
+      "title": "(Day 40/100) Stop Burning Cloud Credits: Run Local SLMs #shorts #ai",
+      "description": "Day 40 of 100 Days of Learning AI 👉 Stop Burning Cloud Credits: Run Local SLMs! 💡\nSending every internal user keystroke to a third-party cloud API introduces massive latency, soaring cloud costs, and compliance headaches. Small Language Models (SLMs) like Phi-4-mini and Qwen 3B run locally on device NPUs and consumer GPUs with zero cloud roundtrips.\n\n🧠 KEY TAKEAWAYS:\n- Cloud AI APIs introduce latency spikes, recurring SaaS subscription burn, and privacy vulnerabilities.\n- Modern Small Language Models (Phi-4-mini, Qwen 2.5 3B) deliver near-frontier reasoning at 3B parameters.\n- Quantization formats (GGUF, ONNX) allow 90+ tokens/sec on consumer laptops and dedicated NPUs.\n- Route low-complexity classification and embeddings locally; save cloud calls for complex synthesis.\n\n🔄 Run private, instant, zero-cost AI on the edge. Reserve cloud APIs for massive reasoning.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 40 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nWhat matters more to you for local AI: 100% data privacy or $0 API cost? Drop 'PRIVACY' or 'ZERO COST' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #localai #slm #ollama #edgeai #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
+      "tags": "shorts, viral shorts, trending shorts, local ai, slm on npu, ollama local llm, edge ai, phi 4 mini, qwen local, zero cloud cost ai, onnx runtime, gguf quantization, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
+      "pinned_comment": "👇 Day 40 Discussion: What is the primary reason you would run local SLMs on your laptop — zero API costs, zero internet latency, or 100% data privacy? Drop your choice below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 41 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep040.png",
       "cover_filename": "Sarav_AI_Shorts_Ep040_Cover.png",
       "poll": {
-        "question": "What is MCP (Model Context Protocol)?",
+        "question": "What is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?",
         "options": [
-          "A Minecraft multiplayer gaming protocol",
-          "An open standard enabling AI models to connect seamlessly to any local tool, DB, or API",
-          "Microsoft Certified Professional certification",
-          "A protocol for master clock timing"
+          "They require paying $20/month per user",
+          "Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy",
+          "They only run on massive cloud server clusters",
+          "They require an active internet connection for every single token"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nWhat is MCP (Model Context Protocol)?\n\nA) A Minecraft multiplayer gaming protocol\nB) An open standard enabling AI models to connect seamlessly to any local tool, DB, or API\nC) Microsoft Certified Professional certification\nD) A protocol for master clock timing\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nWhat is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?\n\nA) They require paying $20/month per user\nB) Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy\nC) They only run on massive cloud server clusters\nD) They require an active internet connection for every single token\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -973,15 +973,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep041_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Text to Image', what is the core architectural principle?",
+        "question": "How does Text-to-Image AI bridge natural language prompts to pixel synthesis?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "It searches Google Images and photocopies them",
+          "CLIP maps words to a shared semantic space, and Latent Diffusion iteratively denoises pixels",
+          "It converts letters directly into RGB hex codes sequentially",
+          "A human digital artist paints it behind a server curtain"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\n🧠 AI Architecture Quiz: In 'Text to Image', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nHow does Text-to-Image AI bridge natural language prompts to pixel synthesis?\n\nA) It searches Google Images and photocopies them\nB) CLIP maps words to a shared semantic space, and Latent Diffusion iteratively denoises pixels\nC) It converts letters directly into RGB hex codes sequentially\nD) A human digital artist paints it behind a server curtain\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -997,15 +997,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep042_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Text to Video', what is the core architectural principle?",
+        "question": "What prevents temporal flickering across frames in generative AI video models?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Increasing computer monitor refresh rate",
+          "Locking latent keyframe seeds and cross-frame temporal attention layers",
+          "Speeding up video playback to 120 FPS",
+          "Exporting only as animated GIF files"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\n🧠 AI Architecture Quiz: In 'Text to Video', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat prevents temporal flickering across frames in generative AI video models?\n\nA) Increasing computer monitor refresh rate\nB) Locking latent keyframe seeds and cross-frame temporal attention layers\nC) Speeding up video playback to 120 FPS\nD) Exporting only as animated GIF files\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1021,15 +1021,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep043_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Text to Speech', what is the core architectural principle?",
+        "question": "What is the function of a 'Neural Vocoder' in modern speech synthesis (TTS)?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "To filter microphone acoustic room hiss",
+          "To convert intermediate acoustic mel-spectrograms into high-fidelity raw audio waveforms",
+          "To translate English text to Spanish",
+          "To boost overall speaker volume by 10 dB"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\n🧠 AI Architecture Quiz: In 'Text to Speech', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the function of a 'Neural Vocoder' in modern speech synthesis (TTS)?\n\nA) To filter microphone acoustic room hiss\nB) To convert intermediate acoustic mel-spectrograms into high-fidelity raw audio waveforms\nC) To translate English text to Spanish\nD) To boost overall speaker volume by 10 dB\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1045,15 +1045,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep044_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Diffusion Models', what is the core architectural principle?",
+        "question": "What is the core mathematical mechanism inside 'Latent Diffusion'?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Multiplying random numbers until an image appears",
+          "Iterative noise removal (denoising) guided by a prompt vector in compressed latent space",
+          "Applying simple Gaussian blur filters across an image",
+          "Rendering 3D polygons in Unreal Engine"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\n🧠 AI Architecture Quiz: In 'Diffusion Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nWhat is the core mathematical mechanism inside 'Latent Diffusion'?\n\nA) Multiplying random numbers until an image appears\nB) Iterative noise removal (denoising) guided by a prompt vector in compressed latent space\nC) Applying simple Gaussian blur filters across an image\nD) Rendering 3D polygons in Unreal Engine\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1069,15 +1069,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep045_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Avatars', what is the core architectural principle?",
+        "question": "How do modern zero-shot avatar systems (like LivePortrait) animate facial expressions?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "By redrawing 24 full-resolution frames per second from scratch",
+          "By tracking 3D facial blendshapes and warping feature points onto the reference portrait",
+          "Using static cardboard cutout rotations",
+          "By replacing the face with a generic 3D polygon mask"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\n🧠 AI Architecture Quiz: In 'AI Avatars', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nHow do modern zero-shot avatar systems (like LivePortrait) animate facial expressions?\n\nA) By redrawing 24 full-resolution frames per second from scratch\nB) By tracking 3D facial blendshapes and warping feature points onto the reference portrait\nC) Using static cardboard cutout rotations\nD) By replacing the face with a generic 3D polygon mask\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1093,15 +1093,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep046_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Voice Cloning', what is the core architectural principle?",
+        "question": "What acoustic features make zero-shot voice cloning (F5-TTS) sound human?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Robotic autotune pitch correction",
+          "Prosody modeling, natural breathing pauses, and timbre matching from a 10s audio reference",
+          "Reading dictionary pronunciations in monotone",
+          "Speeding up speech by 200%"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\n🧠 AI Architecture Quiz: In 'Voice Cloning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nWhat acoustic features make zero-shot voice cloning (F5-TTS) sound human?\n\nA) Robotic autotune pitch correction\nB) Prosody modeling, natural breathing pauses, and timbre matching from a 10s audio reference\nC) Reading dictionary pronunciations in monotone\nD) Speeding up speech by 200%\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1117,15 +1117,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep047_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Music', what is the core architectural principle?",
+        "question": "How do AI music generators produce distinct audio stems (drums, bass, vocals)?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "By playing real MIDI instruments sequentially",
+          "By training multi-track diffusion models conditioned on musical tags, tempo, and stems",
+          "By searching royalty-free music libraries",
+          "By stitching 3-second radio samples together"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\n🧠 AI Architecture Quiz: In 'AI Music', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nHow do AI music generators produce distinct audio stems (drums, bass, vocals)?\n\nA) By playing real MIDI instruments sequentially\nB) By training multi-track diffusion models conditioned on musical tags, tempo, and stems\nC) By searching royalty-free music libraries\nD) By stitching 3-second radio samples together\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1141,15 +1141,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep048_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Image Upscaling', what is the core architectural principle?",
+        "question": "How does Generative AI Super-Resolution differ from standard bicubic upscaling?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "It simply doubles pixel dimensions and applies a blur filter",
+          "It hallucinates plausible high-frequency details (textures, skin pores, fabric) consistent with image semantics",
+          "It turns low-res images into cartoons",
+          "It requires scanning a physical photograph"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\n🧠 AI Architecture Quiz: In 'Image Upscaling', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nHow does Generative AI Super-Resolution differ from standard bicubic upscaling?\n\nA) It simply doubles pixel dimensions and applies a blur filter\nB) It hallucinates plausible high-frequency details (textures, skin pores, fabric) consistent with image semantics\nC) It turns low-res images into cartoons\nD) It requires scanning a physical photograph\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1165,15 +1165,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep049_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Multimodal AI', what is the core architectural principle?",
+        "question": "What makes Native Multimodal Transformers (e.g. Gemini 2.0 / GPT-4o) faster than legacy stacks?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "They use two completely separate cloud servers",
+          "Early fusion of vision, audio, and text into a single unified token space without separate OCR/TTS bridges",
+          "They only process text prompts",
+          "They skip attention mechanisms completely"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\n🧠 AI Architecture Quiz: In 'Multimodal AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nWhat makes Native Multimodal Transformers (e.g. Gemini 2.0 / GPT-4o) faster than legacy stacks?\n\nA) They use two completely separate cloud servers\nB) Early fusion of vision, audio, and text into a single unified token space without separate OCR/TTS bridges\nC) They only process text prompts\nD) They skip attention mechanisms completely\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -1189,15 +1189,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep050_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Style Transfer', what is the core architectural principle?",
+        "question": "What is 'Latent Separability' in Neural Style Transfer?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Cutting an image in half with digital scissors",
+          "Disentangling artistic style (brushstrokes, palette) from semantic content (geometry, objects) in latent layers",
+          "Converting color photos to black-and-white",
+          "Applying an Instagram vintage filter"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\n🧠 AI Architecture Quiz: In 'Style Transfer', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 1,
+        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nWhat is 'Latent Separability' in Neural Style Transfer?\n\nA) Cutting an image in half with digital scissors\nB) Disentangling artistic style (brushstrokes, palette) from semantic content (geometry, objects) in latent layers\nC) Converting color photos to black-and-white\nD) Applying an Instagram vintage filter\n\n👉 Drop your explanation in the comments below!"
       }
     },
     {
@@ -7848,89 +7848,89 @@ window.PUBLISHING_CATALOG = {
     }
   ],
   "sarav_trends": [
-  {
-    "day": "Trend 1",
-    "episode": 1,
-    "concept": "Run Claude Code Unlimited Free (9Router)",
-    "category": "Zero-Cost AI Architecture",
-    "filename": "TREND_01_Run_Claude_Code_Unlimited_Free_9Router.mp4",
-    "title": "Run Claude Code With UNLIMITED Usage for Free - 9Router #shorts #ai",
-    "description": "STOP PAYING FOR CLAUDE LIMITS\n\nStop paying for Claude Code rate limits. An open-source middleware called 9Router lets you run unlimited coding sessions completely free. It sits silently between Claude Code and free endpoints like Gemini 2.0 Flash, Kimi, and GLM. The second your Claude rate limit hits, 9Router automatically switches to the next free model without interrupting your terminal session or losing context. It works out of the box with Claude Code, Cursor, Google Antigravity, and OpenAI Codex. Zero subscription fees, zero downtime. Follow Sarav AI for daily enterprise blueprints. Grab the 9Router setup guide below.",
-    "tags": "9Router, Claude Code, Free Claude Code, Cursor AI, Google Antigravity, AI Coding Agents, Gemini 2.0 Flash, Sarav x AI, Tech Radar",
-    "pinned_comment": "\ud83d\udc47 Have you hit Claude Code's rate limits yet? Comment 'ROUTER' if you want the setup guide!\n\nDrop your thoughts below \ud83d\udcac I read and reply to every comment.\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
-    "cover_url": "assets/sarav_trends/cover_trend01.png",
-    "cover_filename": "Shorts_Cover_Trend01.png",
-    "status": "COMPLETED"
-  },
-  {
-    "day": "Trend 2",
-    "episode": 2,
-    "concept": "Stop Paying $200/mo for AI: Free Antigravity Stack",
-    "category": "Zero-Cost AI Architecture",
-    "filename": "TREND_02_Stop_Paying_200_AI_Free_Setup_v3.mp4",
-    "title": "Stop Paying $200/mo for AI: Free Antigravity & Claude Code Setup #shorts #ai",
-    "description": "ZERO COST \u2022 UNLIMITED SESSIONS\n\nStop paying two hundred dollars a month for AI subscriptions. An enterprise architect just open-sourced his entire autonomous coding stack for free. It connects Claude Code directly to Google Antigravity, giving you over forty pre-configured skills, automated test runners, and real-time git workflows. Zero monthly SaaS fees. Universal Model Context Protocol servers connect your terminal directly to your local files, browsers, and databases. It runs completely open-source on your machine. One simple command sets up your entire autonomous developer workspace with zero vendor lock-in. Follow Sarav AI for daily enterprise blueprints. Grab the full setup guide below.",
-    "tags": "Google Antigravity, Claude Code, AI Subscriptions, Free AI Stack, Model Context Protocol, Open Source AI, Sarav x AI, Tech Radar",
-    "pinned_comment": "\ud83d\udc47 Stop burning $200/mo on AI wrappers! Comment 'BLUEPRINT' for the full open-source setup guide.\n\nDrop your tech stack below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
-    "cover_url": "assets/sarav_trends/cover_trend02.png",
-    "cover_filename": "Shorts_Cover_Trend02.png",
-    "status": "COMPLETED"
-  },
-  {
-    "day": "Trend 3",
-    "episode": 3,
-    "concept": "Top 3 AI Coding Skills for Non-Designers",
-    "category": "Zero-Cost AI Architecture",
-    "filename": "TREND_03_Top_3_AI_Coding_Skills_Non_Designers.mp4",
-    "title": "Top 3 AI Skills for Non-Designers: Make AI Apps Look Human Designed #shorts #ai",
-    "description": "KILL AI SLOP IN YOUR UI\n\nIf your AI-generated app looks like generic bootstrap from 2012, you're missing the top three skills that make interfaces look completely human-designed. First is the Taste skill. It strips away generic purple gradients and robotic borders, forcing Claude Code to use intentional typography and refined spacing. Second is the Emil Kowalski motion skill. It injects fluid spring physics and staggered layout animations instead of stiff robotic transitions. Third is the Impeccable standard. It mounts pre-audited accessible components so every button, modal, and card feels like a million-dollar SaaS product. Mount all three skills into Google Antigravity for free. Grab the setup blueprint below.",
-    "tags": "Claude Code Skills, AI Web Design, Google Antigravity, Frontend AI, Emil Kowalski Motion, UI UX Design, Sarav x AI, Tech Radar",
-    "pinned_comment": "\ud83d\udc47 Tired of ugly AI bootstrap templates? Comment 'SKILLS' and I'll send you the Taste & Motion config files!\n\nDrop your thoughts below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
-    "cover_url": "assets/sarav_trends/cover_trend03.png",
-    "cover_filename": "Shorts_Cover_Trend03.png",
-    "status": "QUEUED"
-  },
-  {
-    "day": "Trend 4",
-    "episode": 4,
-    "concept": "5 MCP Servers Every AI Developer Needs Right Now",
-    "category": "Zero-Cost AI Architecture",
-    "filename": "TREND_04_5_MCP_Servers_Every_AI_Developer_Needs.mp4",
-    "title": "5 MCP Servers Every AI Developer Needs Right Now (Anthropic Standard) #shorts #ai",
-    "description": "STOP COPY-PASTING INTO CHAT\n\nIf you're still copy-pasting code back and forth into chat boxes, you're wasting hours. These five Model Context Protocol servers give your AI real hands. First, Playwright MCP gives Claude full control of a headless browser for live clicks and form testing. Second, Filesystem MCP lets it refactor your local code directly. Third, Postgres MCP lets it execute live database queries safely. Fourth, Perplexity MCP allows real-time web research without switching tabs. Fifth is GitHub MCP. Claude reads git blame, reviews open pull requests, and pushes fixes automatically from your command line. Connect all five to Claude Code and Antigravity in two minutes. The config file is linked below.",
-    "tags": "Model Context Protocol, MCP Servers, Claude Code, Playwright MCP, Postgres MCP, GitHub MCP, Sarav x AI, Tech Radar",
-    "pinned_comment": "\ud83d\udc47 Which MCP server are you adding first? Comment 'MCP' for the complete plug-and-play config JSON!\n\nDrop your thoughts below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
-    "cover_url": "assets/sarav_trends/cover_trend04.png",
-    "cover_filename": "Shorts_Cover_Trend04.png",
-    "status": "QUEUED"
-  },
-  {
-    "day": "Trend 5",
-    "episode": 5,
-    "concept": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep",
-    "category": "Zero-Cost AI Architecture",
-    "filename": "TREND_05_5_Autonomous_AI_Features_While_You_Sleep.mp4",
-    "title": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep #shorts #ai",
-    "description": "DON'T BABYSIT AI PROMPTS\n\nEnterprise architects don't babysit AI prompts. Here are five autonomous workflows that run and maintain your entire tech stack while you sleep. First, autonomous test runners detect broken unit tests and trigger subagents to patch code overnight. Second, auto-refactoring cleans up technical debt across branches. Third, scheduled scrapers update your live database and analytics automatically. Fourth, 9Router failover silently switches endpoints if rate limits hit. Fifth, zero-cost social dispatches format and publish your builds across Telegram and GitHub without touching third-party SaaS wrappers. This is how you build leverage with zero capital burn. Follow Sarav AI for daily production blueprints.",
-    "tags": "Autonomous AI, AI Workflows, Enterprise AI, Google Antigravity, Claude Code, 9Router, Sarav x AI, Tech Radar",
-    "pinned_comment": "\ud83d\udc47 Want to automate your development stack overnight? Comment 'AUTONOMOUS' for the architecture flow diagram!\n\nDrop your questions below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
-    "cover_url": "assets/sarav_trends/cover_trend05.png",
-    "cover_filename": "Shorts_Cover_Trend05.png",
-    "status": "QUEUED"
-  },
-  {
-    "day": "Trend 6",
-    "episode": 6,
-    "concept": "Run a 100% Free AI Copilot Locally on Your Laptop",
-    "category": "Zero-Cost AI Architecture",
-    "filename": "TREND_06_Run_Free_AI_Copilot_Locally.mp4",
-    "title": "Run a 100% Free AI Copilot on Your Laptop (Zero Cloud Bills) #shorts #ai",
-    "description": "STOP PAYING $20/MO FOR COPILOT\n\nStop paying twenty dollars a month for AI code completions. You can run a private, high-speed coding copilot locally on your laptop for zero dollars. Install Ollama and pull Qwen 2.5 Coder 7B. It's an open-source model that outperforms GPT-4o-mini on software engineering benchmarks. Connect it directly to VS Code or Antigravity using Continue.dev. You get instant tab completions, inline diffs, and terminal execution with zero cloud lag. Zero monthly bills. Works completely offline on airplanes. And your company's proprietary code never touches an external server. One terminal command sets it up. Grab the step-by-step local install guide below.",
-    "tags": "Ollama, Qwen 2.5 Coder, Local AI, Free Copilot, Offline AI, VS Code AI, Sarav x AI, Tech Radar",
-    "pinned_comment": "\ud83d\udc47 Have you tried local AI coding yet? Comment 'LOCAL' for the 1-command install script!\n\nDrop your hardware specs below \ud83d\udcac\n\n\ud83d\udccc Subscribe to @iamsaravofficial \u2014 Daily AI Tech Radar at 11:30 AM IST! \ud83d\ude80\n\ud83c\udf10 https://iamsaravofficial.com",
-    "cover_url": "assets/sarav_trends/cover_trend06.png",
-    "cover_filename": "Shorts_Cover_Trend06.png",
-    "status": "QUEUED"
-  }
-]
+    {
+      "day": "Trend 1",
+      "episode": 1,
+      "concept": "Run Claude Code Unlimited Free (9Router)",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_01_Run_Claude_Code_Unlimited_Free_9Router.mp4",
+      "title": "Run Claude Code With UNLIMITED Usage for Free - 9Router #shorts #ai",
+      "description": "STOP PAYING FOR CLAUDE LIMITS\n\nStop paying for Claude Code rate limits. An open-source middleware called 9Router lets you run unlimited coding sessions completely free. It sits silently between Claude Code and free endpoints like Gemini 2.0 Flash, Kimi, and GLM. The second your Claude rate limit hits, 9Router automatically switches to the next free model without interrupting your terminal session or losing context. It works out of the box with Claude Code, Cursor, Google Antigravity, and OpenAI Codex. Zero subscription fees, zero downtime. Follow Sarav AI for daily enterprise blueprints. Grab the 9Router setup guide below.",
+      "tags": "9Router, Claude Code, Free Claude Code, Cursor AI, Google Antigravity, AI Coding Agents, Gemini 2.0 Flash, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Have you hit Claude Code's rate limits yet? Comment 'ROUTER' if you want the setup guide!\n\nDrop your thoughts below 💬 I read and reply to every comment.\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend01.png",
+      "cover_filename": "Shorts_Cover_Trend01.png",
+      "status": "COMPLETED"
+    },
+    {
+      "day": "Trend 2",
+      "episode": 2,
+      "concept": "Stop Paying $200/mo for AI: Free Antigravity Stack",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_02_Stop_Paying_200_AI_Free_Setup_v3.mp4",
+      "title": "Stop Paying $200/mo for AI: Free Antigravity & Claude Code Setup #shorts #ai",
+      "description": "ZERO COST • UNLIMITED SESSIONS\n\nStop paying two hundred dollars a month for AI subscriptions. An enterprise architect just open-sourced his entire autonomous coding stack for free. It connects Claude Code directly to Google Antigravity, giving you over forty pre-configured skills, automated test runners, and real-time git workflows. Zero monthly SaaS fees. Universal Model Context Protocol servers connect your terminal directly to your local files, browsers, and databases. It runs completely open-source on your machine. One simple command sets up your entire autonomous developer workspace with zero vendor lock-in. Follow Sarav AI for daily enterprise blueprints. Grab the full setup guide below.",
+      "tags": "Google Antigravity, Claude Code, AI Subscriptions, Free AI Stack, Model Context Protocol, Open Source AI, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Stop burning $200/mo on AI wrappers! Comment 'BLUEPRINT' for the full open-source setup guide.\n\nDrop your tech stack below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend02.png",
+      "cover_filename": "Shorts_Cover_Trend02.png",
+      "status": "COMPLETED"
+    },
+    {
+      "day": "Trend 3",
+      "episode": 3,
+      "concept": "Top 3 AI Coding Skills for Non-Designers",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_03_Top_3_AI_Coding_Skills_Non_Designers.mp4",
+      "title": "Top 3 AI Skills for Non-Designers: Make AI Apps Look Human Designed #shorts #ai",
+      "description": "KILL AI SLOP IN YOUR UI\n\nIf your AI-generated app looks like generic bootstrap from 2012, you're missing the top three skills that make interfaces look completely human-designed. First is the Taste skill. It strips away generic purple gradients and robotic borders, forcing Claude Code to use intentional typography and refined spacing. Second is the Emil Kowalski motion skill. It injects fluid spring physics and staggered layout animations instead of stiff robotic transitions. Third is the Impeccable standard. It mounts pre-audited accessible components so every button, modal, and card feels like a million-dollar SaaS product. Mount all three skills into Google Antigravity for free. Grab the setup blueprint below.",
+      "tags": "Claude Code Skills, AI Web Design, Google Antigravity, Frontend AI, Emil Kowalski Motion, UI UX Design, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Tired of ugly AI bootstrap templates? Comment 'SKILLS' and I'll send you the Taste & Motion config files!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend03.png",
+      "cover_filename": "Shorts_Cover_Trend03.png",
+      "status": "COMPLETED"
+    },
+    {
+      "day": "Trend 4",
+      "episode": 4,
+      "concept": "5 MCP Servers Every AI Developer Needs Right Now",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_04_5_MCP_Servers_Every_AI_Developer_Needs.mp4",
+      "title": "5 MCP Servers Every AI Developer Needs Right Now (Anthropic Standard) #shorts #ai",
+      "description": "STOP COPY-PASTING INTO CHAT\n\nIf you're still copy-pasting code back and forth into chat boxes, you're wasting hours. These five Model Context Protocol servers give your AI real hands. First, Playwright MCP gives Claude full control of a headless browser for live clicks and form testing. Second, Filesystem MCP lets it refactor your local code directly. Third, Postgres MCP lets it execute live database queries safely. Fourth, Perplexity MCP allows real-time web research without switching tabs. Fifth is GitHub MCP. Claude reads git blame, reviews open pull requests, and pushes fixes automatically from your command line. Connect all five to Claude Code and Antigravity in two minutes. The config file is linked below.",
+      "tags": "Model Context Protocol, MCP Servers, Claude Code, Playwright MCP, Postgres MCP, GitHub MCP, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Which MCP server are you adding first? Comment 'MCP' for the complete plug-and-play config JSON!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend04.png",
+      "cover_filename": "Shorts_Cover_Trend04.png",
+      "status": "QUEUED"
+    },
+    {
+      "day": "Trend 5",
+      "episode": 5,
+      "concept": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_05_5_Autonomous_AI_Features_While_You_Sleep.mp4",
+      "title": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep #shorts #ai",
+      "description": "DON'T BABYSIT AI PROMPTS\n\nEnterprise architects don't babysit AI prompts. Here are five autonomous workflows that run and maintain your entire tech stack while you sleep. First, autonomous test runners detect broken unit tests and trigger subagents to patch code overnight. Second, auto-refactoring cleans up technical debt across branches. Third, scheduled scrapers update your live database and analytics automatically. Fourth, 9Router failover silently switches endpoints if rate limits hit. Fifth, zero-cost social dispatches format and publish your builds across Telegram and GitHub without touching third-party SaaS wrappers. This is how you build leverage with zero capital burn. Follow Sarav AI for daily production blueprints.",
+      "tags": "Autonomous AI, AI Workflows, Enterprise AI, Google Antigravity, Claude Code, 9Router, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Want to automate your development stack overnight? Comment 'AUTONOMOUS' for the architecture flow diagram!\n\nDrop your questions below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend05.png",
+      "cover_filename": "Shorts_Cover_Trend05.png",
+      "status": "QUEUED"
+    },
+    {
+      "day": "Trend 6",
+      "episode": 6,
+      "concept": "Run a 100% Free AI Copilot Locally on Your Laptop",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_06_Run_Free_AI_Copilot_Locally.mp4",
+      "title": "Run a 100% Free AI Copilot on Your Laptop (Zero Cloud Bills) #shorts #ai",
+      "description": "STOP PAYING $20/MO FOR COPILOT\n\nStop paying twenty dollars a month for AI code completions. You can run a private, high-speed coding copilot locally on your laptop for zero dollars. Install Ollama and pull Qwen 2.5 Coder 7B. It's an open-source model that outperforms GPT-4o-mini on software engineering benchmarks. Connect it directly to VS Code or Antigravity using Continue.dev. You get instant tab completions, inline diffs, and terminal execution with zero cloud lag. Zero monthly bills. Works completely offline on airplanes. And your company's proprietary code never touches an external server. One terminal command sets it up. Grab the step-by-step local install guide below.",
+      "tags": "Ollama, Qwen 2.5 Coder, Local AI, Free Copilot, Offline AI, VS Code AI, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Have you tried local AI coding yet? Comment 'LOCAL' for the 1-command install script!\n\nDrop your hardware specs below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend06.png",
+      "cover_filename": "Shorts_Cover_Trend06.png",
+      "status": "QUEUED"
+    }
+  ]
 };

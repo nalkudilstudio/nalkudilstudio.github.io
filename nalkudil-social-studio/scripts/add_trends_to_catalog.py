@@ -28,11 +28,13 @@ for t in master.get('trends', []):
 with open(catalog_path, 'r', encoding='utf-8') as f:
     content = f.read()
 
-last_idx = content.rfind('};')
-if last_idx != -1:
-    new_content = content[:last_idx].rstrip() + ',\n  "sarav_trends": ' + json.dumps(trends_items, indent=2) + '\n};\n'
+prefix = "window.PUBLISHING_CATALOG = "
+if content.startswith(prefix):
+    raw_json = content[len(prefix):].rstrip().rstrip(';')
+    catalog = json.loads(raw_json)
+    catalog["sarav_trends"] = trends_items
     with open(catalog_path, 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    print(f'✅ Successfully appended {len(trends_items)} sarav_trends to catalog.js!')
+        f.write("window.PUBLISHING_CATALOG = " + json.dumps(catalog, ensure_ascii=False, indent=2) + ";\n")
+    print(f'✅ Successfully updated {len(trends_items)} sarav_trends in catalog.js!')
 else:
-    print('❌ Could not find closing bracket in catalog.js')
+    print('❌ Unexpected catalog.js prefix format')

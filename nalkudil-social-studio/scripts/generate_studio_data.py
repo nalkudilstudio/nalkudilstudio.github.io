@@ -95,10 +95,20 @@ POLL_PATTERNS = {
     34: ("What is 'Persistent Memory' for AI agents?", ["Upgrading the computer's physical RAM to 64 GB", "Cross-session state storage allowing agents to remember user preferences & past decisions", "Keeping the browser tab open forever", "Hardcoding answers into the Python script"], 1),
     35: ("What is the ReAct loop in agentic architecture?", ["A JavaScript frontend UI framework", "Reason + Act + Observe iterative cycle until a goal is accomplished", "Reacting emotionally to user insults", "A video recording software"], 1),
     36: ("What is the role of an 'Agent Orchestrator' / Supervisor?", ["To pay the cloud server bills", "To decompose goals, assign sub-tasks to specialized worker agents, and synthesize results", "To monitor employee chat logs", "To schedule calendar meetings"], 1),
-    37: ("What is 'Tree of Thoughts' (ToT) reasoning?", ["Planting trees using AI algorithms", "Exploring multiple reasoning branches simultaneously, evaluating outcomes, and backtracking", "Drawing family trees in PowerPoint", "A decision tree in Excel"], 1),
-    38: ("What is 'Human-in-the-Loop' (HITL) in autonomous workflows?", ["A human typing prompts manually all day", "Requiring human review & sign-off before executing high-risk actions (e.g. payments, deletion)", "Playing video games during office hours", "Replacing AI completely with human interns"], 1),
-    39: ("What are 'Guardrails' in agentic systems?", ["Physical fences around data center racks", "Deterministic validation layers that enforce safety, schema, budget, and scope limits", "The browser window borders", "The terms of service checkbox"], 1),
-    40: ("What is MCP (Model Context Protocol)?", ["A Minecraft multiplayer gaming protocol", "An open standard enabling AI models to connect seamlessly to any local tool, DB, or API", "Microsoft Certified Professional certification", "A protocol for master clock timing"], 1),
+    37: ("What is 'Autonomous Planning' in agentic systems?", ["Writing 50 individual prompts manually", "Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution", "Asking ChatGPT to browse the web", "Using multiple screens simultaneously"], 1),
+    38: ("What is the primary purpose of Anthropic's Model Context Protocol (MCP)?", ["A Minecraft gaming server mod", "An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API", "A cloud subscription billing mechanism", "A method to speed up graphic rendering"], 1),
+    39: ("Why are 'Vibe Checks' insufficient for production AI engineering?", ["Vibes don't have enough colorful charts", "Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions", "Cloud APIs refuse prompts containing the word vibe", "They consume 10x more GPU electricity"], 1),
+    40: ("What is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?", ["They require paying $20/month per user", "Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy", "They only run on massive cloud server clusters", "They require an active internet connection for every single token"], 1),
+    41: ("How does Text-to-Image AI bridge natural language prompts to pixel synthesis?", ["It searches Google Images and photocopies them", "CLIP maps words to a shared semantic space, and Latent Diffusion iteratively denoises pixels", "It converts letters directly into RGB hex codes sequentially", "A human digital artist paints it behind a server curtain"], 1),
+    42: ("What prevents temporal flickering across frames in generative AI video models?", ["Increasing computer monitor refresh rate", "Locking latent keyframe seeds and cross-frame temporal attention layers", "Speeding up video playback to 120 FPS", "Exporting only as animated GIF files"], 1),
+    43: ("What is the function of a 'Neural Vocoder' in modern speech synthesis (TTS)?", ["To filter microphone acoustic room hiss", "To convert intermediate acoustic mel-spectrograms into high-fidelity raw audio waveforms", "To translate English text to Spanish", "To boost overall speaker volume by 10 dB"], 1),
+    44: ("What is the core mathematical mechanism inside 'Latent Diffusion'?", ["Multiplying random numbers until an image appears", "Iterative noise removal (denoising) guided by a prompt vector in compressed latent space", "Applying simple Gaussian blur filters across an image", "Rendering 3D polygons in Unreal Engine"], 1),
+    45: ("How do modern zero-shot avatar systems (like LivePortrait) animate facial expressions?", ["By redrawing 24 full-resolution frames per second from scratch", "By tracking 3D facial blendshapes and warping feature points onto the reference portrait", "Using static cardboard cutout rotations", "By replacing the face with a generic 3D polygon mask"], 1),
+    46: ("What acoustic features make zero-shot voice cloning (F5-TTS) sound human?", ["Robotic autotune pitch correction", "Prosody modeling, natural breathing pauses, and timbre matching from a 10s audio reference", "Reading dictionary pronunciations in monotone", "Speeding up speech by 200%"], 1),
+    47: ("How do AI music generators produce distinct audio stems (drums, bass, vocals)?", ["By playing real MIDI instruments sequentially", "By training multi-track diffusion models conditioned on musical tags, tempo, and stems", "By searching royalty-free music libraries", "By stitching 3-second radio samples together"], 1),
+    48: ("How does Generative AI Super-Resolution differ from standard bicubic upscaling?", ["It simply doubles pixel dimensions and applies a blur filter", "It hallucinates plausible high-frequency details (textures, skin pores, fabric) consistent with image semantics", "It turns low-res images into cartoons", "It requires scanning a physical photograph"], 1),
+    49: ("What makes Native Multimodal Transformers (e.g. Gemini 2.0 / GPT-4o) faster than legacy stacks?", ["They use two completely separate cloud servers", "Early fusion of vision, audio, and text into a single unified token space without separate OCR/TTS bridges", "They only process text prompts", "They skip attention mechanisms completely"], 1),
+    50: ("What is 'Latent Separability' in Neural Style Transfer?", ["Cutting an image in half with digital scissors", "Disentangling artistic style (brushstrokes, palette) from semantic content (geometry, objects) in latent layers", "Converting color photos to black-and-white", "Applying an Instagram vintage filter"], 1),
 }
 
 for row_idx, row in enumerate(ws_sarav.iter_rows(min_row=2, values_only=True), start=2):
@@ -112,11 +122,22 @@ for row_idx, row in enumerate(ws_sarav.iter_rows(min_row=2, values_only=True), s
     tags = str(row[h_map.get('Tags_Comma_Separated', 8)] or "")
     pinned = str(row[h_map.get('Pinned_Comment', 10)] or "")
 
-    # Cover selection: "always Stop one..."
-    # Match in SARAV_COVERS_DIR
+    # Cover selection: prioritize Option_1 with 'Stop', then any with 'Stop', then Option_1
     matched_covers = [f for f in sarav_cover_files if f'Ep{ep_num:02d}' in f or f'Ep{ep_num}_' in f]
-    stop_matched = [f for f in matched_covers if 'Option_1' in f or 'Stop' in f]
-    chosen_cover_file = stop_matched[0] if stop_matched else (matched_covers[0] if matched_covers else None)
+    opt1_stop = [f for f in matched_covers if 'Option_1' in f and 'stop' in f.lower()]
+    any_stop = [f for f in matched_covers if 'stop' in f.lower()]
+    opt1 = [f for f in matched_covers if 'Option_1' in f]
+    
+    if opt1_stop:
+        chosen_cover_file = opt1_stop[0]
+    elif any_stop:
+        chosen_cover_file = any_stop[0]
+    elif opt1:
+        chosen_cover_file = opt1[0]
+    elif matched_covers:
+        chosen_cover_file = matched_covers[0]
+    else:
+        chosen_cover_file = None
 
     cover_asset_path = None
     cover_download_name = f"Sarav_AI_Shorts_Ep{ep_num:03d}_Cover.png"

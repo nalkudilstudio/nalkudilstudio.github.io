@@ -122,13 +122,21 @@ for row_idx, row in enumerate(ws_sarav.iter_rows(min_row=2, values_only=True), s
     tags = str(row[h_map.get('Tags_Comma_Separated', 8)] or "")
     pinned = str(row[h_map.get('Pinned_Comment', 10)] or "")
 
-    # Cover selection: prioritize Option_1 with 'Stop', then any with 'Stop', then Option_1
+    # Cover selection: explicit curiosity overrides for 38-40, then prioritize Option_1 with 'Stop'
+    curiosity_overrides = {
+        38: "Shorts_Cover_Ep38_HUD_Option_1_Why_MCP_Changes_Everything.png",
+        39: "Shorts_Cover_Ep39_HUD_Option_1_Never_Ship_Unmeasured_AI.png",
+        40: "Shorts_Cover_Ep40_HUD_Option_1_Edge_AI_Is_Free.png"
+    }
+
     matched_covers = [f for f in sarav_cover_files if f'Ep{ep_num:02d}' in f or f'Ep{ep_num}_' in f]
     opt1_stop = [f for f in matched_covers if 'Option_1' in f and 'stop' in f.lower()]
     any_stop = [f for f in matched_covers if 'stop' in f.lower()]
     opt1 = [f for f in matched_covers if 'Option_1' in f]
     
-    if opt1_stop:
+    if ep_num in curiosity_overrides and curiosity_overrides[ep_num] in sarav_cover_files:
+        chosen_cover_file = curiosity_overrides[ep_num]
+    elif opt1_stop:
         chosen_cover_file = opt1_stop[0]
     elif any_stop:
         chosen_cover_file = any_stop[0]

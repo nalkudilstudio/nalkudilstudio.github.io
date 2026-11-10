@@ -22,7 +22,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 2,
         "full_text": "🗳️ COMMUNITY POLL • Day 1/100\n\nHow does an LLM like ChatGPT actually read your prompt?\n\nA) As letters & words like a human\nB) Through raw audio signals\nC) As numerical tokens (chunks of text)\nD) It reads the entire sentence as one pixel\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "1beFkdxqO-s",
+      "youtube_url": "https://www.youtube.com/shorts/1beFkdxqO-s"
     },
     {
       "day": "Day 2",
@@ -46,7 +49,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 2/100\n\nWhy does an AI begin forgetting things in a long conversation?\n\nA) The server battery gets low\nB) It exceeded its token context window limit\nC) The model gets bored of the topic\nD) Internet latency caused packet loss\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "mvegAJR9Qdg",
+      "youtube_url": "https://www.youtube.com/shorts/mvegAJR9Qdg"
     },
     {
       "day": "Day 3",
@@ -70,7 +76,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 3/100\n\nHow does AI understand that 'Doctor' and 'Hospital' are related?\n\nA) Manual human dictionary tags\nB) Vector embeddings plot them near each other in geometric space\nC) Alphabetical indexing\nD) Simple keyword exact matching\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "ghOUtQoi9x8",
+      "youtube_url": "https://www.youtube.com/shorts/ghOUtQoi9x8"
     },
     {
       "day": "Day 4",
@@ -94,7 +103,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 4/100\n\nWhat foundational 2017 architecture powers almost all modern LLMs?\n\nA) Convolutional Neural Networks (CNN)\nB) The Transformer (Self-Attention mechanism)\nC) Recurrent Neural Networks (RNN)\nD) Linear Regression Arrays\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "kWRB1bpI1QY",
+      "youtube_url": "https://www.youtube.com/shorts/kWRB1bpI1QY"
     },
     {
       "day": "Day 5",
@@ -118,7 +130,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 2,
         "full_text": "🗳️ COMMUNITY POLL • Day 5/100\n\nWhat actually happens when you ask AI to generate an answer?\n\nA) It searches Google and copies a blog post\nB) It looks up a pre-written database of human answers\nC) It predicts the most probable next token sequentially\nD) It stores your chat in a permanent hard drive first\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "TgiUHtfkWig",
+      "youtube_url": "https://www.youtube.com/shorts/TgiUHtfkWig"
     },
     {
       "day": "Day 6",
@@ -142,7 +157,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 6/100\n\nWhat does the 'Temperature' parameter (0.0 to 1.0) control in an LLM?\n\nA) The speed of the model's server fan\nB) Creativity / Randomness vs Deterministic accuracy\nC) The maximum number of words it can output\nD) The language translation sensitivity\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "-krKiNXAH_Y",
+      "youtube_url": "https://www.youtube.com/shorts/-krKiNXAH_Y"
     },
     {
       "day": "Day 7",
@@ -166,7 +184,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 7/100\n\nWhat is the primary cause of AI 'Hallucinations'?\n\nA) The AI has gained self-awareness and is lying\nB) The model predicts statistically plausible tokens without factual grounding\nC) A hardware glitch in the GPU\nD) The user's Wi-Fi dropped mid-generation\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "A7p_ETb7V48",
+      "youtube_url": "https://www.youtube.com/shorts/A7p_ETb7V48"
     },
     {
       "day": "Day 8",
@@ -190,7 +211,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 8/100\n\nWhich prompt strategy gives AI the fastest understanding of your desired format?\n\nA) Writing 5 paragraphs explaining the rules\nB) Few-Shot Prompting (giving 2–3 clear input/output examples)\nC) Typing in ALL CAPS\nD) Asking the AI to 'please try your absolute best'\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "EM7Ue3j2u1c",
+      "youtube_url": "https://www.youtube.com/shorts/EM7Ue3j2u1c"
     },
     {
       "day": "Day 9",
@@ -214,7 +238,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 9/100\n\nWhy does adding 'Think step-by-step' dramatically improve AI math & logic?\n\nA) It unlocks hidden supercomputer cores\nB) It forces Chain-of-Thought reasoning across intermediate tokens\nC) It bypasses OpenAI safety filters\nD) It forces the AI to check Wikipedia first\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "dI-iFQ1j_SY",
+      "youtube_url": "https://www.youtube.com/shorts/dI-iFQ1j_SY"
     },
     {
       "day": "Day 10",
@@ -238,7 +265,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 10/100\n\nWhat does 'System Prompt' mean in LLM architecture?\n\nA) The operating system version (Windows/Linux)\nB) The hidden root instruction that defines the AI's persona & strict behavioral boundaries\nC) The computer processor clock speed\nD) The prompt entered by end users in chat\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "xnhOWpL_P0E",
+      "youtube_url": "https://www.youtube.com/shorts/xnhOWpL_P0E"
     },
     {
       "day": "Day 11",
@@ -262,7 +292,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 11/100\n\nWhy should you structure complex AI outputs as JSON schemas?\n\nA) It looks cooler in presentation slides\nB) It guarantees machine-parsable, deterministic data for software APIs\nC) It cuts the cost of ChatGPT Plus in half\nD) It prevents the AI from using English\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "os_bDL3rLKM",
+      "youtube_url": "https://www.youtube.com/shorts/os_bDL3rLKM"
     },
     {
       "day": "Day 12",
@@ -286,7 +319,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 12/100\n\nWhat is 'Prompt Chaining'?\n\nA) Sending 50 questions in one huge prompt\nB) Breaking a complex workflow into sequential prompts where Output A feeds Prompt B\nC) Linking multiple ChatGPT accounts together\nD) Repeating the same prompt 10 times until it works\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "tZ_ka5zOvz0",
+      "youtube_url": "https://www.youtube.com/shorts/tZ_ka5zOvz0"
     },
     {
       "day": "Day 13",
@@ -310,7 +346,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 13/100\n\nWhat is the RCTF prompt formula developed for production engineering?\n\nA) Read, Calculate, Test, Finalize\nB) Role, Context, Task, Format\nC) Run, Cache, Trace, Flush\nD) Retrieve, Chunk, Transform, Filter\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "xjEeQ-YiteU",
+      "youtube_url": "https://www.youtube.com/shorts/xjEeQ-YiteU"
     },
     {
       "day": "Day 14",
@@ -334,7 +373,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 14/100\n\nWhat is 'Meta-Prompting'?\n\nA) Asking Mark Zuckerberg for permission\nB) Using an advanced LLM to write, refine, and optimize your prompts for you\nC) Writing prompts only inside Facebook Messenger\nD) Prompting AI using raw binary code\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "i9KuTmULUfs",
+      "youtube_url": "https://www.youtube.com/shorts/i9KuTmULUfs"
     },
     {
       "day": "Day 15",
@@ -358,7 +400,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 15/100\n\nWhat is the most effective way to eliminate generic corporate fluff in AI drafts?\n\nA) Invert the instruction: explicitly forbid clichés and specify what NOT to say\nB) Add more exclamation marks\nC) Tell the AI you will tip it $200\nD) Use older AI models like GPT-2\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "KFLDBvjufkA",
+      "youtube_url": "https://www.youtube.com/shorts/KFLDBvjufkA"
     },
     {
       "day": "Day 16",
@@ -382,7 +427,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 16/100\n\nWhat is 'Prompt Injection' in AI security?\n\nA) Injecting Python code into the computer BIOS\nB) An adversary tricking the LLM into ignoring its system prompt via malicious user input\nC) Adding too many tokens into a prompt\nD) Upgrading the model via a software patch\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "_yAo-Ej18eg",
+      "youtube_url": "https://www.youtube.com/shorts/_yAo-Ej18eg"
     },
     {
       "day": "Day 17",
@@ -406,7 +454,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 17/100\n\nWhat is the main advantage of Markdown formatting in prompt design?\n\nA) It allows bold text in terminal outputs\nB) Clear visual delimitation (`###`, `---`, `\\`\\`\\``) helps attention heads isolate sections\nC) It reduces network bandwidth by 80%\nD) It prevents copyright infringement\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "LXaadvIMv6s",
+      "youtube_url": "https://www.youtube.com/shorts/LXaadvIMv6s"
     },
     {
       "day": "Day 18",
@@ -430,7 +481,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 18/100\n\nWhat is 'Directional Stimulus Prompting'?\n\nA) Pointing your antenna toward the cloud server\nB) Providing small hint tokens or keywords that steer the LLM toward key concepts\nC) Prompting only in directional arrows\nD) Asking AI to navigate GPS maps\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "8lG7o0zeCLA",
+      "youtube_url": "https://www.youtube.com/shorts/8lG7o0zeCLA"
     },
     {
       "day": "Day 19",
@@ -454,7 +508,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 19/100\n\nWhat should you always do before accepting an AI's first draft?\n\nA) Copy-paste it directly to production\nB) Run a Self-Refinement / Critique pass ('Review your answer for flaws and fix them')\nC) Turn off your computer\nD) Re-read it 10 times in silence\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "c-DmZdCa7W0",
+      "youtube_url": "https://www.youtube.com/shorts/c-DmZdCa7W0"
     },
     {
       "day": "Day 20",
@@ -478,7 +535,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 20/100\n\nWhy do LLMs struggle with counting letters (e.g. 'how many r's in strawberry')?\n\nA) They are terrible at basic math\nB) They process text as multi-letter tokens, not individual character arrays\nC) They don't know what strawberries are\nD) Their training data excluded fruits\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "-XcuPBDl2aM",
+      "youtube_url": "https://www.youtube.com/shorts/-XcuPBDl2aM"
     },
     {
       "day": "Day 21",
@@ -502,7 +562,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 21/100\n\nWhat is RAG (Retrieval-Augmented Generation)?\n\nA) A new video game rendering engine\nB) Injecting external private documents into the prompt at runtime so AI answers factually\nC) A method to delete old chat histories\nD) Training a brand new foundation model from scratch\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "5MKvLB09J-c",
+      "youtube_url": "https://www.youtube.com/shorts/5MKvLB09J-c"
     },
     {
       "day": "Day 22",
@@ -526,7 +589,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 22/100\n\nWhy are Vector Databases better than SQL for semantic search?\n\nA) They store numbers faster than words\nB) They find meaning and semantic similarity, not just exact keyword matches\nC) They are 100% free forever\nD) They replace the need for an operating system\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "-AaLQMEHZAU",
+      "youtube_url": "https://www.youtube.com/shorts/-AaLQMEHZAU"
     },
     {
       "day": "Day 23",
@@ -550,7 +616,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 23/100\n\nWhat is 'Chunking' in a RAG pipeline?\n\nA) Deleting duplicate files from the hard drive\nB) Splitting large documents into smaller, semantically coherent passages for embedding\nC) Compressing images to 8-bit color\nD) Combining 10 PDFs into one giant zip file\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "cCyNsnQAe-Q",
+      "youtube_url": "https://www.youtube.com/shorts/cCyNsnQAe-Q"
     },
     {
       "day": "Day 24",
@@ -574,7 +643,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 24/100\n\nWhat happens if you dump a 500-page PDF directly into a 1M context window?\n\nA) The AI answers with 100% accuracy instantly\nB) 'Lost in the Middle' phenomenon: precision drops and latency/cost skyrocket\nC) The AI server permanently crashes\nD) The PDF gets automatically deleted\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "8cc_WGDMOBU",
+      "youtube_url": "https://www.youtube.com/shorts/8cc_WGDMOBU"
     },
     {
       "day": "Day 25",
@@ -598,7 +670,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 25/100\n\nWhat metric is commonly used to measure distance between two vector embeddings?\n\nA) Miles / Kilometers\nB) Cosine Similarity / Dot Product\nC) Decibels (dB)\nD) Pixels per inch (PPI)\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "qY2LbgivWWU",
+      "youtube_url": "https://www.youtube.com/shorts/qY2LbgivWWU"
     },
     {
       "day": "Day 26",
@@ -622,7 +697,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 26/100\n\nWhat is the role of a 'Reranker' in enterprise search?\n\nA) To rank employees by performance\nB) A cross-encoder that re-scores top vector candidates for true semantic relevance\nC) To sort database files alphabetically\nD) To filter out spam emails\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "lswnFGuDIq8",
+      "youtube_url": "https://www.youtube.com/shorts/lswnFGuDIq8"
     },
     {
       "day": "Day 27",
@@ -646,7 +724,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 27/100\n\nHow does Knowledge Grounding eliminate hallucinations?\n\nA) By threatening to cancel the AI subscription\nB) By constraining the LLM to answer ONLY from retrieved context citations\nC) By setting temperature to 2.0\nD) By using edge-tts voices\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "KSSWj-5mPus",
+      "youtube_url": "https://www.youtube.com/shorts/KSSWj-5mPus"
     },
     {
       "day": "Day 28",
@@ -670,7 +751,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 28/100\n\nWhat is 'Hybrid Search' in modern enterprise retrieval?\n\nA) Searching on both Google and Bing simultaneously\nB) Combining dense semantic vector search with sparse keyword search (BM25)\nC) Using both Wi-Fi and Ethernet\nD) Searching text and video at the exact same millisecond\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "O6R4vPadEgk",
+      "youtube_url": "https://www.youtube.com/shorts/O6R4vPadEgk"
     },
     {
       "day": "Day 29",
@@ -694,7 +778,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 29/100\n\nHow do production chatbots remember user state without bloating context?\n\nA) They don't, they forget everything immediately\nB) Dynamic Context Injection from a lightweight external session store\nC) They save the entire conversation history into every prompt\nD) They run constantly in the background\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "fwShBL1tWvo",
+      "youtube_url": "https://www.youtube.com/shorts/fwShBL1tWvo"
     },
     {
       "day": "Day 30",
@@ -718,7 +805,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 30/100\n\nWhat is 'Semantic Caching'?\n\nA) Clearing your browser cookies every 24 hours\nB) Storing prior query embeddings and returning cached answers for similar questions\nC) Caching only images and CSS files\nD) Saving chat logs to a thumb drive\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "L61U79mMTLY",
+      "youtube_url": "https://www.youtube.com/shorts/L61U79mMTLY"
     },
     {
       "day": "Day 31",
@@ -742,7 +832,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 31/100\n\nWhat differentiates an 'AI Agent' from a standard chatbot?\n\nA) Agents have colorful 3D avatars\nB) Agents can plan, use external tools, call APIs, and execute autonomous multi-step tasks\nC) Agents cost $50 per month\nD) Agents only speak in audio\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "ORpH9c0crUM",
+      "youtube_url": "https://www.youtube.com/shorts/ORpH9c0crUM"
     },
     {
       "day": "Day 32",
@@ -766,7 +859,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 32/100\n\nWhat is 'Tool Calling' / 'Function Calling' in LLMs?\n\nA) Asking the AI to recommend software apps\nB) The model outputting structured arguments to trigger real external APIs and code\nC) Calling customer support on the telephone\nD) Installing a Python package on Windows\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "smgvSDF_r2Y",
+      "youtube_url": "https://www.youtube.com/shorts/smgvSDF_r2Y"
     },
     {
       "day": "Day 33",
@@ -790,7 +886,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 33/100\n\nWhy is a Multi-Agent Specialist Squad superior to a single giant prompt?\n\nA) It uses more electricity\nB) Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce cognitive error\nC) It takes 10x longer to run\nD) Single agents refuse to work overtime\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "7EjgeXQrLsk",
+      "youtube_url": "https://www.youtube.com/shorts/7EjgeXQrLsk"
     },
     {
       "day": "Day 34",
@@ -814,7 +913,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 34/100\n\nWhat is 'Persistent Memory' for AI agents?\n\nA) Upgrading the computer's physical RAM to 64 GB\nB) Cross-session state storage allowing agents to remember user preferences & past decisions\nC) Keeping the browser tab open forever\nD) Hardcoding answers into the Python script\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "08iitruCQgs",
+      "youtube_url": "https://www.youtube.com/shorts/08iitruCQgs"
     },
     {
       "day": "Day 35",
@@ -838,7 +940,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 35/100\n\nWhat is the ReAct loop in agentic architecture?\n\nA) A JavaScript frontend UI framework\nB) Reason + Act + Observe iterative cycle until a goal is accomplished\nC) Reacting emotionally to user insults\nD) A video recording software\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "5UY-dd-ZHN4",
+      "youtube_url": "https://www.youtube.com/shorts/5UY-dd-ZHN4"
     },
     {
       "day": "Day 36",
@@ -862,7 +967,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 36/100\n\nWhat is the role of an 'Agent Orchestrator' / Supervisor?\n\nA) To pay the cloud server bills\nB) To decompose goals, assign sub-tasks to specialized worker agents, and synthesize results\nC) To monitor employee chat logs\nD) To schedule calendar meetings\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "ktqwATHzvS8",
+      "youtube_url": "https://www.youtube.com/shorts/ktqwATHzvS8"
     },
     {
       "day": "Day 37",
@@ -886,7 +994,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 37/100\n\nWhat is 'Autonomous Planning' in agentic systems?\n\nA) Writing 50 individual prompts manually\nB) Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution\nC) Asking ChatGPT to browse the web\nD) Using multiple screens simultaneously\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "fav-pse9DUs",
+      "youtube_url": "https://www.youtube.com/shorts/fav-pse9DUs"
     },
     {
       "day": "Day 38",
@@ -910,7 +1021,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nWhat is the primary purpose of Anthropic's Model Context Protocol (MCP)?\n\nA) A Minecraft gaming server mod\nB) An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API\nC) A cloud subscription billing mechanism\nD) A method to speed up graphic rendering\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "-BT8QtTRG8o",
+      "youtube_url": "https://www.youtube.com/shorts/-BT8QtTRG8o"
     },
     {
       "day": "Day 39",
@@ -934,7 +1048,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nWhy are 'Vibe Checks' insufficient for production AI engineering?\n\nA) Vibes don't have enough colorful charts\nB) Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions\nC) Cloud APIs refuse prompts containing the word vibe\nD) They consume 10x more GPU electricity\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "c-R3SjKeUTg",
+      "youtube_url": "https://www.youtube.com/shorts/c-R3SjKeUTg"
     },
     {
       "day": "Day 40",
@@ -958,7 +1075,10 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nWhat is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?\n\nA) They require paying $20/month per user\nB) Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy\nC) They only run on massive cloud server clusters\nD) They require an active internet connection for every single token\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "PUBLISHED",
+      "youtube_id": "f-CCh39WHfg",
+      "youtube_url": "https://www.youtube.com/shorts/f-CCh39WHfg"
     },
     {
       "day": "Day 41",
@@ -982,7 +1102,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nHow does Text-to-Image AI bridge natural language prompts to pixel synthesis?\n\nA) It searches Google Images and photocopies them\nB) CLIP maps words to a shared semantic space, and Latent Diffusion iteratively denoises pixels\nC) It converts letters directly into RGB hex codes sequentially\nD) A human digital artist paints it behind a server curtain\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 42",
@@ -1006,7 +1127,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat prevents temporal flickering across frames in generative AI video models?\n\nA) Increasing computer monitor refresh rate\nB) Locking latent keyframe seeds and cross-frame temporal attention layers\nC) Speeding up video playback to 120 FPS\nD) Exporting only as animated GIF files\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 43",
@@ -1030,7 +1152,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the function of a 'Neural Vocoder' in modern speech synthesis (TTS)?\n\nA) To filter microphone acoustic room hiss\nB) To convert intermediate acoustic mel-spectrograms into high-fidelity raw audio waveforms\nC) To translate English text to Spanish\nD) To boost overall speaker volume by 10 dB\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 44",
@@ -1054,7 +1177,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nWhat is the core mathematical mechanism inside 'Latent Diffusion'?\n\nA) Multiplying random numbers until an image appears\nB) Iterative noise removal (denoising) guided by a prompt vector in compressed latent space\nC) Applying simple Gaussian blur filters across an image\nD) Rendering 3D polygons in Unreal Engine\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 45",
@@ -1078,7 +1202,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nHow do modern zero-shot avatar systems (like LivePortrait) animate facial expressions?\n\nA) By redrawing 24 full-resolution frames per second from scratch\nB) By tracking 3D facial blendshapes and warping feature points onto the reference portrait\nC) Using static cardboard cutout rotations\nD) By replacing the face with a generic 3D polygon mask\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 46",
@@ -1102,7 +1227,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nWhat acoustic features make zero-shot voice cloning (F5-TTS) sound human?\n\nA) Robotic autotune pitch correction\nB) Prosody modeling, natural breathing pauses, and timbre matching from a 10s audio reference\nC) Reading dictionary pronunciations in monotone\nD) Speeding up speech by 200%\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 47",
@@ -1126,7 +1252,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nHow do AI music generators produce distinct audio stems (drums, bass, vocals)?\n\nA) By playing real MIDI instruments sequentially\nB) By training multi-track diffusion models conditioned on musical tags, tempo, and stems\nC) By searching royalty-free music libraries\nD) By stitching 3-second radio samples together\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 48",
@@ -1150,7 +1277,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nHow does Generative AI Super-Resolution differ from standard bicubic upscaling?\n\nA) It simply doubles pixel dimensions and applies a blur filter\nB) It hallucinates plausible high-frequency details (textures, skin pores, fabric) consistent with image semantics\nC) It turns low-res images into cartoons\nD) It requires scanning a physical photograph\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 49",
@@ -1174,7 +1302,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nWhat makes Native Multimodal Transformers (e.g. Gemini 2.0 / GPT-4o) faster than legacy stacks?\n\nA) They use two completely separate cloud servers\nB) Early fusion of vision, audio, and text into a single unified token space without separate OCR/TTS bridges\nC) They only process text prompts\nD) They skip attention mechanisms completely\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 50",
@@ -1198,7 +1327,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nWhat is 'Latent Separability' in Neural Style Transfer?\n\nA) Cutting an image in half with digital scissors\nB) Disentangling artistic style (brushstrokes, palette) from semantic content (geometry, objects) in latent layers\nC) Converting color photos to black-and-white\nD) Applying an Instagram vintage filter\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 51",
@@ -1222,7 +1352,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 51/100\n\n🧠 AI Architecture Quiz: In 'AI Bias', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 52",
@@ -1246,7 +1377,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 52/100\n\n🧠 AI Architecture Quiz: In 'AI Alignment', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 53",
@@ -1270,7 +1402,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 53/100\n\n🧠 AI Architecture Quiz: In 'RLHF', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 54",
@@ -1294,7 +1427,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 54/100\n\n🧠 AI Architecture Quiz: In 'Deepfakes', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 55",
@@ -1318,7 +1452,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 55/100\n\n🧠 AI Architecture Quiz: In 'AI Regulation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 56",
@@ -1342,7 +1477,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 56/100\n\n🧠 AI Architecture Quiz: In 'Explainable AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 57",
@@ -1366,7 +1502,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 57/100\n\n🧠 AI Architecture Quiz: In 'AI Privacy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 58",
@@ -1390,7 +1527,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 58/100\n\n🧠 AI Architecture Quiz: In 'AI Watermarking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 59",
@@ -1414,7 +1552,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 59/100\n\n🧠 AI Architecture Quiz: In 'Model Cards', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 60",
@@ -1438,7 +1577,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 60/100\n\n🧠 AI Architecture Quiz: In 'Responsible AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 61",
@@ -1462,7 +1602,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 61/100\n\n🧠 AI Architecture Quiz: In 'AI Copilots', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 62",
@@ -1486,7 +1627,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 62/100\n\n🧠 AI Architecture Quiz: In 'No Code AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 63",
@@ -1510,7 +1652,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 63/100\n\n🧠 AI Architecture Quiz: In 'Enterprise AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 64",
@@ -1534,7 +1677,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 64/100\n\n🧠 AI Architecture Quiz: In 'AI Automation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 65",
@@ -1558,7 +1702,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 65/100\n\n🧠 AI Architecture Quiz: In 'AI Customer Support', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 66",
@@ -1582,7 +1727,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 66/100\n\n🧠 AI Architecture Quiz: In 'AI Code Assistants', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 67",
@@ -1606,7 +1752,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 67/100\n\n🧠 AI Architecture Quiz: In 'AI Governance', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 68",
@@ -1630,7 +1777,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 68/100\n\n🧠 AI Architecture Quiz: In 'AI ROI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 69",
@@ -1654,7 +1802,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 69/100\n\n🧠 AI Architecture Quiz: In 'AI Change Management', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 70",
@@ -1678,7 +1827,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 70/100\n\n🧠 AI Architecture Quiz: In 'Vendor Lock-in', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 71",
@@ -1702,7 +1852,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 71/100\n\n🧠 AI Architecture Quiz: In 'Fine-tuning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 72",
@@ -1726,7 +1877,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 72/100\n\n🧠 AI Architecture Quiz: In 'LoRA', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 73",
@@ -1750,7 +1902,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 73/100\n\n🧠 AI Architecture Quiz: In 'Quantization', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 74",
@@ -1774,7 +1927,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 74/100\n\n🧠 AI Architecture Quiz: In 'Mixture of Experts', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 75",
@@ -1798,7 +1952,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 75/100\n\n🧠 AI Architecture Quiz: In 'Knowledge Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 76",
@@ -1822,7 +1977,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 76/100\n\n🧠 AI Architecture Quiz: In 'Scaling Laws', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 77",
@@ -1846,7 +2002,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 77/100\n\n🧠 AI Architecture Quiz: In 'Pretraining', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 78",
@@ -1870,7 +2027,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 78/100\n\n🧠 AI Architecture Quiz: In 'Synthetic Data', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 79",
@@ -1894,7 +2052,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 79/100\n\n🧠 AI Architecture Quiz: In 'Model Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 80",
@@ -1918,7 +2077,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 80/100\n\n🧠 AI Architecture Quiz: In 'Sparse Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 81",
@@ -1942,7 +2102,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 81/100\n\n🧠 AI Architecture Quiz: In 'AGI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 82",
@@ -1966,7 +2127,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 82/100\n\n🧠 AI Architecture Quiz: In 'Emergent Abilities', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 83",
@@ -1990,7 +2152,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 83/100\n\n🧠 AI Architecture Quiz: In 'Frontier Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 84",
@@ -2014,7 +2177,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 84/100\n\n🧠 AI Architecture Quiz: In 'Open Source AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 85",
@@ -2038,7 +2202,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 85/100\n\n🧠 AI Architecture Quiz: In 'On-device AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 86",
@@ -2062,7 +2227,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 86/100\n\n🧠 AI Architecture Quiz: In 'AI Agents Economy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 87",
@@ -2086,7 +2252,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 87/100\n\n🧠 AI Architecture Quiz: In 'Local LLMs', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 88",
@@ -2110,7 +2277,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 88/100\n\n🧠 AI Architecture Quiz: In 'Context Caching', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 89",
@@ -2134,7 +2302,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 89/100\n\n🧠 AI Architecture Quiz: In 'MCP', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 90",
@@ -2158,7 +2327,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 90/100\n\n🧠 AI Architecture Quiz: In 'AI Model Names', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 91",
@@ -2182,7 +2352,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 91/100\n\n🧠 AI Architecture Quiz: In 'AI Skills', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 92",
@@ -2206,7 +2377,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 92/100\n\n🧠 AI Architecture Quiz: In 'AI Note Taking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 93",
@@ -2230,7 +2402,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 93/100\n\n🧠 AI Architecture Quiz: In 'AI Coding', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 94",
@@ -2254,7 +2427,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 94/100\n\n🧠 AI Architecture Quiz: In 'AI Email', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 95",
@@ -2278,7 +2452,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 95/100\n\n🧠 AI Architecture Quiz: In 'AI Research', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 96",
@@ -2302,7 +2477,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 96/100\n\n🧠 AI Architecture Quiz: In 'AI Data Analysis', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 97",
@@ -2326,7 +2502,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 97/100\n\n🧠 AI Architecture Quiz: In 'AI Presentations', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 98",
@@ -2350,7 +2527,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 98/100\n\n🧠 AI Architecture Quiz: In 'AI Learning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 99",
@@ -2374,7 +2552,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 99/100\n\n🧠 AI Architecture Quiz: In 'AI Productivity', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     },
     {
       "day": "Day 100",
@@ -2398,7 +2577,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 100/100\n\n🧠 AI Architecture Quiz: In 'AI Tools', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
-      }
+      },
+      "status": "QUEUED"
     }
   ],
   "the_loop": [
@@ -2415,7 +2595,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🎟️✦\nWhere do you think the second ticket went? Did she leave him behind, or did she leave alone?",
       "cover_url": "assets/the_loop/cover_tale_001.jpg",
-      "cover_filename": "cover_tale_001.jpg"
+      "cover_filename": "cover_tale_001.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "X63h_VeCsW8",
+      "youtube_url": "https://www.youtube.com/shorts/X63h_VeCsW8"
     },
     {
       "episode": 2,
@@ -2430,7 +2613,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🪞✦\nIf the mirror was outside... whose reflection was looking back from inside the hallway?",
       "cover_url": "assets/the_loop/cover_tale_002.jpg",
-      "cover_filename": "cover_tale_002.jpg"
+      "cover_filename": "cover_tale_002.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "5_DCih2Pnb4",
+      "youtube_url": "https://www.youtube.com/shorts/5_DCih2Pnb4"
     },
     {
       "episode": 3,
@@ -2445,7 +2631,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ☕✦\nIs it a memory of someone lost, or a quiet ritual of someone who still loves?",
       "cover_url": "assets/the_loop/cover_tale_003.jpg",
-      "cover_filename": "cover_tale_003.jpg"
+      "cover_filename": "cover_tale_003.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "CjSIFUaPOFY",
+      "youtube_url": "https://www.youtube.com/shorts/CjSIFUaPOFY"
     },
     {
       "episode": 4,
@@ -2460,7 +2649,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏝️✦\nWhat bridge in your life did you have to burn before you could finally bloom?",
       "cover_url": "assets/the_loop/cover_tale_004.jpg",
-      "cover_filename": "cover_tale_004.jpg"
+      "cover_filename": "cover_tale_004.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "RDhmdNBA3Jo",
+      "youtube_url": "https://www.youtube.com/shorts/RDhmdNBA3Jo"
     },
     {
       "episode": 5,
@@ -2475,7 +2667,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🏰✦\nDid he build the walls to keep the world out... or to keep himself locked in?",
       "cover_url": "assets/the_loop/cover_tale_005.jpg",
-      "cover_filename": "cover_tale_005.jpg"
+      "cover_filename": "cover_tale_005.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "0ou3XMg29q0",
+      "youtube_url": "https://www.youtube.com/shorts/0ou3XMg29q0"
     },
     {
       "episode": 6,
@@ -2490,7 +2685,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🚆✦\nWas it a love that grew quiet with age, or two strangers who shared a lifetime in silence?",
       "cover_url": "assets/the_loop/cover_tale_006.jpg",
-      "cover_filename": "cover_tale_006.jpg"
+      "cover_filename": "cover_tale_006.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "-lV7TCRAI5Y",
+      "youtube_url": "https://www.youtube.com/shorts/-lV7TCRAI5Y"
     },
     {
       "episode": 7,
@@ -2505,7 +2703,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🕯️✦\nWhat story do you think this quiet, tidy room is hiding?",
       "cover_url": "assets/the_loop/cover_tale_007.jpg",
-      "cover_filename": "cover_tale_007.jpg"
+      "cover_filename": "cover_tale_007.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "bU2OeV8wCLQ",
+      "youtube_url": "https://www.youtube.com/shorts/bU2OeV8wCLQ"
     },
     {
       "episode": 8,
@@ -2520,7 +2721,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 📡✦\nWere the million echoes friendly civilizations... or a warning from our own future?",
       "cover_url": "assets/the_loop/cover_tale_008.jpg",
-      "cover_filename": "cover_tale_008.jpg"
+      "cover_filename": "cover_tale_008.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "1wMeutJGtc0",
+      "youtube_url": "https://www.youtube.com/shorts/1wMeutJGtc0"
     },
     {
       "episode": 9,
@@ -2535,7 +2739,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 👟✦\nAre the small shoes a memory of childhood, or the first steps into an unknown tomorrow?",
       "cover_url": "assets/the_loop/cover_tale_009.jpg",
-      "cover_filename": "cover_tale_009.jpg"
+      "cover_filename": "cover_tale_009.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "X_QalCX-Q0U",
+      "youtube_url": "https://www.youtube.com/shorts/X_QalCX-Q0U"
     },
     {
       "episode": 10,
@@ -2550,7 +2757,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🗝️✦\nIf the cage opened inward... was she trying to escape, or lock something inside?",
       "cover_url": "assets/the_loop/cover_tale_010.jpg",
-      "cover_filename": "cover_tale_010.jpg"
+      "cover_filename": "cover_tale_010.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "ilF0HoPIQtg",
+      "youtube_url": "https://www.youtube.com/shorts/ilF0HoPIQtg"
     },
     {
       "episode": 11,
@@ -2565,7 +2775,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? ✈️✦\nHave you ever missed an opportunity that turned out to save your life?",
       "cover_url": "assets/the_loop/cover_tale_011.jpg",
-      "cover_filename": "cover_tale_011.jpg"
+      "cover_filename": "cover_tale_011.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "7wF29SD6-LI",
+      "youtube_url": "https://www.youtube.com/shorts/7wF29SD6-LI"
     },
     {
       "episode": 12,
@@ -2580,7 +2793,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🖼️✦\nWas the subject in the painting alive, or was the curator running from his own creation?",
       "cover_url": "assets/the_loop/cover_tale_012.jpg",
-      "cover_filename": "cover_tale_012.jpg"
+      "cover_filename": "cover_tale_012.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "g4V86FGbdeM",
+      "youtube_url": "https://www.youtube.com/shorts/g4V86FGbdeM"
     },
     {
       "episode": 13,
@@ -2595,7 +2811,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? ⏳✦\nIf time rewound and youth stole you back, what memory would you fight never to lose?",
       "cover_url": "assets/the_loop/cover_tale_013.jpg",
-      "cover_filename": "cover_tale_013.jpg"
+      "cover_filename": "cover_tale_013.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "8yx_NtGYVpQ",
+      "youtube_url": "https://www.youtube.com/shorts/8yx_NtGYVpQ"
     },
     {
       "episode": 14,
@@ -2610,7 +2829,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? ⛈️✦\nWhen everything around you collapses, what is the one anchor that keeps you standing?",
       "cover_url": "assets/the_loop/cover_tale_014.jpg",
-      "cover_filename": "cover_tale_014.jpg"
+      "cover_filename": "cover_tale_014.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "4L1rkPyAg1c",
+      "youtube_url": "https://www.youtube.com/shorts/4L1rkPyAg1c"
     },
     {
       "episode": 15,
@@ -2625,7 +2847,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ✉️✦\nDid he find the unsent letters, or did two hearts just know without ever reading?",
       "cover_url": "assets/the_loop/cover_tale_015.jpg",
-      "cover_filename": "cover_tale_015.jpg"
+      "cover_filename": "cover_tale_015.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "G-VIYdpaQ2g",
+      "youtube_url": "https://www.youtube.com/shorts/G-VIYdpaQ2g"
     },
     {
       "episode": 16,
@@ -2640,7 +2865,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🚪✦\nWho was standing outside the door... and why did they hesitate before turning the knob?",
       "cover_url": "assets/the_loop/cover_tale_016.jpg",
-      "cover_filename": "cover_tale_016.jpg"
+      "cover_filename": "cover_tale_016.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "2f1ma97EXmg",
+      "youtube_url": "https://www.youtube.com/shorts/2f1ma97EXmg"
     },
     {
       "episode": 17,
@@ -2655,7 +2883,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🪙✦\nDid he spend his whole life chasing gold, only to realize the sunset was the real treasure?",
       "cover_url": "assets/the_loop/cover_tale_017.jpg",
-      "cover_filename": "cover_tale_017.jpg"
+      "cover_filename": "cover_tale_017.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "FNCk21kH0_A",
+      "youtube_url": "https://www.youtube.com/shorts/FNCk21kH0_A"
     },
     {
       "episode": 18,
@@ -2670,7 +2901,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🎵✦\nWhy do melodies linger in the heart long after names and faces fade away?",
       "cover_url": "assets/the_loop/cover_tale_018.jpg",
-      "cover_filename": "cover_tale_018.jpg"
+      "cover_filename": "cover_tale_018.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "vjhlHng_3Fk",
+      "youtube_url": "https://www.youtube.com/shorts/vjhlHng_3Fk"
     },
     {
       "episode": 19,
@@ -2685,7 +2919,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 📞✦\nIf your future or past self answered your phone, what is the first question you'd ask?",
       "cover_url": "assets/the_loop/cover_tale_019.jpg",
-      "cover_filename": "cover_tale_019.jpg"
+      "cover_filename": "cover_tale_019.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "mbckYG85Hbk",
+      "youtube_url": "https://www.youtube.com/shorts/mbckYG85Hbk"
     },
     {
       "episode": 20,
@@ -2700,7 +2937,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 💓✦\nHow fragile are human plans when destiny decides to pivot in a single heartbeat?",
       "cover_url": "assets/the_loop/cover_tale_020.jpg",
-      "cover_filename": "cover_tale_020.jpg"
+      "cover_filename": "cover_tale_020.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "ifM_tOaT-jw",
+      "youtube_url": "https://www.youtube.com/shorts/ifM_tOaT-jw"
     },
     {
       "episode": 21,
@@ -2715,7 +2955,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌊✦\nWhat truth do you think the ocean was hiding beneath the tides?",
       "cover_url": "assets/the_loop/cover_tale_021.jpg",
-      "cover_filename": "cover_tale_021.jpg"
+      "cover_filename": "cover_tale_021.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "CIC8O381F4c",
+      "youtube_url": "https://www.youtube.com/shorts/CIC8O381F4c"
     },
     {
       "episode": 22,
@@ -2730,7 +2973,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📻✦\nIf the radio was turned off... whose voice was still whispering from the speaker?",
       "cover_url": "assets/the_loop/cover_tale_022.jpg",
-      "cover_filename": "cover_tale_022.jpg"
+      "cover_filename": "cover_tale_022.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "g4TwV5lM1D8",
+      "youtube_url": "https://www.youtube.com/shorts/g4TwV5lM1D8"
     },
     {
       "episode": 23,
@@ -2745,7 +2991,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? ⛵✦\nIs the greatest gift a parent can give their child the courage to sail beyond the horizon?",
       "cover_url": "assets/the_loop/cover_tale_023.jpg",
-      "cover_filename": "cover_tale_023.jpg"
+      "cover_filename": "cover_tale_023.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "2vXrp2kVrB4",
+      "youtube_url": "https://www.youtube.com/shorts/2vXrp2kVrB4"
     },
     {
       "episode": 24,
@@ -2760,7 +3009,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🩺✦\nIf the heart wasn't beating, why was the doctor smiling?",
       "cover_url": "assets/the_loop/cover_tale_024.jpg",
-      "cover_filename": "cover_tale_024.jpg"
+      "cover_filename": "cover_tale_024.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "GwmdZN5d0e8",
+      "youtube_url": "https://www.youtube.com/shorts/GwmdZN5d0e8"
     },
     {
       "episode": 25,
@@ -2775,7 +3027,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🧭✦\nHave you ever taken an accidental turn that changed the entire direction of your life?",
       "cover_url": "assets/the_loop/cover_tale_025.jpg",
-      "cover_filename": "cover_tale_025.jpg"
+      "cover_filename": "cover_tale_025.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "kNncJhSb8Zc",
+      "youtube_url": "https://www.youtube.com/shorts/kNncJhSb8Zc"
     },
     {
       "episode": 26,
@@ -2790,7 +3045,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🎠✦\nDo you ever feel like a piece of your childhood is still sitting on an old swing?",
       "cover_url": "assets/the_loop/cover_tale_026.jpg",
-      "cover_filename": "cover_tale_026.jpg"
+      "cover_filename": "cover_tale_026.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "zamOBe0-vPo",
+      "youtube_url": "https://www.youtube.com/shorts/zamOBe0-vPo"
     },
     {
       "episode": 27,
@@ -2805,7 +3063,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌱✦\nWhat invisible growth is happening beneath the soil of your life right now?",
       "cover_url": "assets/the_loop/cover_tale_027.jpg",
-      "cover_filename": "cover_tale_027.jpg"
+      "cover_filename": "cover_tale_027.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "MZrEJ-xejZE",
+      "youtube_url": "https://www.youtube.com/shorts/MZrEJ-xejZE"
     },
     {
       "episode": 28,
@@ -2820,7 +3081,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📷✦\nWho was the third person in the photograph who never took a breath?",
       "cover_url": "assets/the_loop/cover_tale_028.jpg",
-      "cover_filename": "cover_tale_028.jpg"
+      "cover_filename": "cover_tale_028.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "36Ai0o4E8HU",
+      "youtube_url": "https://www.youtube.com/shorts/36Ai0o4E8HU"
     },
     {
       "episode": 29,
@@ -2835,7 +3099,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 👵✦\nDoes true love ever grow old, or do eyes always see each other as they were?",
       "cover_url": "assets/the_loop/cover_tale_029.jpg",
-      "cover_filename": "cover_tale_029.jpg"
+      "cover_filename": "cover_tale_029.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "IqP5HLEhgvY",
+      "youtube_url": "https://www.youtube.com/shorts/IqP5HLEhgvY"
     },
     {
       "episode": 30,
@@ -2850,7 +3117,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🤖✦\nCan an artificial mind feel grief, or was it remembering its creator's soul?",
       "cover_url": "assets/the_loop/cover_tale_030.jpg",
-      "cover_filename": "cover_tale_030.jpg"
+      "cover_filename": "cover_tale_030.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "bSkSpR5CyGU",
+      "youtube_url": "https://www.youtube.com/shorts/bSkSpR5CyGU"
     },
     {
       "episode": 31,
@@ -2865,7 +3135,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🌧️✦\nDid he pray for rain without realizing the ark was missing?",
       "cover_url": "assets/the_loop/cover_tale_031.jpg",
-      "cover_filename": "cover_tale_031.jpg"
+      "cover_filename": "cover_tale_031.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "YCapkhSNgT0",
+      "youtube_url": "https://www.youtube.com/shorts/YCapkhSNgT0"
     },
     {
       "episode": 32,
@@ -2880,7 +3153,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🎪✦\nWas the acrobat falling, or did he finally learn how to rise above the noise?",
       "cover_url": "assets/the_loop/cover_tale_032.jpg",
-      "cover_filename": "cover_tale_032.jpg"
+      "cover_filename": "cover_tale_032.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "JyL3bTLTM6E",
+      "youtube_url": "https://www.youtube.com/shorts/JyL3bTLTM6E"
     },
     {
       "episode": 33,
@@ -2895,7 +3171,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 👥✦\nIf nobody lived next door... whose shadow was waving from the window?",
       "cover_url": "assets/the_loop/cover_tale_033.jpg",
-      "cover_filename": "cover_tale_033.jpg"
+      "cover_filename": "cover_tale_033.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "OeCjG-VmgMc",
+      "youtube_url": "https://www.youtube.com/shorts/OeCjG-VmgMc"
     },
     {
       "episode": 34,
@@ -2910,7 +3189,10 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 💬✦\nHave you ever talked with someone for hours, yet the deepest truth remained unsaid?",
       "cover_url": "assets/the_loop/cover_tale_034.jpg",
-      "cover_filename": "cover_tale_034.jpg"
+      "cover_filename": "cover_tale_034.jpg",
+      "status": "PUBLISHED",
+      "youtube_id": "6lp_9vJKdKA",
+      "youtube_url": "https://www.youtube.com/shorts/6lp_9vJKdKA"
     },
     {
       "episode": 35,
@@ -2925,7 +3207,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌸✦\nWhy can a single scent bring back an entire decade in less than a second?",
       "cover_url": "assets/the_loop/cover_tale_035.jpg",
-      "cover_filename": "cover_tale_035.jpg"
+      "cover_filename": "cover_tale_035.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 36,
@@ -2940,7 +3223,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ⚖️✦\nWho judges the court when the judge himself is the one hiding the crime?",
       "cover_url": "assets/the_loop/cover_tale_036.jpg",
-      "cover_filename": "cover_tale_036.jpg"
+      "cover_filename": "cover_tale_036.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 37,
@@ -2955,7 +3239,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 📖✦\nIs any chapter in your life ever truly closed as long as you choose to keep writing?",
       "cover_url": "assets/the_loop/cover_tale_037.jpg",
-      "cover_filename": "cover_tale_037.jpg"
+      "cover_filename": "cover_tale_037.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 38,
@@ -2970,7 +3255,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🎖️✦\nCan a shiny medal ever silence the battles that still rage inside a soldier's mind?",
       "cover_url": "assets/the_loop/cover_tale_038.jpg",
-      "cover_filename": "cover_tale_038.jpg"
+      "cover_filename": "cover_tale_038.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 39,
@@ -2985,7 +3271,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ☔✦\nHave you ever had an unexpected storm bring you the greatest blessing of your life?",
       "cover_url": "assets/the_loop/cover_tale_039.jpg",
-      "cover_filename": "cover_tale_039.jpg"
+      "cover_filename": "cover_tale_039.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 40,
@@ -3000,7 +3287,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌌✦\nIf the stars reset tonight, would you notice the simulation rebooting?",
       "cover_url": "assets/the_loop/cover_tale_040.jpg",
-      "cover_filename": "cover_tale_040.jpg"
+      "cover_filename": "cover_tale_040.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 41,
@@ -3015,7 +3303,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 👣✦\nDo you believe two souls are destined to meet, or is every connection a conscious choice?",
       "cover_url": "assets/the_loop/cover_tale_041.jpg",
-      "cover_filename": "cover_tale_041.jpg"
+      "cover_filename": "cover_tale_041.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 42,
@@ -3030,7 +3319,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 📓✦\nIf tomorrow's pages were already written, would you read ahead or close the diary?",
       "cover_url": "assets/the_loop/cover_tale_042.jpg",
-      "cover_filename": "cover_tale_042.jpg"
+      "cover_filename": "cover_tale_042.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 43,
@@ -3045,7 +3335,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 📦✦\nIn the end, does all worldly ambition shrink down to the same quiet wooden box?",
       "cover_url": "assets/the_loop/cover_tale_043.jpg",
-      "cover_filename": "cover_tale_043.jpg"
+      "cover_filename": "cover_tale_043.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 44,
@@ -3060,7 +3351,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🏔️✦\nCan true courage exist without your knees shaking first?",
       "cover_url": "assets/the_loop/cover_tale_044.jpg",
-      "cover_filename": "cover_tale_044.jpg"
+      "cover_filename": "cover_tale_044.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 45,
@@ -3075,7 +3367,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🧵✦\nWhat memory or family tradition has kept generations warm in your home?",
       "cover_url": "assets/the_loop/cover_tale_045.jpg",
-      "cover_filename": "cover_tale_045.jpg"
+      "cover_filename": "cover_tale_045.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 46,
@@ -3090,7 +3383,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕰️✦\nIf the clock struck thirteen, would you stop and question reality or keep rushing?",
       "cover_url": "assets/the_loop/cover_tale_046.jpg",
-      "cover_filename": "cover_tale_046.jpg"
+      "cover_filename": "cover_tale_046.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 47,
@@ -3105,7 +3399,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🐂✦\nWas the monster in the labyrinth evil, or was it just waiting for someone to bring flowers?",
       "cover_url": "assets/the_loop/cover_tale_047.jpg",
-      "cover_filename": "cover_tale_047.jpg"
+      "cover_filename": "cover_tale_047.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 48,
@@ -3120,7 +3415,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ⏳✦\nHow can ten years of longing vanish in ten seconds of silence?",
       "cover_url": "assets/the_loop/cover_tale_048.jpg",
-      "cover_filename": "cover_tale_048.jpg"
+      "cover_filename": "cover_tale_048.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 49,
@@ -3135,7 +3431,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 💍✦\nWhat does it mean to offer someone not just your hand, but your entire universe?",
       "cover_url": "assets/the_loop/cover_tale_049.jpg",
-      "cover_filename": "cover_tale_049.jpg"
+      "cover_filename": "cover_tale_049.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 50,
@@ -3150,7 +3447,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🌿✦\nHow does a fragile seedling break through solid pavement?",
       "cover_url": "assets/the_loop/cover_tale_050.jpg",
-      "cover_filename": "cover_tale_050.jpg"
+      "cover_filename": "cover_tale_050.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 51,
@@ -3165,7 +3463,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 📱✦\nWhy do we keep voicemails from people who will never call again?",
       "cover_url": "assets/the_loop/cover_tale_051.jpg",
-      "cover_filename": "cover_tale_051.jpg"
+      "cover_filename": "cover_tale_051.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 52,
@@ -3180,7 +3479,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏮✦\nWere the ghost ships guiding the lost sailors home, or leading them into the deep?",
       "cover_url": "assets/the_loop/cover_tale_052.jpg",
-      "cover_filename": "cover_tale_052.jpg"
+      "cover_filename": "cover_tale_052.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 53,
@@ -3195,7 +3495,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🔍✦\nDid the detective solve the mystery, or did he sacrifice himself to protect someone?",
       "cover_url": "assets/the_loop/cover_tale_053.jpg",
-      "cover_filename": "cover_tale_053.jpg"
+      "cover_filename": "cover_tale_053.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 54,
@@ -3210,7 +3511,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🚉✦\nHave you ever gotten off at the wrong station, only to find the exact right soul?",
       "cover_url": "assets/the_loop/cover_tale_054.jpg",
-      "cover_filename": "cover_tale_054.jpg"
+      "cover_filename": "cover_tale_054.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 55,
@@ -3225,7 +3527,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? ⛰️✦\nDoes silence hold more wisdom than any spoken answer could ever give?",
       "cover_url": "assets/the_loop/cover_tale_055.jpg",
-      "cover_filename": "cover_tale_055.jpg"
+      "cover_filename": "cover_tale_055.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 56,
@@ -3240,7 +3543,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🤖✦\nIf an artificial creation learns to pray, what do you think it prays for?",
       "cover_url": "assets/the_loop/cover_tale_056.jpg",
-      "cover_filename": "cover_tale_056.jpg"
+      "cover_filename": "cover_tale_056.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 57,
@@ -3255,7 +3559,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🐕✦\nIs there any loyalty purer than a faithful companion waiting at an open gate?",
       "cover_url": "assets/the_loop/cover_tale_057.jpg",
-      "cover_filename": "cover_tale_057.jpg"
+      "cover_filename": "cover_tale_057.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 58,
@@ -3270,7 +3575,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👀✦\nHave you ever had a conversation where neither person spoke a single word?",
       "cover_url": "assets/the_loop/cover_tale_058.jpg",
-      "cover_filename": "cover_tale_058.jpg"
+      "cover_filename": "cover_tale_058.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 59,
@@ -3285,7 +3591,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🚒✦\nWas the rain an act of mercy, or did nature just steal the firefighters' victory?",
       "cover_url": "assets/the_loop/cover_tale_059.jpg",
-      "cover_filename": "cover_tale_059.jpg"
+      "cover_filename": "cover_tale_059.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 60,
@@ -3300,7 +3607,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ⚔️✦\nDo your scars remind you of the pain you endured, or the fact that you survived?",
       "cover_url": "assets/the_loop/cover_tale_060.jpg",
-      "cover_filename": "cover_tale_060.jpg"
+      "cover_filename": "cover_tale_060.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 61,
@@ -3315,7 +3623,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 👤✦\nIf the man stayed put... whose shadow was stepping forward into the dark?",
       "cover_url": "assets/the_loop/cover_tale_061.jpg",
-      "cover_filename": "cover_tale_061.jpg"
+      "cover_filename": "cover_tale_061.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 62,
@@ -3330,7 +3639,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🪶✦\nDid someone learn how to fly, or did something take them into the sky?",
       "cover_url": "assets/the_loop/cover_tale_062.jpg",
-      "cover_filename": "cover_tale_062.jpg"
+      "cover_filename": "cover_tale_062.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 63,
@@ -3345,7 +3655,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ✨✦\nAre we just stardust looking back at ourselves in the mirror?",
       "cover_url": "assets/the_loop/cover_tale_063.jpg",
-      "cover_filename": "cover_tale_063.jpg"
+      "cover_filename": "cover_tale_063.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 64,
@@ -3360,7 +3671,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? ⚰️✦\nDid he hear her final confession before his last breath, or was she speaking to silence?",
       "cover_url": "assets/the_loop/cover_tale_064.jpg",
-      "cover_filename": "cover_tale_064.jpg"
+      "cover_filename": "cover_tale_064.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 65,
@@ -3375,7 +3687,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🦅✦\nWhen life brings a storm, do you seek ground shelter or fly above the clouds?",
       "cover_url": "assets/the_loop/cover_tale_065.jpg",
-      "cover_filename": "cover_tale_065.jpg"
+      "cover_filename": "cover_tale_065.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 66,
@@ -3390,7 +3703,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 📸✦\nWhy do the moments that leave no trace on paper burn the brightest in the soul?",
       "cover_url": "assets/the_loop/cover_tale_066.jpg",
-      "cover_filename": "cover_tale_066.jpg"
+      "cover_filename": "cover_tale_066.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 67,
@@ -3405,7 +3719,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🤝✦\nIs forgiveness louder in our arguments, or in the quiet ways we hold on while sleeping?",
       "cover_url": "assets/the_loop/cover_tale_067.jpg",
-      "cover_filename": "cover_tale_067.jpg"
+      "cover_filename": "cover_tale_067.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 68,
@@ -3420,7 +3735,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🚀✦\nWere the ancient humans ancestors who escaped Earth... or travelers from our own future?",
       "cover_url": "assets/the_loop/cover_tale_068.jpg",
-      "cover_filename": "cover_tale_068.jpg"
+      "cover_filename": "cover_tale_068.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 69,
@@ -3435,7 +3751,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 👾✦\nWhat happens to the monsters we fear when we simply greet them with kindness?",
       "cover_url": "assets/the_loop/cover_tale_069.jpg",
-      "cover_filename": "cover_tale_069.jpg"
+      "cover_filename": "cover_tale_069.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 70,
@@ -3450,7 +3767,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌊✦\nWhat hard stone in your life is your patience slowly reshaping right now?",
       "cover_url": "assets/the_loop/cover_tale_070.jpg",
-      "cover_filename": "cover_tale_070.jpg"
+      "cover_filename": "cover_tale_070.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 71,
@@ -3465,7 +3783,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🏴‍☠️✦\nWas the buried treasure a trap, or a reminder of what greed does to freedom?",
       "cover_url": "assets/the_loop/cover_tale_071.jpg",
-      "cover_filename": "cover_tale_071.jpg"
+      "cover_filename": "cover_tale_071.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 72,
@@ -3480,7 +3799,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🎂✦\nWhat wish was made by the wind on that lonely birthday cake?",
       "cover_url": "assets/the_loop/cover_tale_072.jpg",
-      "cover_filename": "cover_tale_072.jpg"
+      "cover_filename": "cover_tale_072.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 73,
@@ -3495,7 +3815,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🪙✦\nHave you ever tried to let go of a dream, only for destiny to follow you anyway?",
       "cover_url": "assets/the_loop/cover_tale_073.jpg",
-      "cover_filename": "cover_tale_073.jpg"
+      "cover_filename": "cover_tale_073.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 74,
@@ -3510,7 +3831,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🌅✦\nWhy does the darkest hour always arrive right before the light breaks through?",
       "cover_url": "assets/the_loop/cover_tale_074.jpg",
-      "cover_filename": "cover_tale_074.jpg"
+      "cover_filename": "cover_tale_074.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 75,
@@ -3525,7 +3847,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🛗✦\nIf the building had no basement, where was the elevator taking them?",
       "cover_url": "assets/the_loop/cover_tale_075.jpg",
-      "cover_filename": "cover_tale_075.jpg"
+      "cover_filename": "cover_tale_075.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 76,
@@ -3540,7 +3863,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕰️✦\nCan a single smile truly decide the next fifty years of your life?",
       "cover_url": "assets/the_loop/cover_tale_076.jpg",
-      "cover_filename": "cover_tale_076.jpg"
+      "cover_filename": "cover_tale_076.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 77,
@@ -3555,7 +3879,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🐺✦\nWho drew the map you are following... and do they truly have your safety in mind?",
       "cover_url": "assets/the_loop/cover_tale_077.jpg",
-      "cover_filename": "cover_tale_077.jpg"
+      "cover_filename": "cover_tale_077.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 78,
@@ -3570,7 +3895,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🚉✦\nDo we spend so much time rushing for the next train that we miss the life on the platform?",
       "cover_url": "assets/the_loop/cover_tale_078.jpg",
-      "cover_filename": "cover_tale_078.jpg"
+      "cover_filename": "cover_tale_078.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 79,
@@ -3585,7 +3911,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 💾✦\nIf human consciousness is uploaded to code, what happens when the power shuts off?",
       "cover_url": "assets/the_loop/cover_tale_079.jpg",
-      "cover_filename": "cover_tale_079.jpg"
+      "cover_filename": "cover_tale_079.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 80,
@@ -3600,7 +3927,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🛣️✦\nWhen your road keeps going but the car stops, what drives you forward?",
       "cover_url": "assets/the_loop/cover_tale_080.jpg",
-      "cover_filename": "cover_tale_080.jpg"
+      "cover_filename": "cover_tale_080.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 81,
@@ -3615,7 +3943,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌟✦\nHow much of the beauty we admire today was created by lights that burned out long ago?",
       "cover_url": "assets/the_loop/cover_tale_081.jpg",
-      "cover_filename": "cover_tale_081.jpg"
+      "cover_filename": "cover_tale_081.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 82,
@@ -3630,7 +3959,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔮✦\nWhat did the fortune teller see in her own future that made her freeze?",
       "cover_url": "assets/the_loop/cover_tale_082.jpg",
-      "cover_filename": "cover_tale_082.jpg"
+      "cover_filename": "cover_tale_082.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 83,
@@ -3645,7 +3975,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 👣✦\nWhen everyone doubts your path, what gives your footsteps the conviction to roar yes?",
       "cover_url": "assets/the_loop/cover_tale_083.jpg",
-      "cover_filename": "cover_tale_083.jpg"
+      "cover_filename": "cover_tale_083.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 84,
@@ -3660,7 +3991,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🎠✦\nCan rust ever erase the echoes of pure childhood joy?",
       "cover_url": "assets/the_loop/cover_tale_084.jpg",
-      "cover_filename": "cover_tale_084.jpg"
+      "cover_filename": "cover_tale_084.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 85,
@@ -3675,7 +4007,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🕊️✦\nAfter being caged for so long, how does the heart still remember how to fly?",
       "cover_url": "assets/the_loop/cover_tale_085.jpg",
-      "cover_filename": "cover_tale_085.jpg"
+      "cover_filename": "cover_tale_085.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 86,
@@ -3690,7 +4023,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🏡✦\nDid you have to travel the whole world just to discover home was within you all along?",
       "cover_url": "assets/the_loop/cover_tale_086.jpg",
-      "cover_filename": "cover_tale_086.jpg"
+      "cover_filename": "cover_tale_086.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 87,
@@ -3705,7 +4039,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪞✦\nAt what moment did you look in the mirror and realize you were becoming your parents?",
       "cover_url": "assets/the_loop/cover_tale_087.jpg",
-      "cover_filename": "cover_tale_087.jpg"
+      "cover_filename": "cover_tale_087.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 88,
@@ -3720,7 +4055,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🎶✦\nHow do two lonely voices in the dark always manage to find their harmony?",
       "cover_url": "assets/the_loop/cover_tale_088.jpg",
-      "cover_filename": "cover_tale_088.jpg"
+      "cover_filename": "cover_tale_088.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 89,
@@ -3735,7 +4071,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🥂✦\nWhy is it often luxury and success that destroys us, after we survived the greatest hardships?",
       "cover_url": "assets/the_loop/cover_tale_089.jpg",
-      "cover_filename": "cover_tale_089.jpg"
+      "cover_filename": "cover_tale_089.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 90,
@@ -3750,7 +4087,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🔐✦\nIf the greatest treasure in the vault was a mirror, what was the real secret?",
       "cover_url": "assets/the_loop/cover_tale_090.jpg",
-      "cover_filename": "cover_tale_090.jpg"
+      "cover_filename": "cover_tale_090.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 91,
@@ -3765,7 +4103,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🥖✦\nWhat childhood scent can instantly transport you back thirty years in time?",
       "cover_url": "assets/the_loop/cover_tale_091.jpg",
-      "cover_filename": "cover_tale_091.jpg"
+      "cover_filename": "cover_tale_091.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 92,
@@ -3780,7 +4119,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🏚️✦\nWho do you think was coming up from the cellar after the phone stopped ringing?",
       "cover_url": "assets/the_loop/cover_tale_092.jpg",
-      "cover_filename": "cover_tale_092.jpg"
+      "cover_filename": "cover_tale_092.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 93,
@@ -3795,7 +4135,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪞✦\nAre we often the thief who steals our own peace, joy, and time?",
       "cover_url": "assets/the_loop/cover_tale_093.jpg",
-      "cover_filename": "cover_tale_093.jpg"
+      "cover_filename": "cover_tale_093.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 94,
@@ -3810,7 +4151,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔥✦\nHave you ever had a moment where silence spoke louder and healed deeper than any words?",
       "cover_url": "assets/the_loop/cover_tale_094.jpg",
-      "cover_filename": "cover_tale_094.jpg"
+      "cover_filename": "cover_tale_094.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 95,
@@ -3825,7 +4167,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🧭✦\nWhen the waves crash around your life, what compass keeps you steady?",
       "cover_url": "assets/the_loop/cover_tale_095.jpg",
-      "cover_filename": "cover_tale_095.jpg"
+      "cover_filename": "cover_tale_095.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 96,
@@ -3840,7 +4183,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🏘️✦\nWhy do the giant places of our childhood seem so small when we return as adults?",
       "cover_url": "assets/the_loop/cover_tale_096.jpg",
-      "cover_filename": "cover_tale_096.jpg"
+      "cover_filename": "cover_tale_096.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 97,
@@ -3855,7 +4199,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? ⚡✦\nIf yesterday was standing right in front of you, what would you apologize for?",
       "cover_url": "assets/the_loop/cover_tale_097.jpg",
-      "cover_filename": "cover_tale_097.jpg"
+      "cover_filename": "cover_tale_097.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 98,
@@ -3870,7 +4215,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 📝✦\nWhat blank page in your life are you ready to write your best chapter on?",
       "cover_url": "assets/the_loop/cover_tale_098.jpg",
-      "cover_filename": "cover_tale_098.jpg"
+      "cover_filename": "cover_tale_098.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 99,
@@ -3885,7 +4231,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 💃✦\nHave you ever danced in silence, listening only to the rhythm of two hearts?",
       "cover_url": "assets/the_loop/cover_tale_099.jpg",
-      "cover_filename": "cover_tale_099.jpg"
+      "cover_filename": "cover_tale_099.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 100,
@@ -3900,7 +4247,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕯️✦\nWhy did the darkness whisper thanks when the light went out?",
       "cover_url": "assets/the_loop/cover_tale_100.jpg",
-      "cover_filename": "cover_tale_100.jpg"
+      "cover_filename": "cover_tale_100.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 101,
@@ -3915,7 +4263,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🔒✦\nIf every single door was locked from the outside... who was calling from inside the house?",
       "cover_url": "assets/the_loop/cover_tale_101.jpg",
-      "cover_filename": "cover_tale_101.jpg"
+      "cover_filename": "cover_tale_101.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 102,
@@ -3930,7 +4279,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🏖️✦\nIf the footsteps echoed behind you, whose prints were washing away in the wet sand?",
       "cover_url": "assets/the_loop/cover_tale_102.jpg",
-      "cover_filename": "cover_tale_102.jpg"
+      "cover_filename": "cover_tale_102.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 103,
@@ -3945,7 +4295,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? ⛓️✦\nDid he escape a physical prison only to find himself trapped in his own mind?",
       "cover_url": "assets/the_loop/cover_tale_103.jpg",
-      "cover_filename": "cover_tale_103.jpg"
+      "cover_filename": "cover_tale_103.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 104,
@@ -3960,7 +4311,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🖼️✦\nIf nobody in the photograph survived, why is their smile still watching you?",
       "cover_url": "assets/the_loop/cover_tale_104.jpg",
-      "cover_filename": "cover_tale_104.jpg"
+      "cover_filename": "cover_tale_104.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 105,
@@ -3975,7 +4327,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🚪✦\nWho was knocking at midnight if the front porch had already collapsed into the dark?",
       "cover_url": "assets/the_loop/cover_tale_105.jpg",
-      "cover_filename": "cover_tale_105.jpg"
+      "cover_filename": "cover_tale_105.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 106,
@@ -3990,7 +4343,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📖✦\nDid he write her name out of obsessive love, or was she the ghost haunting every line?",
       "cover_url": "assets/the_loop/cover_tale_106.jpg",
-      "cover_filename": "cover_tale_106.jpg"
+      "cover_filename": "cover_tale_106.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 107,
@@ -4005,7 +4359,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🪦✦\nIf your gravestone had tomorrow's date at dawn, what is the one thing you would do tonight?",
       "cover_url": "assets/the_loop/cover_tale_107.jpg",
-      "cover_filename": "cover_tale_107.jpg"
+      "cover_filename": "cover_tale_107.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 108,
@@ -4020,7 +4375,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🪞✦\nWhy did the mirror wink back after you had already turned away?",
       "cover_url": "assets/the_loop/cover_tale_108.jpg",
-      "cover_filename": "cover_tale_108.jpg"
+      "cover_filename": "cover_tale_108.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 109,
@@ -4035,7 +4391,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🛗✦\nIf the elevator was falling down, why were the floor numbers counting up toward the sky?",
       "cover_url": "assets/the_loop/cover_tale_109.jpg",
-      "cover_filename": "cover_tale_109.jpg"
+      "cover_filename": "cover_tale_109.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 110,
@@ -4050,7 +4407,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🩺✦\nDid he cure his patients, or did he create them all to cure his own loneliness?",
       "cover_url": "assets/the_loop/cover_tale_110.jpg",
-      "cover_filename": "cover_tale_110.jpg"
+      "cover_filename": "cover_tale_110.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 111,
@@ -4065,7 +4423,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ☎️✦\nIf the wire snapped in two, whose voice was still humming on the dial tone?",
       "cover_url": "assets/the_loop/cover_tale_111.jpg",
-      "cover_filename": "cover_tale_111.jpg"
+      "cover_filename": "cover_tale_111.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 112,
@@ -4080,7 +4439,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏴‍☠️✦\nWhat was buried inside that chest that made the dirt push back against the shovel?",
       "cover_url": "assets/the_loop/cover_tale_112.jpg",
-      "cover_filename": "cover_tale_112.jpg"
+      "cover_filename": "cover_tale_112.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 113,
@@ -4095,7 +4455,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🏮✦\nIf the keeper vanished into thin air, who was fueling the lighthouse beam every night?",
       "cover_url": "assets/the_loop/cover_tale_113.jpg",
-      "cover_filename": "cover_tale_113.jpg"
+      "cover_filename": "cover_tale_113.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 114,
@@ -4110,7 +4471,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🎨✦\nWas the portrait alive, or was the painter slowly trapping her soul on the canvas?",
       "cover_url": "assets/the_loop/cover_tale_114.jpg",
-      "cover_filename": "cover_tale_114.jpg"
+      "cover_filename": "cover_tale_114.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 115,
@@ -4125,7 +4487,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 😱✦\nDid you hear someone scream... or was your own throat raw from crying out in the dark?",
       "cover_url": "assets/the_loop/cover_tale_115.jpg",
-      "cover_filename": "cover_tale_115.jpg"
+      "cover_filename": "cover_tale_115.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 116,
@@ -4140,7 +4503,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🚆✦\nWhere was the train heading if none of the passengers cast a reflection on the glass?",
       "cover_url": "assets/the_loop/cover_tale_116.jpg",
-      "cover_filename": "cover_tale_116.jpg"
+      "cover_filename": "cover_tale_116.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 117,
@@ -4155,7 +4519,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ⏱️✦\nIf his pulse stopped beating, why was the watch on his wrist ticking louder?",
       "cover_url": "assets/the_loop/cover_tale_117.jpg",
-      "cover_filename": "cover_tale_117.jpg"
+      "cover_filename": "cover_tale_117.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 118,
@@ -4170,7 +4535,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏚️✦\nWho was whispering behind the locked attic door that had been sealed for fifty years?",
       "cover_url": "assets/the_loop/cover_tale_118.jpg",
-      "cover_filename": "cover_tale_118.jpg"
+      "cover_filename": "cover_tale_118.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 119,
@@ -4185,7 +4551,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🧥✦\nIf the silhouette outside was wearing your jacket... who was standing inside your room?",
       "cover_url": "assets/the_loop/cover_tale_119.jpg",
-      "cover_filename": "cover_tale_119.jpg"
+      "cover_filename": "cover_tale_119.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 120,
@@ -4200,7 +4567,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🐾✦\nWere we hunting a monster in the woods, or following our own dark footprints home?",
       "cover_url": "assets/the_loop/cover_tale_120.jpg",
-      "cover_filename": "cover_tale_120.jpg"
+      "cover_filename": "cover_tale_120.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 121,
@@ -4215,7 +4583,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 📻✦\nIf the radio broadcasted your private thoughts, who was listening on the other frequency?",
       "cover_url": "assets/the_loop/cover_tale_121.jpg",
-      "cover_filename": "cover_tale_121.jpg"
+      "cover_filename": "cover_tale_121.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 122,
@@ -4230,7 +4599,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🧪✦\nWhy did the poison feel warm and soothing while the antidote burned like fire?",
       "cover_url": "assets/the_loop/cover_tale_122.jpg",
-      "cover_filename": "cover_tale_122.jpg"
+      "cover_filename": "cover_tale_122.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 123,
@@ -4245,7 +4615,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🏛️✦\nWhat did the empty room tell you when the silence finally gave the answer?",
       "cover_url": "assets/the_loop/cover_tale_123.jpg",
-      "cover_filename": "cover_tale_123.jpg"
+      "cover_filename": "cover_tale_123.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 124,
@@ -4260,7 +4631,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 💰✦\nDid winning the lottery set him free, or did the ransom note arrive to take it all?",
       "cover_url": "assets/the_loop/cover_tale_124.jpg",
-      "cover_filename": "cover_tale_124.jpg"
+      "cover_filename": "cover_tale_124.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 125,
@@ -4275,7 +4647,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🪜✦\nIf you lived upstairs completely alone, who was knocking on the downstairs door?",
       "cover_url": "assets/the_loop/cover_tale_125.jpg",
-      "cover_filename": "cover_tale_125.jpg"
+      "cover_filename": "cover_tale_125.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 126,
@@ -4290,7 +4663,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 💍✦\nDid he honor her memory by wearing her ashes, or was she tethered to his side forever?",
       "cover_url": "assets/the_loop/cover_tale_126.jpg",
-      "cover_filename": "cover_tale_126.jpg"
+      "cover_filename": "cover_tale_126.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 127,
@@ -4305,7 +4679,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🎭✦\nDid the puppet come alive to cut its strings, or did the maker die of his own creation?",
       "cover_url": "assets/the_loop/cover_tale_127.jpg",
-      "cover_filename": "cover_tale_127.jpg"
+      "cover_filename": "cover_tale_127.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 128,
@@ -4320,7 +4695,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🏥✦\nWhen the surgeon pulled the bandages off the stranger, why was he staring into his own face?",
       "cover_url": "assets/the_loop/cover_tale_128.jpg",
-      "cover_filename": "cover_tale_128.jpg"
+      "cover_filename": "cover_tale_128.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 129,
@@ -4335,7 +4711,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕰️✦\nWhat happened to the missing daylight when the clock struck thirteen?",
       "cover_url": "assets/the_loop/cover_tale_129.jpg",
-      "cover_filename": "cover_tale_129.jpg"
+      "cover_filename": "cover_tale_129.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 130,
@@ -4350,7 +4727,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🪙✦\nDid saving every penny matter in the end, when moths feasted on the wooden casket?",
       "cover_url": "assets/the_loop/cover_tale_130.jpg",
-      "cover_filename": "cover_tale_130.jpg"
+      "cover_filename": "cover_tale_130.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 131,
@@ -4365,7 +4743,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🕯️✦\nHow does a shadow cross the ceiling when no lamp has been lit in years?",
       "cover_url": "assets/the_loop/cover_tale_131.jpg",
-      "cover_filename": "cover_tale_131.jpg"
+      "cover_filename": "cover_tale_131.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 132,
@@ -4380,7 +4759,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🩸✦\nWhy does the water wash the hands clean while the mirror refuses to erase the stain?",
       "cover_url": "assets/the_loop/cover_tale_132.jpg",
-      "cover_filename": "cover_tale_132.jpg"
+      "cover_filename": "cover_tale_132.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 133,
@@ -4395,7 +4775,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🧭✦\nIf Earth was no longer beneath the compass, where was the ship truly sailing?",
       "cover_url": "assets/the_loop/cover_tale_133.jpg",
-      "cover_filename": "cover_tale_133.jpg"
+      "cover_filename": "cover_tale_133.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 134,
@@ -4410,7 +4791,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🐕✦\nWhat was the stray guarding behind the closet door that no human could see?",
       "cover_url": "assets/the_loop/cover_tale_134.jpg",
-      "cover_filename": "cover_tale_134.jpg"
+      "cover_filename": "cover_tale_134.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 135,
@@ -4425,7 +4807,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🔥✦\nWho mailed your diary to you, and what secret was burned on the very last page?",
       "cover_url": "assets/the_loop/cover_tale_135.jpg",
-      "cover_filename": "cover_tale_135.jpg"
+      "cover_filename": "cover_tale_135.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 136,
@@ -4440,7 +4823,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌉✦\nDid the water refuse his body because it was not his time, or because he was already a phantom?",
       "cover_url": "assets/the_loop/cover_tale_136.jpg",
-      "cover_filename": "cover_tale_136.jpg"
+      "cover_filename": "cover_tale_136.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 137,
@@ -4455,7 +4839,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 📻✦\nWhose deep voice was humming through the baby monitor in the empty nursery?",
       "cover_url": "assets/the_loop/cover_tale_137.jpg",
-      "cover_filename": "cover_tale_137.jpg"
+      "cover_filename": "cover_tale_137.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 138,
@@ -4470,7 +4855,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 📱✦\nIf Face ID rejected your face, whose identity did you wake up with this morning?",
       "cover_url": "assets/the_loop/cover_tale_138.jpg",
-      "cover_filename": "cover_tale_138.jpg"
+      "cover_filename": "cover_tale_138.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 139,
@@ -4485,7 +4871,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🎼✦\nWho wound the music box if the bronze key had been lost in the river decades ago?",
       "cover_url": "assets/the_loop/cover_tale_139.jpg",
-      "cover_filename": "cover_tale_139.jpg"
+      "cover_filename": "cover_tale_139.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 140,
@@ -4500,7 +4887,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🕵️✦\nWas the spy an intruder, or was he wearing our own badge from the very start?",
       "cover_url": "assets/the_loop/cover_tale_140.jpg",
-      "cover_filename": "cover_tale_140.jpg"
+      "cover_filename": "cover_tale_140.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 141,
@@ -4515,7 +4903,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ☔✦\nHave you ever shared an umbrella with someone and wished the rain would never stop?",
       "cover_url": "assets/the_loop/cover_tale_141.jpg",
-      "cover_filename": "cover_tale_141.jpg"
+      "cover_filename": "cover_tale_141.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 142,
@@ -4530,7 +4919,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? ✨✦\nWhose laugh has the power to pause the entire noisy world around you?",
       "cover_url": "assets/the_loop/cover_tale_142.jpg",
-      "cover_filename": "cover_tale_142.jpg"
+      "cover_filename": "cover_tale_142.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 143,
@@ -4545,7 +4935,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 💌✦\nDo you remember the words of a letter that changed your heart forever?",
       "cover_url": "assets/the_loop/cover_tale_143.jpg",
-      "cover_filename": "cover_tale_143.jpg"
+      "cover_filename": "cover_tale_143.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 144,
@@ -4560,7 +4951,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🤝✦\nHow can two hands brushing softly make the whole universe fall completely quiet?",
       "cover_url": "assets/the_loop/cover_tale_144.jpg",
-      "cover_filename": "cover_tale_144.jpg"
+      "cover_filename": "cover_tale_144.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 145,
@@ -4575,7 +4967,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? ☕✦\nWho is the one person you could talk with until the coffee turns completely cold?",
       "cover_url": "assets/the_loop/cover_tale_145.jpg",
-      "cover_filename": "cover_tale_145.jpg"
+      "cover_filename": "cover_tale_145.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 146,
@@ -4590,7 +4983,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🧥✦\nWhy does wearing someone else's sweater feel like being wrapped in home?",
       "cover_url": "assets/the_loop/cover_tale_146.jpg",
-      "cover_filename": "cover_tale_146.jpg"
+      "cover_filename": "cover_tale_146.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 147,
@@ -4605,7 +4999,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌧️✦\nHave you ever danced in the pouring rain just to feel alive with someone you love?",
       "cover_url": "assets/the_loop/cover_tale_147.jpg",
-      "cover_filename": "cover_tale_147.jpg"
+      "cover_filename": "cover_tale_147.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 148,
@@ -4620,7 +5015,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 💖✦\nDoes true love love our scars because they tell the story of how brave we had to be?",
       "cover_url": "assets/the_loop/cover_tale_148.jpg",
-      "cover_filename": "cover_tale_148.jpg"
+      "cover_filename": "cover_tale_148.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 149,
@@ -4635,7 +5031,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌙✦\nHave you ever looked up at the midnight moon knowing someone miles away was looking too?",
       "cover_url": "assets/the_loop/cover_tale_149.jpg",
-      "cover_filename": "cover_tale_149.jpg"
+      "cover_filename": "cover_tale_149.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 150,
@@ -4650,7 +5047,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🤲✦\nWhy does the heart remember a lover's touch long after the mind forgets its own name?",
       "cover_url": "assets/the_loop/cover_tale_150.jpg",
-      "cover_filename": "cover_tale_150.jpg"
+      "cover_filename": "cover_tale_150.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 151,
@@ -4665,7 +5063,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 💍✦\nCan gold ever compete with a simple paper ring folded with true love?",
       "cover_url": "assets/the_loop/cover_tale_151.jpg",
-      "cover_filename": "cover_tale_151.jpg"
+      "cover_filename": "cover_tale_151.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 152,
@@ -4680,7 +5079,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🚂✦\nWould you jump off the train before the stop just to avoid losing a single second with them?",
       "cover_url": "assets/the_loop/cover_tale_152.jpg",
-      "cover_filename": "cover_tale_152.jpg"
+      "cover_filename": "cover_tale_152.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 153,
@@ -4695,7 +5095,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 👀✦\nHave you ever looked into someone's eyes and felt like home had finally found you?",
       "cover_url": "assets/the_loop/cover_tale_153.jpg",
-      "cover_filename": "cover_tale_153.jpg"
+      "cover_filename": "cover_tale_153.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 154,
@@ -4710,7 +5111,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌱✦\nWhat small dream did you build together that ended up outgrowing the entire sky?",
       "cover_url": "assets/the_loop/cover_tale_154.jpg",
-      "cover_filename": "cover_tale_154.jpg"
+      "cover_filename": "cover_tale_154.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 155,
@@ -4725,7 +5127,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 💓✦\nWhy do two hearts in love not need words when their rhythm keeps the song alive?",
       "cover_url": "assets/the_loop/cover_tale_155.jpg",
-      "cover_filename": "cover_tale_155.jpg"
+      "cover_filename": "cover_tale_155.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 156,
@@ -4740,7 +5143,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ❄️✦\nHow does a simple gentle touch make decades of hurt melt away like morning snow?",
       "cover_url": "assets/the_loop/cover_tale_156.jpg",
-      "cover_filename": "cover_tale_156.jpg"
+      "cover_filename": "cover_tale_156.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 157,
@@ -4755,7 +5159,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🚉✦\nDid you miss the final train on purpose just to stay on the platform together?",
       "cover_url": "assets/the_loop/cover_tale_157.jpg",
-      "cover_filename": "cover_tale_157.jpg"
+      "cover_filename": "cover_tale_157.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 158,
@@ -4770,7 +5175,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🌸✦\nWhose laughter healed the quiet cracks you tried so hard to hide inside?",
       "cover_url": "assets/the_loop/cover_tale_158.jpg",
-      "cover_filename": "cover_tale_158.jpg"
+      "cover_filename": "cover_tale_158.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 159,
@@ -4785,7 +5191,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🎨✦\nCan memory paint a clearer portrait of someone than any camera ever could?",
       "cover_url": "assets/the_loop/cover_tale_159.jpg",
-      "cover_filename": "cover_tale_159.jpg"
+      "cover_filename": "cover_tale_159.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 160,
@@ -4800,7 +5207,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👥✦\nWhen two people walk through life as one, whose shadow leads the way?",
       "cover_url": "assets/the_loop/cover_tale_160.jpg",
-      "cover_filename": "cover_tale_160.jpg"
+      "cover_filename": "cover_tale_160.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 161,
@@ -4815,7 +5223,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🛌✦\nWhat is the secret sanctuary where no monsters in the world can ever touch you?",
       "cover_url": "assets/the_loop/cover_tale_161.jpg",
-      "cover_filename": "cover_tale_161.jpg"
+      "cover_filename": "cover_tale_161.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 162,
@@ -4830,7 +5239,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ⚓✦\nDid you have to cross stormy oceans just to discover that her heart was your only harbor?",
       "cover_url": "assets/the_loop/cover_tale_162.jpg",
-      "cover_filename": "cover_tale_162.jpg"
+      "cover_filename": "cover_tale_162.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 163,
@@ -4845,7 +5255,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 📱✦\nWhat voicemail do you listen to every twilight just to hear that familiar voice?",
       "cover_url": "assets/the_loop/cover_tale_163.jpg",
-      "cover_filename": "cover_tale_163.jpg"
+      "cover_filename": "cover_tale_163.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 164,
@@ -4860,7 +5271,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🍳✦\nWhat is the simplest thing you learned to do just to see a smile on their face?",
       "cover_url": "assets/the_loop/cover_tale_164.jpg",
-      "cover_filename": "cover_tale_164.jpg"
+      "cover_filename": "cover_tale_164.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 165,
@@ -4875,7 +5287,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🧥✦\nCan one shared coat in a summer shower keep two hearts warm for fifty years?",
       "cover_url": "assets/the_loop/cover_tale_165.jpg",
-      "cover_filename": "cover_tale_165.jpg"
+      "cover_filename": "cover_tale_165.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 166,
@@ -4890,7 +5303,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌟✦\nWhen stars burn out in the cosmic night, what is the light that burns brighter?",
       "cover_url": "assets/the_loop/cover_tale_166.jpg",
-      "cover_filename": "cover_tale_166.jpg"
+      "cover_filename": "cover_tale_166.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 167,
@@ -4905,7 +5319,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🕊️✦\nHow many paper cranes would you fold just for one genuine smile from the one you love?",
       "cover_url": "assets/the_loop/cover_tale_167.jpg",
-      "cover_filename": "cover_tale_167.jpg"
+      "cover_filename": "cover_tale_167.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 168,
@@ -4920,7 +5335,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🚪✦\nWhose arrival in your doorway makes the entire house feel alive again?",
       "cover_url": "assets/the_loop/cover_tale_168.jpg",
-      "cover_filename": "cover_tale_168.jpg"
+      "cover_filename": "cover_tale_168.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 169,
@@ -4935,7 +5351,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 👁️✦\nHave you ever shared a glance across a crowded room that gave away your whole secret?",
       "cover_url": "assets/the_loop/cover_tale_169.jpg",
-      "cover_filename": "cover_tale_169.jpg"
+      "cover_filename": "cover_tale_169.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 170,
@@ -4950,7 +5367,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 📚✦\nWho is the person who carried your books when you were young, and your burdens when you grew?",
       "cover_url": "assets/the_loop/cover_tale_170.jpg",
-      "cover_filename": "cover_tale_170.jpg"
+      "cover_filename": "cover_tale_170.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 171,
@@ -4965,7 +5383,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ⏳✦\nWhen you whisper a promise to someone, does time become your witness or your test?",
       "cover_url": "assets/the_loop/cover_tale_171.jpg",
-      "cover_filename": "cover_tale_171.jpg"
+      "cover_filename": "cover_tale_171.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 172,
@@ -4980,7 +5399,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕊️✦\nCan a kiss on the forehead bring peace to a heart that has fought a thousand battles?",
       "cover_url": "assets/the_loop/cover_tale_172.jpg",
-      "cover_filename": "cover_tale_172.jpg"
+      "cover_filename": "cover_tale_172.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 173,
@@ -4995,7 +5415,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🛤️✦\nWhen you meet someone at a crossroads, what tells your heart to take the same path?",
       "cover_url": "assets/the_loop/cover_tale_173.jpg",
-      "cover_filename": "cover_tale_173.jpg"
+      "cover_filename": "cover_tale_173.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 174,
@@ -5010,7 +5431,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 💓✦\nIf two pulses sync into one rhythm, can distance ever truly separate them?",
       "cover_url": "assets/the_loop/cover_tale_174.jpg",
-      "cover_filename": "cover_tale_174.jpg"
+      "cover_filename": "cover_tale_174.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 175,
@@ -5025,7 +5447,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🌹✦\nWhy does a single quiet gesture often speak louder than a thousand grand words?",
       "cover_url": "assets/the_loop/cover_tale_175.jpg",
-      "cover_filename": "cover_tale_175.jpg"
+      "cover_filename": "cover_tale_175.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 176,
@@ -5040,7 +5463,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 👵✦\nIf love stays young inside, does growing old together ever feel scary?",
       "cover_url": "assets/the_loop/cover_tale_176.jpg",
-      "cover_filename": "cover_tale_176.jpg"
+      "cover_filename": "cover_tale_176.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 177,
@@ -5055,7 +5479,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪑✦\nWho is the one person you want to sit beside on a quiet porch when you are eighty?",
       "cover_url": "assets/the_loop/cover_tale_177.jpg",
-      "cover_filename": "cover_tale_177.jpg"
+      "cover_filename": "cover_tale_177.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 178,
@@ -5070,7 +5495,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 💧✦\nCan someone catch your silent tear and turn it into strength?",
       "cover_url": "assets/the_loop/cover_tale_178.jpg",
-      "cover_filename": "cover_tale_178.jpg"
+      "cover_filename": "cover_tale_178.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 179,
@@ -5085,7 +5511,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🍵✦\nHave you ever shared midnight tea with someone and felt completely drunk on quiet dreams?",
       "cover_url": "assets/the_loop/cover_tale_179.jpg",
-      "cover_filename": "cover_tale_179.jpg"
+      "cover_filename": "cover_tale_179.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 180,
@@ -5100,7 +5527,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🎬✦\nWas every moment in your life before meeting your soulmate merely a rehearsal?",
       "cover_url": "assets/the_loop/cover_tale_180.jpg",
-      "cover_filename": "cover_tale_180.jpg"
+      "cover_filename": "cover_tale_180.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 181,
@@ -5115,7 +5543,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🚲✦\nWhat rusted childhood treasure in your garage still holds your most vivid memories?",
       "cover_url": "assets/the_loop/cover_tale_181.jpg",
-      "cover_filename": "cover_tale_181.jpg"
+      "cover_filename": "cover_tale_181.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 182,
@@ -5130,7 +5559,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🪑✦\nWhy does an empty chair often make a quiet room feel completely full of presence?",
       "cover_url": "assets/the_loop/cover_tale_182.jpg",
-      "cover_filename": "cover_tale_182.jpg"
+      "cover_filename": "cover_tale_182.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 183,
@@ -5145,7 +5575,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕰️✦\nWhy does childhood feel like it sprinted away while the clocks ticked so slowly?",
       "cover_url": "assets/the_loop/cover_tale_183.jpg",
-      "cover_filename": "cover_tale_183.jpg"
+      "cover_filename": "cover_tale_183.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 184,
@@ -5160,7 +5591,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📼✦\nWhat song on an old cassette tape can instantly bring your youth singing back?",
       "cover_url": "assets/the_loop/cover_tale_184.jpg",
-      "cover_filename": "cover_tale_184.jpg"
+      "cover_filename": "cover_tale_184.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 185,
@@ -5175,7 +5607,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 📦✦\nWhen packing up a loved one's room, why is their scent the hardest thing to leave behind?",
       "cover_url": "assets/the_loop/cover_tale_185.jpg",
-      "cover_filename": "cover_tale_185.jpg"
+      "cover_filename": "cover_tale_185.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 186,
@@ -5190,7 +5623,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🍂✦\nHave you ever realized that life turned seasons while you were still waiting to finish the chapter?",
       "cover_url": "assets/the_loop/cover_tale_186.jpg",
-      "cover_filename": "cover_tale_186.jpg"
+      "cover_filename": "cover_tale_186.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 187,
@@ -5205,7 +5639,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🔧✦\nWhat is the one broken thing from your past that no amount of fixing could restore?",
       "cover_url": "assets/the_loop/cover_tale_187.jpg",
-      "cover_filename": "cover_tale_187.jpg"
+      "cover_filename": "cover_tale_187.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 188,
@@ -5220,7 +5655,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🎹✦\nCan an untouched piano still play the melodies of the hands that once loved it?",
       "cover_url": "assets/the_loop/cover_tale_188.jpg",
-      "cover_filename": "cover_tale_188.jpg"
+      "cover_filename": "cover_tale_188.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 189,
@@ -5235,7 +5671,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🏫✦\nWhen you walk past your old school, do you still hear the ghosts of your childhood laughter?",
       "cover_url": "assets/the_loop/cover_tale_189.jpg",
-      "cover_filename": "cover_tale_189.jpg"
+      "cover_filename": "cover_tale_189.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 190,
@@ -5250,7 +5687,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🎫✦\nWhat concert ticket stub in your drawer holds a night that never really ended?",
       "cover_url": "assets/the_loop/cover_tale_190.jpg",
-      "cover_filename": "cover_tale_190.jpg"
+      "cover_filename": "cover_tale_190.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 191,
@@ -5265,7 +5703,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 📞✦\nHave you ever dialed an old childhood number just hoping the past would pick up?",
       "cover_url": "assets/the_loop/cover_tale_191.jpg",
-      "cover_filename": "cover_tale_191.jpg"
+      "cover_filename": "cover_tale_191.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 192,
@@ -5280,7 +5719,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🌳✦\nDo the initials carved into an old tree fade away, or does the tree grow them into the sky?",
       "cover_url": "assets/the_loop/cover_tale_192.jpg",
-      "cover_filename": "cover_tale_192.jpg"
+      "cover_filename": "cover_tale_192.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 193,
@@ -5295,7 +5735,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🍞✦\nWhat recipe from your grandmother still holds the warmth of a kitchen from thirty years ago?",
       "cover_url": "assets/the_loop/cover_tale_193.jpg",
-      "cover_filename": "cover_tale_193.jpg"
+      "cover_filename": "cover_tale_193.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 194,
@@ -5310,7 +5751,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🐕✦\nIs there anything more heartbreaking than an old dog sitting by a door that never opens?",
       "cover_url": "assets/the_loop/cover_tale_194.jpg",
-      "cover_filename": "cover_tale_194.jpg"
+      "cover_filename": "cover_tale_194.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 195,
@@ -5325,7 +5767,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌅✦\nWhy did yesterday feel like home while tomorrow arrived before we were even ready?",
       "cover_url": "assets/the_loop/cover_tale_195.jpg",
-      "cover_filename": "cover_tale_195.jpg"
+      "cover_filename": "cover_tale_195.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 196,
@@ -5340,7 +5783,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📬✦\nWhat handwritten letters in your shoebox are worth more to you than all the gold on earth?",
       "cover_url": "assets/the_loop/cover_tale_196.jpg",
-      "cover_filename": "cover_tale_196.jpg"
+      "cover_filename": "cover_tale_196.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 197,
@@ -5355,7 +5799,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 📱✦\nWhy does the heart continue dialing a number that the fingers already deleted?",
       "cover_url": "assets/the_loop/cover_tale_197.jpg",
-      "cover_filename": "cover_tale_197.jpg"
+      "cover_filename": "cover_tale_197.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 198,
@@ -5370,7 +5815,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 📏✦\nDo the pencil marks on the doorframe outlive the house where you grew up?",
       "cover_url": "assets/the_loop/cover_tale_198.jpg",
-      "cover_filename": "cover_tale_198.jpg"
+      "cover_filename": "cover_tale_198.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 199,
@@ -5385,7 +5831,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 📻✦\nWhat vinyl record crackle brings a ghost from your past spinning right back to life?",
       "cover_url": "assets/the_loop/cover_tale_199.jpg",
-      "cover_filename": "cover_tale_199.jpg"
+      "cover_filename": "cover_tale_199.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 200,
@@ -5400,7 +5847,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🛏️✦\nHow does grief manage to wear the warm socks of the person who is no longer there?",
       "cover_url": "assets/the_loop/cover_tale_200.jpg",
-      "cover_filename": "cover_tale_200.jpg"
+      "cover_filename": "cover_tale_200.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 201,
@@ -5415,7 +5863,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ⌛✦\nIf no grain of sand in the hourglass can flow upward, why do our minds live in reverse?",
       "cover_url": null,
-      "cover_filename": "cover_tale_201.jpg"
+      "cover_filename": "cover_tale_201.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 202,
@@ -5430,7 +5879,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏰✦\nWhen the treehouse rots away, where does the king of the world go?",
       "cover_url": null,
-      "cover_filename": "cover_tale_202.jpg"
+      "cover_filename": "cover_tale_202.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 203,
@@ -5445,7 +5895,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🧣✦\nWhy do we hold a simple folded scarf closer to our chest than any diamond?",
       "cover_url": null,
-      "cover_filename": "cover_tale_203.jpg"
+      "cover_filename": "cover_tale_203.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 204,
@@ -5460,7 +5911,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🔥✦\nDecades vanished like morning smoke, but did your eyes manage to keep their fire?",
       "cover_url": null,
-      "cover_filename": "cover_tale_204.jpg"
+      "cover_filename": "cover_tale_204.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 205,
@@ -5475,7 +5927,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🫙✦\nDid you ever catch fireflies in a glass jar and believe you had trapped summer forever?",
       "cover_url": null,
-      "cover_filename": "cover_tale_205.jpg"
+      "cover_filename": "cover_tale_205.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 206,
@@ -5490,7 +5943,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🧥✦\nWhy does winter feel twice as cold when an empty winter coat hangs on the rack?",
       "cover_url": null,
-      "cover_filename": "cover_tale_206.jpg"
+      "cover_filename": "cover_tale_206.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 207,
@@ -5505,7 +5959,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌇✦\nDid we spend our whole youth chasing setting suns, only to let night catch us unaware?",
       "cover_url": null,
-      "cover_filename": "cover_tale_207.jpg"
+      "cover_filename": "cover_tale_207.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 208,
@@ -5520,7 +5975,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔪✦\nWhat old keepsake from your grandfather carved your very first courage into wood?",
       "cover_url": null,
-      "cover_filename": "cover_tale_208.jpg"
+      "cover_filename": "cover_tale_208.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 209,
@@ -5535,7 +5991,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌊✦\nIf the sea took everything, why does the solitary shoe on shore feel like a monument?",
       "cover_url": null,
-      "cover_filename": "cover_tale_209.jpg"
+      "cover_filename": "cover_tale_209.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 210,
@@ -5550,7 +6007,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🏞️✦\nIf the river never pauses for anyone, why did we ever expect our youth to wait?",
       "cover_url": null,
-      "cover_filename": "cover_tale_210.jpg"
+      "cover_filename": "cover_tale_210.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 211,
@@ -5565,7 +6023,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 💡✦\nDo you remember the buzzing streetlights that told you it was finally time to run home?",
       "cover_url": null,
-      "cover_filename": "cover_tale_211.jpg"
+      "cover_filename": "cover_tale_211.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 212,
@@ -5580,7 +6039,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🪴✦\nCan watering someone's favorite plant keep their memory alive, or does grief wither in silence?",
       "cover_url": null,
-      "cover_filename": "cover_tale_212.jpg"
+      "cover_filename": "cover_tale_212.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 213,
@@ -5595,7 +6055,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 📷✦\nWhy do old photographs turn yellow while the smiles captured inside stay razor sharp?",
       "cover_url": null,
-      "cover_filename": "cover_tale_213.jpg"
+      "cover_filename": "cover_tale_213.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 214,
@@ -5610,7 +6071,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌧️✦\nWere the chalk drawings washed away by the rain, or did the sidewalk keep their spirit?",
       "cover_url": null,
-      "cover_filename": "cover_tale_214.jpg"
+      "cover_filename": "cover_tale_214.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 215,
@@ -5625,7 +6087,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🍽️✦\nWhy does an unused dinner plate at the table feel heavier than a mountain?",
       "cover_url": null,
-      "cover_filename": "cover_tale_215.jpg"
+      "cover_filename": "cover_tale_215.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 216,
@@ -5640,7 +6103,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🔥✦\nIf youth was a roaring flame, is the quiet ash of old age what truly warms the soul?",
       "cover_url": null,
-      "cover_filename": "cover_tale_216.jpg"
+      "cover_filename": "cover_tale_216.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 217,
@@ -5655,7 +6119,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🎸✦\nWhat anthem on the radio wakes up the teenage rebel you used to be?",
       "cover_url": null,
-      "cover_filename": "cover_tale_217.jpg"
+      "cover_filename": "cover_tale_217.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 218,
@@ -5670,7 +6135,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🌺✦\nDoes a garden grow wild out of sorrow when the hands that tended it are gone?",
       "cover_url": null,
-      "cover_filename": "cover_tale_218.jpg"
+      "cover_filename": "cover_tale_218.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 219,
@@ -5685,7 +6151,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 💨✦\nWe spent decades building stone walls—did we forget that wind turns everything back to dust?",
       "cover_url": null,
-      "cover_filename": "cover_tale_219.jpg"
+      "cover_filename": "cover_tale_219.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 220,
@@ -5700,7 +6167,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📚✦\nWhat old book on your shelf holds a world that you traveled to and never quite returned from?",
       "cover_url": null,
-      "cover_filename": "cover_tale_220.jpg"
+      "cover_filename": "cover_tale_220.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 221,
@@ -5715,7 +6183,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🪐✦\nWhen Earth fell asleep into silence, what kind of humanity lit the first fire on Mars?",
       "cover_url": null,
-      "cover_filename": "cover_tale_221.jpg"
+      "cover_filename": "cover_tale_221.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 222,
@@ -5730,7 +6199,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🔮✦\nDid the oracle go blind, or did losing human sight finally reveal the true cosmos?",
       "cover_url": null,
-      "cover_filename": "cover_tale_222.jpg"
+      "cover_filename": "cover_tale_222.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 223,
@@ -5745,7 +6215,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🤖✦\nWhen thinking machines ask about God, are they searching for their programmer or their soul?",
       "cover_url": null,
-      "cover_filename": "cover_tale_223.jpg"
+      "cover_filename": "cover_tale_223.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 224,
@@ -5760,7 +6231,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🌌✦\nIf Voyager left our galaxy and found human footprints, were we exploring the future or our past?",
       "cover_url": null,
-      "cover_filename": "cover_tale_224.jpg"
+      "cover_filename": "cover_tale_224.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 225,
@@ -5775,7 +6247,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ⏳✦\nCan we ever truly escape our timeline, or does history just run ahead to meet us?",
       "cover_url": null,
-      "cover_filename": "cover_tale_225.jpg"
+      "cover_filename": "cover_tale_225.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 226,
@@ -5790,7 +6263,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🧘✦\nIs the meaning of life something you find at the end, or was the searching itself the answer?",
       "cover_url": null,
-      "cover_filename": "cover_tale_226.jpg"
+      "cover_filename": "cover_tale_226.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 227,
@@ -5805,7 +6279,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? ❄️✦\nIf the clone wakes up before the original, who owns the memories in the morning?",
       "cover_url": null,
-      "cover_filename": "cover_tale_227.jpg"
+      "cover_filename": "cover_tale_227.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 228,
@@ -5820,7 +6295,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🔺✦\nWhen the pyramids hum in response to shifting stars, what ancient signal are they echoing?",
       "cover_url": null,
-      "cover_filename": "cover_tale_228.jpg"
+      "cover_filename": "cover_tale_228.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 229,
@@ -5835,7 +6311,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 💀✦\nWhen Death asked Life why people love it so much, why did Life just smile and breathe?",
       "cover_url": null,
-      "cover_filename": "cover_tale_229.jpg"
+      "cover_filename": "cover_tale_229.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 230,
@@ -5850,7 +6327,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🛸✦\nIf the alien ship finally landed only to return our own ashes, where did we perish?",
       "cover_url": null,
-      "cover_filename": "cover_tale_230.jpg"
+      "cover_filename": "cover_tale_230.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 231,
@@ -5865,7 +6343,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌀✦\nWas every mistake and detour along your path actually guiding you to your true destiny?",
       "cover_url": null,
-      "cover_filename": "cover_tale_231.jpg"
+      "cover_filename": "cover_tale_231.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 232,
@@ -5880,7 +6359,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌓✦\nDoes light need darkness to be seen, or does shadow exist only because light dared to shine?",
       "cover_url": null,
-      "cover_filename": "cover_tale_232.jpg"
+      "cover_filename": "cover_tale_232.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 233,
@@ -5895,7 +6375,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🧠✦\nIf we upload human consciousness into infinite servers, will code ever understand how to dream?",
       "cover_url": null,
-      "cover_filename": "cover_tale_233.jpg"
+      "cover_filename": "cover_tale_233.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 234,
@@ -5910,7 +6391,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🌌✦\nDid cosmic gravity pull two distant souls together, or was it the quiet pull of choice?",
       "cover_url": null,
-      "cover_filename": "cover_tale_234.jpg"
+      "cover_filename": "cover_tale_234.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 235,
@@ -5925,7 +6407,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? ⛰️✦\nIf soft water outlives the hard mountain, why do we still trust brute force over patience?",
       "cover_url": null,
-      "cover_filename": "cover_tale_235.jpg"
+      "cover_filename": "cover_tale_235.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 236,
@@ -5940,7 +6423,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🔵✦\nWhen the sun turned dark blue, did humanity learn how to glow from within?",
       "cover_url": null,
-      "cover_filename": "cover_tale_236.jpg"
+      "cover_filename": "cover_tale_236.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 237,
@@ -5955,7 +6439,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪞✦\nIf shattering the mirror revealed seven different futures, which one would you step into?",
       "cover_url": null,
-      "cover_filename": "cover_tale_237.jpg"
+      "cover_filename": "cover_tale_237.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 238,
@@ -5970,7 +6455,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🤫✦\nIs silence truly empty, or is it pregnant with every answer the universe ever kept?",
       "cover_url": null,
-      "cover_filename": "cover_tale_238.jpg"
+      "cover_filename": "cover_tale_238.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 239,
@@ -5985,7 +6471,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 💧✦\nWhen the android touched its first human tear, did it finally understand mortality?",
       "cover_url": null,
-      "cover_filename": "cover_tale_239.jpg"
+      "cover_filename": "cover_tale_239.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 240,
@@ -6000,7 +6487,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🌠✦\nWhen the constellations shift across the sky, what new destiny awakens on Earth?",
       "cover_url": null,
-      "cover_filename": "cover_tale_240.jpg"
+      "cover_filename": "cover_tale_240.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 241,
@@ -6015,7 +6503,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🌊✦\nCan you ever step into the same river twice, or does every moment wash away who you were?",
       "cover_url": null,
-      "cover_filename": "cover_tale_241.jpg"
+      "cover_filename": "cover_tale_241.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 242,
@@ -6030,7 +6519,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 💡✦\nIf we build artificial stars to banish darkness, will humanity forget how to look for dawn?",
       "cover_url": null,
-      "cover_filename": "cover_tale_242.jpg"
+      "cover_filename": "cover_tale_242.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 243,
@@ -6045,7 +6535,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🧵✦\nWhen the thread of fate was severed, how did the knot manage to tie itself even tighter?",
       "cover_url": null,
-      "cover_filename": "cover_tale_243.jpg"
+      "cover_filename": "cover_tale_243.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 244,
@@ -6060,7 +6551,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕊️✦\nIf the cage door has been thrown wide open, why does the bird choose to stay inside?",
       "cover_url": null,
-      "cover_filename": "cover_tale_244.jpg"
+      "cover_filename": "cover_tale_244.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 245,
@@ -6075,7 +6567,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 📡✦\nIf a deep cosmic signal is encoded with our own DNA, who broadcasted it from the stars?",
       "cover_url": null,
-      "cover_filename": "cover_tale_245.jpg"
+      "cover_filename": "cover_tale_245.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 246,
@@ -6090,7 +6583,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ⚡✦\nDid running away from the omen lead you straight into the arms of your destiny?",
       "cover_url": null,
-      "cover_filename": "cover_tale_246.jpg"
+      "cover_filename": "cover_tale_246.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 247,
@@ -6105,7 +6599,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🌌✦\nHow could total nothingness give birth to every single star, galaxy, and breath you see?",
       "cover_url": null,
-      "cover_filename": "cover_tale_247.jpg"
+      "cover_filename": "cover_tale_247.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 248,
@@ -6120,7 +6615,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🔋✦\nWhen the very last battery dies on Earth, will nature reclaim the silicon without a trace?",
       "cover_url": null,
-      "cover_filename": "cover_tale_248.jpg"
+      "cover_filename": "cover_tale_248.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 249,
@@ -6135,7 +6631,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🃏✦\nWhy did the Death card smile politely when it was dealt face-up on the table?",
       "cover_url": null,
-      "cover_filename": "cover_tale_249.jpg"
+      "cover_filename": "cover_tale_249.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 250,
@@ -6150,7 +6647,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🗺️✦\nDo you have to become completely lost in the wilderness before you can truly discover yourself?",
       "cover_url": null,
-      "cover_filename": "cover_tale_250.jpg"
+      "cover_filename": "cover_tale_250.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 251,
@@ -6165,7 +6663,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌊✦\nIf gravity reversed for five seconds, what secret would the oceans whisper to the clouds?",
       "cover_url": null,
-      "cover_filename": "cover_tale_251.jpg"
+      "cover_filename": "cover_tale_251.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 252,
@@ -6180,7 +6679,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 👑✦\nWhen the king placed the golden crown on his head, why did his throne dissolve into dust?",
       "cover_url": null,
-      "cover_filename": "cover_tale_252.jpg"
+      "cover_filename": "cover_tale_252.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 253,
@@ -6195,7 +6695,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🍵✦\nIs a cup truly useful for holding tea, or is its value only found in its emptiness?",
       "cover_url": null,
-      "cover_filename": "cover_tale_253.jpg"
+      "cover_filename": "cover_tale_253.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 254,
@@ -6210,7 +6711,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🧬✦\nIf we mapped the human soul down to binary code, what is the one line that cannot be computed?",
       "cover_url": null,
-      "cover_filename": "cover_tale_254.jpg"
+      "cover_filename": "cover_tale_254.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 255,
@@ -6225,7 +6727,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪙✦\nWhen the coin flipped midair and landed on its edge, what third destiny unlocked for you?",
       "cover_url": null,
-      "cover_filename": "cover_tale_255.jpg"
+      "cover_filename": "cover_tale_255.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 256,
@@ -6240,7 +6743,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? ⚔️✦\nWhy can a man conquer an entire empire with armies, yet remain powerless against his own desire?",
       "cover_url": null,
-      "cover_filename": "cover_tale_256.jpg"
+      "cover_filename": "cover_tale_256.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 257,
@@ -6255,7 +6759,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌙✦\nIf the moon drifted away into deep space, whose tides would the oceans follow in the dark?",
       "cover_url": null,
-      "cover_filename": "cover_tale_257.jpg"
+      "cover_filename": "cover_tale_257.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 258,
@@ -6270,7 +6775,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ☄️✦\nWhen a comet strikes at dawn, is it an ending for an old world or a rebirth for a new one?",
       "cover_url": null,
-      "cover_filename": "cover_tale_258.jpg"
+      "cover_filename": "cover_tale_258.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 259,
@@ -6285,7 +6791,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? ☝️✦\nAre words merely fingers pointing at the truth, while the moon shines completely untouched?",
       "cover_url": null,
-      "cover_filename": "cover_tale_259.jpg"
+      "cover_filename": "cover_tale_259.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 260,
@@ -6300,7 +6807,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 👁️✦\nWhen synthetic eyes saw beauty for the first time, why did circuitry weep real oil?",
       "cover_url": null,
-      "cover_filename": "cover_tale_260.jpg"
+      "cover_filename": "cover_tale_260.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 261,
@@ -6315,7 +6823,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌸✦\nAfter the fiercest storm of your life, what fresh flowers bloomed in your morning garden?",
       "cover_url": null,
-      "cover_filename": "cover_tale_261.jpg"
+      "cover_filename": "cover_tale_261.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 262,
@@ -6330,7 +6839,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? ✊✦\nCan true bravery exist without your hands shaking as you take that first step?",
       "cover_url": null,
-      "cover_filename": "cover_tale_262.jpg"
+      "cover_filename": "cover_tale_262.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 263,
@@ -6345,7 +6855,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌱✦\nWhen life buries you deep in the dark soil, do you realize you have been planted to grow?",
       "cover_url": null,
-      "cover_filename": "cover_tale_263.jpg"
+      "cover_filename": "cover_tale_263.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 264,
@@ -6360,7 +6871,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ❄️✦\nWinter claimed every branch, but did spring ever surrender its promise to return?",
       "cover_url": null,
-      "cover_filename": "cover_tale_264.jpg"
+      "cover_filename": "cover_tale_264.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 265,
@@ -6375,7 +6887,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🪨✦\nWhen the giant of doubt stands tall, what small pebble of truth do you reach for?",
       "cover_url": null,
-      "cover_filename": "cover_tale_265.jpg"
+      "cover_filename": "cover_tale_265.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 266,
@@ -6390,7 +6903,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🦋✦\nDoes the caterpillar know it will grow golden wings, or does it simply trust the sleep?",
       "cover_url": null,
-      "cover_filename": "cover_tale_266.jpg"
+      "cover_filename": "cover_tale_266.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 267,
@@ -6405,7 +6919,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕯️✦\nWhen all your candles blew out, did you see the early dawn breaking across the horizon?",
       "cover_url": null,
-      "cover_filename": "cover_tale_267.jpg"
+      "cover_filename": "cover_tale_267.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 268,
@@ -6420,7 +6935,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👣✦\nWhen the whole world tells you to stay down, what whispers to your feet to stand back up?",
       "cover_url": null,
-      "cover_filename": "cover_tale_268.jpg"
+      "cover_filename": "cover_tale_268.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 269,
@@ -6435,7 +6951,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌾✦\nDid you know that the tears that watered your sorrow are the exact ground where joy grows?",
       "cover_url": null,
-      "cover_filename": "cover_tale_269.jpg"
+      "cover_filename": "cover_tale_269.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 270,
@@ -6450,7 +6967,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🏝️✦\nWhen the boat took on water, was the island on the horizon a miracle or destiny?",
       "cover_url": null,
-      "cover_filename": "cover_tale_270.jpg"
+      "cover_filename": "cover_tale_270.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 271,
@@ -6465,7 +6983,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🕊️✦\nFear can shout as loud as thunder, but why does faith always whisper clearer?",
       "cover_url": null,
-      "cover_filename": "cover_tale_271.jpg"
+      "cover_filename": "cover_tale_271.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 272,
@@ -6480,7 +6999,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 👶✦\nWhen a child takes their first stumble, does the whole earth rise up to catch them?",
       "cover_url": null,
-      "cover_filename": "cover_tale_272.jpg"
+      "cover_filename": "cover_tale_272.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 273,
@@ -6495,7 +7015,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? ✨✦\nWhat deep wound in your life ended up glowing as your brightest scar of honor?",
       "cover_url": null,
-      "cover_filename": "cover_tale_273.jpg"
+      "cover_filename": "cover_tale_273.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 274,
@@ -6510,7 +7031,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔥✦\nWhen darkness covers the entire valley, how does a single match have the power to break it?",
       "cover_url": null,
-      "cover_filename": "cover_tale_274.jpg"
+      "cover_filename": "cover_tale_274.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 275,
@@ -6525,7 +7047,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 💃✦\nWhen the music ended too soon, why did the dancers keep on moving across the floor?",
       "cover_url": null,
-      "cover_filename": "cover_tale_275.jpg"
+      "cover_filename": "cover_tale_275.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 276,
@@ -6540,7 +7063,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🌧️✦\nHow does a parched desert know how to bloom the very second it smells the first rain?",
       "cover_url": null,
-      "cover_filename": "cover_tale_276.jpg"
+      "cover_filename": "cover_tale_276.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 277,
@@ -6555,7 +7079,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🛡️✦\nWhen you stand alone against the crowd, what truth stands right beside you in silence?",
       "cover_url": null,
-      "cover_filename": "cover_tale_277.jpg"
+      "cover_filename": "cover_tale_277.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 278,
@@ -6570,7 +7095,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🤱✦\nWhen a mother holds her newborn child, does the whole universe take a deep, safe breath?",
       "cover_url": null,
-      "cover_filename": "cover_tale_278.jpg"
+      "cover_filename": "cover_tale_278.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 279,
@@ -6585,7 +7111,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕊️✦\nWhen the cage door unhinges, what is the first sky you want to fly toward?",
       "cover_url": null,
-      "cover_filename": "cover_tale_279.jpg"
+      "cover_filename": "cover_tale_279.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 280,
@@ -6600,7 +7127,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🎤✦\nEven when your voice cracks with fear, why is singing your truth the only way forward?",
       "cover_url": null,
-      "cover_filename": "cover_tale_280.jpg"
+      "cover_filename": "cover_tale_280.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 281,
@@ -6615,7 +7143,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 💓✦\nIf your heart was given a second chance to beat, what song would you make it sing?",
       "cover_url": null,
-      "cover_filename": "cover_tale_281.jpg"
+      "cover_filename": "cover_tale_281.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 282,
@@ -6630,7 +7159,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🪟✦\nWhen every heavy door stayed shut in your face, what small window swung open for light?",
       "cover_url": null,
-      "cover_filename": "cover_tale_282.jpg"
+      "cover_filename": "cover_tale_282.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 283,
@@ -6645,7 +7175,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🏜️✦\nWho crossed the burning sands with you to find the sweet water waiting at the end?",
       "cover_url": null,
-      "cover_filename": "cover_tale_283.jpg"
+      "cover_filename": "cover_tale_283.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 284,
@@ -6660,7 +7191,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🍂✦\nWhen the old oak tree sheds its leaves, does it mourn the branches or drink winter peace?",
       "cover_url": null,
-      "cover_filename": "cover_tale_284.jpg"
+      "cover_filename": "cover_tale_284.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 285,
@@ -6675,7 +7207,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌈✦\nAfter the heaviest storm clouds broke, did you look up to see the sky painted in victory?",
       "cover_url": null,
-      "cover_filename": "cover_tale_285.jpg"
+      "cover_filename": "cover_tale_285.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 286,
@@ -6690,7 +7223,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👑✦\nHow can empty hands holding pure hope cause mighty empires to crumble before them?",
       "cover_url": null,
-      "cover_filename": "cover_tale_286.jpg"
+      "cover_filename": "cover_tale_286.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 287,
@@ -6705,7 +7239,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 👶✦\nWhen a newborn takes their first breath, can you feel the ancestors cheering from above?",
       "cover_url": null,
-      "cover_filename": "cover_tale_287.jpg"
+      "cover_filename": "cover_tale_287.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 288,
@@ -6720,7 +7255,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🏮✦\nThe glass of the lighthouse cracked in the tempest, but did the flame ever go out?",
       "cover_url": null,
-      "cover_filename": "cover_tale_288.jpg"
+      "cover_filename": "cover_tale_288.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 289,
@@ -6735,7 +7271,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🛡️✦\nYour shield was broken in two, but did your heart emerge completely whole and undefeated?",
       "cover_url": null,
-      "cover_filename": "cover_tale_289.jpg"
+      "cover_filename": "cover_tale_289.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 290,
@@ -6750,7 +7287,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🌧️✦\nWhen warm rain soaks parched ground, does the earth breathe the sweetest scent of life?",
       "cover_url": null,
-      "cover_filename": "cover_tale_290.jpg"
+      "cover_filename": "cover_tale_290.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 291,
@@ -6765,7 +7303,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🤝✦\nWhen all hope seemed lost in the shadows, whose small hand reached out to hold yours?",
       "cover_url": null,
-      "cover_filename": "cover_tale_291.jpg"
+      "cover_filename": "cover_tale_291.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 292,
@@ -6780,7 +7319,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? ⚔️✦\nDid you step into the fire of adversity only to come out forged into unbreakable steel?",
       "cover_url": null,
-      "cover_filename": "cover_tale_292.jpg"
+      "cover_filename": "cover_tale_292.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 293,
@@ -6795,7 +7335,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🎶✦\nCan dancing through sorrow turn your deepest grief into the greatest anthem of joy?",
       "cover_url": null,
-      "cover_filename": "cover_tale_293.jpg"
+      "cover_filename": "cover_tale_293.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 294,
@@ -6810,7 +7351,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? ⛵✦\nWhen the heavy anchor snapped free, did the wind catch your sails toward your new life?",
       "cover_url": null,
-      "cover_filename": "cover_tale_294.jpg"
+      "cover_filename": "cover_tale_294.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 295,
@@ -6825,7 +7367,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact frame the loop reset? 🗣️✦\nWhen one courageous voice spoke out in the quiet, did a million voices rise to answer?",
       "cover_url": null,
-      "cover_filename": "cover_tale_295.jpg"
+      "cover_filename": "cover_tale_295.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 296,
@@ -6840,7 +7383,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact second the story looped? 🐕✦\nWhat green fields of peace does an old, faithful companion dream of under the porch?",
       "cover_url": null,
-      "cover_filename": "cover_tale_296.jpg"
+      "cover_filename": "cover_tale_296.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 297,
@@ -6855,7 +7399,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the loop reset on the first watch? 🖋️✦\nEven when the ink runs dry on paper, can anyone stop your story from being lived?",
       "cover_url": null,
-      "cover_filename": "cover_tale_297.jpg"
+      "cover_filename": "cover_tale_297.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 298,
@@ -6870,7 +7415,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👁️✦\nWhen you stood toe-to-toe with the dark abyss, did the abyss blink first?",
       "cover_url": null,
-      "cover_filename": "cover_tale_298.jpg"
+      "cover_filename": "cover_tale_298.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 299,
@@ -6885,7 +7431,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you catch the exact moment the story looped? 🌲✦\nLeaves fall every autumn without fear—does the forest ever doubt that life will return?",
       "cover_url": null,
-      "cover_filename": "cover_tale_299.jpg"
+      "cover_filename": "cover_tale_299.jpg",
+      "status": "QUEUED"
     },
     {
       "episode": 300,
@@ -6900,7 +7447,8 @@ window.PUBLISHING_CATALOG = {
       "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
       "pinned_comment": "Did you spot where the story reset into the loop? 🌅✦\nThe darkest night must always end—will you be there when the dawn keeps its golden promise?",
       "cover_url": null,
-      "cover_filename": "cover_tale_300.jpg"
+      "cover_filename": "cover_tale_300.jpg",
+      "status": "QUEUED"
     }
   ],
   "sid_isha": [
@@ -6915,7 +7463,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_01.jpg",
       "slide1_filename": "SidIsha_Day_01_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_01.jpg",
-      "slide2_filename": "SidIsha_Day_01_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_01_Slide2_Story.jpg",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DfL5Rd7n68z/"
     },
     {
       "day": 2,
@@ -6928,7 +7478,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_02.jpg",
       "slide1_filename": "SidIsha_Day_02_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_02.jpg",
-      "slide2_filename": "SidIsha_Day_02_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_02_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 3,
@@ -6941,7 +7492,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_03.jpg",
       "slide1_filename": "SidIsha_Day_03_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_03.jpg",
-      "slide2_filename": "SidIsha_Day_03_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_03_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 4,
@@ -6954,7 +7506,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_04.jpg",
       "slide1_filename": "SidIsha_Day_04_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_04.jpg",
-      "slide2_filename": "SidIsha_Day_04_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_04_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 5,
@@ -6967,7 +7520,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_05.jpg",
       "slide1_filename": "SidIsha_Day_05_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_05.jpg",
-      "slide2_filename": "SidIsha_Day_05_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_05_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 6,
@@ -6980,7 +7534,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_06.jpg",
       "slide1_filename": "SidIsha_Day_06_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_06.jpg",
-      "slide2_filename": "SidIsha_Day_06_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_06_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 7,
@@ -6993,7 +7548,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_07.jpg",
       "slide1_filename": "SidIsha_Day_07_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_07.jpg",
-      "slide2_filename": "SidIsha_Day_07_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_07_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 8,
@@ -7006,7 +7562,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_08.jpg",
       "slide1_filename": "SidIsha_Day_08_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_08.jpg",
-      "slide2_filename": "SidIsha_Day_08_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_08_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 9,
@@ -7019,7 +7576,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_09.jpg",
       "slide1_filename": "SidIsha_Day_09_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_09.jpg",
-      "slide2_filename": "SidIsha_Day_09_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_09_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 10,
@@ -7032,7 +7590,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_10.jpg",
       "slide1_filename": "SidIsha_Day_10_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_10.jpg",
-      "slide2_filename": "SidIsha_Day_10_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_10_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 11,
@@ -7045,7 +7604,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_11.jpg",
       "slide1_filename": "SidIsha_Day_11_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_11.jpg",
-      "slide2_filename": "SidIsha_Day_11_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_11_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 12,
@@ -7058,7 +7618,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_12.jpg",
       "slide1_filename": "SidIsha_Day_12_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_12.jpg",
-      "slide2_filename": "SidIsha_Day_12_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_12_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 13,
@@ -7071,7 +7632,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_13.jpg",
       "slide1_filename": "SidIsha_Day_13_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_13.jpg",
-      "slide2_filename": "SidIsha_Day_13_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_13_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 14,
@@ -7084,7 +7646,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_14.jpg",
       "slide1_filename": "SidIsha_Day_14_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_14.jpg",
-      "slide2_filename": "SidIsha_Day_14_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_14_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 15,
@@ -7097,7 +7660,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_15.jpg",
       "slide1_filename": "SidIsha_Day_15_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_15.jpg",
-      "slide2_filename": "SidIsha_Day_15_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_15_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 16,
@@ -7110,7 +7674,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_16.jpg",
       "slide1_filename": "SidIsha_Day_16_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_16.jpg",
-      "slide2_filename": "SidIsha_Day_16_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_16_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 17,
@@ -7123,7 +7688,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_17.jpg",
       "slide1_filename": "SidIsha_Day_17_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_17.jpg",
-      "slide2_filename": "SidIsha_Day_17_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_17_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 18,
@@ -7136,7 +7702,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_18.jpg",
       "slide1_filename": "SidIsha_Day_18_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_18.jpg",
-      "slide2_filename": "SidIsha_Day_18_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_18_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 19,
@@ -7149,7 +7716,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_19.jpg",
       "slide1_filename": "SidIsha_Day_19_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_19.jpg",
-      "slide2_filename": "SidIsha_Day_19_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_19_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 20,
@@ -7162,7 +7730,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_20.jpg",
       "slide1_filename": "SidIsha_Day_20_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_20.jpg",
-      "slide2_filename": "SidIsha_Day_20_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_20_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 21,
@@ -7175,7 +7744,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_21.jpg",
       "slide1_filename": "SidIsha_Day_21_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_21.jpg",
-      "slide2_filename": "SidIsha_Day_21_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_21_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 22,
@@ -7188,7 +7758,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_22.jpg",
       "slide1_filename": "SidIsha_Day_22_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_22.jpg",
-      "slide2_filename": "SidIsha_Day_22_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_22_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 23,
@@ -7201,7 +7772,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_23.jpg",
       "slide1_filename": "SidIsha_Day_23_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_23.jpg",
-      "slide2_filename": "SidIsha_Day_23_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_23_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 24,
@@ -7214,7 +7786,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_24.jpg",
       "slide1_filename": "SidIsha_Day_24_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_24.jpg",
-      "slide2_filename": "SidIsha_Day_24_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_24_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 25,
@@ -7227,7 +7800,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_25.jpg",
       "slide1_filename": "SidIsha_Day_25_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_25.jpg",
-      "slide2_filename": "SidIsha_Day_25_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_25_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 26,
@@ -7240,7 +7814,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_26.jpg",
       "slide1_filename": "SidIsha_Day_26_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_26.jpg",
-      "slide2_filename": "SidIsha_Day_26_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_26_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 27,
@@ -7253,7 +7828,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_27.jpg",
       "slide1_filename": "SidIsha_Day_27_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_27.jpg",
-      "slide2_filename": "SidIsha_Day_27_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_27_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 28,
@@ -7266,7 +7842,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_28.jpg",
       "slide1_filename": "SidIsha_Day_28_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_28.jpg",
-      "slide2_filename": "SidIsha_Day_28_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_28_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 29,
@@ -7279,7 +7856,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_29.jpg",
       "slide1_filename": "SidIsha_Day_29_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_29.jpg",
-      "slide2_filename": "SidIsha_Day_29_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_29_Slide2_Story.jpg",
+      "status": "READY 🚀"
     },
     {
       "day": 30,
@@ -7292,7 +7870,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_url": "assets/sid_isha/slide1/day_30.jpg",
       "slide1_filename": "SidIsha_Day_30_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_30.jpg",
-      "slide2_filename": "SidIsha_Day_30_Slide2_Story.jpg"
+      "slide2_filename": "SidIsha_Day_30_Slide2_Story.jpg",
+      "status": "READY 🚀"
     }
   ],
   "inkling_ig": [
@@ -7305,7 +7884,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #nostalgia",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_051.jpg",
-      "cover_filename": "cover_tale_051.jpg"
+      "cover_filename": "cover_tale_051.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 52,
@@ -7316,7 +7896,9 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_052.jpg",
-      "cover_filename": "cover_tale_052.jpg"
+      "cover_filename": "cover_tale_052.jpg",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/reel/DfKcK-3CEuJ/"
     },
     {
       "episode": 53,
@@ -7327,7 +7909,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_053.jpg",
-      "cover_filename": "cover_tale_053.jpg"
+      "cover_filename": "cover_tale_053.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 54,
@@ -7338,7 +7921,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_054.jpg",
-      "cover_filename": "cover_tale_054.jpg"
+      "cover_filename": "cover_tale_054.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 55,
@@ -7349,7 +7933,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_055.jpg",
-      "cover_filename": "cover_tale_055.jpg"
+      "cover_filename": "cover_tale_055.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 56,
@@ -7360,7 +7945,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_056.jpg",
-      "cover_filename": "cover_tale_056.jpg"
+      "cover_filename": "cover_tale_056.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 57,
@@ -7371,7 +7957,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #nostalgia",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_057.jpg",
-      "cover_filename": "cover_tale_057.jpg"
+      "cover_filename": "cover_tale_057.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 58,
@@ -7382,7 +7969,9 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #lovestory",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_058.jpg",
-      "cover_filename": "cover_tale_058.jpg"
+      "cover_filename": "cover_tale_058.jpg",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/reel/DfKcK-3CEuJ/"
     },
     {
       "episode": 59,
@@ -7393,7 +7982,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_059.jpg",
-      "cover_filename": "cover_tale_059.jpg"
+      "cover_filename": "cover_tale_059.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 60,
@@ -7404,7 +7994,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_060.jpg",
-      "cover_filename": "cover_tale_060.jpg"
+      "cover_filename": "cover_tale_060.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 61,
@@ -7415,7 +8006,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_061.jpg",
-      "cover_filename": "cover_tale_061.jpg"
+      "cover_filename": "cover_tale_061.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 62,
@@ -7426,7 +8018,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_062.jpg",
-      "cover_filename": "cover_tale_062.jpg"
+      "cover_filename": "cover_tale_062.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 63,
@@ -7437,7 +8030,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_063.jpg",
-      "cover_filename": "cover_tale_063.jpg"
+      "cover_filename": "cover_tale_063.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 64,
@@ -7448,7 +8042,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_064.jpg",
-      "cover_filename": "cover_tale_064.jpg"
+      "cover_filename": "cover_tale_064.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 65,
@@ -7459,7 +8054,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_065.jpg",
-      "cover_filename": "cover_tale_065.jpg"
+      "cover_filename": "cover_tale_065.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 66,
@@ -7470,7 +8066,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #nostalgia",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_066.jpg",
-      "cover_filename": "cover_tale_066.jpg"
+      "cover_filename": "cover_tale_066.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 67,
@@ -7481,7 +8078,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #lovestory",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_067.jpg",
-      "cover_filename": "cover_tale_067.jpg"
+      "cover_filename": "cover_tale_067.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 68,
@@ -7492,7 +8090,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_068.jpg",
-      "cover_filename": "cover_tale_068.jpg"
+      "cover_filename": "cover_tale_068.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 69,
@@ -7503,7 +8102,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_069.jpg",
-      "cover_filename": "cover_tale_069.jpg"
+      "cover_filename": "cover_tale_069.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 70,
@@ -7514,7 +8114,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_070.jpg",
-      "cover_filename": "cover_tale_070.jpg"
+      "cover_filename": "cover_tale_070.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 71,
@@ -7525,7 +8126,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_071.jpg",
-      "cover_filename": "cover_tale_071.jpg"
+      "cover_filename": "cover_tale_071.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 72,
@@ -7536,7 +8138,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #nostalgia",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_072.jpg",
-      "cover_filename": "cover_tale_072.jpg"
+      "cover_filename": "cover_tale_072.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 73,
@@ -7547,7 +8150,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_073.jpg",
-      "cover_filename": "cover_tale_073.jpg"
+      "cover_filename": "cover_tale_073.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 74,
@@ -7558,7 +8162,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_074.jpg",
-      "cover_filename": "cover_tale_074.jpg"
+      "cover_filename": "cover_tale_074.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 75,
@@ -7569,7 +8174,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_075.jpg",
-      "cover_filename": "cover_tale_075.jpg"
+      "cover_filename": "cover_tale_075.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 76,
@@ -7580,7 +8186,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #lovestory",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_076.jpg",
-      "cover_filename": "cover_tale_076.jpg"
+      "cover_filename": "cover_tale_076.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 77,
@@ -7591,7 +8198,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_077.jpg",
-      "cover_filename": "cover_tale_077.jpg"
+      "cover_filename": "cover_tale_077.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 78,
@@ -7602,7 +8210,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_078.jpg",
-      "cover_filename": "cover_tale_078.jpg"
+      "cover_filename": "cover_tale_078.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 79,
@@ -7613,7 +8222,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_079.jpg",
-      "cover_filename": "cover_tale_079.jpg"
+      "cover_filename": "cover_tale_079.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 80,
@@ -7624,7 +8234,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_080.jpg",
-      "cover_filename": "cover_tale_080.jpg"
+      "cover_filename": "cover_tale_080.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 81,
@@ -7635,7 +8246,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_081.jpg",
-      "cover_filename": "cover_tale_081.jpg"
+      "cover_filename": "cover_tale_081.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 82,
@@ -7646,7 +8258,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_082.jpg",
-      "cover_filename": "cover_tale_082.jpg"
+      "cover_filename": "cover_tale_082.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 83,
@@ -7657,7 +8270,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_083.jpg",
-      "cover_filename": "cover_tale_083.jpg"
+      "cover_filename": "cover_tale_083.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 84,
@@ -7668,7 +8282,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #nostalgia",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_084.jpg",
-      "cover_filename": "cover_tale_084.jpg"
+      "cover_filename": "cover_tale_084.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 85,
@@ -7679,7 +8294,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_085.jpg",
-      "cover_filename": "cover_tale_085.jpg"
+      "cover_filename": "cover_tale_085.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 86,
@@ -7690,7 +8306,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_086.jpg",
-      "cover_filename": "cover_tale_086.jpg"
+      "cover_filename": "cover_tale_086.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 87,
@@ -7701,7 +8318,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #nostalgia",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_087.jpg",
-      "cover_filename": "cover_tale_087.jpg"
+      "cover_filename": "cover_tale_087.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 88,
@@ -7712,7 +8330,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #lovestory",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_088.jpg",
-      "cover_filename": "cover_tale_088.jpg"
+      "cover_filename": "cover_tale_088.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 89,
@@ -7723,7 +8342,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_089.jpg",
-      "cover_filename": "cover_tale_089.jpg"
+      "cover_filename": "cover_tale_089.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 90,
@@ -7734,7 +8354,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_090.jpg",
-      "cover_filename": "cover_tale_090.jpg"
+      "cover_filename": "cover_tale_090.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 91,
@@ -7745,7 +8366,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #lovestory",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_091.jpg",
-      "cover_filename": "cover_tale_091.jpg"
+      "cover_filename": "cover_tale_091.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 92,
@@ -7756,7 +8378,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_092.jpg",
-      "cover_filename": "cover_tale_092.jpg"
+      "cover_filename": "cover_tale_092.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 93,
@@ -7767,7 +8390,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_093.jpg",
-      "cover_filename": "cover_tale_093.jpg"
+      "cover_filename": "cover_tale_093.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 94,
@@ -7778,7 +8402,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_094.jpg",
-      "cover_filename": "cover_tale_094.jpg"
+      "cover_filename": "cover_tale_094.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 95,
@@ -7789,7 +8414,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_095.jpg",
-      "cover_filename": "cover_tale_095.jpg"
+      "cover_filename": "cover_tale_095.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 96,
@@ -7800,7 +8426,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #nostalgia",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_096.jpg",
-      "cover_filename": "cover_tale_096.jpg"
+      "cover_filename": "cover_tale_096.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 97,
@@ -7811,7 +8438,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #scifi",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_097.jpg",
-      "cover_filename": "cover_tale_097.jpg"
+      "cover_filename": "cover_tale_097.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 98,
@@ -7822,7 +8450,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #hope",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_098.jpg",
-      "cover_filename": "cover_tale_098.jpg"
+      "cover_filename": "cover_tale_098.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 99,
@@ -7833,7 +8462,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #lovestory",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_099.jpg",
-      "cover_filename": "cover_tale_099.jpg"
+      "cover_filename": "cover_tale_099.jpg",
+      "status": "QUEUED ⏳"
     },
     {
       "episode": 100,
@@ -7844,7 +8474,8 @@ window.PUBLISHING_CATALOG = {
       "hashtags": "#8wordstory #microfiction #inklingtales #flashfiction #darktwist",
       "alt_text": "",
       "cover_url": "assets/the_loop/cover_tale_100.jpg",
-      "cover_filename": "cover_tale_100.jpg"
+      "cover_filename": "cover_tale_100.jpg",
+      "status": "QUEUED ⏳"
     }
   ],
   "sarav_trends": [
@@ -7950,7 +8581,8 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க ஏரியாவுலயும் இப்படி ஹை-பீம் போட்டு கண்ணை குருடாக்குற ஆட்கள் இருக்காங்களா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_001.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "youtube_url": "https://youtube.com/shorts/XgwwrULEAAw"
     },
     {
       "episode": 2,

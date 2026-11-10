@@ -1024,10 +1024,13 @@
     function getPublishedSet(suite) {
       try {
         const raw = localStorage.getItem(storageKeys[suite]);
-        return raw ? new Set(JSON.parse(raw)) : new Set();
-      } catch (e) {
-        return new Set();
-      }
+        if (raw) return new Set(JSON.parse(raw));
+      } catch (e) {}
+      const items = catalog[suite] || [];
+      const seed = items
+        .filter(x => x.status === 'PUBLISHED')
+        .map(x => (suite === 'sid_isha' ? x.day : x.episode));
+      return new Set(seed);
     }
 
     function savePublishedSet(suite, set) {
@@ -1379,6 +1382,7 @@
               <span class="cat-badge">${escapeHtml(item.day)}</span>
               <span class="cat-badge">${escapeHtml(item.category)}</span>
               <span class="slot-badge">🕒 18:00 IST Daily</span>
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none;">▶️ Live Short</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('sarav_ai', ${ep})">
@@ -1454,6 +1458,7 @@
               <span class="cat-badge">${escapeHtml(item.day)}</span>
               <span class="cat-badge">${escapeHtml(item.slot || '19:00 IST')}</span>
               <span class="cat-badge">${escapeHtml(item.category)}</span>
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none;">▶️ Live Short</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('the_loop', ${ep})">
@@ -1513,6 +1518,7 @@
               <span class="cat-badge">ACT ${item.act}</span>
               <span class="cat-badge">${escapeHtml(item.date || '')}</span>
               <span class="slot-badge">🕒 10:15 AM IST Drop</span>
+              ${item.instagram_url ? `<a href="${item.instagram_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(217, 70, 239, 0.2); color: #E879F9; border: 1px solid rgba(217, 70, 239, 0.4); text-decoration: none;">📸 Live on IG</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('sid_isha', ${day})">
@@ -1572,6 +1578,7 @@
               <span class="ep-badge magenta">EP #${String(ep).padStart(3, '0')}</span>
               <span class="cat-badge">${escapeHtml(item.category)}</span>
               <span class="slot-badge">🕒 19:00 IST Reel Drop</span>
+              ${item.instagram_url ? `<a href="${item.instagram_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(217, 70, 239, 0.2); color: #E879F9; border: 1px solid rgba(217, 70, 239, 0.4); text-decoration: none;">📸 Live on IG</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('inkling_ig', ${ep})">
@@ -1629,6 +1636,7 @@
               <span class="cat-badge" style="background: rgba(230, 200, 117, 0.12); color: var(--gold-bright); border: 1px solid rgba(230, 200, 117, 0.3);">${escapeHtml(item.category)}</span>
               <span class="cat-badge">🏛️ Melogam Justice</span>
               <span class="slot-badge">🕒 13:30 IST Lunchtime Drop</span>
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none;">▶️ Preview Short</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('comic_tales', ${ep})">

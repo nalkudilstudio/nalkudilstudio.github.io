@@ -7479,7 +7479,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_02_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_02.jpg",
       "slide2_filename": "SidIsha_Day_02_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 3,
@@ -7493,7 +7493,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_03_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_03.jpg",
       "slide2_filename": "SidIsha_Day_03_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 4,
@@ -7507,7 +7507,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_04_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_04.jpg",
       "slide2_filename": "SidIsha_Day_04_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 5,
@@ -7521,7 +7521,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_05_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_05.jpg",
       "slide2_filename": "SidIsha_Day_05_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 6,
@@ -7535,7 +7535,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_06_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_06.jpg",
       "slide2_filename": "SidIsha_Day_06_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 7,
@@ -7549,7 +7549,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_07_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_07.jpg",
       "slide2_filename": "SidIsha_Day_07_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 8,
@@ -7563,7 +7563,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_08_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_08.jpg",
       "slide2_filename": "SidIsha_Day_08_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 9,
@@ -7577,7 +7577,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_09_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_09.jpg",
       "slide2_filename": "SidIsha_Day_09_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED"
     },
     {
       "day": 10,
@@ -7591,7 +7591,7 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_10_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_10.jpg",
       "slide2_filename": "SidIsha_Day_10_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "PENDING"
     },
     {
       "day": 11,

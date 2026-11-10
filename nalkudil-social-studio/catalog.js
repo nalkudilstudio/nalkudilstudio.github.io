@@ -7599,7 +7599,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_10_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_10.jpg",
       "slide2_filename": "SidIsha_Day_10_Slide2_Story.jpg",
-      "status": "PENDING"
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Dfkne_zkiQ4/"
     },
     {
       "day": 11,

@@ -13,6 +13,7 @@ Zero-Secrets Cloud Relay:
 
 import os
 import sys
+import re
 import json
 import time
 import urllib.request
@@ -74,10 +75,10 @@ def get_target_item(catalog_data):
         if item.get("date") == today_ist:
             return item
     
-    # Fallback to first pending item if date does not match
+    # Fallback to first pending/ready item if date does not match
     for item in sid_isha_list:
-        if item.get("status") == "PENDING":
-            print(f"[!] No date match for {today_ist}; falling back to next PENDING item (Day {item.get('day')})")
+        if item.get("status") in ["PENDING", "READY 🚀", "READY"]:
+            print(f"[!] No date match for {today_ist}; falling back to next available item (Day {item.get('day')})")
             return item
             
     raise ValueError(f"No pending episode found in catalog for date {today_ist}.")
@@ -137,15 +138,19 @@ def update_catalog_file(day_num, permalink):
     if idx == -1:
         raise ValueError(f"Could not locate day {day_num} block in catalog.js")
     
-    next_status_idx = content.find('"status": "PENDING"', idx)
-    if next_status_idx != -1 and (next_status_idx - idx) < 2500:
+    next_day_idx = content.find('"day":', idx + len(day_str))
+    limit = next_day_idx if next_day_idx != -1 else (idx + 3000)
+    match = re.search(r'"status":\s*"[^"]+"', content[idx:limit])
+    if match:
+        pos = idx + match.start()
+        end_pos = idx + match.end()
         replacement = f'"status": "PUBLISHED",\n      "instagram_url": "{permalink}"'
-        content = content[:next_status_idx] + replacement + content[next_status_idx + len('"status": "PENDING"'):]
+        content = content[:pos] + replacement + content[end_pos:]
         with open(CATALOG_FILE, "w", encoding="utf-8") as f:
             f.write(content)
         print(f"[+] Updated catalog.js for Day {day_num} with permalink: {permalink}")
     else:
-        print(f"[!] Warning: Could not find PENDING status for Day {day_num} to replace.")
+        print(f"[!] Warning: Could not find status for Day {day_num} to replace.")
 
 def main():
     print("==================================================")

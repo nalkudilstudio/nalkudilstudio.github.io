@@ -1391,13 +1391,13 @@
         const charCount = opt.length;
         const isTooLong = charCount > 80;
         return `
-          <div class="poll-opt-item ${isCorrect ? 'correct' : ''}" style="display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 4px; padding: 6px 10px;">
-            <span style="flex: 1; line-height: 1.35;">
-              <b>${optChar})</b> ${escapeHtml(opt)} 
-              ${isCorrect ? '<span style="color: #10B981; font-weight: 700; margin-left: 4px;">✓ (Key)</span>' : ''}
-              <span style="font-size: 10px; color: ${isTooLong ? '#EF4444' : '#64748B'}; margin-left: 6px; font-weight: 500;">(${charCount}/80 chars)</span>
+          <div class="poll-opt-item ${isCorrect ? 'correct' : ''}" style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 5px; padding: 8px 12px; font-size: 13.5px; background: rgba(255, 255, 255, 0.05); border-radius: 8px;">
+            <span style="flex: 1; line-height: 1.4; color: #F1F5F9;">
+              <b style="color: var(--gold);">${optChar})</b> ${escapeHtml(opt)} 
+              ${isCorrect ? '<span style="color: #10B981; font-weight: 800; margin-left: 6px;">✓ (Key)</span>' : ''}
+              <span style="font-size: 11px; color: ${isTooLong ? '#EF4444' : '#94A3B8'}; margin-left: 8px; font-weight: 600;">(${charCount}/80 chars)</span>
             </span>
-            <button class="btn-copy" style="padding: 3px 8px; font-size: 11px; min-height: 26px; white-space: nowrap;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_opt_${i}', this)">
+            <button class="btn-copy" style="padding: 4px 10px; font-size: 11.5px; font-weight: 700; min-height: 28px; white-space: nowrap;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_opt_${i}', this)">
               📋 Copy ${optChar}
             </button>
           </div>
@@ -1463,20 +1463,40 @@
                 </details>
               </div>
 
-              <!-- Community Poll Section with 1-Click Option Buttons -->
-              <div class="poll-box" style="margin-top: 8px;">
-                <div class="poll-header">
-                  <span class="poll-title">🗳️ YouTube Community Poll (≤ 80 Chars / Option)</span>
-                  <button class="btn-copy cyan" style="padding: 4px 10px; font-size: 11px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_full', this)">📋 Copy Full Poll</button>
+              <!-- Community Poll Section with Bigger Text & 1-Click Option/Explanation Buttons -->
+              <div class="poll-box" style="margin-top: 10px; padding: 14px; background: rgba(10, 16, 28, 0.95); border: 1px solid rgba(0, 240, 255, 0.35); border-radius: 14px;">
+                <div class="poll-header" style="margin-bottom: 8px;">
+                  <span class="poll-title" style="font-size: 13px; font-weight: 800; color: var(--cyan); letter-spacing: 0.6px;">🗳️ YouTube Community Poll (≤ 80 Chars / Option)</span>
+                  <button class="btn-copy cyan" style="padding: 5px 12px; font-size: 12px; font-weight: 700;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_full', this)">📋 Copy Full Poll Packet</button>
                 </div>
-                <p class="poll-question-text" style="font-size: 13.5px; line-height: 1.45; margin: 4px 0;">${escapeHtml(poll.question || '')}</p>
-                <div class="poll-options-list">
+                
+                <!-- Bigger Question Text -->
+                <p class="poll-question-text" style="font-size: 15px; font-weight: 700; line-height: 1.5; color: #FFFFFF; margin: 6px 0 10px 0;">${escapeHtml(poll.question || '')}</p>
+                
+                <!-- Bigger Options List with 1-Click Copy -->
+                <div class="poll-options-list" style="gap: 6px;">
                   ${pollOptsHtml}
                 </div>
-                <div class="poll-actions-row" style="margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap;">
-                  <button class="btn-copy gold" style="font-size: 11.5px; padding: 6px 12px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_question', this)">📋 Copy Question Only</button>
-                  <button class="btn-copy" style="font-size: 11.5px; padding: 6px 12px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_options', this)">📋 Copy All Options (A-D)</button>
+                
+                <div class="poll-actions-row" style="margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;">
+                  <button class="btn-copy gold" style="font-size: 12px; padding: 6px 14px; font-weight: 700;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_question', this)">📋 Copy Question Only</button>
+                  <button class="btn-copy" style="font-size: 12px; padding: 6px 14px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_options', this)">📋 Copy All Options (A-D)</button>
                 </div>
+
+                <!-- Explanation Box with 1-Click Copy (Matches YouTube Quiz Format) -->
+                ${poll.explanation ? `
+                <div class="poll-explanation-box" style="background: rgba(16, 185, 129, 0.08); border-left: 3px solid #10B981; border-radius: 8px; padding: 12px 14px; margin-top: 12px;">
+                  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+                    <span style="font-size: 11.5px; font-weight: 800; color: #10B981; text-transform: uppercase; letter-spacing: 0.5px; display: flex; align-items: center; gap: 6px;">
+                      💡 YouTube Quiz Explanation
+                    </span>
+                    <button class="btn-copy" style="background: rgba(16, 185, 129, 0.22); border-color: rgba(16, 185, 129, 0.5); color: #6EE7B7; padding: 4px 12px; font-size: 11.5px; font-weight: 700; min-height: 26px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_explanation', this)">
+                      📋 Copy Explanation
+                    </button>
+                  </div>
+                  <p style="font-size: 13.5px; line-height: 1.5; color: #E2E8F0; margin: 0; font-weight: 500;">${escapeHtml(poll.explanation)}</p>
+                </div>
+                ` : ''}
               </div>
 
               <!-- Expandable Description & Details -->
@@ -1846,6 +1866,10 @@ ${item.description}`;
         case 'poll_question':
           text = (item.poll && item.poll.question) ? item.poll.question : '';
           label = 'Poll Question';
+          break;
+        case 'poll_explanation':
+          text = (item.poll && item.poll.explanation) ? item.poll.explanation : '';
+          label = 'Quiz Explanation';
           break;
         case 'poll_options':
           text = (item.poll && item.poll.options) ? item.poll.options.join('\n') : '';

@@ -21,7 +21,8 @@ window.PUBLISHING_CATALOG = {
           "It reads the entire sentence as one pixel"
         ],
         "correct_index": 2,
-        "full_text": "🗳️ COMMUNITY POLL • Day 1/100\n\nHow does an LLM like ChatGPT actually read your prompt?\n\nA) As letters & words like a human\nB) Through raw audio signals\nC) As numerical tokens (chunks of text)\nD) It reads the entire sentence as one pixel\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 1/100\n\nHow does an LLM like ChatGPT actually read your prompt?\n\nA) As letters & words like a human\nB) Through raw audio signals\nC) As numerical tokens (chunks of text)\nD) It reads the entire sentence as one pixel\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option C! 🎯 LLMs do not see human words or letters. Text is segmented into sub-word numerical tokens (roughly 4 characters or 0.75 words each). This is why models can write complex code but sometimes miscount the number of 'r's in strawberry.",
+        "explanation": "Spot on if you picked Option C! 🎯 LLMs do not see human words or letters. Text is segmented into sub-word numerical tokens (roughly 4 characters or 0.75 words each). This is why models can write complex code but sometimes miscount the number of 'r's in strawberry."
       },
       "status": "PUBLISHED",
       "youtube_id": "1beFkdxqO-s",
@@ -49,7 +50,8 @@ window.PUBLISHING_CATALOG = {
           "Internet latency caused packet loss"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 2/100\n\nWhy does an AI begin forgetting things in a long conversation?\n\nA) The server battery gets low\nB) It exceeded its token context window limit\nC) The model gets bored of the topic\nD) Internet latency caused packet loss\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 2/100\n\nWhy does an AI begin forgetting things in a long conversation?\n\nA) The server battery gets low\nB) It exceeded its token context window limit\nC) The model gets bored of the topic\nD) Internet latency caused packet loss\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Every LLM has a finite context window budget. When conversation tokens exceed this threshold, the model drops early message history to accommodate new inputs, causing it to appear forgetful.",
+        "explanation": "Spot on if you picked Option B! 🎯 Every LLM has a finite context window budget. When conversation tokens exceed this threshold, the model drops early message history to accommodate new inputs, causing it to appear forgetful."
       },
       "status": "PUBLISHED",
       "youtube_id": "mvegAJR9Qdg",
@@ -77,7 +79,8 @@ window.PUBLISHING_CATALOG = {
           "Simple keyword exact matching"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 3/100\n\nHow does AI understand that 'Doctor' and 'Hospital' are related?\n\nA) Manual human dictionary tags\nB) Vector embeddings plot them near each other in geometric space\nC) Alphabetical indexing\nD) Simple keyword exact matching\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 3/100\n\nHow does AI understand that 'Doctor' and 'Hospital' are related?\n\nA) Manual human dictionary tags\nB) Vector embeddings plot them near each other in geometric space\nC) Alphabetical indexing\nD) Simple keyword exact matching\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 High-dimensional embeddings map conceptual relationships mathematically. Words sharing semantic contexts cluster together geometrically, enabling vector databases to perform similarity search.",
+        "explanation": "Spot on if you picked Option B! 🎯 High-dimensional embeddings map conceptual relationships mathematically. Words sharing semantic contexts cluster together geometrically, enabling vector databases to perform similarity search."
       },
       "status": "PUBLISHED",
       "youtube_id": "ghOUtQoi9x8",
@@ -105,7 +108,8 @@ window.PUBLISHING_CATALOG = {
           "Linear Regression Arrays"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 4/100\n\nWhat foundational 2017 architecture powers almost all modern LLMs?\n\nA) Convolutional Neural Networks (CNN)\nB) The Transformer (Self-Attention mechanism)\nC) Recurrent Neural Networks (RNN)\nD) Linear Regression Arrays\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 4/100\n\nWhat foundational 2017 architecture powers almost all modern LLMs?\n\nA) Convolutional Neural Networks (CNN)\nB) The Transformer (Self-Attention mechanism)\nC) Recurrent Neural Networks (RNN)\nD) Linear Regression Arrays\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The 2017 Transformer architecture introduced Self-Attention, allowing models to process tokens in parallel while calculating relevance weights across the entire sequence.",
+        "explanation": "Spot on if you picked Option B! 🎯 The 2017 Transformer architecture introduced Self-Attention, allowing models to process tokens in parallel while calculating relevance weights across the entire sequence."
       },
       "status": "PUBLISHED",
       "youtube_id": "kWRB1bpI1QY",
@@ -133,7 +137,8 @@ window.PUBLISHING_CATALOG = {
           "It stores your chat in a permanent hard drive first"
         ],
         "correct_index": 2,
-        "full_text": "🗳️ COMMUNITY POLL • Day 5/100\n\nWhat actually happens when you ask AI to generate an answer?\n\nA) It searches Google and copies a blog post\nB) It looks up a pre-written database of human answers\nC) It predicts the most probable next token sequentially\nD) It stores your chat in a permanent hard drive first\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 5/100\n\nWhat actually happens when you ask AI to generate an answer?\n\nA) It searches Google and copies a blog post\nB) It looks up a pre-written database of human answers\nC) It predicts the most probable next token sequentially\nD) It stores your chat in a permanent hard drive first\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option C! 🎯 LLMs are probabilistic autoregressive predictors. At each step, they compute probability distributions over the vocabulary to sample the most likely next token based on context.",
+        "explanation": "Spot on if you picked Option C! 🎯 LLMs are probabilistic autoregressive predictors. At each step, they compute probability distributions over the vocabulary to sample the most likely next token based on context."
       },
       "status": "PUBLISHED",
       "youtube_id": "TgiUHtfkWig",
@@ -161,7 +166,8 @@ window.PUBLISHING_CATALOG = {
           "The language translation sensitivity"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 6/100\n\nWhat does the 'Temperature' parameter (0.0 to 1.0) control in an LLM?\n\nA) The speed of the model's server fan\nB) Creativity / Randomness vs Deterministic accuracy\nC) The maximum number of words it can output\nD) The language translation sensitivity\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 6/100\n\nWhat does the 'Temperature' parameter (0.0 to 1.0) control in an LLM?\n\nA) The speed of the model's server fan\nB) Creativity / Randomness vs Deterministic accuracy\nC) The maximum number of words it can output\nD) The language translation sensitivity\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Temperature scales the logits before the softmax layer. Temperature 0.0 forces greedy deterministic output, while temperature 0.8+ flattens the distribution for creative variation.",
+        "explanation": "Spot on if you picked Option B! 🎯 Temperature scales the logits before the softmax layer. Temperature 0.0 forces greedy deterministic output, while temperature 0.8+ flattens the distribution for creative variation."
       },
       "status": "PUBLISHED",
       "youtube_id": "-krKiNXAH_Y",
@@ -189,7 +195,8 @@ window.PUBLISHING_CATALOG = {
           "The user's Wi-Fi dropped mid-generation"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 7/100\n\nWhat is the primary cause of AI 'Hallucinations'?\n\nA) The AI has gained self-awareness and is lying\nB) The model predicts statistically plausible tokens without factual grounding\nC) A hardware glitch in the GPU\nD) The user's Wi-Fi dropped mid-generation\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 7/100\n\nWhat is the primary cause of AI 'Hallucinations'?\n\nA) The AI has gained self-awareness and is lying\nB) The model predicts statistically plausible tokens without factual grounding\nC) A hardware glitch in the GPU\nD) The user's Wi-Fi dropped mid-generation\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Hallucinations occur because models optimize for plausible statistical token continuations rather than database truth. Without external grounding (RAG), plausibility overrides factual accuracy.",
+        "explanation": "Spot on if you picked Option B! 🎯 Hallucinations occur because models optimize for plausible statistical token continuations rather than database truth. Without external grounding (RAG), plausibility overrides factual accuracy."
       },
       "status": "PUBLISHED",
       "youtube_id": "A7p_ETb7V48",
@@ -217,7 +224,8 @@ window.PUBLISHING_CATALOG = {
           "Asking the AI to 'please try your absolute best'"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 8/100\n\nWhich prompt strategy gives AI the fastest understanding of your desired format?\n\nA) Writing 5 paragraphs explaining the rules\nB) Few-Shot Prompting (giving 2–3 clear input/output examples)\nC) Typing in ALL CAPS\nD) Asking the AI to 'please try your absolute best'\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 8/100\n\nWhich prompt strategy gives AI the fastest understanding of your desired format?\n\nA) Writing 5 paragraphs explaining the rules\nB) Few-Shot Prompting (giving 2–3 clear input/output examples)\nC) Typing in ALL CAPS\nD) Asking the AI to 'please try your absolute best'\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Few-Shot Prompting conditions the in-context attention heads with 2–3 input/output exemplars, enabling the model to infer desired formatting and reasoning steps with zero parameter updates.",
+        "explanation": "Spot on if you picked Option B! 🎯 Few-Shot Prompting conditions the in-context attention heads with 2–3 input/output exemplars, enabling the model to infer desired formatting and reasoning steps with zero parameter updates."
       },
       "status": "PUBLISHED",
       "youtube_id": "EM7Ue3j2u1c",
@@ -245,7 +253,8 @@ window.PUBLISHING_CATALOG = {
           "It forces the AI to check Wikipedia first"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 9/100\n\nWhy does adding 'Think step-by-step' dramatically improve AI math & logic?\n\nA) It unlocks hidden supercomputer cores\nB) It forces Chain-of-Thought reasoning across intermediate tokens\nC) It bypasses OpenAI safety filters\nD) It forces the AI to check Wikipedia first\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 9/100\n\nWhy does adding 'Think step-by-step' dramatically improve AI math & logic?\n\nA) It unlocks hidden supercomputer cores\nB) It forces Chain-of-Thought reasoning across intermediate tokens\nC) It bypasses OpenAI safety filters\nD) It forces the AI to check Wikipedia first\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 'Think step by step' triggers Chain-of-Thought reasoning. By allocating dedicated tokens to intermediate reasoning steps, the transformer avoids compressing complex logic into a single forward pass.",
+        "explanation": "Spot on if you picked Option B! 🎯 'Think step by step' triggers Chain-of-Thought reasoning. By allocating dedicated tokens to intermediate reasoning steps, the transformer avoids compressing complex logic into a single forward pass."
       },
       "status": "PUBLISHED",
       "youtube_id": "dI-iFQ1j_SY",
@@ -273,7 +282,8 @@ window.PUBLISHING_CATALOG = {
           "The prompt entered by end users in chat"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 10/100\n\nWhat does 'System Prompt' mean in LLM architecture?\n\nA) The operating system version (Windows/Linux)\nB) The hidden root instruction that defines the AI's persona & strict behavioral boundaries\nC) The computer processor clock speed\nD) The prompt entered by end users in chat\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 10/100\n\nWhat does 'System Prompt' mean in LLM architecture?\n\nA) The operating system version (Windows/Linux)\nB) The hidden root instruction that defines the AI's persona & strict behavioral boundaries\nC) The computer processor clock speed\nD) The prompt entered by end users in chat\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The System Prompt sits at the root of the context window with highest conversational priority, defining persona boundaries, safety guardrails, and deterministic rules before user input is evaluated.",
+        "explanation": "Spot on if you picked Option B! 🎯 The System Prompt sits at the root of the context window with highest conversational priority, defining persona boundaries, safety guardrails, and deterministic rules before user input is evaluated."
       },
       "status": "PUBLISHED",
       "youtube_id": "xnhOWpL_P0E",
@@ -301,7 +311,8 @@ window.PUBLISHING_CATALOG = {
           "It prevents the AI from using English"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 11/100\n\nWhy should you structure complex AI outputs as JSON schemas?\n\nA) It looks cooler in presentation slides\nB) It guarantees machine-parsable, deterministic data for software APIs\nC) It cuts the cost of ChatGPT Plus in half\nD) It prevents the AI from using English\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 11/100\n\nWhy should you structure complex AI outputs as JSON schemas?\n\nA) It looks cooler in presentation slides\nB) It guarantees machine-parsable, deterministic data for software APIs\nC) It cuts the cost of ChatGPT Plus in half\nD) It prevents the AI from using English\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Enforcing structured JSON schemas turns freeform natural language into machine-parsable, deterministic data suitable for database ingestion and downstream API workflows.",
+        "explanation": "Spot on if you picked Option B! 🎯 Enforcing structured JSON schemas turns freeform natural language into machine-parsable, deterministic data suitable for database ingestion and downstream API workflows."
       },
       "status": "PUBLISHED",
       "youtube_id": "os_bDL3rLKM",
@@ -329,7 +340,8 @@ window.PUBLISHING_CATALOG = {
           "Repeating the same prompt 10 times until it works"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 12/100\n\nWhat is 'Prompt Chaining'?\n\nA) Sending 50 questions in one huge prompt\nB) Breaking a complex workflow into sequential prompts where Output A feeds Prompt B\nC) Linking multiple ChatGPT accounts together\nD) Repeating the same prompt 10 times until it works\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 12/100\n\nWhat is 'Prompt Chaining'?\n\nA) Sending 50 questions in one huge prompt\nB) Breaking a complex workflow into sequential prompts where Output A feeds Prompt B\nC) Linking multiple ChatGPT accounts together\nD) Repeating the same prompt 10 times until it works\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Prompt Chaining decomposes multi-step goals into sequential sub-prompts where the validated output of Step A becomes the input of Step B, drastically reducing compounding hallucinations.",
+        "explanation": "Spot on if you picked Option B! 🎯 Prompt Chaining decomposes multi-step goals into sequential sub-prompts where the validated output of Step A becomes the input of Step B, drastically reducing compounding hallucinations."
       },
       "status": "PUBLISHED",
       "youtube_id": "tZ_ka5zOvz0",
@@ -357,7 +369,8 @@ window.PUBLISHING_CATALOG = {
           "Retrieve, Chunk, Transform, Filter"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 13/100\n\nWhat is the RCTF prompt formula developed for production engineering?\n\nA) Read, Calculate, Test, Finalize\nB) Role, Context, Task, Format\nC) Run, Cache, Trace, Flush\nD) Retrieve, Chunk, Transform, Filter\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 13/100\n\nWhat is the RCTF prompt formula developed for production engineering?\n\nA) Read, Calculate, Test, Finalize\nB) Role, Context, Task, Format\nC) Run, Cache, Trace, Flush\nD) Retrieve, Chunk, Transform, Filter\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The RCTF framework (Role, Context, Task, Format) grounds every prompt with explicit persona steering, environmental context, core task objective, and strict output schema.",
+        "explanation": "Spot on if you picked Option B! 🎯 The RCTF framework (Role, Context, Task, Format) grounds every prompt with explicit persona steering, environmental context, core task objective, and strict output schema."
       },
       "status": "PUBLISHED",
       "youtube_id": "xjEeQ-YiteU",
@@ -385,7 +398,8 @@ window.PUBLISHING_CATALOG = {
           "Prompting AI using raw binary code"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 14/100\n\nWhat is 'Meta-Prompting'?\n\nA) Asking Mark Zuckerberg for permission\nB) Using an advanced LLM to write, refine, and optimize your prompts for you\nC) Writing prompts only inside Facebook Messenger\nD) Prompting AI using raw binary code\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 14/100\n\nWhat is 'Meta-Prompting'?\n\nA) Asking Mark Zuckerberg for permission\nB) Using an advanced LLM to write, refine, and optimize your prompts for you\nC) Writing prompts only inside Facebook Messenger\nD) Prompting AI using raw binary code\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Meta-Prompting uses an advanced reasoning model to draft, critique, and optimize prompt specifications for smaller target models, eliminating trial-and-error manual phrasing.",
+        "explanation": "Spot on if you picked Option B! 🎯 Meta-Prompting uses an advanced reasoning model to draft, critique, and optimize prompt specifications for smaller target models, eliminating trial-and-error manual phrasing."
       },
       "status": "PUBLISHED",
       "youtube_id": "i9KuTmULUfs",
@@ -413,7 +427,8 @@ window.PUBLISHING_CATALOG = {
           "Use older AI models like GPT-2"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 15/100\n\nWhat is the most effective way to eliminate generic corporate fluff in AI drafts?\n\nA) Invert the instruction: explicitly forbid clichés and specify what NOT to say\nB) Add more exclamation marks\nC) Tell the AI you will tip it $200\nD) Use older AI models like GPT-2\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 15/100\n\nWhat is the most effective way to eliminate generic corporate fluff in AI drafts?\n\nA) Invert the instruction: explicitly forbid clichés and specify what NOT to say\nB) Add more exclamation marks\nC) Tell the AI you will tip it $200\nD) Use older AI models like GPT-2\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option A! 🎯 Negative Prompting explicitly defines what the AI must NOT say or do. Banning corporate clichés and filler adjectives forces the model to focus on substantive, high-density facts.",
+        "explanation": "Spot on if you picked Option A! 🎯 Negative Prompting explicitly defines what the AI must NOT say or do. Banning corporate clichés and filler adjectives forces the model to focus on substantive, high-density facts."
       },
       "status": "PUBLISHED",
       "youtube_id": "KFLDBvjufkA",
@@ -441,7 +456,8 @@ window.PUBLISHING_CATALOG = {
           "Upgrading the model via a software patch"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 16/100\n\nWhat is 'Prompt Injection' in AI security?\n\nA) Injecting Python code into the computer BIOS\nB) An adversary tricking the LLM into ignoring its system prompt via malicious user input\nC) Adding too many tokens into a prompt\nD) Upgrading the model via a software patch\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 16/100\n\nWhat is 'Prompt Injection' in AI security?\n\nA) Injecting Python code into the computer BIOS\nB) An adversary tricking the LLM into ignoring its system prompt via malicious user input\nC) Adding too many tokens into a prompt\nD) Upgrading the model via a software patch\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Prompt Injection exploits the boundary ambiguity between instructions and data in LLMs, allowing untrusted user text to override system-level safety rules.",
+        "explanation": "Spot on if you picked Option B! 🎯 Prompt Injection exploits the boundary ambiguity between instructions and data in LLMs, allowing untrusted user text to override system-level safety rules."
       },
       "status": "PUBLISHED",
       "youtube_id": "_yAo-Ej18eg",
@@ -469,7 +485,8 @@ window.PUBLISHING_CATALOG = {
           "It prevents copyright infringement"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 17/100\n\nWhat is the main advantage of Markdown formatting in prompt design?\n\nA) It allows bold text in terminal outputs\nB) Clear visual delimitation (`###`, `---`, `\\`\\`\\``) helps attention heads isolate sections\nC) It reduces network bandwidth by 80%\nD) It prevents copyright infringement\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 17/100\n\nWhat is the main advantage of Markdown formatting in prompt design?\n\nA) It allows bold text in terminal outputs\nB) Clear visual delimitation (`###`, `---`, `\\`\\`\\``) helps attention heads isolate sections\nC) It reduces network bandwidth by 80%\nD) It prevents copyright infringement\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Markdown delimiters (`###`, `---`, ````) create distinct syntactic boundaries, helping transformer attention heads segment instructions from variable data payloads.",
+        "explanation": "Spot on if you picked Option B! 🎯 Markdown delimiters (`###`, `---`, ````) create distinct syntactic boundaries, helping transformer attention heads segment instructions from variable data payloads."
       },
       "status": "PUBLISHED",
       "youtube_id": "LXaadvIMv6s",
@@ -497,7 +514,8 @@ window.PUBLISHING_CATALOG = {
           "Asking AI to navigate GPS maps"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 18/100\n\nWhat is 'Directional Stimulus Prompting'?\n\nA) Pointing your antenna toward the cloud server\nB) Providing small hint tokens or keywords that steer the LLM toward key concepts\nC) Prompting only in directional arrows\nD) Asking AI to navigate GPS maps\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 18/100\n\nWhat is 'Directional Stimulus Prompting'?\n\nA) Pointing your antenna toward the cloud server\nB) Providing small hint tokens or keywords that steer the LLM toward key concepts\nC) Prompting only in directional arrows\nD) Asking AI to navigate GPS maps\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Directional Stimulus Prompting injects lightweight keyword hints into the prompt to steer the reasoning trajectory toward key concepts without hardcoding full answers.",
+        "explanation": "Spot on if you picked Option B! 🎯 Directional Stimulus Prompting injects lightweight keyword hints into the prompt to steer the reasoning trajectory toward key concepts without hardcoding full answers."
       },
       "status": "PUBLISHED",
       "youtube_id": "8lG7o0zeCLA",
@@ -525,7 +543,8 @@ window.PUBLISHING_CATALOG = {
           "Re-read it 10 times in silence"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 19/100\n\nWhat should you always do before accepting an AI's first draft?\n\nA) Copy-paste it directly to production\nB) Run a Self-Refinement / Critique pass ('Review your answer for flaws and fix them')\nC) Turn off your computer\nD) Re-read it 10 times in silence\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 19/100\n\nWhat should you always do before accepting an AI's first draft?\n\nA) Copy-paste it directly to production\nB) Run a Self-Refinement / Critique pass ('Review your answer for flaws and fix them')\nC) Turn off your computer\nD) Re-read it 10 times in silence\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Self-Refinement loops prompt the model to critique its own draft against predefined criteria, fixing subtle logical errors before delivering the final output.",
+        "explanation": "Spot on if you picked Option B! 🎯 Self-Refinement loops prompt the model to critique its own draft against predefined criteria, fixing subtle logical errors before delivering the final output."
       },
       "status": "PUBLISHED",
       "youtube_id": "c-DmZdCa7W0",
@@ -553,7 +572,8 @@ window.PUBLISHING_CATALOG = {
           "Their training data excluded fruits"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 20/100\n\nWhy do LLMs struggle with counting letters (e.g. 'how many r's in strawberry')?\n\nA) They are terrible at basic math\nB) They process text as multi-letter tokens, not individual character arrays\nC) They don't know what strawberries are\nD) Their training data excluded fruits\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 20/100\n\nWhy do LLMs struggle with counting letters (e.g. 'how many r's in strawberry')?\n\nA) They are terrible at basic math\nB) They process text as multi-letter tokens, not individual character arrays\nC) They don't know what strawberries are\nD) Their training data excluded fruits\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Because tokenizers group character sequences into token IDs, models lack direct byte-level awareness unless prompts explicitly force character-level decomposition.",
+        "explanation": "Spot on if you picked Option B! 🎯 Because tokenizers group character sequences into token IDs, models lack direct byte-level awareness unless prompts explicitly force character-level decomposition."
       },
       "status": "PUBLISHED",
       "youtube_id": "-XcuPBDl2aM",
@@ -581,7 +601,8 @@ window.PUBLISHING_CATALOG = {
           "Training a brand new foundation model from scratch"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 21/100\n\nWhat is RAG (Retrieval-Augmented Generation)?\n\nA) A new video game rendering engine\nB) Injecting external private documents into the prompt at runtime so AI answers factually\nC) A method to delete old chat histories\nD) Training a brand new foundation model from scratch\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 21/100\n\nWhat is RAG (Retrieval-Augmented Generation)?\n\nA) A new video game rendering engine\nB) Injecting external private documents into the prompt at runtime so AI answers factually\nC) A method to delete old chat histories\nD) Training a brand new foundation model from scratch\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 RAG (Retrieval-Augmented Generation) injects external private data into prompt context at runtime, providing factual accuracy without costly fine-tuning.",
+        "explanation": "Spot on if you picked Option B! 🎯 RAG (Retrieval-Augmented Generation) injects external private data into prompt context at runtime, providing factual accuracy without costly fine-tuning."
       },
       "status": "PUBLISHED",
       "youtube_id": "5MKvLB09J-c",
@@ -609,7 +630,8 @@ window.PUBLISHING_CATALOG = {
           "They replace the need for an operating system"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 22/100\n\nWhy are Vector Databases better than SQL for semantic search?\n\nA) They store numbers faster than words\nB) They find meaning and semantic similarity, not just exact keyword matches\nC) They are 100% free forever\nD) They replace the need for an operating system\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 22/100\n\nWhy are Vector Databases better than SQL for semantic search?\n\nA) They store numbers faster than words\nB) They find meaning and semantic similarity, not just exact keyword matches\nC) They are 100% free forever\nD) They replace the need for an operating system\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Vector databases perform nearest-neighbor searches in semantic embedding space, finding conceptual relevance even when queries share zero keywords with documents.",
+        "explanation": "Spot on if you picked Option B! 🎯 Vector databases perform nearest-neighbor searches in semantic embedding space, finding conceptual relevance even when queries share zero keywords with documents."
       },
       "status": "PUBLISHED",
       "youtube_id": "-AaLQMEHZAU",
@@ -637,7 +659,8 @@ window.PUBLISHING_CATALOG = {
           "Combining 10 PDFs into one giant zip file"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 23/100\n\nWhat is 'Chunking' in a RAG pipeline?\n\nA) Deleting duplicate files from the hard drive\nB) Splitting large documents into smaller, semantically coherent passages for embedding\nC) Compressing images to 8-bit color\nD) Combining 10 PDFs into one giant zip file\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 23/100\n\nWhat is 'Chunking' in a RAG pipeline?\n\nA) Deleting duplicate files from the hard drive\nB) Splitting large documents into smaller, semantically coherent passages for embedding\nC) Compressing images to 8-bit color\nD) Combining 10 PDFs into one giant zip file\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Chunking splits large documents into semantically coherent passages. Recursive splitting preserves paragraph context while keeping passages within optimal embedding sizes.",
+        "explanation": "Spot on if you picked Option B! 🎯 Chunking splits large documents into semantically coherent passages. Recursive splitting preserves paragraph context while keeping passages within optimal embedding sizes."
       },
       "status": "PUBLISHED",
       "youtube_id": "cCyNsnQAe-Q",
@@ -665,7 +688,8 @@ window.PUBLISHING_CATALOG = {
           "The PDF gets automatically deleted"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 24/100\n\nWhat happens if you dump a 500-page PDF directly into a 1M context window?\n\nA) The AI answers with 100% accuracy instantly\nB) 'Lost in the Middle' phenomenon: precision drops and latency/cost skyrocket\nC) The AI server permanently crashes\nD) The PDF gets automatically deleted\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 24/100\n\nWhat happens if you dump a 500-page PDF directly into a 1M context window?\n\nA) The AI answers with 100% accuracy instantly\nB) 'Lost in the Middle' phenomenon: precision drops and latency/cost skyrocket\nC) The AI server permanently crashes\nD) The PDF gets automatically deleted\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The 'Lost in the Middle' effect shows that LLM attention heads recall information at the extreme edges of huge context windows far better than information buried in the middle.",
+        "explanation": "Spot on if you picked Option B! 🎯 The 'Lost in the Middle' effect shows that LLM attention heads recall information at the extreme edges of huge context windows far better than information buried in the middle."
       },
       "status": "PUBLISHED",
       "youtube_id": "8cc_WGDMOBU",
@@ -693,7 +717,8 @@ window.PUBLISHING_CATALOG = {
           "Pixels per inch (PPI)"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 25/100\n\nWhat metric is commonly used to measure distance between two vector embeddings?\n\nA) Miles / Kilometers\nB) Cosine Similarity / Dot Product\nC) Decibels (dB)\nD) Pixels per inch (PPI)\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 25/100\n\nWhat metric is commonly used to measure distance between two vector embeddings?\n\nA) Miles / Kilometers\nB) Cosine Similarity / Dot Product\nC) Decibels (dB)\nD) Pixels per inch (PPI)\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Cosine similarity measures the cosine of the angle between two normalized vectors in multi-dimensional space, capturing orientation and semantic alignment regardless of magnitude.",
+        "explanation": "Spot on if you picked Option B! 🎯 Cosine similarity measures the cosine of the angle between two normalized vectors in multi-dimensional space, capturing orientation and semantic alignment regardless of magnitude."
       },
       "status": "PUBLISHED",
       "youtube_id": "qY2LbgivWWU",
@@ -721,7 +746,8 @@ window.PUBLISHING_CATALOG = {
           "To filter out spam emails"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 26/100\n\nWhat is the role of a 'Reranker' in enterprise search?\n\nA) To rank employees by performance\nB) A cross-encoder that re-scores top vector candidates for true semantic relevance\nC) To sort database files alphabetically\nD) To filter out spam emails\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 26/100\n\nWhat is the role of a 'Reranker' in enterprise search?\n\nA) To rank employees by performance\nB) A cross-encoder that re-scores top vector candidates for true semantic relevance\nC) To sort database files alphabetically\nD) To filter out spam emails\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Cross-encoder rerankers jointly evaluate query-document pairs, providing high-precision scoring on top vector search candidates to eliminate false positives.",
+        "explanation": "Spot on if you picked Option B! 🎯 Cross-encoder rerankers jointly evaluate query-document pairs, providing high-precision scoring on top vector search candidates to eliminate false positives."
       },
       "status": "PUBLISHED",
       "youtube_id": "lswnFGuDIq8",
@@ -749,7 +775,8 @@ window.PUBLISHING_CATALOG = {
           "By using edge-tts voices"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 27/100\n\nHow does Knowledge Grounding eliminate hallucinations?\n\nA) By threatening to cancel the AI subscription\nB) By constraining the LLM to answer ONLY from retrieved context citations\nC) By setting temperature to 2.0\nD) By using edge-tts voices\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 27/100\n\nHow does Knowledge Grounding eliminate hallucinations?\n\nA) By threatening to cancel the AI subscription\nB) By constraining the LLM to answer ONLY from retrieved context citations\nC) By setting temperature to 2.0\nD) By using edge-tts voices\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Knowledge grounding constrains the LLM to answer strictly from retrieved context passages and supply verifiable citations, preventing ungrounded speculation.",
+        "explanation": "Spot on if you picked Option B! 🎯 Knowledge grounding constrains the LLM to answer strictly from retrieved context passages and supply verifiable citations, preventing ungrounded speculation."
       },
       "status": "PUBLISHED",
       "youtube_id": "KSSWj-5mPus",
@@ -777,7 +804,8 @@ window.PUBLISHING_CATALOG = {
           "Searching text and video at the exact same millisecond"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 28/100\n\nWhat is 'Hybrid Search' in modern enterprise retrieval?\n\nA) Searching on both Google and Bing simultaneously\nB) Combining dense semantic vector search with sparse keyword search (BM25)\nC) Using both Wi-Fi and Ethernet\nD) Searching text and video at the exact same millisecond\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 28/100\n\nWhat is 'Hybrid Search' in modern enterprise retrieval?\n\nA) Searching on both Google and Bing simultaneously\nB) Combining dense semantic vector search with sparse keyword search (BM25)\nC) Using both Wi-Fi and Ethernet\nD) Searching text and video at the exact same millisecond\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Hybrid search combines dense vector retrieval (semantic understanding) with sparse BM25 keyword matching (exact codes, SKUs, and names) for maximum retrieval recall.",
+        "explanation": "Spot on if you picked Option B! 🎯 Hybrid search combines dense vector retrieval (semantic understanding) with sparse BM25 keyword matching (exact codes, SKUs, and names) for maximum retrieval recall."
       },
       "status": "PUBLISHED",
       "youtube_id": "O6R4vPadEgk",
@@ -805,7 +833,8 @@ window.PUBLISHING_CATALOG = {
           "They run constantly in the background"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 29/100\n\nHow do production chatbots remember user state without bloating context?\n\nA) They don't, they forget everything immediately\nB) Dynamic Context Injection from a lightweight external session store\nC) They save the entire conversation history into every prompt\nD) They run constantly in the background\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 29/100\n\nHow do production chatbots remember user state without bloating context?\n\nA) They don't, they forget everything immediately\nB) Dynamic Context Injection from a lightweight external session store\nC) They save the entire conversation history into every prompt\nD) They run constantly in the background\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Dynamic Context Injection pulls real-time session state from a lightweight cache (like Redis) into prompt context on demand without storing bulky chat histories.",
+        "explanation": "Spot on if you picked Option B! 🎯 Dynamic Context Injection pulls real-time session state from a lightweight cache (like Redis) into prompt context on demand without storing bulky chat histories."
       },
       "status": "PUBLISHED",
       "youtube_id": "fwShBL1tWvo",
@@ -833,7 +862,8 @@ window.PUBLISHING_CATALOG = {
           "Saving chat logs to a thumb drive"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 30/100\n\nWhat is 'Semantic Caching'?\n\nA) Clearing your browser cookies every 24 hours\nB) Storing prior query embeddings and returning cached answers for similar questions\nC) Caching only images and CSS files\nD) Saving chat logs to a thumb drive\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 30/100\n\nWhat is 'Semantic Caching'?\n\nA) Clearing your browser cookies every 24 hours\nB) Storing prior query embeddings and returning cached answers for similar questions\nC) Caching only images and CSS files\nD) Saving chat logs to a thumb drive\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Semantic caching stores previous query embeddings and pre-generated responses, returning instant answers for semantically equivalent queries and cutting token costs.",
+        "explanation": "Spot on if you picked Option B! 🎯 Semantic caching stores previous query embeddings and pre-generated responses, returning instant answers for semantically equivalent queries and cutting token costs."
       },
       "status": "PUBLISHED",
       "youtube_id": "L61U79mMTLY",
@@ -861,7 +891,8 @@ window.PUBLISHING_CATALOG = {
           "Agents only speak in audio"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 31/100\n\nWhat differentiates an 'AI Agent' from a standard chatbot?\n\nA) Agents have colorful 3D avatars\nB) Agents can plan, use external tools, call APIs, and execute autonomous multi-step tasks\nC) Agents cost $50 per month\nD) Agents only speak in audio\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 31/100\n\nWhat differentiates an 'AI Agent' from a standard chatbot?\n\nA) Agents have colorful 3D avatars\nB) Agents can plan, use external tools, call APIs, and execute autonomous multi-step tasks\nC) Agents cost $50 per month\nD) Agents only speak in audio\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Unlike conversational chatbots, AI agents can plan multi-step workflows, call external tools/APIs, observe environment feedback, and persist until tasks are solved.",
+        "explanation": "Spot on if you picked Option B! 🎯 Unlike conversational chatbots, AI agents can plan multi-step workflows, call external tools/APIs, observe environment feedback, and persist until tasks are solved."
       },
       "status": "PUBLISHED",
       "youtube_id": "ORpH9c0crUM",
@@ -889,7 +920,8 @@ window.PUBLISHING_CATALOG = {
           "Installing a Python package on Windows"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 32/100\n\nWhat is 'Tool Calling' / 'Function Calling' in LLMs?\n\nA) Asking the AI to recommend software apps\nB) The model outputting structured arguments to trigger real external APIs and code\nC) Calling customer support on the telephone\nD) Installing a Python package on Windows\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 32/100\n\nWhat is 'Tool Calling' / 'Function Calling' in LLMs?\n\nA) Asking the AI to recommend software apps\nB) The model outputting structured arguments to trigger real external APIs and code\nC) Calling customer support on the telephone\nD) Installing a Python package on Windows\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Function calling enables models to output valid JSON arguments to trigger external tools, database queries, and code execution environments reliably.",
+        "explanation": "Spot on if you picked Option B! 🎯 Function calling enables models to output valid JSON arguments to trigger external tools, database queries, and code execution environments reliably."
       },
       "status": "PUBLISHED",
       "youtube_id": "smgvSDF_r2Y",
@@ -917,7 +949,8 @@ window.PUBLISHING_CATALOG = {
           "Single agents refuse to work overtime"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 33/100\n\nWhy is a Multi-Agent Specialist Squad superior to a single giant prompt?\n\nA) It uses more electricity\nB) Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce cognitive error\nC) It takes 10x longer to run\nD) Single agents refuse to work overtime\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 33/100\n\nWhy is a Multi-Agent Specialist Squad superior to a single giant prompt?\n\nA) It uses more electricity\nB) Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce cognitive error\nC) It takes 10x longer to run\nD) Single agents refuse to work overtime\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Multi-agent squads divide complex objectives among specialist agents (e.g. Researcher, Coder, Reviewer), reducing context bloat and compounding reasoning errors.",
+        "explanation": "Spot on if you picked Option B! 🎯 Multi-agent squads divide complex objectives among specialist agents (e.g. Researcher, Coder, Reviewer), reducing context bloat and compounding reasoning errors."
       },
       "status": "PUBLISHED",
       "youtube_id": "7EjgeXQrLsk",
@@ -945,7 +978,8 @@ window.PUBLISHING_CATALOG = {
           "Hardcoding answers into the Python script"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 34/100\n\nWhat is 'Persistent Memory' for AI agents?\n\nA) Upgrading the computer's physical RAM to 64 GB\nB) Cross-session state storage allowing agents to remember user preferences & past decisions\nC) Keeping the browser tab open forever\nD) Hardcoding answers into the Python script\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 34/100\n\nWhat is 'Persistent Memory' for AI agents?\n\nA) Upgrading the computer's physical RAM to 64 GB\nB) Cross-session state storage allowing agents to remember user preferences & past decisions\nC) Keeping the browser tab open forever\nD) Hardcoding answers into the Python script\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Persistent agent memory stores facts, user preferences, and intermediate state across sessions, allowing agents to maintain long-term context indefinitely.",
+        "explanation": "Spot on if you picked Option B! 🎯 Persistent agent memory stores facts, user preferences, and intermediate state across sessions, allowing agents to maintain long-term context indefinitely."
       },
       "status": "PUBLISHED",
       "youtube_id": "08iitruCQgs",
@@ -973,7 +1007,8 @@ window.PUBLISHING_CATALOG = {
           "A video recording software"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 35/100\n\nWhat is the ReAct loop in agentic architecture?\n\nA) A JavaScript frontend UI framework\nB) Reason + Act + Observe iterative cycle until a goal is accomplished\nC) Reacting emotionally to user insults\nD) A video recording software\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 35/100\n\nWhat is the ReAct loop in agentic architecture?\n\nA) A JavaScript frontend UI framework\nB) Reason + Act + Observe iterative cycle until a goal is accomplished\nC) Reacting emotionally to user insults\nD) A video recording software\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The ReAct framework alternates between Thought (reasoning), Action (tool calling), and Observation (environment feedback) until a termination condition is reached.",
+        "explanation": "Spot on if you picked Option B! 🎯 The ReAct framework alternates between Thought (reasoning), Action (tool calling), and Observation (environment feedback) until a termination condition is reached."
       },
       "status": "PUBLISHED",
       "youtube_id": "5UY-dd-ZHN4",
@@ -1001,7 +1036,8 @@ window.PUBLISHING_CATALOG = {
           "To schedule calendar meetings"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 36/100\n\nWhat is the role of an 'Agent Orchestrator' / Supervisor?\n\nA) To pay the cloud server bills\nB) To decompose goals, assign sub-tasks to specialized worker agents, and synthesize results\nC) To monitor employee chat logs\nD) To schedule calendar meetings\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 36/100\n\nWhat is the role of an 'Agent Orchestrator' / Supervisor?\n\nA) To pay the cloud server bills\nB) To decompose goals, assign sub-tasks to specialized worker agents, and synthesize results\nC) To monitor employee chat logs\nD) To schedule calendar meetings\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 An Agent Orchestrator acts as the central supervisor, decomposing high-level tasks into sub-tasks, routing them to specialist workers, and synthesizing the final output.",
+        "explanation": "Spot on if you picked Option B! 🎯 An Agent Orchestrator acts as the central supervisor, decomposing high-level tasks into sub-tasks, routing them to specialist workers, and synthesizing the final output."
       },
       "status": "PUBLISHED",
       "youtube_id": "ktqwATHzvS8",
@@ -1029,7 +1065,8 @@ window.PUBLISHING_CATALOG = {
           "Using multiple screens simultaneously"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 37/100\n\nWhat is 'Autonomous Planning' in agentic systems?\n\nA) Writing 50 individual prompts manually\nB) Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution\nC) Asking ChatGPT to browse the web\nD) Using multiple screens simultaneously\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 37/100\n\nWhat is 'Autonomous Planning' in agentic systems?\n\nA) Writing 50 individual prompts manually\nB) Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution\nC) Asking ChatGPT to browse the web\nD) Using multiple screens simultaneously\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Autonomous planning constructs dynamic task graphs (DAGs) with dependency ordering, allowing agents to execute prerequisites before triggering subsequent actions.",
+        "explanation": "Spot on if you picked Option B! 🎯 Autonomous planning constructs dynamic task graphs (DAGs) with dependency ordering, allowing agents to execute prerequisites before triggering subsequent actions."
       },
       "status": "PUBLISHED",
       "youtube_id": "fav-pse9DUs",
@@ -1057,7 +1094,8 @@ window.PUBLISHING_CATALOG = {
           "A method to speed up graphic rendering"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nWhat is the primary purpose of Anthropic's Model Context Protocol (MCP)?\n\nA) A Minecraft gaming server mod\nB) An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API\nC) A cloud subscription billing mechanism\nD) A method to speed up graphic rendering\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nWhat is the primary purpose of Anthropic's Model Context Protocol (MCP)?\n\nA) A Minecraft gaming server mod\nB) An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API\nC) A cloud subscription billing mechanism\nD) A method to speed up graphic rendering\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Anthropic's Model Context Protocol (MCP) acts as the universal USB-C standard for AI. Instead of custom integrations for every model, one MCP server connects any client (Claude, Cursor, Antigravity) to your tools and databases.",
+        "explanation": "Spot on if you picked Option B! 🎯 Anthropic's Model Context Protocol (MCP) acts as the universal USB-C standard for AI. Instead of custom integrations for every model, one MCP server connects any client (Claude, Cursor, Antigravity) to your tools and databases."
       },
       "status": "PUBLISHED",
       "youtube_id": "-BT8QtTRG8o",
@@ -1085,7 +1123,8 @@ window.PUBLISHING_CATALOG = {
           "They consume 10x more GPU electricity"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nWhy are 'Vibe Checks' insufficient for production AI engineering?\n\nA) Vibes don't have enough colorful charts\nB) Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions\nC) Cloud APIs refuse prompts containing the word vibe\nD) They consume 10x more GPU electricity\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nWhy are 'Vibe Checks' insufficient for production AI engineering?\n\nA) Vibes don't have enough colorful charts\nB) Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions\nC) Cloud APIs refuse prompts containing the word vibe\nD) They consume 10x more GPU electricity\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 'Vibe checks' fail in production because prompt changes often fix one edge case while silently breaking twenty others. Automated evaluations in CI/CD track benchmark metrics and prevent regressions.",
+        "explanation": "Spot on if you picked Option B! 🎯 'Vibe checks' fail in production because prompt changes often fix one edge case while silently breaking twenty others. Automated evaluations in CI/CD track benchmark metrics and prevent regressions."
       },
       "status": "PUBLISHED",
       "youtube_id": "c-R3SjKeUTg",
@@ -1113,7 +1152,8 @@ window.PUBLISHING_CATALOG = {
           "They require an active internet connection for every single token"
         ],
         "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nWhat is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?\n\nA) They require paying $20/month per user\nB) Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy\nC) They only run on massive cloud server clusters\nD) They require an active internet connection for every single token\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nWhat is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?\n\nA) They require paying $20/month per user\nB) Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy\nC) They only run on massive cloud server clusters\nD) They require an active internet connection for every single token\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 2! 🎯 Pinging frontier cloud models for basic classification, data formatting, or embeddings adds network latency and high API costs. Quantized SLMs (like Phi-4-mini or Qwen 3B) running on local NPUs deliver sub-10ms response times with zero token bills and complete on-device privacy.",
+        "explanation": "Spot on if you picked Option 2! 🎯 Pinging frontier cloud models for basic classification, data formatting, or embeddings adds network latency and high API costs. Quantized SLMs (like Phi-4-mini or Qwen 3B) running on local NPUs deliver sub-10ms response times with zero token bills and complete on-device privacy."
       },
       "status": "PUBLISHED",
       "youtube_id": "f-CCh39WHfg",
@@ -1141,7 +1181,8 @@ window.PUBLISHING_CATALOG = {
           "Edge-TTS speech synthesizer"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nWhen you prompt AI to generate an image, which model connects text to visuals?\n\nA) CLIP (Contrastive Language-Image Pretraining)\nB) Pure ChatGPT text tokenizer\nC) Standard SQL database index\nD) Edge-TTS speech synthesizer\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nWhen you prompt AI to generate an image, which model connects text to visuals?\n\nA) CLIP (Contrastive Language-Image Pretraining)\nB) Pure ChatGPT text tokenizer\nC) Standard SQL database index\nD) Edge-TTS speech synthesizer\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked CLIP! 🎯 CLIP (Contrastive Language-Image Pretraining) projects text prompts and images into a shared semantic latent space, providing the mathematical coordinates that guide diffusion models to synthesize matching pixels.",
+        "explanation": "Spot on if you picked CLIP! 🎯 CLIP (Contrastive Language-Image Pretraining) projects text prompts and images into a shared semantic latent space, providing the mathematical coordinates that guide diffusion models to synthesize matching pixels."
       },
       "status": "PUBLISHED",
       "youtube_id": "Cptnp27fcfY",
@@ -1169,7 +1210,8 @@ window.PUBLISHING_CATALOG = {
           "Storing every single raw video frame in RAM"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat allows modern AI video models (like Sora) to keep objects consistent in time?\n\nA) Spatiotemporal latent patches (Space + Time)\nB) Generating 30 separate PNG images every second\nC) Using traditional Adobe Premiere filters\nD) Storing every single raw video frame in RAM\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat allows modern AI video models (like Sora) to keep objects consistent in time?\n\nA) Spatiotemporal latent patches (Space + Time)\nB) Generating 30 separate PNG images every second\nC) Using traditional Adobe Premiere filters\nD) Storing every single raw video frame in RAM\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Spatiotemporal latent patches! 🎬 Modern AI video world models (like Sora and Veo) treat video as a 4D spacetime volume, maintaining physical continuity, lighting, and object permanence across consecutive frames.",
+        "explanation": "Spot on if you picked Spatiotemporal latent patches! 🎬 Modern AI video world models (like Sora and Veo) treat video as a 4D spacetime volume, maintaining physical continuity, lighting, and object permanence across consecutive frames."
       },
       "status": "PUBLISHED",
       "youtube_id": "FQvfrZT9x1w",
@@ -1197,7 +1239,8 @@ window.PUBLISHING_CATALOG = {
           "Checks prompt grammar and spelling errors"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the primary role of a neural vocoder (like Vocos) in modern AI voice?\n\nA) Converts acoustic spectrograms into sound waves\nB) Translates English text into French audio\nC) Records human voice from a physical microphone\nD) Checks prompt grammar and spelling errors\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the primary role of a neural vocoder (like Vocos) in modern AI voice?\n\nA) Converts acoustic spectrograms into sound waves\nB) Translates English text into French audio\nC) Records human voice from a physical microphone\nD) Checks prompt grammar and spelling errors\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked converting spectrograms into sound waves! 🎙️ Modern zero-shot TTS models use flow matching to generate intermediate acoustic mel-spectrograms. The neural vocoder (like Vocos or HiFi-GAN) is the high-speed engine that decodes those latents into continuous 24kHz studio audio waves.",
+        "explanation": "Spot on if you picked converting spectrograms into sound waves! 🎙️ Modern zero-shot TTS models use flow matching to generate intermediate acoustic mel-spectrograms. The neural vocoder (like Vocos or HiFi-GAN) is the high-speed engine that decodes those latents into continuous 24kHz studio audio waves."
       },
       "status": "PUBLISHED",
       "youtube_id": "Li-x6Zidv4I",
@@ -1225,7 +1268,8 @@ window.PUBLISHING_CATALOG = {
           "Blending 1,000 photos with 50% opacity"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nHow do Diffusion Models generate crisp, photorealistic art from pure static?\n\nA) Iteratively subtracting noise via reverse U-Net\nB) Copy-pasting pixels from Google Images\nC) Stretching and upscaling a 10x10 pixel thumbnail\nD) Blending 1,000 photos with 50% opacity\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nHow do Diffusion Models generate crisp, photorealistic art from pure static?\n\nA) Iteratively subtracting noise via reverse U-Net\nB) Copy-pasting pixels from Google Images\nC) Stretching and upscaling a 10x10 pixel thumbnail\nD) Blending 1,000 photos with 50% opacity\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked reverse U-Net denoising! 🎨 Diffusion models start with pure Gaussian static and iteratively subtract predicted noise across 25–30 steps, transforming television static into photorealistic imagery guided by text latents.",
+        "explanation": "Spot on if you picked reverse U-Net denoising! 🎨 Diffusion models start with pure Gaussian static and iteratively subtract predicted noise across 25–30 steps, transforming television static into photorealistic imagery guided by text latents."
       },
       "status": "READY 🚀",
       "youtube_id": "",
@@ -1253,7 +1297,8 @@ window.PUBLISHING_CATALOG = {
           "Random pixel color inversion"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nWhat math structure allows 2D AI avatars to speak with realistic lip-sync?\n\nA) 3D Facial Blendshapes & FACS coefficients\nB) Playing an animated GIF on an infinite loop\nC) Static Photoshop warping layers\nD) Random pixel color inversion\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nWhat math structure allows 2D AI avatars to speak with realistic lip-sync?\n\nA) 3D Facial Blendshapes & FACS coefficients\nB) Playing an animated GIF on an infinite loop\nC) Static Photoshop warping layers\nD) Random pixel color inversion\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked 3D Facial Blendshapes! 👤 Neural avatars track 3D Facial Action Coding System (FACS) blendshapes. By predicting rotation vectors and expression coefficients, the model deforms a 2D source portrait into natural lip-sync without full 3D mesh rendering.",
+        "explanation": "Spot on if you picked 3D Facial Blendshapes! 👤 Neural avatars track 3D Facial Action Coding System (FACS) blendshapes. By predicting rotation vectors and expression coefficients, the model deforms a 2D source portrait into natural lip-sync without full 3D mesh rendering."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 45 / 100: AI Avatars — (Day 45/100) This Video Host Isn't Real. Neither Am I (Almost)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Avatars with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 45 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1279,7 +1324,8 @@ window.PUBLISHING_CATALOG = {
           "Downloading your private WhatsApp voice notes"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nHow can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?\n\nA) Matching speaker timbre in acoustic latent space\nB) Retraining the entire neural network from zero\nC) Applying an aggressive robotic pitch shifter\nD) Downloading your private WhatsApp voice notes\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nHow can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?\n\nA) Matching speaker timbre in acoustic latent space\nB) Retraining the entire neural network from zero\nC) Applying an aggressive robotic pitch shifter\nD) Downloading your private WhatsApp voice notes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked matching acoustic latent embeddings! 🎙️ Zero-shot models like F5-TTS extract vocal timbre, pitch distribution, and breath prosody into a compressed speaker embedding vector, synthesizing speech in that vocal signature without retraining weights.",
+        "explanation": "Spot on if you picked matching acoustic latent embeddings! 🎙️ Zero-shot models like F5-TTS extract vocal timbre, pitch distribution, and breath prosody into a compressed speaker embedding vector, synthesizing speech in that vocal signature without retraining weights."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 46 / 100: Voice Cloning — (Day 46/100) AI Can Copy ANY Voice From 30 Seconds of Audio\n\nDive into today's bite-sized AI architecture breakdown! We unpack Voice Cloning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 46 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1305,7 +1351,8 @@ window.PUBLISHING_CATALOG = {
           "Auto-tuning a human singer's hum"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nHow do generative audio models (Suno/Udio) compose full multi-track songs?\n\nA) Dual-stream diffusion of melody, rhythm & vocal\nB) Splicing copyrighted MP3 tracks from Spotify\nC) Playing MIDI files using 90s soundcard fonts\nD) Auto-tuning a human singer's hum\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nHow do generative audio models (Suno/Udio) compose full multi-track songs?\n\nA) Dual-stream diffusion of melody, rhythm & vocal\nB) Splicing copyrighted MP3 tracks from Spotify\nC) Playing MIDI files using 90s soundcard fonts\nD) Auto-tuning a human singer's hum\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked dual-stream diffusion! 🎵 Frontier AI music models run multi-stream diffusion across time-frequency representations, concurrently modeling harmonic progressions, percussion transients, and vocal phonemes.",
+        "explanation": "Spot on if you picked dual-stream diffusion! 🎵 Frontier AI music models run multi-stream diffusion across time-frequency representations, concurrently modeling harmonic progressions, percussion transients, and vocal phonemes."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 47 / 100: AI Music — (Day 47/100) AI Just Composed a Full Song. From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Music with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 47 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1331,7 +1378,8 @@ window.PUBLISHING_CATALOG = {
           "Applying heavy Gaussian blur to edges"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nHow does Generative AI upscale blurry, low-res photos without smudging?\n\nA) Hallucinates sharp realistic texture priors\nB) Basic bilinear pixel stretching\nC) Increasing monitor brightness and contrast\nD) Applying heavy Gaussian blur to edges\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nHow does Generative AI upscale blurry, low-res photos without smudging?\n\nA) Hallucinates sharp realistic texture priors\nB) Basic bilinear pixel stretching\nC) Increasing monitor brightness and contrast\nD) Applying heavy Gaussian blur to edges\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked hallucinating texture priors! 🖼️ Unlike basic bilinear stretching which blurs edges, Generative Super-Resolution predicts plausible high-frequency textures (skin pores, fabric weaves, iris details) consistent with the real-world semantics of the scene.",
+        "explanation": "Spot on if you picked hallucinating texture priors! 🖼️ Unlike basic bilinear stretching which blurs edges, Generative Super-Resolution predicts plausible high-frequency textures (skin pores, fabric weaves, iris details) consistent with the real-world semantics of the scene."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 48 / 100: Image Upscaling — (Day 48/100) Blurry Old Photo? AI Fixes It Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Image Upscaling with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 48 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1357,7 +1405,8 @@ window.PUBLISHING_CATALOG = {
           "Converting all photos into plain text OCR first"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nWhat makes native multimodal AI (like Gemini) smarter than tool-stitched apps?\n\nA) Early fusion: pixels, audio & text share one space\nB) Chaining 5 separate external SaaS API calls\nC) Running 3 separate models on different laptops\nD) Converting all photos into plain text OCR first\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nWhat makes native multimodal AI (like Gemini) smarter than tool-stitched apps?\n\nA) Early fusion: pixels, audio & text share one space\nB) Chaining 5 separate external SaaS API calls\nC) Running 3 separate models on different laptops\nD) Converting all photos into plain text OCR first\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked early fusion in a shared token space! 🧠 Native multimodal models (like Gemini) process text, audio, and pixel patches within one unified transformer architecture, eliminating the translation lag and context loss of tool-stitched pipelines.",
+        "explanation": "Spot on if you picked early fusion in a shared token space! 🧠 Native multimodal models (like Gemini) process text, audio, and pixel patches within one unified transformer architecture, eliminating the translation lag and context loss of tool-stitched pipelines."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1383,7 +1432,8 @@ window.PUBLISHING_CATALOG = {
           "Pastes the artist's signature onto your photo"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nHow does Neural Style Transfer paint your photo in the exact style of Van Gogh?\n\nA) Separates content and style via CNN feature maps\nB) Overlays a translucent 50% opacity photo filter\nC) Converts all image pixels to black and white\nD) Pastes the artist's signature onto your photo\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nHow does Neural Style Transfer paint your photo in the exact style of Van Gogh?\n\nA) Separates content and style via CNN feature maps\nB) Overlays a translucent 50% opacity photo filter\nC) Converts all image pixels to black and white\nD) Pastes the artist's signature onto your photo\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked CNN feature map separation! 🎨 Deep Convolutional Neural Networks separate content representations (high-level feature maps) from artistic style representations (Gram matrices of spatial correlations), allowing style transfer without altering object geometry.",
+        "explanation": "Spot on if you picked CNN feature map separation! 🎨 Deep Convolutional Neural Networks separate content representations (high-level feature maps) from artistic style representations (Gram matrices of spatial correlations), allowing style transfer without altering object geometry."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1409,7 +1459,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 51/100\n\n🧠 AI Architecture Quiz: In 'AI Bias', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 51/100\n\n🧠 AI Architecture Quiz: In 'AI Bias', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Bias', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Bias', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1435,7 +1486,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 52/100\n\n🧠 AI Architecture Quiz: In 'AI Alignment', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 52/100\n\n🧠 AI Architecture Quiz: In 'AI Alignment', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Alignment', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Alignment', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1461,7 +1513,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 53/100\n\n🧠 AI Architecture Quiz: In 'RLHF', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 53/100\n\n🧠 AI Architecture Quiz: In 'RLHF', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'RLHF', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'RLHF', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 53 / 100: RLHF — (Day 53/100) The Secret Training Step That Makes AI 'Nice.'\n\nDive into today's bite-sized AI architecture breakdown! We unpack RLHF with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 53 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1487,7 +1540,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 54/100\n\n🧠 AI Architecture Quiz: In 'Deepfakes', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 54/100\n\n🧠 AI Architecture Quiz: In 'Deepfakes', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Deepfakes', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Deepfakes', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 54 / 100: Deepfakes — (Day 54/100) Fake Videos That Look 100% Real. Here's the Danger\n\nDive into today's bite-sized AI architecture breakdown! We unpack Deepfakes with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 54 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1513,7 +1567,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 55/100\n\n🧠 AI Architecture Quiz: In 'AI Regulation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 55/100\n\n🧠 AI Architecture Quiz: In 'AI Regulation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Regulation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Regulation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 55 / 100: AI Regulation — (Day 55/100) Governments Are Racing to Control AI. Here's Why\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Regulation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 55 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1539,7 +1594,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 56/100\n\n🧠 AI Architecture Quiz: In 'Explainable AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 56/100\n\n🧠 AI Architecture Quiz: In 'Explainable AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Explainable AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Explainable AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 56 / 100: Explainable AI — (Day 56/100) Why 'AI Said So' Isn't Good Enough Anymore\n\nDive into today's bite-sized AI architecture breakdown! We unpack Explainable AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 56 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1565,7 +1621,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 57/100\n\n🧠 AI Architecture Quiz: In 'AI Privacy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 57/100\n\n🧠 AI Architecture Quiz: In 'AI Privacy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Privacy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Privacy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 57 / 100: AI Privacy — (Day 57/100) Is Your Data Training the Next AI Model?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Privacy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 57 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1591,7 +1648,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 58/100\n\n🧠 AI Architecture Quiz: In 'AI Watermarking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 58/100\n\n🧠 AI Architecture Quiz: In 'AI Watermarking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Watermarking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Watermarking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 58 / 100: AI Watermarking — (Day 58/100) How We'll Tell AI Content From Real Content\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Watermarking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 58 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1617,7 +1675,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 59/100\n\n🧠 AI Architecture Quiz: In 'Model Cards', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 59/100\n\n🧠 AI Architecture Quiz: In 'Model Cards', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Model Cards', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Model Cards', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 59 / 100: Model Cards — (Day 59/100) The 'Nutrition Label' for AI Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Cards with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 59 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1643,7 +1702,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 60/100\n\n🧠 AI Architecture Quiz: In 'Responsible AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 60/100\n\n🧠 AI Architecture Quiz: In 'Responsible AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Responsible AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Responsible AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 60 / 100: Responsible AI — (Day 60/100) The Framework Every Company Building AI Needs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Responsible AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 60 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1669,7 +1729,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 61/100\n\n🧠 AI Architecture Quiz: In 'AI Copilots', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 61/100\n\n🧠 AI Architecture Quiz: In 'AI Copilots', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Copilots', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Copilots', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 61 / 100: AI Copilots — (Day 61/100) Why Every App Is Getting an AI Sidekick\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Copilots with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 61 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1695,7 +1756,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 62/100\n\n🧠 AI Architecture Quiz: In 'No Code AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 62/100\n\n🧠 AI Architecture Quiz: In 'No Code AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'No Code AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'No Code AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 62 / 100: No Code AI — (Day 62/100) Build an AI App Without Writing Code\n\nDive into today's bite-sized AI architecture breakdown! We unpack No Code AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 62 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1721,7 +1783,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 63/100\n\n🧠 AI Architecture Quiz: In 'Enterprise AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 63/100\n\n🧠 AI Architecture Quiz: In 'Enterprise AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Enterprise AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Enterprise AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 63 / 100: Enterprise AI — (Day 63/100) Why Big Companies Are Slower to Use AI Than You Think\n\nDive into today's bite-sized AI architecture breakdown! We unpack Enterprise AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 63 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1747,7 +1810,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 64/100\n\n🧠 AI Architecture Quiz: In 'AI Automation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 64/100\n\n🧠 AI Architecture Quiz: In 'AI Automation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Automation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Automation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 64 / 100: AI Automation — (Day 64/100) AI Doing Your Repetitive Tasks While You Sleep\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Automation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 64 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1773,7 +1837,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 65/100\n\n🧠 AI Architecture Quiz: In 'AI Customer Support', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 65/100\n\n🧠 AI Architecture Quiz: In 'AI Customer Support', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Customer Support', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Customer Support', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 65 / 100: AI Customer Support — (Day 65/100) Why That Chat Support Might Be AI, Not Human\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Customer Support with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 65 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1799,7 +1864,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 66/100\n\n🧠 AI Architecture Quiz: In 'AI Code Assistants', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 66/100\n\n🧠 AI Architecture Quiz: In 'AI Code Assistants', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Code Assistants', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Code Assistants', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 66 / 100: AI Code Assistants — (Day 66/100) How AI Writes Half Your Code Now\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Code Assistants with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 66 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1825,7 +1891,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 67/100\n\n🧠 AI Architecture Quiz: In 'AI Governance', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 67/100\n\n🧠 AI Architecture Quiz: In 'AI Governance', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Governance', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Governance', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 67 / 100: AI Governance — (Day 67/100) The Rulebook Companies Need Before Using AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Governance with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 67 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1851,7 +1918,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 68/100\n\n🧠 AI Architecture Quiz: In 'AI ROI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 68/100\n\n🧠 AI Architecture Quiz: In 'AI ROI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI ROI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI ROI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 68 / 100: AI ROI — (Day 68/100) How Companies Know If AI Is Actually Worth It\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI ROI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 68 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1877,7 +1945,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 69/100\n\n🧠 AI Architecture Quiz: In 'AI Change Management', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 69/100\n\n🧠 AI Architecture Quiz: In 'AI Change Management', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Change Management', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Change Management', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 69 / 100: AI Change Management — (Day 69/100) Why AI Rollouts Fail Even With Great Tech\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Change Management with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 69 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1903,7 +1972,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 70/100\n\n🧠 AI Architecture Quiz: In 'Vendor Lock-in', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 70/100\n\n🧠 AI Architecture Quiz: In 'Vendor Lock-in', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Vendor Lock-in', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Vendor Lock-in', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 70 / 100: Vendor Lock-in — (Day 70/100) The Hidden Cost of Betting on One AI Provider\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vendor Lock-in with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 70 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1929,7 +1999,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 71/100\n\n🧠 AI Architecture Quiz: In 'Fine-tuning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 71/100\n\n🧠 AI Architecture Quiz: In 'Fine-tuning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Fine-tuning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Fine-tuning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 71 / 100: Fine-tuning — (Day 71/100) Teaching AI YOUR Specific Knowledge & Tone\n\nDive into today's bite-sized AI architecture breakdown! We unpack Fine-tuning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 71 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1955,7 +2026,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 72/100\n\n🧠 AI Architecture Quiz: In 'LoRA', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 72/100\n\n🧠 AI Architecture Quiz: In 'LoRA', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'LoRA', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'LoRA', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 72 / 100: LoRA — (Day 72/100) Train AI on a Laptop With 1% of the Weights: LoRA\n\nDive into today's bite-sized AI architecture breakdown! We unpack LoRA with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 72 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -1981,7 +2053,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 73/100\n\n🧠 AI Architecture Quiz: In 'Quantization', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 73/100\n\n🧠 AI Architecture Quiz: In 'Quantization', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Quantization', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Quantization', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 73 / 100: Quantization — (Day 73/100) How to Shrink Giant AI Models to Phone Size: Quantization\n\nDive into today's bite-sized AI architecture breakdown! We unpack Quantization with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 73 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2007,7 +2080,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 74/100\n\n🧠 AI Architecture Quiz: In 'Mixture of Experts', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 74/100\n\n🧠 AI Architecture Quiz: In 'Mixture of Experts', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Mixture of Experts', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Mixture of Experts', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 74 / 100: Mixture of Experts — (Day 74/100) Why Modern AI Uses Multiple Mini-Brains: MoE\n\nDive into today's bite-sized AI architecture breakdown! We unpack Mixture of Experts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 74 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2033,7 +2107,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 75/100\n\n🧠 AI Architecture Quiz: In 'Knowledge Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 75/100\n\n🧠 AI Architecture Quiz: In 'Knowledge Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Knowledge Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Knowledge Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 75 / 100: Knowledge Distillation — (Day 75/100) How Giant AI Models Teach Pocket SLMs: Distillation\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 75 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2059,7 +2134,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 76/100\n\n🧠 AI Architecture Quiz: In 'Scaling Laws', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 76/100\n\n🧠 AI Architecture Quiz: In 'Scaling Laws', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Scaling Laws', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Scaling Laws', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 76 / 100: Scaling Laws — (Day 76/100) The Secret Equation That Predicts How Smart AI Gets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Scaling Laws with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 76 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2085,7 +2161,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 77/100\n\n🧠 AI Architecture Quiz: In 'Pretraining', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 77/100\n\n🧠 AI Architecture Quiz: In 'Pretraining', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Pretraining', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Pretraining', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 77 / 100: Pretraining — (Day 77/100) The 2 Training Steps Every AI Goes Through\n\nDive into today's bite-sized AI architecture breakdown! We unpack Pretraining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 77 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2111,7 +2188,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 78/100\n\n🧠 AI Architecture Quiz: In 'Synthetic Data', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 78/100\n\n🧠 AI Architecture Quiz: In 'Synthetic Data', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Synthetic Data', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Synthetic Data', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 78 / 100: Synthetic Data — (Day 78/100) Can AI Train AI Without Human Data? Synthetic Sets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Synthetic Data with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 78 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2137,7 +2215,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 79/100\n\n🧠 AI Architecture Quiz: In 'Model Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 79/100\n\n🧠 AI Architecture Quiz: In 'Model Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Model Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Model Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 79 / 100: Model Distillation — (Day 79/100) Cutting Token Bills by 90% With Distilled Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 79 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2163,7 +2242,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 80/100\n\n🧠 AI Architecture Quiz: In 'Sparse Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 80/100\n\n🧠 AI Architecture Quiz: In 'Sparse Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Sparse Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Sparse Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 80 / 100: Sparse Models — (Day 80/100) How Sparse Models Save Massive Computing Power\n\nDive into today's bite-sized AI architecture breakdown! We unpack Sparse Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 80 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2189,7 +2269,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 81/100\n\n🧠 AI Architecture Quiz: In 'AGI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 81/100\n\n🧠 AI Architecture Quiz: In 'AGI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AGI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AGI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 81 / 100: AGI — (Day 81/100) What Happens When AI Matches Human Intelligence?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AGI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 81 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2215,7 +2296,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 82/100\n\n🧠 AI Architecture Quiz: In 'Emergent Abilities', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 82/100\n\n🧠 AI Architecture Quiz: In 'Emergent Abilities', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Emergent Abilities', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Emergent Abilities', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 82 / 100: Emergent Abilities — (Day 82/100) AI Skills That Just... Appear Out of Nowhere\n\nDive into today's bite-sized AI architecture breakdown! We unpack Emergent Abilities with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 82 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2241,7 +2323,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 83/100\n\n🧠 AI Architecture Quiz: In 'Frontier Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 83/100\n\n🧠 AI Architecture Quiz: In 'Frontier Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Frontier Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Frontier Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 83 / 100: Frontier Models — (Day 83/100) The 'Latest and Greatest' AI You Keep Hearing About\n\nDive into today's bite-sized AI architecture breakdown! We unpack Frontier Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 83 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2267,7 +2350,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 84/100\n\n🧠 AI Architecture Quiz: In 'Open Source AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 84/100\n\n🧠 AI Architecture Quiz: In 'Open Source AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Open Source AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Open Source AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 84 / 100: Open Source AI — (Day 84/100) Should AI Models Be Free for Everyone to See?\n\nDive into today's bite-sized AI architecture breakdown! We unpack Open Source AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 84 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2293,7 +2377,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 85/100\n\n🧠 AI Architecture Quiz: In 'On-device AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 85/100\n\n🧠 AI Architecture Quiz: In 'On-device AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'On-device AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'On-device AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 85 / 100: On-device AI — (Day 85/100) Why Your Phone Might Not Need the Internet for AI Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack On-device AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 85 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2319,7 +2404,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 86/100\n\n🧠 AI Architecture Quiz: In 'AI Agents Economy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 86/100\n\n🧠 AI Architecture Quiz: In 'AI Agents Economy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Agents Economy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Agents Economy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 86 / 100: AI Agents Economy — (Day 86/100) Are AI Agents About to Get Their Own Jobs?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents Economy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 86 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2345,7 +2431,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 87/100\n\n🧠 AI Architecture Quiz: In 'Local LLMs', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 87/100\n\n🧠 AI Architecture Quiz: In 'Local LLMs', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Local LLMs', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Local LLMs', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 87 / 100: Local LLMs — (Day 87/100) Run a Full AI Model Without the Internet\n\nDive into today's bite-sized AI architecture breakdown! We unpack Local LLMs with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 87 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2371,7 +2458,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 88/100\n\n🧠 AI Architecture Quiz: In 'Context Caching', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 88/100\n\n🧠 AI Architecture Quiz: In 'Context Caching', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Context Caching', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'Context Caching', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 88 / 100: Context Caching — (Day 88/100) How AI Apps Got Cheaper AND Faster\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Caching with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 88 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2397,7 +2485,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 89/100\n\n🧠 AI Architecture Quiz: In 'MCP', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 89/100\n\n🧠 AI Architecture Quiz: In 'MCP', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'MCP', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'MCP', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 89 / 100: MCP — (Day 89/100) Why Every AI Company Is Suddenly Adopting ONE Standard\n\nDive into today's bite-sized AI architecture breakdown! We unpack MCP with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 89 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2423,7 +2512,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 90/100\n\n🧠 AI Architecture Quiz: In 'AI Model Names', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 90/100\n\n🧠 AI Architecture Quiz: In 'AI Model Names', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Model Names', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Model Names', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 90 / 100: AI Model Names — (Day 90/100) Why AI Models Have Such Weird, Epic Names\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Model Names with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 90 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2449,7 +2539,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 91/100\n\n🧠 AI Architecture Quiz: In 'AI Skills', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 91/100\n\n🧠 AI Architecture Quiz: In 'AI Skills', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Skills', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Skills', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 91 / 100: AI Skills — (Day 91/100) This Skill Could Be as Valuable as Coding Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Skills with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 91 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2475,7 +2566,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 92/100\n\n🧠 AI Architecture Quiz: In 'AI Note Taking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 92/100\n\n🧠 AI Architecture Quiz: In 'AI Note Taking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Note Taking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Note Taking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 92 / 100: AI Note Taking — (Day 92/100) Turn Messy Notes Into Organized Summaries Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Note Taking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 92 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2501,7 +2593,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 93/100\n\n🧠 AI Architecture Quiz: In 'AI Coding', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 93/100\n\n🧠 AI Architecture Quiz: In 'AI Coding', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Coding', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Coding', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 93 / 100: AI Coding — (Day 93/100) Write Code 10x Faster With This Workflow\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Coding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 93 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2527,7 +2620,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 94/100\n\n🧠 AI Architecture Quiz: In 'AI Email', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 94/100\n\n🧠 AI Architecture Quiz: In 'AI Email', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Email', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Email', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 94 / 100: AI Email — (Day 94/100) Never Stare at a Blank Email Again\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Email with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 94 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2553,7 +2647,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 95/100\n\n🧠 AI Architecture Quiz: In 'AI Research', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 95/100\n\n🧠 AI Architecture Quiz: In 'AI Research', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Research', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Research', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 95 / 100: AI Research — (Day 95/100) Turn Hours of Research Into Minutes\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Research with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 95 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2579,7 +2674,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 96/100\n\n🧠 AI Architecture Quiz: In 'AI Data Analysis', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 96/100\n\n🧠 AI Architecture Quiz: In 'AI Data Analysis', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Data Analysis', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Data Analysis', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 96 / 100: AI Data Analysis — (Day 96/100) Ask Your Spreadsheet Questions in Plain English\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Data Analysis with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 96 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2605,7 +2701,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 97/100\n\n🧠 AI Architecture Quiz: In 'AI Presentations', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 97/100\n\n🧠 AI Architecture Quiz: In 'AI Presentations', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Presentations', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Presentations', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 97 / 100: AI Presentations — (Day 97/100) Turn a Rough Outline Into Full Slides\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Presentations with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 97 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2631,7 +2728,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 98/100\n\n🧠 AI Architecture Quiz: In 'AI Learning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 98/100\n\n🧠 AI Architecture Quiz: In 'AI Learning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Learning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Learning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 98 / 100: AI Learning — (Day 98/100) Your Personal Tutor Is Now Available 24/7\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 98 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2657,7 +2755,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 99/100\n\n🧠 AI Architecture Quiz: In 'AI Productivity', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 99/100\n\n🧠 AI Architecture Quiz: In 'AI Productivity', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Productivity', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Productivity', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 99 / 100: AI Productivity — (Day 99/100) 5 Tasks You're Still Doing Manually (Stop That)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Productivity with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 99 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
@@ -2683,7 +2782,8 @@ window.PUBLISHING_CATALOG = {
           "Ignore memory boundaries and prompt constraints"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 100/100\n\n🧠 AI Architecture Quiz: In 'AI Tools', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
+        "full_text": "🗳️ COMMUNITY POLL • Day 100/100\n\n🧠 AI Architecture Quiz: In 'AI Tools', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Tools', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
+        "explanation": "Spot on! In 'AI Tools', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 100 / 100: AI Tools — (Day 100/100) Stop Using ONE AI for Everything\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Tools with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 100 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"

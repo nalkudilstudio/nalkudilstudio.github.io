@@ -129,6 +129,29 @@ def get_media_permalink(media_id, token):
         res = json.loads(resp.read().decode())
         return res.get("permalink")
 
+def check_instagram_live(ig_id, token, target_day, target_title=""):
+    """
+    Queries Instagram Graph API for @iamsaravofficial to see if the episode
+    for target_day is already published live on the account.
+    Returns (True, permalink) if found, or (False, None) if not.
+    """
+    url = f"https://graph.facebook.com/v20.0/{ig_id}/media?fields=id,caption,permalink,timestamp&limit=25&access_token={token}"
+    req = urllib.request.Request(url, headers={"User-Agent": "NalkudilStudio/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        day_regex = re.compile(rf"\bDAY\s+0?{target_day}\s+OF\s+30\b", re.IGNORECASE)
+        for m in data.get("data", []):
+            cap = m.get("caption", "")
+            if day_regex.search(cap):
+                return True, m.get("permalink")
+            if target_title and target_title.lower() in cap.lower() and "#sidisha" in cap.lower():
+                return True, m.get("permalink")
+        return False, None
+    except Exception as e:
+        print(f"[!] Warning: Instagram live check error ({e})")
+        return False, None
+
 def update_catalog_file(day_num, permalink):
     with open(CATALOG_FILE, "r", encoding="utf-8") as f:
         content = f.read()
@@ -140,7 +163,18 @@ def update_catalog_file(day_num, permalink):
     
     next_day_idx = content.find('"day":', idx + len(day_str))
     limit = next_day_idx if next_day_idx != -1 else (idx + 3000)
-    match = re.search(r'"status":\s*"[^"]+"', content[idx:limit])
+    block = content[idx:limit]
+
+    if '"instagram_url":' in block:
+        new_block = re.sub(r'"instagram_url":\s*"[^"]*"', f'"instagram_url": "{permalink}"', block)
+        new_block = re.sub(r'"status":\s*"[^"]+"', '"status": "PUBLISHED"', new_block)
+        content = content[:idx] + new_block + content[limit:]
+        with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+            f.write(content)
+        print(f"[+] Updated catalog.js for Day {day_num} with permalink: {permalink}")
+        return
+
+    match = re.search(r'"status":\s*"[^"]+"', block)
     if match:
         pos = idx + match.start()
         end_pos = idx + match.end()
@@ -175,8 +209,19 @@ def main():
     caption = item["caption"]
 
     if item.get("status") == "PUBLISHED" and item.get("instagram_url"):
-        print(f"[*] Day {day_num} is ALREADY published live: {item['instagram_url']}")
+        print(f"[*] Day {day_num} is ALREADY marked published in catalog: {item['instagram_url']}")
         print("    Nothing to do. Exiting cleanly.")
+        sys.exit(0)
+
+    # -------------------------------------------------------------
+    # Live Instagram Pre-Flight Check: NEVER duplicate if already live!
+    # -------------------------------------------------------------
+    print(f"[*] Running pre-flight live check on Instagram for Day {day_num} ('{title}')...")
+    is_live, live_permalink = check_instagram_live(INSTAGRAM_BUSINESS_ID, META_ACCESS_TOKEN, day_num, title)
+    if is_live:
+        print(f"[✓] Day {day_num} is ALREADY live on Instagram: {live_permalink}")
+        print("    Skipping publication to avoid duplicate post. Updating catalog...")
+        update_catalog_file(day_num, live_permalink)
         sys.exit(0)
 
     slide1_cdn = f"https://nalkudilstudio.github.io/nalkudil-social-studio/assets/sid_isha/slide1/day_{day_num:02d}.jpg"

@@ -953,6 +953,10 @@
         <span>✦ Inkling IG</span>
         <span class="tab-count" id="count-inkling">50</span>
       </button>
+      <button class="nav-tab-btn" onclick="switchSuite('sarav_playlists', this)">
+        <span>📺 Playlists Hub</span>
+        <span class="tab-count" id="count-playlists">11</span>
+      </button>
     </div>
   </nav>
 
@@ -1141,9 +1145,16 @@
           { id: 'c2', label: 'Cluster 2: Prompting (11–20)' },
           { id: 'c3', label: 'Cluster 3: RAG (21–30)' },
           { id: 'c4', label: 'Cluster 4: Agents (31–40)' },
-          { id: 'upcoming', label: 'Upcoming (41–100)' },
+          { id: 'c5', label: 'Cluster 5: GenAI (41–50)' },
+          { id: 'upcoming', label: 'Upcoming (51–100)' },
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
+        );
+      } else if (currentSuite === 'sarav_playlists') {
+        chips.push(
+          { id: 'clusters', label: 'All 10 Clusters' },
+          { id: 'c5to10', label: 'Clusters 5–10 (New)' },
+          { id: 'master', label: 'Master Umbrella' }
         );
       } else if (currentSuite === 'the_loop') {
         chips.push(
@@ -1221,7 +1232,12 @@
           if (currentFilter === 'c2' && !(ep >= 11 && ep <= 20)) return false;
           if (currentFilter === 'c3' && !(ep >= 21 && ep <= 30)) return false;
           if (currentFilter === 'c4' && !(ep >= 31 && ep <= 40)) return false;
-          if (currentFilter === 'upcoming' && !(ep >= 41)) return false;
+          if (currentFilter === 'c5' && !(ep >= 41 && ep <= 50)) return false;
+          if (currentFilter === 'upcoming' && !(ep >= 51)) return false;
+        } else if (currentSuite === 'sarav_playlists') {
+          if (currentFilter === 'c5to10' && (item.cluster_num < 5 || item.cluster_num > 10)) return false;
+          if (currentFilter === 'clusters' && item.cluster_num === 0) return false;
+          if (currentFilter === 'master' && item.cluster_num !== 0) return false;
         } else if (currentSuite === 'the_loop') {
           const ep = item.episode;
           if (currentFilter === 'b1' && !(ep >= 1 && ep <= 50)) return false;
@@ -1299,6 +1315,8 @@
           cardHtml = buildInklingIGCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'comic_tales') {
           cardHtml = buildComicTalesCard(item, pubSet.has(item.episode));
+        } else if (currentSuite === 'sarav_playlists') {
+          cardHtml = buildPlaylistsCard(item);
         }
         container.insertAdjacentHTML('beforeend', cardHtml);
       });
@@ -1369,9 +1387,21 @@
 
       const pollOptsHtml = (poll.options || []).map((opt, i) => {
         const isCorrect = i === poll.correct_index;
-        return `<div class="poll-opt-item ${isCorrect ? 'correct' : ''}">
-          <b>${String.fromCharCode(65 + i)})</b> ${escapeHtml(opt)} ${isCorrect ? '✓ (Key)' : ''}
-        </div>`;
+        const optChar = String.fromCharCode(65 + i);
+        const charCount = opt.length;
+        const isTooLong = charCount > 80;
+        return `
+          <div class="poll-opt-item ${isCorrect ? 'correct' : ''}" style="display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 4px; padding: 6px 10px;">
+            <span style="flex: 1; line-height: 1.35;">
+              <b>${optChar})</b> ${escapeHtml(opt)} 
+              ${isCorrect ? '<span style="color: #10B981; font-weight: 700; margin-left: 4px;">✓ (Key)</span>' : ''}
+              <span style="font-size: 10px; color: ${isTooLong ? '#EF4444' : '#64748B'}; margin-left: 6px; font-weight: 500;">(${charCount}/80 chars)</span>
+            </span>
+            <button class="btn-copy" style="padding: 3px 8px; font-size: 11px; min-height: 26px; white-space: nowrap;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_opt_${i}', this)">
+              📋 Copy ${optChar}
+            </button>
+          </div>
+        `;
       }).join('');
 
       return `
@@ -1414,24 +1444,43 @@
                 ⚡ Copy Full YouTube Shorts Packet (Title + Desc + Tags + Pinned)
               </button>
 
-              <!-- Community Poll Section -->
-              <div class="poll-box">
+              <!-- WhatsApp Broadcast Post Section -->
+              <div class="whatsapp-box" style="background: rgba(37, 211, 102, 0.08); border: 1px solid rgba(37, 211, 102, 0.3); border-radius: 12px; padding: 12px; margin-top: 8px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; gap: 8px;">
+                  <span style="font-family: 'Outfit', sans-serif; font-size: 12px; font-weight: 800; color: #25D366; text-transform: uppercase; letter-spacing: 0.5px; display: flex; align-items: center; gap: 6px;">
+                    📱 WhatsApp Channel Broadcast
+                  </span>
+                  <button class="btn-copy" style="background: #25D366; color: #070B11; font-weight: 700; font-size: 11px; padding: 5px 12px; border: none;" onclick="copyCardField('sarav_ai', ${ep}, 'whatsapp_post', this)">
+                    💬 Copy WhatsApp Post
+                  </button>
+                </div>
+                <details class="field-drawer" style="margin-top: 6px; border: none; background: transparent;">
+                  <summary style="font-size: 11px; color: #94A3B8; padding: 4px 0;">
+                    <span>Preview Broadcast Message</span>
+                    <span>▾</span>
+                  </summary>
+                  <div class="field-drawer-body" style="white-space: pre-wrap; font-family: 'JetBrains Mono', monospace; font-size: 11px; background: rgba(5, 15, 10, 0.7); border: 1px solid rgba(37, 211, 102, 0.2); border-radius: 6px; padding: 8px; margin-top: 4px; color: #E2E8F0;">${escapeHtml(item.whatsapp_post || '')}</div>
+                </details>
+              </div>
+
+              <!-- Community Poll Section with 1-Click Option Buttons -->
+              <div class="poll-box" style="margin-top: 8px;">
                 <div class="poll-header">
-                  <span class="poll-title">🗳️ YouTube Community Poll</span>
+                  <span class="poll-title">🗳️ YouTube Community Poll (≤ 80 Chars / Option)</span>
                   <button class="btn-copy cyan" style="padding: 4px 10px; font-size: 11px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_full', this)">📋 Copy Full Poll</button>
                 </div>
-                <p class="poll-question-text">${escapeHtml(poll.question || '')}</p>
+                <p class="poll-question-text" style="font-size: 13.5px; line-height: 1.45; margin: 4px 0;">${escapeHtml(poll.question || '')}</p>
                 <div class="poll-options-list">
                   ${pollOptsHtml}
                 </div>
-                <div class="poll-actions-row">
-                  <button class="btn-copy" style="font-size: 11px; padding: 5px 8px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_question', this)">📋 Question</button>
-                  <button class="btn-copy" style="font-size: 11px; padding: 5px 8px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_options', this)">📋 Options (A-D)</button>
+                <div class="poll-actions-row" style="margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap;">
+                  <button class="btn-copy gold" style="font-size: 11.5px; padding: 6px 12px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_question', this)">📋 Copy Question Only</button>
+                  <button class="btn-copy" style="font-size: 11.5px; padding: 6px 12px;" onclick="copyCardField('sarav_ai', ${ep}, 'poll_options', this)">📋 Copy All Options (A-D)</button>
                 </div>
               </div>
 
               <!-- Expandable Description & Details -->
-              <details class="field-drawer">
+              <details class="field-drawer" style="margin-top: 8px;">
                 <summary>
                   <span>View Full Description &amp; Tags</span>
                   <span>▾</span>
@@ -1695,6 +1744,65 @@
     }
 
     // Universal Master Field Copy Helper
+
+    // Builder: YouTube Playlists Hub
+    function buildPlaylistsCard(item) {
+      const isMaster = item.cluster_num === 0;
+      return `
+        <article class="pub-card" id="card-playlist-${item.id}">
+          <div class="card-top">
+            <div class="card-meta-left">
+              <span class="ep-badge ${isMaster ? 'magenta' : 'gold'}">${isMaster ? 'MASTER SERIES' : 'CLUSTER ' + item.cluster_num}</span>
+              <span class="cat-badge">${escapeHtml(item.episodes_range)}</span>
+              <span class="cat-badge">${escapeHtml(item.cluster_title)}</span>
+              ${item.playlist_url ? `<a href="${item.playlist_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none;">▶️ Open on YouTube</a>` : ''}
+            </div>
+          </div>
+          <div class="content-box" style="padding: 16px;">
+            <h2 class="card-title-text" style="font-size: 16px; margin-bottom: 12px; line-height: 1.4;">${escapeHtml(item.title)}</h2>
+            <div class="actions-grid" style="margin-bottom: 10px;">
+              <button class="btn-copy gold" onclick="copyPlaylistField('${item.id}', 'title', this)">📋 Copy Playlist Title</button>
+              <button class="btn-copy cyan" onclick="copyPlaylistField('${item.id}', 'description', this)">📋 Copy Description</button>
+              <button class="btn-copy" onclick="copyPlaylistField('${item.id}', 'hashtags', this)">🏷️ Copy Hashtags</button>
+            </div>
+            <button class="btn-master-packet" onclick="copyPlaylistField('${item.id}', 'full_packet', this)" style="margin-bottom: 12px;">
+              ⚡ Copy Full Playlist Setup Packet (Title + Description)
+            </button>
+            <details class="field-drawer" open>
+              <summary><span>View Complete SEO Description &amp; 10-Episode Curriculum</span><span>▾</span></summary>
+              <div class="field-drawer-body" style="white-space: pre-wrap; font-family: 'JetBrains Mono', monospace; font-size: 11.5px; line-height: 1.5; color: #E2E8F0;">${escapeHtml(item.description)}</div>
+            </details>
+          </div>
+        </article>
+      `;
+    }
+
+    function copyPlaylistField(id, field, btn) {
+      const list = catalog.sarav_playlists || [];
+      const item = list.find(x => x.id === id);
+      if (!item) return showToast('⚠️ Playlist not found.');
+      let text = '';
+      let label = 'Playlist Field';
+      if (field === 'title') {
+        text = item.title;
+        label = 'Playlist Title';
+      } else if (field === 'description') {
+        text = item.description;
+        label = 'Playlist Description';
+      } else if (field === 'hashtags') {
+        text = item.hashtags;
+        label = 'Hashtags';
+      } else if (field === 'full_packet') {
+        text = `PLAYLIST TITLE:
+${item.title}
+
+PLAYLIST DESCRIPTION:
+${item.description}`;
+        label = 'Full Playlist Setup Packet';
+      }
+      copySnippet(text, btn, label);
+    }
+
     function copyCardField(suite, id, field, btnElement) {
       const items = catalog[suite] || [];
       const item = items.find(x => (suite === 'sid_isha' ? x.day === id : x.episode === id));
@@ -1742,6 +1850,26 @@
         case 'poll_options':
           text = (item.poll && item.poll.options) ? item.poll.options.join('\n') : '';
           label = 'Poll Options (A-D)';
+          break;
+        case 'poll_opt_0':
+          text = (item.poll && item.poll.options && item.poll.options[0]) ? item.poll.options[0] : '';
+          label = 'Option A';
+          break;
+        case 'poll_opt_1':
+          text = (item.poll && item.poll.options && item.poll.options[1]) ? item.poll.options[1] : '';
+          label = 'Option B';
+          break;
+        case 'poll_opt_2':
+          text = (item.poll && item.poll.options && item.poll.options[2]) ? item.poll.options[2] : '';
+          label = 'Option C';
+          break;
+        case 'poll_opt_3':
+          text = (item.poll && item.poll.options && item.poll.options[3]) ? item.poll.options[3] : '';
+          label = 'Option D';
+          break;
+        case 'whatsapp_post':
+          text = item.whatsapp_post || '';
+          label = 'WhatsApp Channel Post';
           break;
         case 'caption':
           text = item.caption || '';

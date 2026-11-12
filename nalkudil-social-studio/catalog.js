@@ -10,8 +10,8 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 1 of 100 Days of Learning AI: Master Tokens! 💡\nEvery word you type gets chopped up before AI even sees it. In this quick AI prompt engineering & LLM architecture guide, discover how tokens works and practical intuition to level up your workflow.\n\n🧠 KEY TAKEAWAYS:\n- AI never reads full sentences. It breaks text into small chunks called tokens.\n- A token can be a whole word, part of a word, or even a single letter.\n- 'Understanding' might become 2-3 tokens, not one.\n- This is why AI sometimes miscounts letters — it thinks in tokens, not words.\n\n🔄 So next time AI messes up a word count, now you know why — it's not reading words.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 1 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nComment 'TOKEN' if this finally made sense!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com\n───────────────\n\n#shorts #tokens #promptengineering #chatgpt #ai #artificialintelligence #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, tokens, tokens explained, what is tokens, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, llm basics, how ai works",
       "pinned_comment": "👇 Day 1 Discussion: Comment 'TOKEN' if this finally made sense!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 2 drops tomorrow at 6 PM! 🚀",
-      "cover_url": "assets/sarav_ai/cover_ep001.jpg",
-      "cover_filename": "Sarav_AI_Shorts_Ep001_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep001.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep001_Cover.png",
       "poll": {
         "question": "How does an LLM like ChatGPT actually read your prompt?",
         "options": [
@@ -25,7 +25,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "1beFkdxqO-s",
-      "youtube_url": "https://www.youtube.com/shorts/1beFkdxqO-s"
+      "youtube_url": "https://www.youtube.com/shorts/1beFkdxqO-s",
+      "whatsapp_post": "Day 1 / 100: Tokens — (Day 1/100) Your AI Doesn't Read Words. It Reads THIS\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tokens with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/1beFkdxqO-s\n\n🗳️ Test your knowledge (Day 1 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 2",
@@ -37,8 +38,8 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 2 of 100 Days of Learning AI: Master Context Window! 💡\nYour AI chat has an invisible wall — and youre about to hit it. In this quick AI prompt engineering & LLM architecture guide, discover how context window works and practical intuition to level up your workflow.\n\n🧠 KEY TAKEAWAYS:\n- Every AI model has a context window — the max text it can 'see' at once.\n- Think of it as AI's short-term memory for your conversation.\n- Once you cross the limit, the oldest messages get forgotten.\n- Bigger context window = AI remembers more of your long chats.\n\n🔄 That's why AI 'forgets' what you said earlier — it literally ran out of room.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 2 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nComment 'MEMORY' if your AI ever forgot mid-chat!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com\n───────────────\n\n#shorts #contextwindow #promptengineering #chatgpt #ai #artificialintelligence #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, context window, context window explained, what is context window, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, llm basics, ai memory",
       "pinned_comment": "👇 Day 2 Discussion: Comment 'MEMORY' if your AI ever forgot mid-chat!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 3 drops tomorrow at 6 PM! 🚀",
-      "cover_url": "assets/sarav_ai/cover_ep002.jpg",
-      "cover_filename": "Sarav_AI_Shorts_Ep002_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep002.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep002_Cover.png",
       "poll": {
         "question": "Why does an AI begin forgetting things in a long conversation?",
         "options": [
@@ -52,7 +53,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "mvegAJR9Qdg",
-      "youtube_url": "https://www.youtube.com/shorts/mvegAJR9Qdg"
+      "youtube_url": "https://www.youtube.com/shorts/mvegAJR9Qdg",
+      "whatsapp_post": "Day 2 / 100: Context Window — (Day 2/100) AI Has a Secret Memory Limit: Context Windows\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Window with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/mvegAJR9Qdg\n\n🗳️ Test your knowledge (Day 2 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 3",
@@ -64,8 +66,8 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 3 of 100 Days of Learning AI: Master Embeddings! 💡\nAI doesnt understand king and queen — it understands their coordinates. In this quick AI prompt engineering & LLM architecture guide, discover how embeddings works and practical intuition to level up your workflow.\n\n🧠 KEY TAKEAWAYS:\n- Embeddings convert words into lists of numbers called vectors.\n- Similar meanings get similar numbers — 'king' and 'queen' sit close together.\n- This is how AI 'understands' meaning, not just spelling.\n- It's basically a giant map where meaning = distance.\n\n🔄 So when AI 'gets' what you mean, it's really just doing math on a meaning-map.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 3 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nComment 'VECTOR' if math class finally makes sense now!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com\n───────────────\n\n#shorts #embeddings #promptengineering #chatgpt #ai #artificialintelligence #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, embeddings, embeddings explained, what is embeddings, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, vectors, llm basics",
       "pinned_comment": "👇 Day 3 Discussion: Comment 'VECTOR' if math class finally makes sense now!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 4 drops tomorrow at 6 PM! 🚀",
-      "cover_url": "assets/sarav_ai/cover_ep003.jpg",
-      "cover_filename": "Sarav_AI_Shorts_Ep003_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep003.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep003_Cover.png",
       "poll": {
         "question": "How does AI understand that 'Doctor' and 'Hospital' are related?",
         "options": [
@@ -79,7 +81,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "ghOUtQoi9x8",
-      "youtube_url": "https://www.youtube.com/shorts/ghOUtQoi9x8"
+      "youtube_url": "https://www.youtube.com/shorts/ghOUtQoi9x8",
+      "whatsapp_post": "Day 3 / 100: Embeddings — (Day 3/100) Why AI Turns Every Word Into Numbers: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ghOUtQoi9x8\n\n🗳️ Test your knowledge (Day 3 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 4",
@@ -91,8 +94,8 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 4 of 100 Days of Learning AI: Master Transformers! 💡\nChatGPT, Claude, Gemini — they all run on ONE architecture. Here it is. In this quick AI prompt engineering & LLM architecture guide, discover how transformers works and practical intuition to level up your workflow.\n\n🧠 KEY TAKEAWAYS:\n- Transformers are the neural network design behind almost every modern AI model.\n- Introduced in a 2017 paper called 'Attention Is All You Need.'\n- They let AI look at an entire sentence at once, not word by word.\n- That's the real reason today's AI got so good, so fast.\n\n🔄 One architecture, every major AI model — now you know the name behind the magic.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 4 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nComment 'TRANSFORMER' if you didn't know this was the same tech everywhere!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com\n───────────────\n\n#shorts #transformers #promptengineering #chatgpt #ai #artificialintelligence #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, transformers, transformers explained, what is transformers, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, neural networks, ai history",
       "pinned_comment": "👇 Day 4 Discussion: Comment 'TRANSFORMER' if you didn't know this was the same tech everywhere!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 5 drops tomorrow at 6 PM! 🚀",
-      "cover_url": "assets/sarav_ai/cover_ep004.jpg",
-      "cover_filename": "Sarav_AI_Shorts_Ep004_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep004.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep004_Cover.png",
       "poll": {
         "question": "What foundational 2017 architecture powers almost all modern LLMs?",
         "options": [
@@ -106,7 +109,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "kWRB1bpI1QY",
-      "youtube_url": "https://www.youtube.com/shorts/kWRB1bpI1QY"
+      "youtube_url": "https://www.youtube.com/shorts/kWRB1bpI1QY",
+      "whatsapp_post": "Day 4 / 100: Transformers — (Day 4/100) The One Invention Behind Every AI: Transformers\n\nDive into today's bite-sized AI architecture breakdown! We unpack Transformers with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/kWRB1bpI1QY\n\n🗳️ Test your knowledge (Day 4 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 5",
@@ -118,8 +122,8 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 5 of 100 Days of Learning AI: Master Attention Mechanism! 💡\nIn a sentence, not every word matters equally. AI figured that out too. In this quick AI prompt engineering & LLM architecture guide, discover how attention mechanism works and practical intuition to level up your workflow.\n\n🧠 KEY TAKEAWAYS:\n- Attention lets AI decide which words in a sentence matter most for context.\n- In 'the cat sat on the mat because it was tired' — attention links 'it' to 'cat.'\n- This solves ambiguity that older AI models couldn't handle.\n- It's the core trick that makes Transformers actually work.\n\n🔄 That's attention — AI quietly deciding what to focus on, just like you do reading this.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 5 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nComment 'FOCUS' if this cleared up how AI tracks context!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com\n───────────────\n\n#shorts #attentionmechanism #promptengineering #chatgpt #ai #artificialintelligence #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, attention mechanism, attention mechanism explained, what is attention mechanism, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, transformers, llm basics",
       "pinned_comment": "👇 Day 5 Discussion: Comment 'FOCUS' if this cleared up how AI tracks context!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 6 drops tomorrow at 6 PM! 🚀",
-      "cover_url": "assets/sarav_ai/cover_ep005.jpg",
-      "cover_filename": "Sarav_AI_Shorts_Ep005_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep005.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep005_Cover.png",
       "poll": {
         "question": "What actually happens when you ask AI to generate an answer?",
         "options": [
@@ -133,7 +137,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "TgiUHtfkWig",
-      "youtube_url": "https://www.youtube.com/shorts/TgiUHtfkWig"
+      "youtube_url": "https://www.youtube.com/shorts/TgiUHtfkWig",
+      "whatsapp_post": "Day 5 / 100: Attention Mechanism — (Day 5/100) How AI Knows Which Words Matter Most: Attention\n\nDive into today's bite-sized AI architecture breakdown! We unpack Attention Mechanism with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/TgiUHtfkWig\n\n🗳️ Test your knowledge (Day 5 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 6",
@@ -145,8 +150,8 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 6 of 100 Days of Learning AI: Master Temperature! 💡\nOne number decides if your AI sounds like a robot or a poet. In this quick AI prompt engineering & LLM architecture guide, discover how temperature works and practical intuition to level up your workflow.\n\n🧠 KEY TAKEAWAYS:\n- Temperature controls randomness — low = predictable, high = creative/wild.\n- Temperature 0 gives the same safe answer every time.\n- Temperature 1+ gives surprising, sometimes weird outputs.\n- Top-p works alongside it, controlling how many word choices AI even considers.\n\n🔄 Low temperature = safe robot. High temperature = wild poet. Now you can control the vibe.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 6 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nComment 'HOT' if you're gonna go tweak your AI settings now!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com\n───────────────\n\n#shorts #temperature #promptengineering #chatgpt #ai #artificialintelligence #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, temperature, temperature explained, what is temperature, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, ai settings, prompt engineering",
       "pinned_comment": "👇 Day 6 Discussion: Comment 'HOT' if you're gonna go tweak your AI settings now!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 7 drops tomorrow at 6 PM! 🚀",
-      "cover_url": "assets/sarav_ai/cover_ep006.jpg",
-      "cover_filename": "Sarav_AI_Shorts_Ep006_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep006.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep006_Cover.png",
       "poll": {
         "question": "What does the 'Temperature' parameter (0.0 to 1.0) control in an LLM?",
         "options": [
@@ -160,7 +165,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-krKiNXAH_Y",
-      "youtube_url": "https://www.youtube.com/shorts/-krKiNXAH_Y"
+      "youtube_url": "https://www.youtube.com/shorts/-krKiNXAH_Y",
+      "whatsapp_post": "Day 6 / 100: Temperature — (Day 6/100) This One Setting Controls AI Creativity: Temperature\n\nDive into today's bite-sized AI architecture breakdown! We unpack Temperature with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-krKiNXAH_Y\n\n🗳️ Test your knowledge (Day 6 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 7",
@@ -187,7 +193,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "A7p_ETb7V48",
-      "youtube_url": "https://www.youtube.com/shorts/A7p_ETb7V48"
+      "youtube_url": "https://www.youtube.com/shorts/A7p_ETb7V48",
+      "whatsapp_post": "Day 7 / 100: Zero-shot Learning — (Day 7/100) How AI Solves Tasks It Was NEVER Trained For\n\nDive into today's bite-sized AI architecture breakdown! We unpack Zero-shot Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/A7p_ETb7V48\n\n🗳️ Test your knowledge (Day 7 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 8",
@@ -214,7 +221,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "EM7Ue3j2u1c",
-      "youtube_url": "https://www.youtube.com/shorts/EM7Ue3j2u1c"
+      "youtube_url": "https://www.youtube.com/shorts/EM7Ue3j2u1c",
+      "whatsapp_post": "Day 8 / 100: Few-Shot Prompting — (Day 8/100) Teach AI Anything Using Just 3 Examples: Few-Shot\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-Shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/EM7Ue3j2u1c\n\n🗳️ Test your knowledge (Day 8 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 9",
@@ -241,7 +249,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "dI-iFQ1j_SY",
-      "youtube_url": "https://www.youtube.com/shorts/dI-iFQ1j_SY"
+      "youtube_url": "https://www.youtube.com/shorts/dI-iFQ1j_SY",
+      "whatsapp_post": "Day 9 / 100: Chain of Thought — (Day 9/100) Why \"Think Step by Step\" Makes AI 10x Smarter\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chain of Thought with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/dI-iFQ1j_SY\n\n🗳️ Test your knowledge (Day 9 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 10",
@@ -259,7 +268,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What does 'System Prompt' mean in LLM architecture?",
         "options": [
           "The operating system version (Windows/Linux)",
-          "The hidden root instruction that defines the AI's persona & strict behavioral boundaries",
+          "The hidden root instruction that defines the AI's persona & strict behavioral...",
           "The computer processor clock speed",
           "The prompt entered by end users in chat"
         ],
@@ -268,7 +277,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "xnhOWpL_P0E",
-      "youtube_url": "https://www.youtube.com/shorts/xnhOWpL_P0E"
+      "youtube_url": "https://www.youtube.com/shorts/xnhOWpL_P0E",
+      "whatsapp_post": "Day 10 / 100: AI Hallucination — (Day 10/100) Why AI Confidently Lies to You: Hallucinations\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Hallucination with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xnhOWpL_P0E\n\n🗳️ Test your knowledge (Day 10 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 11",
@@ -295,7 +305,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "os_bDL3rLKM",
-      "youtube_url": "https://www.youtube.com/shorts/os_bDL3rLKM"
+      "youtube_url": "https://www.youtube.com/shorts/os_bDL3rLKM",
+      "whatsapp_post": "Day 11 / 100: System Prompts — (Day 11/100) The Hidden Rules Controlling Every AI: System Prompts\n\nDive into today's bite-sized AI architecture breakdown! We unpack System Prompts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/os_bDL3rLKM\n\n🗳️ Test your knowledge (Day 11 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 12",
@@ -313,7 +324,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is 'Prompt Chaining'?",
         "options": [
           "Sending 50 questions in one huge prompt",
-          "Breaking a complex workflow into sequential prompts where Output A feeds Prompt B",
+          "Breaking a complex workflow into sequential prompts where Output A feeds Prom...",
           "Linking multiple ChatGPT accounts together",
           "Repeating the same prompt 10 times until it works"
         ],
@@ -322,7 +333,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "tZ_ka5zOvz0",
-      "youtube_url": "https://www.youtube.com/shorts/tZ_ka5zOvz0"
+      "youtube_url": "https://www.youtube.com/shorts/tZ_ka5zOvz0",
+      "whatsapp_post": "Day 12 / 100: Prompt Chaining — (Day 12/100) Stop Asking AI One Giant Question: Prompt Chaining\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Chaining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/tZ_ka5zOvz0\n\n🗳️ Test your knowledge (Day 12 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 13",
@@ -349,7 +361,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "xjEeQ-YiteU",
-      "youtube_url": "https://www.youtube.com/shorts/xjEeQ-YiteU"
+      "youtube_url": "https://www.youtube.com/shorts/xjEeQ-YiteU",
+      "whatsapp_post": "Day 13 / 100: Role Prompting — (Day 13/100) How One Job Title Unlocks Expert AI: Role Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Role Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xjEeQ-YiteU\n\n🗳️ Test your knowledge (Day 13 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 14",
@@ -376,7 +389,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "i9KuTmULUfs",
-      "youtube_url": "https://www.youtube.com/shorts/i9KuTmULUfs"
+      "youtube_url": "https://www.youtube.com/shorts/i9KuTmULUfs",
+      "whatsapp_post": "Day 14 / 100: Few-shot Prompting — (Day 14/100) Show, Don't Tell: How to Make AI Write Like You\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/i9KuTmULUfs\n\n🗳️ Test your knowledge (Day 14 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 15",
@@ -403,7 +417,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "KFLDBvjufkA",
-      "youtube_url": "https://www.youtube.com/shorts/KFLDBvjufkA"
+      "youtube_url": "https://www.youtube.com/shorts/KFLDBvjufkA",
+      "whatsapp_post": "Day 15 / 100: Negative Prompting — (Day 15/100) Stop AI From Using Robot Fluff: Negative Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Negative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KFLDBvjufkA\n\n🗳️ Test your knowledge (Day 15 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 16",
@@ -421,7 +436,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is 'Prompt Injection' in AI security?",
         "options": [
           "Injecting Python code into the computer BIOS",
-          "An adversary tricking the LLM into ignoring its system prompt via malicious user input",
+          "An adversary tricking the LLM into ignoring its system prompt via malicious u...",
           "Adding too many tokens into a prompt",
           "Upgrading the model via a software patch"
         ],
@@ -430,7 +445,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "_yAo-Ej18eg",
-      "youtube_url": "https://www.youtube.com/shorts/_yAo-Ej18eg"
+      "youtube_url": "https://www.youtube.com/shorts/_yAo-Ej18eg",
+      "whatsapp_post": "Day 16 / 100: Prompt Injection — (Day 16/100) How 1 Line of Hidden Text Hacks Enterprise AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/_yAo-Ej18eg\n\n🗳️ Test your knowledge (Day 16 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 17",
@@ -448,7 +464,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is the main advantage of Markdown formatting in prompt design?",
         "options": [
           "It allows bold text in terminal outputs",
-          "Clear visual delimitation (`###`, `---`, `\\`\\`\\``) helps attention heads isolate sections",
+          "Clear visual delimitation (`###`, `---`, `\\`\\`\\``) helps attention heads isol...",
           "It reduces network bandwidth by 80%",
           "It prevents copyright infringement"
         ],
@@ -457,7 +473,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "LXaadvIMv6s",
-      "youtube_url": "https://www.youtube.com/shorts/LXaadvIMv6s"
+      "youtube_url": "https://www.youtube.com/shorts/LXaadvIMv6s",
+      "whatsapp_post": "Day 17 / 100: Structured Output — (Day 17/100) Stop Parsing AI Text: Use Structured JSON Output\n\nDive into today's bite-sized AI architecture breakdown! We unpack Structured Output with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/LXaadvIMv6s\n\n🗳️ Test your knowledge (Day 17 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 18",
@@ -484,7 +501,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "8lG7o0zeCLA",
-      "youtube_url": "https://www.youtube.com/shorts/8lG7o0zeCLA"
+      "youtube_url": "https://www.youtube.com/shorts/8lG7o0zeCLA",
+      "whatsapp_post": "Day 18 / 100: Meta Prompting — (Day 18/100) Stop Writing AI Prompts Yourself: Meta-Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Meta Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8lG7o0zeCLA\n\n🗳️ Test your knowledge (Day 18 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 19",
@@ -502,7 +520,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What should you always do before accepting an AI's first draft?",
         "options": [
           "Copy-paste it directly to production",
-          "Run a Self-Refinement / Critique pass ('Review your answer for flaws and fix them')",
+          "Run a Self-Refinement / Critique pass ('Review your answer for flaws and fix ...",
           "Turn off your computer",
           "Re-read it 10 times in silence"
         ],
@@ -511,7 +529,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "c-DmZdCa7W0",
-      "youtube_url": "https://www.youtube.com/shorts/c-DmZdCa7W0"
+      "youtube_url": "https://www.youtube.com/shorts/c-DmZdCa7W0",
+      "whatsapp_post": "Day 19 / 100: Iterative Prompting — (Day 19/100) Stop Accepting AI's First Draft: Fix It Fast\n\nDive into today's bite-sized AI architecture breakdown! We unpack Iterative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-DmZdCa7W0\n\n🗳️ Test your knowledge (Day 19 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 20",
@@ -538,7 +557,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-XcuPBDl2aM",
-      "youtube_url": "https://www.youtube.com/shorts/-XcuPBDl2aM"
+      "youtube_url": "https://www.youtube.com/shorts/-XcuPBDl2aM",
+      "whatsapp_post": "Day 20 / 100: Prompt Templates — (Day 20/100) Stop Typing Prompts From Scratch: Use R-C-T-F\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Templates with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-XcuPBDl2aM\n\n🗳️ Test your knowledge (Day 20 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 21",
@@ -556,7 +576,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is RAG (Retrieval-Augmented Generation)?",
         "options": [
           "A new video game rendering engine",
-          "Injecting external private documents into the prompt at runtime so AI answers factually",
+          "Injecting external private documents into the prompt at runtime so AI answers...",
           "A method to delete old chat histories",
           "Training a brand new foundation model from scratch"
         ],
@@ -565,7 +585,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "5MKvLB09J-c",
-      "youtube_url": "https://www.youtube.com/shorts/5MKvLB09J-c"
+      "youtube_url": "https://www.youtube.com/shorts/5MKvLB09J-c",
+      "whatsapp_post": "Day 21 / 100: Vector Database — (Day 21/100) Stop Fine-Tuning AI Models: Use RAG Instead\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vector Database with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5MKvLB09J-c\n\n🗳️ Test your knowledge (Day 21 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 22",
@@ -592,7 +613,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-AaLQMEHZAU",
-      "youtube_url": "https://www.youtube.com/shorts/-AaLQMEHZAU"
+      "youtube_url": "https://www.youtube.com/shorts/-AaLQMEHZAU",
+      "whatsapp_post": "Day 22 / 100: Semantic Search — (Day 22/100) Stop Using Keyword Search for AI: Vector DBs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Semantic Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-AaLQMEHZAU\n\n🗳️ Test your knowledge (Day 22 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 23",
@@ -610,7 +632,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is 'Chunking' in a RAG pipeline?",
         "options": [
           "Deleting duplicate files from the hard drive",
-          "Splitting large documents into smaller, semantically coherent passages for embedding",
+          "Splitting large documents into smaller, semantically coherent passages for em...",
           "Compressing images to 8-bit color",
           "Combining 10 PDFs into one giant zip file"
         ],
@@ -619,7 +641,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "cCyNsnQAe-Q",
-      "youtube_url": "https://www.youtube.com/shorts/cCyNsnQAe-Q"
+      "youtube_url": "https://www.youtube.com/shorts/cCyNsnQAe-Q",
+      "whatsapp_post": "Day 23 / 100: RAG — (Day 23/100) Stop Dumping Huge PDFs Into AI: Chunking Fix\n\nDive into today's bite-sized AI architecture breakdown! We unpack RAG with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/cCyNsnQAe-Q\n\n🗳️ Test your knowledge (Day 23 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 24",
@@ -646,7 +669,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "8cc_WGDMOBU",
-      "youtube_url": "https://www.youtube.com/shorts/8cc_WGDMOBU"
+      "youtube_url": "https://www.youtube.com/shorts/8cc_WGDMOBU",
+      "whatsapp_post": "Day 24 / 100: Chunking — (Day 24/100) Stop Keyword Search for Long Docs: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chunking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8cc_WGDMOBU\n\n🗳️ Test your knowledge (Day 24 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 25",
@@ -673,7 +697,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "qY2LbgivWWU",
-      "youtube_url": "https://www.youtube.com/shorts/qY2LbgivWWU"
+      "youtube_url": "https://www.youtube.com/shorts/qY2LbgivWWU",
+      "whatsapp_post": "Day 25 / 100: Embeddings — (Day 25/100) Stop Blind Retrieval: Cosine Similarity\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/qY2LbgivWWU\n\n🗳️ Test your knowledge (Day 25 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 26",
@@ -700,7 +725,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "lswnFGuDIq8",
-      "youtube_url": "https://www.youtube.com/shorts/lswnFGuDIq8"
+      "youtube_url": "https://www.youtube.com/shorts/lswnFGuDIq8",
+      "whatsapp_post": "Day 26 / 100: Reranking — (Day 26/100) Stop Trusting the Top Search Result: Always Rerank\n\nDive into today's bite-sized AI architecture breakdown! We unpack Reranking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/lswnFGuDIq8\n\n🗳️ Test your knowledge (Day 26 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 27",
@@ -727,7 +753,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "KSSWj-5mPus",
-      "youtube_url": "https://www.youtube.com/shorts/KSSWj-5mPus"
+      "youtube_url": "https://www.youtube.com/shorts/KSSWj-5mPus",
+      "whatsapp_post": "Day 27 / 100: Knowledge Grounding — (Day 27/100) Stop AI Hallucinations Cold: Anchor With Grounding\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Grounding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KSSWj-5mPus\n\n🗳️ Test your knowledge (Day 27 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 28",
@@ -754,7 +781,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "O6R4vPadEgk",
-      "youtube_url": "https://www.youtube.com/shorts/O6R4vPadEgk"
+      "youtube_url": "https://www.youtube.com/shorts/O6R4vPadEgk",
+      "whatsapp_post": "Day 28 / 100: Hybrid Search — (Day 28/100) Stop Relying on One Search Method: Use Hybrid Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Hybrid Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/O6R4vPadEgk\n\n🗳️ Test your knowledge (Day 28 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 29",
@@ -781,7 +809,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "fwShBL1tWvo",
-      "youtube_url": "https://www.youtube.com/shorts/fwShBL1tWvo"
+      "youtube_url": "https://www.youtube.com/shorts/fwShBL1tWvo",
+      "whatsapp_post": "Day 29 / 100: Context Injection — (Day 29/100) Stop Letting Chatbots Forget Context: Inject State\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fwShBL1tWvo\n\n🗳️ Test your knowledge (Day 29 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 30",
@@ -799,7 +828,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is 'Semantic Caching'?",
         "options": [
           "Clearing your browser cookies every 24 hours",
-          "Storing prior query embeddings and returning cached answers for similar questions",
+          "Storing prior query embeddings and returning cached answers for similar quest...",
           "Caching only images and CSS files",
           "Saving chat logs to a thumb drive"
         ],
@@ -808,7 +837,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "L61U79mMTLY",
-      "youtube_url": "https://www.youtube.com/shorts/L61U79mMTLY"
+      "youtube_url": "https://www.youtube.com/shorts/L61U79mMTLY",
+      "whatsapp_post": "Day 30 / 100: Retrieval Latency — (Day 30/100) Stop Suffering 5-Second Latency: Optimize Vector Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Retrieval Latency with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/L61U79mMTLY\n\n🗳️ Test your knowledge (Day 30 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 31",
@@ -826,7 +856,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What differentiates an 'AI Agent' from a standard chatbot?",
         "options": [
           "Agents have colorful 3D avatars",
-          "Agents can plan, use external tools, call APIs, and execute autonomous multi-step tasks",
+          "Agents can plan, use external tools, call APIs, and execute autonomous multi-...",
           "Agents cost $50 per month",
           "Agents only speak in audio"
         ],
@@ -835,7 +865,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "ORpH9c0crUM",
-      "youtube_url": "https://www.youtube.com/shorts/ORpH9c0crUM"
+      "youtube_url": "https://www.youtube.com/shorts/ORpH9c0crUM",
+      "whatsapp_post": "Day 31 / 100: AI Agents — (Day 31/100) Stop Using AI Just for Chat: Deploy Autonomous Agents\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ORpH9c0crUM\n\n🗳️ Test your knowledge (Day 31 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 32",
@@ -862,7 +893,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "smgvSDF_r2Y",
-      "youtube_url": "https://www.youtube.com/shorts/smgvSDF_r2Y"
+      "youtube_url": "https://www.youtube.com/shorts/smgvSDF_r2Y",
+      "whatsapp_post": "Day 32 / 100: Tool Use — (Day 32/100) Stop Copy-Pasting AI Answers: Give AI Tools & APIs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tool Use with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/smgvSDF_r2Y\n\n🗳️ Test your knowledge (Day 32 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 33",
@@ -880,7 +912,7 @@ window.PUBLISHING_CATALOG = {
         "question": "Why is a Multi-Agent Specialist Squad superior to a single giant prompt?",
         "options": [
           "It uses more electricity",
-          "Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce cognitive error",
+          "Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce...",
           "It takes 10x longer to run",
           "Single agents refuse to work overtime"
         ],
@@ -889,7 +921,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "7EjgeXQrLsk",
-      "youtube_url": "https://www.youtube.com/shorts/7EjgeXQrLsk"
+      "youtube_url": "https://www.youtube.com/shorts/7EjgeXQrLsk",
+      "whatsapp_post": "Day 33 / 100: Multi-Agent Systems — (Day 33/100) Stop Using One AI for Everything: Build Agent Squads\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multi-Agent Systems with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/7EjgeXQrLsk\n\n🗳️ Test your knowledge (Day 33 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 34",
@@ -907,7 +940,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is 'Persistent Memory' for AI agents?",
         "options": [
           "Upgrading the computer's physical RAM to 64 GB",
-          "Cross-session state storage allowing agents to remember user preferences & past decisions",
+          "Cross-session state storage allowing agents to remember user preferences & pa...",
           "Keeping the browser tab open forever",
           "Hardcoding answers into the Python script"
         ],
@@ -916,7 +949,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "08iitruCQgs",
-      "youtube_url": "https://www.youtube.com/shorts/08iitruCQgs"
+      "youtube_url": "https://www.youtube.com/shorts/08iitruCQgs",
+      "whatsapp_post": "Day 34 / 100: Agent Memory — (Day 34/100) Stop Losing Agent Chat History: Add Persistent Memory\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Memory with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/08iitruCQgs\n\n🗳️ Test your knowledge (Day 34 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 35",
@@ -943,7 +977,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "5UY-dd-ZHN4",
-      "youtube_url": "https://www.youtube.com/shorts/5UY-dd-ZHN4"
+      "youtube_url": "https://www.youtube.com/shorts/5UY-dd-ZHN4",
+      "whatsapp_post": "Day 35 / 100: ReAct Framework — (Day 35/100) Stop One-Shot Guessing: Run the ReAct Reasoning Loop\n\nDive into today's bite-sized AI architecture breakdown! We unpack ReAct Framework with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5UY-dd-ZHN4\n\n🗳️ Test your knowledge (Day 35 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 36",
@@ -961,7 +996,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is the role of an 'Agent Orchestrator' / Supervisor?",
         "options": [
           "To pay the cloud server bills",
-          "To decompose goals, assign sub-tasks to specialized worker agents, and synthesize results",
+          "To decompose goals, assign sub-tasks to specialized worker agents, and synthe...",
           "To monitor employee chat logs",
           "To schedule calendar meetings"
         ],
@@ -970,7 +1005,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "ktqwATHzvS8",
-      "youtube_url": "https://www.youtube.com/shorts/ktqwATHzvS8"
+      "youtube_url": "https://www.youtube.com/shorts/ktqwATHzvS8",
+      "whatsapp_post": "Day 36 / 100: Agent Orchestration — (Day 36/100) Stop Multi-Agent Chaos: Add a Router Orchestrator\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Orchestration with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ktqwATHzvS8\n\n🗳️ Test your knowledge (Day 36 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 37",
@@ -988,7 +1024,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is 'Autonomous Planning' in agentic systems?",
         "options": [
           "Writing 50 individual prompts manually",
-          "Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution",
+          "Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic ...",
           "Asking ChatGPT to browse the web",
           "Using multiple screens simultaneously"
         ],
@@ -997,7 +1033,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "fav-pse9DUs",
-      "youtube_url": "https://www.youtube.com/shorts/fav-pse9DUs"
+      "youtube_url": "https://www.youtube.com/shorts/fav-pse9DUs",
+      "whatsapp_post": "Day 37 / 100: Autonomous Planning — (Day 37/100) Stop Micromanaging Prompts: Let AI Plan Autonomous Steps\n\nDive into today's bite-sized AI architecture breakdown! We unpack Autonomous Planning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fav-pse9DUs\n\n🗳️ Test your knowledge (Day 37 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 38",
@@ -1015,7 +1052,7 @@ window.PUBLISHING_CATALOG = {
         "question": "What is the primary purpose of Anthropic's Model Context Protocol (MCP)?",
         "options": [
           "A Minecraft gaming server mod",
-          "An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API",
+          "An open universal standard (like USB-C) letting any AI model connect to any t...",
           "A cloud subscription billing mechanism",
           "A method to speed up graphic rendering"
         ],
@@ -1024,7 +1061,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-BT8QtTRG8o",
-      "youtube_url": "https://www.youtube.com/shorts/-BT8QtTRG8o"
+      "youtube_url": "https://www.youtube.com/shorts/-BT8QtTRG8o",
+      "whatsapp_post": "Day 38 / 100: Why Anthropic’s MCP Changes Everything for AI Tooling\n\nConnecting AI to databases and APIs used to mean building custom spaghetti code for every single model.\n\nAnthropic’s Model Context Protocol (MCP) changes this forever. It is the universal USB-C cable for AI:\n1. The Core Standard: One open protocol connects any AI agent to your files, databases, and development tools.\n2. Zero Vendor Lock-in: Switch from Claude to Cursor or Antigravity instantly without rewriting your tool integrations.\n\nOne universal socket powering the autonomous future.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-BT8QtTRG8o\n\n🗳️ Test your knowledge (Day 38 Quiz):\nhttps://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh?si=UQwka27OwlWo2gJF"
     },
     {
       "day": "Day 39",
@@ -1042,7 +1080,7 @@ window.PUBLISHING_CATALOG = {
         "question": "Why are 'Vibe Checks' insufficient for production AI engineering?",
         "options": [
           "Vibes don't have enough colorful charts",
-          "Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions",
+          "Prompt edits often fix one case while silently breaking twenty others; automa...",
           "Cloud APIs refuse prompts containing the word vibe",
           "They consume 10x more GPU electricity"
         ],
@@ -1051,7 +1089,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "c-R3SjKeUTg",
-      "youtube_url": "https://www.youtube.com/shorts/c-R3SjKeUTg"
+      "youtube_url": "https://www.youtube.com/shorts/c-R3SjKeUTg",
+      "whatsapp_post": "Day 39 / 100: You Cannot Improve an AI Pipeline You Don't Measure\n\nMost developers test AI prompts by hitting refresh and vibing. That is why enterprise AI breaks in production.\n\nAutomated Evaluations turn subjective AI intuition into hard engineering data:\n1. Deterministic Checks: Code-level validation for strict JSON schemas, latency, and regex patterns.\n2. LLM-as-a-Judge: A secondary model scoring outputs for tone, accuracy, and hallucination regressions.\n\nIf you don't benchmark your prompts in CI/CD, your users will benchmark them for you.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-R3SjKeUTg\n\n🗳️ Test your knowledge (Day 39 Quiz):\nhttps://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM?si=sBrqZUzZI8TkjGI3"
     },
     {
       "day": "Day 40",
@@ -1078,7 +1117,8 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "f-CCh39WHfg",
-      "youtube_url": "https://www.youtube.com/shorts/f-CCh39WHfg"
+      "youtube_url": "https://www.youtube.com/shorts/f-CCh39WHfg",
+      "whatsapp_post": "Day 40 / 100: Cloud AI Is Powerful, But Edge AI Is Private and Free\n\nRelying entirely on cloud AI APIs creates massive token bills and serious privacy vulnerabilities.\n\nThe breakthrough of 2026 is Local Small Language Models (SLMs) running directly on your device:\n1. Edge Silicon (NPUs): Models like Phi-4-mini and Qwen run at 90 tokens/second on consumer hardware.\n2. Complete Data Sovereignty: Zero API costs, zero internet dependency, and 100% private data isolation.\n\nHeavy reasoning stays on the cloud; daily operational intelligence belongs on the edge.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/f-CCh39WHfg\n\n🗳️ Test your knowledge (Day 40 Quiz):\nhttps://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp?si=9yQNqrAf32SOQdG_"
     },
     {
       "day": "Day 41",
@@ -1090,20 +1130,23 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 41 of 100 Days of Learning AI 👉 Stop Prompting Images Blindly: Control Composition! 💡\nTyping random buzzwords into Midjourney is a lottery. Professional creators use camera angles, lighting ratios, and spatial framing.\n\n🧠 KEY TAKEAWAYS:\n- Descriptive spatial keywords (wide shot, low angle, 85mm lens) govern composition.\n- Weight parameters (--cw, ::2, negative weights) control semantic emphasis.\n- Style anchors (editorial photography, cinematic 35mm film) eliminate plastic AI sheen.\n- Turns chaotic image generation into precise, repeatable art direction.\n\n🔄 Don't pray for good images; direct your prompts like a cinematographer.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 41 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nWhich image generator is your daily driver? Midjourney, Flux, or Stable Diffusion? Drop it below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #texttoimage #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, text to image, text to image explained, what is text to image, text to image prompting, midjourney composition tricks, flux image prompting, stop bad ai images, cinematic ai prompts, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 41 Discussion: Flux vs Midjourney v6 vs SDXL: Which model has the best prompt adherence right now? Drop your winner below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 42 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep041_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep041.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep041_Cover.png",
       "poll": {
-        "question": "How does Text-to-Image AI bridge natural language prompts to pixel synthesis?",
+        "question": "When you prompt AI to generate an image, which model connects text to visuals?",
         "options": [
-          "It searches Google Images and photocopies them",
-          "CLIP maps words to a shared semantic space, and Latent Diffusion iteratively denoises pixels",
-          "It converts letters directly into RGB hex codes sequentially",
-          "A human digital artist paints it behind a server curtain"
+          "CLIP (Contrastive Language-Image Pretraining)",
+          "Pure ChatGPT text tokenizer",
+          "Standard SQL database index",
+          "Edge-TTS speech synthesizer"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nHow does Text-to-Image AI bridge natural language prompts to pixel synthesis?\n\nA) It searches Google Images and photocopies them\nB) CLIP maps words to a shared semantic space, and Latent Diffusion iteratively denoises pixels\nC) It converts letters directly into RGB hex codes sequentially\nD) A human digital artist paints it behind a server curtain\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nWhen you prompt AI to generate an image, which model connects text to visuals?\n\nA) CLIP (Contrastive Language-Image Pretraining)\nB) Pure ChatGPT text tokenizer\nC) Standard SQL database index\nD) Edge-TTS speech synthesizer\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "Cptnp27fcfY",
+      "youtube_url": "https://www.youtube.com/shorts/Cptnp27fcfY",
+      "whatsapp_post": "Day 41 / 100: Type a Sentence. Get a Full Image. How?\n\nYou type eight words into an AI prompt box, and two seconds later you have a 4K photorealistic image. How does text cross the bridge into pixels?\n\nThe magic relies on an architectural bridge called CLIP:\n1. Contrastive Encoding: Your text prompt is translated into a mathematical coordinate vector in latent space.\n2. Concept Alignment: The model maps those words to millions of visual patterns it learned during training.\n\nIt isn't searching a photo library—it is rendering mathematical imagination.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/Cptnp27fcfY\n\n🗳️ Test your knowledge (Day 41 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 42",
@@ -1115,20 +1158,23 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 42 of 100 Days of Learning AI 👉 Stop Accepting Flickering AI Video: Lock Keyframe Seed! 💡\nWhy do AI videos look like melting clay after 2 seconds? Locking camera trajectories and seed keyframes fixes temporal stability.\n\n🧠 KEY TAKEAWAYS:\n- Temporal coherence is the hardest technical challenge in generative video.\n- Diffusion-based video models predict frame-by-frame latents across 3D space-time.\n- Motion brushes, camera control vectors, and fixed seeds eliminate morphing glitches.\n- The bridge from weird surreal GIFs to Hollywood-grade commercial production.\n\n🔄 Lock the camera, anchor the seed, and conquer AI video flickering.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 42 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nHave you used Sora, Kling, Runway Gen-3, or Luma Dream Machine? Drop your favorite below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #texttovideo #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, text to video, text to video explained, what is text to video, ai video generation, runway gen 3 tutorial, kling ai video, fix flickering ai video, text to video tips, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 42 Discussion: Kling vs Runway Gen-3 vs Luma: Which video model gives you the highest temporal consistency? Drop your verdict below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 43 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep042_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep042.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep042_Cover.png",
       "poll": {
-        "question": "What prevents temporal flickering across frames in generative AI video models?",
+        "question": "What allows modern AI video models (like Sora) to keep objects consistent in time?",
         "options": [
-          "Increasing computer monitor refresh rate",
-          "Locking latent keyframe seeds and cross-frame temporal attention layers",
-          "Speeding up video playback to 120 FPS",
-          "Exporting only as animated GIF files"
+          "Spatiotemporal latent patches (Space + Time)",
+          "Generating 30 separate PNG images every second",
+          "Using traditional Adobe Premiere filters",
+          "Storing every single raw video frame in RAM"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat prevents temporal flickering across frames in generative AI video models?\n\nA) Increasing computer monitor refresh rate\nB) Locking latent keyframe seeds and cross-frame temporal attention layers\nC) Speeding up video playback to 120 FPS\nD) Exporting only as animated GIF files\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat allows modern AI video models (like Sora) to keep objects consistent in time?\n\nA) Spatiotemporal latent patches (Space + Time)\nB) Generating 30 separate PNG images every second\nC) Using traditional Adobe Premiere filters\nD) Storing every single raw video frame in RAM\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "FQvfrZT9x1w",
+      "youtube_url": "https://www.youtube.com/shorts/FQvfrZT9x1w",
+      "whatsapp_post": "Day 42 / 100: AI Now Generates Full Videos From Text\n\nFirst AI learned to write, then it learned to draw, and now it simulates physical motion across space and time.\n\nModels like Sora and Veo are not video stitchers—they are Spatiotemporal World Models:\n1. 3D Space + 1D Time: The model treats a video clip as a 4-dimensional volume of space-time latent patches.\n2. Physical Continuity: It simulates light rays, gravity, and object permanence across consecutive frames.\n\nWe are witnessing the death of static cameras and the birth of infinite generative cinema.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/FQvfrZT9x1w\n\n🗳️ Test your knowledge (Day 42 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 43",
@@ -1140,20 +1186,23 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 43 of 100 Days of Learning AI 👉 Stop Using Robotic TTS Voices: Switch to Zero-Shot F5! 💡\nStock American robotic text-to-speech screams amateur. Modern open-source models like F5-TTS clone your real voice in zero seconds.\n\n🧠 KEY TAKEAWAYS:\n- Traditional TTS synthesizes robotic phonemes with unnatural pauses.\n- Zero-shot voice cloning uses flow-matching to mimic your exact timbre and pitch.\n- F5-TTS runs locally on consumer GPUs with zero cloud subscription fees.\n- Preserves your authentic human identity across automated content pipelines.\n\n🔄 Never sound like a robot again; clone your authentic broadcast voice for $0.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 43 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nCan you immediately spot a stock AI voice on social media? Drop 'YES' or 'SOMETIMES' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #texttospeech #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, text to speech, text to speech explained, what is text to speech, f5 tts voice clone, zero shot voice cloning, stop robotic tts, open source tts local, how to clone voice ai, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 43 Discussion: F5-TTS vs ElevenLabs: Is open-source voice cloning ready to completely replace paid SaaS? Drop your verdict below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 44 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep043_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep043.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep043_Cover.png",
       "poll": {
-        "question": "What is the function of a 'Neural Vocoder' in modern speech synthesis (TTS)?",
+        "question": "What is the primary role of a neural vocoder (like Vocos) in modern AI voice?",
         "options": [
-          "To filter microphone acoustic room hiss",
-          "To convert intermediate acoustic mel-spectrograms into high-fidelity raw audio waveforms",
-          "To translate English text to Spanish",
-          "To boost overall speaker volume by 10 dB"
+          "Converts acoustic spectrograms into sound waves",
+          "Translates English text into French audio",
+          "Records human voice from a physical microphone",
+          "Checks prompt grammar and spelling errors"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the function of a 'Neural Vocoder' in modern speech synthesis (TTS)?\n\nA) To filter microphone acoustic room hiss\nB) To convert intermediate acoustic mel-spectrograms into high-fidelity raw audio waveforms\nC) To translate English text to Spanish\nD) To boost overall speaker volume by 10 dB\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the primary role of a neural vocoder (like Vocos) in modern AI voice?\n\nA) Converts acoustic spectrograms into sound waves\nB) Translates English text into French audio\nC) Records human voice from a physical microphone\nD) Checks prompt grammar and spelling errors\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "Li-x6Zidv4I",
+      "youtube_url": "https://www.youtube.com/shorts/Li-x6Zidv4I",
+      "whatsapp_post": "Day 43 / 100: How AI Voices Sound So Human Now\n\nRemember robotic text-to-speech that sounded like an elevator announcement? Modern AI voice sounds indistinguishable from real human speech.\n\nThe breakthrough comes down to Neural Vocoders and Flow Matching:\n1. Prosody Modeling: The AI predicts breath micro-pauses, vocal cadence, and emotional chest inflection.\n2. Neural Vocoders (Vocos/HiFi-GAN): Decodes abstract acoustic latents into clean 24kHz studio audio waves in 100 milliseconds.\n\nSpeech synthesis is no longer robotic concatenation—it is acoustic physics in real time.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/Li-x6Zidv4I\n\n🗳️ Test your knowledge (Day 43 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 44",
@@ -1165,20 +1214,23 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 44 of 100 Days of Learning AI 👉 Stop Guessing Diffusion Magic: Denoising Math Explained! 💡\nHow does AI create a photorealistic face from pure static noise? Diffusion models reverse-engineer physics through iterative denoising.\n\n🧠 KEY TAKEAWAYS:\n- Forward diffusion gradually destroys an image by adding Gaussian noise.\n- Reverse diffusion trains a U-Net to predict and subtract that noise step by step.\n- Text prompts steer the latent space trajectory toward your target concept.\n- The foundational physics engine powering Stable Diffusion, Midjourney, and Flux.\n\n🔄 Start with pure static noise, subtract the chaos, reveal the masterpiece.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 44 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nDid you know AI images literally start as random TV static? Drop 'KNEW IT' or 'BLOWN AWAY' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #diffusionmodels #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, diffusion models, diffusion models explained, what is diffusion models, how stable diffusion works, denoising u net math, latent diffusion tutorial, generative ai math, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 44 Discussion: Have you explored the math behind diffusion models? Latent space vs pixel space: Which is cleaner? Drop thoughts below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 45 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep044_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep044.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep044_Cover.png",
       "poll": {
-        "question": "What is the core mathematical mechanism inside 'Latent Diffusion'?",
+        "question": "How do Diffusion Models generate crisp, photorealistic art from pure static?",
         "options": [
-          "Multiplying random numbers until an image appears",
-          "Iterative noise removal (denoising) guided by a prompt vector in compressed latent space",
-          "Applying simple Gaussian blur filters across an image",
-          "Rendering 3D polygons in Unreal Engine"
+          "Iteratively subtracting noise via reverse U-Net",
+          "Copy-pasting pixels from Google Images",
+          "Stretching and upscaling a 10x10 pixel thumbnail",
+          "Blending 1,000 photos with 50% opacity"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nWhat is the core mathematical mechanism inside 'Latent Diffusion'?\n\nA) Multiplying random numbers until an image appears\nB) Iterative noise removal (denoising) guided by a prompt vector in compressed latent space\nC) Applying simple Gaussian blur filters across an image\nD) Rendering 3D polygons in Unreal Engine\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nHow do Diffusion Models generate crisp, photorealistic art from pure static?\n\nA) Iteratively subtracting noise via reverse U-Net\nB) Copy-pasting pixels from Google Images\nC) Stretching and upscaling a 10x10 pixel thumbnail\nD) Blending 1,000 photos with 50% opacity\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "READY 🚀",
+      "youtube_id": "",
+      "youtube_url": "",
+      "whatsapp_post": "Day 44 / 100: Born From Static—How Diffusion Models Create Art!\n\nEvery breathtaking AI artwork online started its life as a chaotic wall of television static.\n\nThis is the magic of Diffusion Models. The process relies on a two-part duality:\n1. The Forward Process: Pure visual data is systematically destroyed by adding Gaussian noise.\n2. The Reverse Process: Guided by your prompt, the neural network learns to subtract that noise across 30 iterative steps.\n\nIt is literally turning visual chaos into order. Pure randomness molded into museum-grade visuals.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 44 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 45",
@@ -1190,20 +1242,21 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 45 of 100 Days of Learning AI 👉 Stop Paying $30/Mo for Avatars: Build for $0 Open Source! 💡\nWhy pay HeyGen $30/month for rigid synthetic heads? You can engineer open-source talking portraits with LivePortrait locally for $0.\n\n🧠 KEY TAKEAWAYS:\n- Commercial avatar SaaS tools lock you into expensive monthly credit limits.\n- Open-source models like LivePortrait animate real portraits with natural facial physics.\n- Local execution preserves data privacy and removes unwanted vendor watermarks.\n- Gives creators 100% architectural sovereignty over their synthetic pipeline.\n\n🔄 Reject the SaaS markup; engineer your own zero-cost avatar studio.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 45 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nWould you rather pay $30/mo for HeyGen or run open-source models on your GPU for $0? Drop 'SAAS' or 'OPEN-SOURCE' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #aiavatar #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, ai avatars, ai avatars explained, what is ai avatars, open source ai avatar, liveportrait tutorial, heygen alternative free, zero cost ai video pipeline, talking head ai free, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 45 Discussion: LivePortrait vs HeyGen: Have you tested open-source talking heads on local hardware? Drop your experience below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 46 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep045_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep045.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep045_Cover.png",
       "poll": {
-        "question": "How do modern zero-shot avatar systems (like LivePortrait) animate facial expressions?",
+        "question": "What math structure allows 2D AI avatars to speak with realistic lip-sync?",
         "options": [
-          "By redrawing 24 full-resolution frames per second from scratch",
-          "By tracking 3D facial blendshapes and warping feature points onto the reference portrait",
-          "Using static cardboard cutout rotations",
-          "By replacing the face with a generic 3D polygon mask"
+          "3D Facial Blendshapes & FACS coefficients",
+          "Playing an animated GIF on an infinite loop",
+          "Static Photoshop warping layers",
+          "Random pixel color inversion"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nHow do modern zero-shot avatar systems (like LivePortrait) animate facial expressions?\n\nA) By redrawing 24 full-resolution frames per second from scratch\nB) By tracking 3D facial blendshapes and warping feature points onto the reference portrait\nC) Using static cardboard cutout rotations\nD) By replacing the face with a generic 3D polygon mask\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nWhat math structure allows 2D AI avatars to speak with realistic lip-sync?\n\nA) 3D Facial Blendshapes & FACS coefficients\nB) Playing an animated GIF on an infinite loop\nC) Static Photoshop warping layers\nD) Random pixel color inversion\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 45 / 100: AI Avatars — (Day 45/100) This Video Host Isn't Real. Neither Am I (Almost)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Avatars with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 45 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 46",
@@ -1215,20 +1268,21 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 46 of 100 Days of Learning AI 👉 Stop Recording 1-Hour Voice Samples: Clone Voice in 10s! 💡\nYou don't need a professional recording studio to clone a voice anymore. 10 seconds of clean audio is all modern neural nets require.\n\n🧠 KEY TAKEAWAYS:\n- Legacy voice models required hours of transcribed training audio in an isolated booth.\n- Modern flow-matching models extract vocal embeddings from a 10-second reference WAV.\n- Captures room acoustics, vocal cadence, accent, and natural breath timing.\n- Audio mastering chains (EQ, compression, -14 LUFS) deliver broadcast fidelity.\n\n🔄 10 seconds of clean audio is your permanent digital vocal passport.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 46 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nHave you ever cloned your own voice with AI? Drop 'YES' or 'SCARED TO' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #voicecloning #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, voice cloning, voice cloning explained, what is voice cloning, voice cloning tutorial, clone voice from 10 seconds, f5 tts clean reference, audio mastering ai voice, ai voice clone test, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 46 Discussion: Ethics vs productivity: Should voice cloning require biometric watermarking by law? Drop your thoughts below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 47 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep046_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep046.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep046_Cover.png",
       "poll": {
-        "question": "What acoustic features make zero-shot voice cloning (F5-TTS) sound human?",
+        "question": "How can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?",
         "options": [
-          "Robotic autotune pitch correction",
-          "Prosody modeling, natural breathing pauses, and timbre matching from a 10s audio reference",
-          "Reading dictionary pronunciations in monotone",
-          "Speeding up speech by 200%"
+          "Matching speaker timbre in acoustic latent space",
+          "Retraining the entire neural network from zero",
+          "Applying an aggressive robotic pitch shifter",
+          "Downloading your private WhatsApp voice notes"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nWhat acoustic features make zero-shot voice cloning (F5-TTS) sound human?\n\nA) Robotic autotune pitch correction\nB) Prosody modeling, natural breathing pauses, and timbre matching from a 10s audio reference\nC) Reading dictionary pronunciations in monotone\nD) Speeding up speech by 200%\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nHow can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?\n\nA) Matching speaker timbre in acoustic latent space\nB) Retraining the entire neural network from zero\nC) Applying an aggressive robotic pitch shifter\nD) Downloading your private WhatsApp voice notes\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 46 / 100: Voice Cloning — (Day 46/100) AI Can Copy ANY Voice From 30 Seconds of Audio\n\nDive into today's bite-sized AI architecture breakdown! We unpack Voice Cloning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 46 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 47",
@@ -1240,20 +1294,21 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 47 of 100 Days of Learning AI 👉 Stop Hiring Jingle Studios: Prompt AI Audio Stems! 💡\nPaying licensing libraries $50 for boring elevator music is over. Generative music models produce custom, royalty-free audio tracks from text.\n\n🧠 KEY TAKEAWAYS:\n- Models like Suno and Udio generate full compositions with vocals and instruments.\n- Specify musical key, BPM, instrumentation (lo-fi, synthwave, acoustic), and mood.\n- Audio stem separation allows creators to remix basslines, drums, and melodies.\n- Democratizes custom soundtrack creation for YouTube videos, games, and podcasts.\n\n🔄 Text becomes melody, prompts become rhythms, your videos get custom soundtracks.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 47 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nHave you listened to Suno or Udio AI music recently? Did it fool your ears? Drop 'YES' or 'NOT YET' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #aimusic #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, ai music, ai music explained, what is ai music, ai music generation, suno ai tutorial, udio ai music tips, royalty free ai music, generate bgm for youtube, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 47 Discussion: Suno vs Udio: Who creates better vocal tracks and musical arrangements? Drop your winner below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 48 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep047_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep047.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep047_Cover.png",
       "poll": {
-        "question": "How do AI music generators produce distinct audio stems (drums, bass, vocals)?",
+        "question": "How do generative audio models (Suno/Udio) compose full multi-track songs?",
         "options": [
-          "By playing real MIDI instruments sequentially",
-          "By training multi-track diffusion models conditioned on musical tags, tempo, and stems",
-          "By searching royalty-free music libraries",
-          "By stitching 3-second radio samples together"
+          "Dual-stream diffusion of melody, rhythm & vocal",
+          "Splicing copyrighted MP3 tracks from Spotify",
+          "Playing MIDI files using 90s soundcard fonts",
+          "Auto-tuning a human singer's hum"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nHow do AI music generators produce distinct audio stems (drums, bass, vocals)?\n\nA) By playing real MIDI instruments sequentially\nB) By training multi-track diffusion models conditioned on musical tags, tempo, and stems\nC) By searching royalty-free music libraries\nD) By stitching 3-second radio samples together\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nHow do generative audio models (Suno/Udio) compose full multi-track songs?\n\nA) Dual-stream diffusion of melody, rhythm & vocal\nB) Splicing copyrighted MP3 tracks from Spotify\nC) Playing MIDI files using 90s soundcard fonts\nD) Auto-tuning a human singer's hum\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 47 / 100: AI Music — (Day 47/100) AI Just Composed a Full Song. From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Music with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 47 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 48",
@@ -1265,20 +1320,21 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 48 of 100 Days of Learning AI 👉 Stop Tolerating Blurry Pixelation: Upscale 4X With AI! 💡\nTraditional digital zoom stretches pixels into blurry blobs. AI Super-Resolution hallucinates crisp missing details with neural networks.\n\n🧠 KEY TAKEAWAYS:\n- Bilinear interpolation simply blurs pixels; AI upscaling reconstructs high frequencies.\n- Real-ESRGAN and Topaz AI predict realistic textures, fabric weaves, and eyelashes.\n- Enables 4x to 8x resolution multipliers suitable for 4K video and print billboards.\n- Restores archival family photographs and sharpens low-res AI generations.\n\n🔄 Don't stretch blurry pixels; let neural networks paint the missing details.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 48 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nDo you upscale your AI generations before publishing? Drop 'ALWAYS' or 'NEVER' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #imageupscaling #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, image upscaling, image upscaling explained, what is image upscaling, ai image upscaling, real esrgan tutorial, magnific ai alternative, how to upscale ai art, fix blurry images ai, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 48 Discussion: What is your favorite upscaler? Real-ESRGAN, Topaz Photo AI, or Magnific? Drop your choice below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 49 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep048_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep048.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep048_Cover.png",
       "poll": {
-        "question": "How does Generative AI Super-Resolution differ from standard bicubic upscaling?",
+        "question": "How does Generative AI upscale blurry, low-res photos without smudging?",
         "options": [
-          "It simply doubles pixel dimensions and applies a blur filter",
-          "It hallucinates plausible high-frequency details (textures, skin pores, fabric) consistent with image semantics",
-          "It turns low-res images into cartoons",
-          "It requires scanning a physical photograph"
+          "Hallucinates sharp realistic texture priors",
+          "Basic bilinear pixel stretching",
+          "Increasing monitor brightness and contrast",
+          "Applying heavy Gaussian blur to edges"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nHow does Generative AI Super-Resolution differ from standard bicubic upscaling?\n\nA) It simply doubles pixel dimensions and applies a blur filter\nB) It hallucinates plausible high-frequency details (textures, skin pores, fabric) consistent with image semantics\nC) It turns low-res images into cartoons\nD) It requires scanning a physical photograph\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nHow does Generative AI upscale blurry, low-res photos without smudging?\n\nA) Hallucinates sharp realistic texture priors\nB) Basic bilinear pixel stretching\nC) Increasing monitor brightness and contrast\nD) Applying heavy Gaussian blur to edges\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 48 / 100: Image Upscaling — (Day 48/100) Blurry Old Photo? AI Fixes It Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Image Upscaling with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 48 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 49",
@@ -1290,20 +1346,21 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 49 of 100 Days of Learning AI 👉 Stop Isolating Text and Vision: Fuse Multimodal Tokens! 💡\nTreating vision, audio, and text as separate models creates huge engineering friction. Omnimodal models process all tokens in a single transformer.\n\n🧠 KEY TAKEAWAYS:\n- Multimodal transformers tokenize image patches and audio spectrograms into joint space.\n- Enables simultaneous visual reasoning: 'Look at this diagram and write Python code.'\n- Reduces translation latency across complex multi-step pipelines.\n- Powers real-time video understanding, UI testing, and autonomous agent perception.\n\n🔄 Vision, sound, and text are just different dialects of the same universal token stream.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 49 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nDo you use AI vision features (uploading screenshots/diagrams) in your daily work? Drop 'DAILY' or 'RARELY' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #multimodalai #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, multimodal ai, multimodal ai explained, what is multimodal ai, vision language models, gpt 4o vs gemini vision, tokenizing images and text, multimodal architecture, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 49 Discussion: Gemini 1.5 Pro vs GPT-4o vision: Which handles complex technical diagrams better? Drop your test results below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 50 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep049_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep049.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep049_Cover.png",
       "poll": {
-        "question": "What makes Native Multimodal Transformers (e.g. Gemini 2.0 / GPT-4o) faster than legacy stacks?",
+        "question": "What makes native multimodal AI (like Gemini) smarter than tool-stitched apps?",
         "options": [
-          "They use two completely separate cloud servers",
-          "Early fusion of vision, audio, and text into a single unified token space without separate OCR/TTS bridges",
-          "They only process text prompts",
-          "They skip attention mechanisms completely"
+          "Early fusion: pixels, audio & text share one space",
+          "Chaining 5 separate external SaaS API calls",
+          "Running 3 separate models on different laptops",
+          "Converting all photos into plain text OCR first"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nWhat makes Native Multimodal Transformers (e.g. Gemini 2.0 / GPT-4o) faster than legacy stacks?\n\nA) They use two completely separate cloud servers\nB) Early fusion of vision, audio, and text into a single unified token space without separate OCR/TTS bridges\nC) They only process text prompts\nD) They skip attention mechanisms completely\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nWhat makes native multimodal AI (like Gemini) smarter than tool-stitched apps?\n\nA) Early fusion: pixels, audio & text share one space\nB) Chaining 5 separate external SaaS API calls\nC) Running 3 separate models on different laptops\nD) Converting all photos into plain text OCR first\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 50",
@@ -1315,20 +1372,21 @@ window.PUBLISHING_CATALOG = {
       "description": "Day 50 of 100 Days of Learning AI 👉 Stop Manual Photoshop Filters: Use Neural Style Transfer! 💡\nSpending 3 hours replicating an art style manually is obsolete. Neural style transfer separates content from texture and blends them instantly.\n\n🧠 KEY TAKEAWAYS:\n- Separates deep content representations from shallow stylistic gram matrices.\n- Applies the brushstrokes of Van Gogh or cyberpunk neon to any source photograph.\n- ControlNet and IP-Adapter allow zero-shot style injection into Stable Diffusion.\n- Maintains structural composition while completely transforming the artistic medium.\n\n🔄 Keep the soul of the subject; repaint the canvas with any artistic style.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to Day 50 of 100 Days of Learning AI (Sigma Byte series) with Sarav! Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n👇 TODAY'S QUESTION:\nHave you used IP-Adapter or ControlNet for style transfer? Drop 'YES' or 'NOT YET' below!\nDrop your thoughts in the comments below! 💬\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n📌 SAVE the '100 Days of Learning AI' playlist to never miss an episode.\n🌐 Explore projects & architecture: https://iamsaravofficial.com/ai\n───────────────\n\n#shorts #styletransfer #ai #artificialintelligence #promptengineering #aitools #learnai #sigmabyte #saravxai #100daysofai #machinelearning #techtips",
       "tags": "shorts, viral shorts, trending shorts, viral, trending, style transfer, style transfer explained, what is style transfer, neural style transfer, ip adapter tutorial, controlnet style transfer, stable diffusion style match, ai art transformation, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 50 Discussion: IP-Adapter vs ControlNet: What's the cleanest way to transfer reference styles without distorting faces? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 51 drops tomorrow at 6 PM! 🚀",
-      "cover_url": null,
-      "cover_filename": "Sarav_AI_Shorts_Ep050_Cover.jpg",
+      "cover_url": "assets/sarav_ai/cover_ep050.png",
+      "cover_filename": "Sarav_AI_Shorts_Ep050_Cover.png",
       "poll": {
-        "question": "What is 'Latent Separability' in Neural Style Transfer?",
+        "question": "How does Neural Style Transfer paint your photo in the exact style of Van Gogh?",
         "options": [
-          "Cutting an image in half with digital scissors",
-          "Disentangling artistic style (brushstrokes, palette) from semantic content (geometry, objects) in latent layers",
-          "Converting color photos to black-and-white",
-          "Applying an Instagram vintage filter"
+          "Separates content and style via CNN feature maps",
+          "Overlays a translucent 50% opacity photo filter",
+          "Converts all image pixels to black and white",
+          "Pastes the artist's signature onto your photo"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nWhat is 'Latent Separability' in Neural Style Transfer?\n\nA) Cutting an image in half with digital scissors\nB) Disentangling artistic style (brushstrokes, palette) from semantic content (geometry, objects) in latent layers\nC) Converting color photos to black-and-white\nD) Applying an Instagram vintage filter\n\n👉 Drop your explanation in the comments below!"
+        "correct_index": 0,
+        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nHow does Neural Style Transfer paint your photo in the exact style of Van Gogh?\n\nA) Separates content and style via CNN feature maps\nB) Overlays a translucent 50% opacity photo filter\nC) Converts all image pixels to black and white\nD) Pastes the artist's signature onto your photo\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 51",
@@ -1353,7 +1411,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 51/100\n\n🧠 AI Architecture Quiz: In 'AI Bias', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 52",
@@ -1378,7 +1437,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 52/100\n\n🧠 AI Architecture Quiz: In 'AI Alignment', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 53",
@@ -1403,7 +1463,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 53/100\n\n🧠 AI Architecture Quiz: In 'RLHF', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 53 / 100: RLHF — (Day 53/100) The Secret Training Step That Makes AI 'Nice.'\n\nDive into today's bite-sized AI architecture breakdown! We unpack RLHF with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 53 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 54",
@@ -1428,7 +1489,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 54/100\n\n🧠 AI Architecture Quiz: In 'Deepfakes', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 54 / 100: Deepfakes — (Day 54/100) Fake Videos That Look 100% Real. Here's the Danger\n\nDive into today's bite-sized AI architecture breakdown! We unpack Deepfakes with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 54 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 55",
@@ -1453,7 +1515,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 55/100\n\n🧠 AI Architecture Quiz: In 'AI Regulation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 55 / 100: AI Regulation — (Day 55/100) Governments Are Racing to Control AI. Here's Why\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Regulation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 55 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 56",
@@ -1478,7 +1541,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 56/100\n\n🧠 AI Architecture Quiz: In 'Explainable AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 56 / 100: Explainable AI — (Day 56/100) Why 'AI Said So' Isn't Good Enough Anymore\n\nDive into today's bite-sized AI architecture breakdown! We unpack Explainable AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 56 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 57",
@@ -1503,7 +1567,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 57/100\n\n🧠 AI Architecture Quiz: In 'AI Privacy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 57 / 100: AI Privacy — (Day 57/100) Is Your Data Training the Next AI Model?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Privacy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 57 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 58",
@@ -1528,7 +1593,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 58/100\n\n🧠 AI Architecture Quiz: In 'AI Watermarking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 58 / 100: AI Watermarking — (Day 58/100) How We'll Tell AI Content From Real Content\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Watermarking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 58 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 59",
@@ -1553,7 +1619,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 59/100\n\n🧠 AI Architecture Quiz: In 'Model Cards', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 59 / 100: Model Cards — (Day 59/100) The 'Nutrition Label' for AI Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Cards with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 59 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 60",
@@ -1578,7 +1645,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 60/100\n\n🧠 AI Architecture Quiz: In 'Responsible AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 60 / 100: Responsible AI — (Day 60/100) The Framework Every Company Building AI Needs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Responsible AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 60 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 61",
@@ -1603,7 +1671,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 61/100\n\n🧠 AI Architecture Quiz: In 'AI Copilots', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 61 / 100: AI Copilots — (Day 61/100) Why Every App Is Getting an AI Sidekick\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Copilots with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 61 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 62",
@@ -1628,7 +1697,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 62/100\n\n🧠 AI Architecture Quiz: In 'No Code AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 62 / 100: No Code AI — (Day 62/100) Build an AI App Without Writing Code\n\nDive into today's bite-sized AI architecture breakdown! We unpack No Code AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 62 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 63",
@@ -1653,7 +1723,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 63/100\n\n🧠 AI Architecture Quiz: In 'Enterprise AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 63 / 100: Enterprise AI — (Day 63/100) Why Big Companies Are Slower to Use AI Than You Think\n\nDive into today's bite-sized AI architecture breakdown! We unpack Enterprise AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 63 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 64",
@@ -1678,7 +1749,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 64/100\n\n🧠 AI Architecture Quiz: In 'AI Automation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 64 / 100: AI Automation — (Day 64/100) AI Doing Your Repetitive Tasks While You Sleep\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Automation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 64 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 65",
@@ -1703,7 +1775,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 65/100\n\n🧠 AI Architecture Quiz: In 'AI Customer Support', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 65 / 100: AI Customer Support — (Day 65/100) Why That Chat Support Might Be AI, Not Human\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Customer Support with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 65 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 66",
@@ -1728,7 +1801,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 66/100\n\n🧠 AI Architecture Quiz: In 'AI Code Assistants', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 66 / 100: AI Code Assistants — (Day 66/100) How AI Writes Half Your Code Now\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Code Assistants with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 66 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 67",
@@ -1753,7 +1827,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 67/100\n\n🧠 AI Architecture Quiz: In 'AI Governance', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 67 / 100: AI Governance — (Day 67/100) The Rulebook Companies Need Before Using AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Governance with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 67 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 68",
@@ -1778,7 +1853,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 68/100\n\n🧠 AI Architecture Quiz: In 'AI ROI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 68 / 100: AI ROI — (Day 68/100) How Companies Know If AI Is Actually Worth It\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI ROI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 68 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 69",
@@ -1803,7 +1879,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 69/100\n\n🧠 AI Architecture Quiz: In 'AI Change Management', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 69 / 100: AI Change Management — (Day 69/100) Why AI Rollouts Fail Even With Great Tech\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Change Management with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 69 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 70",
@@ -1828,7 +1905,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 70/100\n\n🧠 AI Architecture Quiz: In 'Vendor Lock-in', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 70 / 100: Vendor Lock-in — (Day 70/100) The Hidden Cost of Betting on One AI Provider\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vendor Lock-in with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 70 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 71",
@@ -1853,7 +1931,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 71/100\n\n🧠 AI Architecture Quiz: In 'Fine-tuning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 71 / 100: Fine-tuning — (Day 71/100) Teaching AI YOUR Specific Knowledge & Tone\n\nDive into today's bite-sized AI architecture breakdown! We unpack Fine-tuning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 71 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 72",
@@ -1878,7 +1957,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 72/100\n\n🧠 AI Architecture Quiz: In 'LoRA', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 72 / 100: LoRA — (Day 72/100) Train AI on a Laptop With 1% of the Weights: LoRA\n\nDive into today's bite-sized AI architecture breakdown! We unpack LoRA with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 72 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 73",
@@ -1903,7 +1983,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 73/100\n\n🧠 AI Architecture Quiz: In 'Quantization', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 73 / 100: Quantization — (Day 73/100) How to Shrink Giant AI Models to Phone Size: Quantization\n\nDive into today's bite-sized AI architecture breakdown! We unpack Quantization with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 73 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 74",
@@ -1928,7 +2009,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 74/100\n\n🧠 AI Architecture Quiz: In 'Mixture of Experts', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 74 / 100: Mixture of Experts — (Day 74/100) Why Modern AI Uses Multiple Mini-Brains: MoE\n\nDive into today's bite-sized AI architecture breakdown! We unpack Mixture of Experts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 74 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 75",
@@ -1953,7 +2035,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 75/100\n\n🧠 AI Architecture Quiz: In 'Knowledge Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 75 / 100: Knowledge Distillation — (Day 75/100) How Giant AI Models Teach Pocket SLMs: Distillation\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 75 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 76",
@@ -1978,7 +2061,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 76/100\n\n🧠 AI Architecture Quiz: In 'Scaling Laws', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 76 / 100: Scaling Laws — (Day 76/100) The Secret Equation That Predicts How Smart AI Gets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Scaling Laws with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 76 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 77",
@@ -2003,7 +2087,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 77/100\n\n🧠 AI Architecture Quiz: In 'Pretraining', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 77 / 100: Pretraining — (Day 77/100) The 2 Training Steps Every AI Goes Through\n\nDive into today's bite-sized AI architecture breakdown! We unpack Pretraining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 77 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 78",
@@ -2028,7 +2113,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 78/100\n\n🧠 AI Architecture Quiz: In 'Synthetic Data', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 78 / 100: Synthetic Data — (Day 78/100) Can AI Train AI Without Human Data? Synthetic Sets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Synthetic Data with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 78 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 79",
@@ -2053,7 +2139,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 79/100\n\n🧠 AI Architecture Quiz: In 'Model Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 79 / 100: Model Distillation — (Day 79/100) Cutting Token Bills by 90% With Distilled Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 79 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 80",
@@ -2078,7 +2165,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 80/100\n\n🧠 AI Architecture Quiz: In 'Sparse Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 80 / 100: Sparse Models — (Day 80/100) How Sparse Models Save Massive Computing Power\n\nDive into today's bite-sized AI architecture breakdown! We unpack Sparse Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 80 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 81",
@@ -2103,7 +2191,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 81/100\n\n🧠 AI Architecture Quiz: In 'AGI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 81 / 100: AGI — (Day 81/100) What Happens When AI Matches Human Intelligence?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AGI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 81 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 82",
@@ -2128,7 +2217,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 82/100\n\n🧠 AI Architecture Quiz: In 'Emergent Abilities', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 82 / 100: Emergent Abilities — (Day 82/100) AI Skills That Just... Appear Out of Nowhere\n\nDive into today's bite-sized AI architecture breakdown! We unpack Emergent Abilities with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 82 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 83",
@@ -2153,7 +2243,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 83/100\n\n🧠 AI Architecture Quiz: In 'Frontier Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 83 / 100: Frontier Models — (Day 83/100) The 'Latest and Greatest' AI You Keep Hearing About\n\nDive into today's bite-sized AI architecture breakdown! We unpack Frontier Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 83 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 84",
@@ -2178,7 +2269,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 84/100\n\n🧠 AI Architecture Quiz: In 'Open Source AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 84 / 100: Open Source AI — (Day 84/100) Should AI Models Be Free for Everyone to See?\n\nDive into today's bite-sized AI architecture breakdown! We unpack Open Source AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 84 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 85",
@@ -2203,7 +2295,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 85/100\n\n🧠 AI Architecture Quiz: In 'On-device AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 85 / 100: On-device AI — (Day 85/100) Why Your Phone Might Not Need the Internet for AI Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack On-device AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 85 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 86",
@@ -2228,7 +2321,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 86/100\n\n🧠 AI Architecture Quiz: In 'AI Agents Economy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 86 / 100: AI Agents Economy — (Day 86/100) Are AI Agents About to Get Their Own Jobs?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents Economy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 86 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 87",
@@ -2253,7 +2347,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 87/100\n\n🧠 AI Architecture Quiz: In 'Local LLMs', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 87 / 100: Local LLMs — (Day 87/100) Run a Full AI Model Without the Internet\n\nDive into today's bite-sized AI architecture breakdown! We unpack Local LLMs with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 87 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 88",
@@ -2278,7 +2373,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 88/100\n\n🧠 AI Architecture Quiz: In 'Context Caching', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 88 / 100: Context Caching — (Day 88/100) How AI Apps Got Cheaper AND Faster\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Caching with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 88 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 89",
@@ -2303,7 +2399,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 89/100\n\n🧠 AI Architecture Quiz: In 'MCP', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 89 / 100: MCP — (Day 89/100) Why Every AI Company Is Suddenly Adopting ONE Standard\n\nDive into today's bite-sized AI architecture breakdown! We unpack MCP with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 89 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 90",
@@ -2328,7 +2425,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 90/100\n\n🧠 AI Architecture Quiz: In 'AI Model Names', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 90 / 100: AI Model Names — (Day 90/100) Why AI Models Have Such Weird, Epic Names\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Model Names with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 90 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 91",
@@ -2353,7 +2451,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 91/100\n\n🧠 AI Architecture Quiz: In 'AI Skills', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 91 / 100: AI Skills — (Day 91/100) This Skill Could Be as Valuable as Coding Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Skills with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 91 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 92",
@@ -2378,7 +2477,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 92/100\n\n🧠 AI Architecture Quiz: In 'AI Note Taking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 92 / 100: AI Note Taking — (Day 92/100) Turn Messy Notes Into Organized Summaries Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Note Taking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 92 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 93",
@@ -2403,7 +2503,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 93/100\n\n🧠 AI Architecture Quiz: In 'AI Coding', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 93 / 100: AI Coding — (Day 93/100) Write Code 10x Faster With This Workflow\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Coding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 93 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 94",
@@ -2428,7 +2529,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 94/100\n\n🧠 AI Architecture Quiz: In 'AI Email', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 94 / 100: AI Email — (Day 94/100) Never Stare at a Blank Email Again\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Email with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 94 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 95",
@@ -2453,7 +2555,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 95/100\n\n🧠 AI Architecture Quiz: In 'AI Research', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 95 / 100: AI Research — (Day 95/100) Turn Hours of Research Into Minutes\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Research with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 95 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 96",
@@ -2478,7 +2581,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 96/100\n\n🧠 AI Architecture Quiz: In 'AI Data Analysis', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 96 / 100: AI Data Analysis — (Day 96/100) Ask Your Spreadsheet Questions in Plain English\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Data Analysis with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 96 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 97",
@@ -2503,7 +2607,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 97/100\n\n🧠 AI Architecture Quiz: In 'AI Presentations', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 97 / 100: AI Presentations — (Day 97/100) Turn a Rough Outline Into Full Slides\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Presentations with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 97 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 98",
@@ -2528,7 +2633,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 98/100\n\n🧠 AI Architecture Quiz: In 'AI Learning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 98 / 100: AI Learning — (Day 98/100) Your Personal Tutor Is Now Available 24/7\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 98 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 99",
@@ -2553,7 +2659,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 99/100\n\n🧠 AI Architecture Quiz: In 'AI Productivity', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 99 / 100: AI Productivity — (Day 99/100) 5 Tasks You're Still Doing Manually (Stop That)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Productivity with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 99 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     },
     {
       "day": "Day 100",
@@ -2578,7 +2685,8 @@ window.PUBLISHING_CATALOG = {
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 100/100\n\n🧠 AI Architecture Quiz: In 'AI Tools', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!"
       },
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "whatsapp_post": "Day 100 / 100: AI Tools — (Day 100/100) Stop Using ONE AI for Everything\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Tools with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 100 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
     }
   ],
   "the_loop": [
@@ -9476,6 +9584,118 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_050.jpg",
       "status": "QUEUED ⏳"
+    }
+  ],
+  "sarav_playlists": [
+    {
+      "id": "cluster_01",
+      "cluster_num": 1,
+      "cluster_title": "Cluster 1: LLM Fundamentals (Ep 01–10)",
+      "episodes_range": "Ep 01–10",
+      "title": "100 Days of Learning AI 👉 Cluster 1: LLM Fundamentals (Ep 01–10) | Sigma Byte",
+      "description": "Master LLM Fundamentals in 10 bite-sized high-IQ episodes! 💡\n\nStop treating AI like magic. In this 10-part series, Enterprise AI Architect Sarav breaks down the exact internal mechanics of LLMs — from how text turns into tokens and high-dimensional vectors to why models hallucinate and how to control output temperature.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 01: Tokens — Your AI Doesn't Read Words. It Reads THIS.\n• Day 02: Context Window — AI Has a Memory Limit. Here's How Big.\n• Day 03: Embeddings — AI Turns Words Into Numbers. Here's Why.\n• Day 04: Transformers — The One Invention Behind Every AI You Use.\n• Day 05: Attention Mechanism — Why AI Knows Which Words Matter Most.\n• Day 06: Temperature — This Setting Controls If AI Gets Creative or Boring.\n• Day 07: Zero-shot Learning — AI Can Do Tasks It Was NEVER Trained For.\n• Day 08: Few-Shot Prompting — Give AI 2-3 Examples. Watch It Learn Instantly.\n• Day 09: Chain of Thought — Ask AI to 'Think Step by Step.' It Actually Works.\n• Day 10: AI Hallucination — Why AI Confidently Lies to You Sometimes.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #llmfundamentals #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #llmfundamentals #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjW_cluster1"
+    },
+    {
+      "id": "cluster_02",
+      "cluster_num": 2,
+      "cluster_title": "Cluster 2: Prompt Engineering Mastery (Ep 11–20)",
+      "episodes_range": "Ep 11–20",
+      "title": "100 Days of Learning AI 👉 Cluster 2: Prompt Engineering Mastery (Ep 11–20) | Sigma Byte",
+      "description": "Master Prompt Engineering Mastery in 10 bite-sized high-IQ episodes! 💡\n\n99% of people prompt AI like an intern. In this masterclass cluster, discover how enterprise architects structure prompts for zero ambiguity, enforce valid JSON schemas for production APIs, and chain multi-step reasoning loops.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 11: System Prompts — The Hidden Instructions Behind Every AI Chat.\n• Day 12: Prompt Chaining — Stop Asking AI One Giant Question.\n• Day 13: Role Prompting — Tell AI 'You Are a Doctor' — Watch What Happens.\n• Day 14: Few-shot Prompting — Show, Don't Tell — AI's Favorite Learning Style.\n• Day 15: Negative Prompting — Tell AI What NOT to Do. It Changes Everything.\n• Day 16: Prompt Injection — The Security Flaw Hiding in AI Chatbots.\n• Day 17: Structured Output — Force AI to Reply in JSON. Here's How.\n• Day 18: Meta Prompting — Ask AI to Write Your Prompt For You.\n• Day 19: Iterative Prompting — The First AI Answer Is Never the Final One.\n• Day 20: Prompt Templates — Reuse This Prompt Structure Forever.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #promptengineeringmastery #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #promptengineeringmastery #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjW_cluster2"
+    },
+    {
+      "id": "cluster_03",
+      "cluster_num": 3,
+      "cluster_title": "Cluster 3: Production RAG & Vector Search (Ep 21–30)",
+      "episodes_range": "Ep 21–30",
+      "title": "100 Days of Learning AI 👉 Cluster 3: Production RAG & Vector Search (Ep 21–30) | Sigma Byte",
+      "description": "Master Production RAG & Vector Search in 10 bite-sized high-IQ episodes! 💡\n\nFeeding whole PDFs to AI is broken. This cluster reveals the complete production RAG (Retrieval-Augmented Generation) blueprint — how vector databases index meaning, how recursive chunking preserves context, and how hybrid search eliminates hallucinations.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 21: Vector Database — Where AI Actually Stores 'Memory.'\n• Day 22: Semantic Search — Search Engines That Understand MEANING, Not Just Words.\n• Day 23: RAG — How AI Answers Questions From YOUR Documents.\n• Day 24: Chunking — Feeding AI a Whole PDF? You're Doing It Wrong.\n• Day 25: Embeddings — How AI Measures If Two Ideas Are 'Close.'\n• Day 26: Reranking — AI's Second Opinion on Search Results.\n• Day 27: Knowledge Grounding — Why This Trick Stops AI From Making Things Up.\n• Day 28: Hybrid Search — Why the Best AI Search Uses TWO Methods.\n• Day 29: Context Injection — How Your Chatbot 'Remembers' Your Account Info.\n• Day 30: Retrieval Latency — Why Some AI Chatbots Feel Slow.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #productionragvectorsearch #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #productionragvectorsearch #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjW_cluster3"
+    },
+    {
+      "id": "cluster_04",
+      "cluster_num": 4,
+      "cluster_title": "Cluster 4: Agentic AI & Autonomous Systems (Ep 31–40)",
+      "episodes_range": "Ep 31–40",
+      "title": "100 Days of Learning AI 👉 Cluster 4: Agentic AI & Autonomous Systems (Ep 31–40) | Sigma Byte",
+      "description": "Master Agentic AI & Autonomous Systems in 10 bite-sized high-IQ episodes! 💡\n\nChatbots talk. AI Agents execute. Learn the 2026 systems architecture powering autonomous AI — from function calling and ReAct loops to orchestrating multi-agent squads and connecting models to any database via the Model Context Protocol (MCP).\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 31: AI Agents — AI That Doesn't Just Chat — It ACTS.\n• Day 32: Tool Use — How AI Uses Apps Just Like You Do.\n• Day 33: Multi-Agent Systems — Why One AI Agent Isn't Enough Anymore.\n• Day 34: Agent Memory — Why Some AI Agents Remember You Across Sessions.\n• Day 35: ReAct Framework — The Loop That Makes AI Agents Actually Smart.\n• Day 36: Agent Orchestration — Who's the 'Manager' When AI Agents Work Together?\n• Day 37: Autonomous Planning — AI That Breaks Down YOUR Goal Into Steps.\n• Day 38: Human in the Loop — Why the BEST AI Agents Still Ask Permission.\n• Day 39: Agent Guardrails — The Invisible Fence Keeping AI Agents in Check.\n• Day 40: MCP — The New Standard Letting AI Talk to ANY App.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #agenticaiautonomoussystems #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #agenticaiautonomoussystems #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjU"
+    },
+    {
+      "id": "cluster_05",
+      "cluster_num": 5,
+      "cluster_title": "Cluster 5: Multimodal & GenAI Creative (Ep 41–50)",
+      "episodes_range": "Ep 41–50",
+      "title": "100 Days of Learning AI 👉 Cluster 5: Multimodal & GenAI Creative (Ep 41–50) | Sigma Byte",
+      "description": "Master Multimodal AI & Generative Media in 10 bite-sized high-IQ episodes! 💡\n\nFrom typing eight words to generating museum-grade 4K art, photorealistic video, and studio vocal clones. In this cluster, Enterprise AI Architect Sarav demystifies the generative media revolution — from CLIP latent embeddings and diffusion denoising to neural vocoders, 3D facial blendshapes, and native multimodal models.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 41: Text to Image — Type a Sentence. Get a Full Image. How?\n• Day 42: Text to Video — AI Now Generates Full Videos From Text\n• Day 43: Text to Speech — How AI Voices Sound So Human Now\n• Day 44: Diffusion Models — The Math Trick Behind Every AI Image\n• Day 45: AI Avatars — This Video Host Isn't Real. Neither Am I (Almost)\n• Day 46: Voice Cloning — AI Can Copy ANY Voice From 30 Seconds of Audio\n• Day 47: AI Music — AI Just Composed a Full Song. From Text\n• Day 48: Image Upscaling — Blurry Old Photo? AI Fixes It Instantly\n• Day 49: Multimodal AI — AI That Sees, Hears, AND Reads at Once\n• Day 50: Style Transfer — Turn Any Photo Into a Painting Instantly\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #genai #multimodal #diffusion #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #genai #multimodal #diffusion #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": ""
+    },
+    {
+      "id": "cluster_06",
+      "cluster_num": 6,
+      "cluster_title": "Cluster 6: AI Safety & Ethics (Ep 51–60)",
+      "episodes_range": "Ep 51–60",
+      "title": "100 Days of Learning AI 👉 Cluster 6: AI Safety & Ethics (Ep 51–60) | Sigma Byte",
+      "description": "Master AI Safety, Ethics & Alignment in 10 bite-sized high-IQ episodes! 💡\n\nBuilding AI is powerful; controlling AI safely is critical. This cluster explores the guardrails of modern machine learning — from addressing algorithmic bias and Reinforcement Learning from Human Feedback (RLHF) to detecting deepfakes, auditing model cards, and navigating global AI regulation.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 51: AI Bias — Why AI Can Be Unfair Without Anyone Coding It That Way\n• Day 52: AI Alignment — Making Sure AI Actually Wants What WE Want\n• Day 53: RLHF — The Secret Training Step That Makes AI 'Nice'\n• Day 54: Deepfakes — Fake Videos That Look 100% Real. Here's the Danger\n• Day 55: AI Regulation — Governments Are Racing to Control AI. Here's Why\n• Day 56: Explainable AI — Why 'AI Said So' Isn't Good Enough Anymore\n• Day 57: AI Privacy — Is Your Data Training the Next AI Model?\n• Day 58: AI Watermarking — How We'll Tell AI Content From Real Content\n• Day 59: Model Cards — The 'Nutrition Label' for AI Models\n• Day 60: Responsible AI — The Framework Every Company Building AI Needs\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #aisafety #rlhf #responsibleai #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #aisafety #rlhf #responsibleai #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": ""
+    },
+    {
+      "id": "cluster_07",
+      "cluster_num": 7,
+      "cluster_title": "Cluster 7: Enterprise AI & Tools (Ep 61–70)",
+      "episodes_range": "Ep 61–70",
+      "title": "100 Days of Learning AI 👉 Cluster 7: Enterprise AI & Tools (Ep 61–70) | Sigma Byte",
+      "description": "Master Enterprise AI & Digital Workplace Automation in 10 bite-sized high-IQ episodes! 💡\n\nWhy do 80% of enterprise AI pilots fail? In this cluster, Enterprise AI Architect Sarav unpacks how real companies deploy AI at scale — from AI coding copilots and autonomous background workflows to calculating true AI ROI, mitigating vendor lock-in, and mastering change management.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 61: AI Copilots — Why Every App Is Getting an AI Sidekick\n• Day 62: No Code AI — Build an AI App Without Writing Code\n• Day 63: Enterprise AI — Why Big Companies Are Slower to Use AI Than You Think\n• Day 64: AI Automation — AI Doing Your Repetitive Tasks While You Sleep\n• Day 65: AI Customer Support — Why That Chat Support Might Be AI, Not Human\n• Day 66: AI Code Assistants — How AI Writes Half Your Code Now\n• Day 67: AI Governance — The Rulebook Companies Need Before Using AI\n• Day 68: AI ROI — How Companies Know If AI Is Actually Worth It\n• Day 69: AI Change Management — Why AI Rollouts Fail Even With Great Tech\n• Day 70: Vendor Lock-in — The Hidden Cost of Betting on One AI Provider\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #enterpriseai #aicopilot #automation #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #enterpriseai #aicopilot #automation #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": ""
+    },
+    {
+      "id": "cluster_08",
+      "cluster_num": 8,
+      "cluster_title": "Cluster 8: Model Architecture & Training (Ep 71–80)",
+      "episodes_range": "Ep 71–80",
+      "title": "100 Days of Learning AI 👉 Cluster 8: Model Architecture & Training (Ep 71–80) | Sigma Byte",
+      "description": "Master Model Architecture & High-Performance Training in 10 bite-sized high-IQ episodes! 💡\n\nStep behind the API curtain and discover how state-of-the-art models are trained and compressed. Explore LoRA fine-tuning on a consumer laptop, 4-bit quantization, Mixture of Experts (MoE) routing, knowledge distillation, and synthetic data flywheels.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 71: Fine-tuning — Teaching AI YOUR Specific Knowledge & Tone\n• Day 72: LoRA — Train AI on a Laptop With 1% of the Weights: LoRA\n• Day 73: Quantization — How to Shrink Giant AI Models to Phone Size\n• Day 74: Mixture of Experts — Why Modern AI Uses Multiple Mini-Brains: MoE\n• Day 75: Knowledge Distillation — How Giant AI Models Teach Pocket SLMs\n• Day 76: Scaling Laws — The Secret Equation That Predicts How Smart AI Gets\n• Day 77: Pretraining — The 2 Training Steps Every AI Goes Through\n• Day 78: Synthetic Data — Can AI Train AI Without Human Data? Synthetic Sets\n• Day 79: Model Distillation — Cutting Token Bills by 90% With Distilled Models\n• Day 80: Sparse Models — How Sparse Models Save Massive Computing Power\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #lora #quantization #moe #machinelearning #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #lora #quantization #moe #machinelearning #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": ""
+    },
+    {
+      "id": "cluster_09",
+      "cluster_num": 9,
+      "cluster_title": "Cluster 9: AI Trends & Buzzwords (Ep 81–90)",
+      "episodes_range": "Ep 81–90",
+      "title": "100 Days of Learning AI 👉 Cluster 9: AI Trends & Buzzwords (Ep 81–90) | Sigma Byte",
+      "description": "Master AI Trends, Frontier Systems & Token Economics in 10 bite-sized high-IQ episodes! 💡\n\nCut through the industry hype and understand the real engineering defining frontier AI. From Artificial General Intelligence (AGI) timelines and emergent abilities to on-device edge execution, prompt caching tokenomics, and universal agent standards.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 81: AGI — What Happens When AI Matches Human Intelligence?\n• Day 82: Emergent Abilities — AI Skills That Just... Appear Out of Nowhere\n• Day 83: Frontier Models — The 'Latest and Greatest' AI You Keep Hearing About\n• Day 84: Open Source AI — Should AI Models Be Free for Everyone to See?\n• Day 85: On-device AI — Why Your Phone Might Not Need the Internet for AI Soon\n• Day 86: AI Agents Economy — Are AI Agents About to Get Their Own Jobs?\n• Day 87: Local LLMs — Run a Full AI Model Without the Internet\n• Day 88: Context Caching — How AI Apps Got Cheaper AND Faster\n• Day 89: MCP — Why Every AI Company Is Suddenly Adopting ONE Standard\n• Day 90: AI Model Names — Why AI Models Have Such Weird, Epic Names\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #agi #localai #tokenomics #mcp #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #agi #localai #tokenomics #mcp #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": ""
+    },
+    {
+      "id": "cluster_10",
+      "cluster_num": 10,
+      "cluster_title": "Cluster 10: Practical AI Skills (Ep 91–100)",
+      "episodes_range": "Ep 91–100",
+      "title": "100 Days of Learning AI 👉 Cluster 10: Practical AI Skills (Ep 91–100) | Sigma Byte",
+      "description": "Master Practical 10x AI Workflows in 10 bite-sized high-IQ episodes! 💡\n\nThe grand finale of the 100-Day Curriculum. Transition from conceptual understanding to raw daily productivity superpowers. Learn how to use AI for high-velocity research, automated coding, dynamic spreadsheet analysis, automated email triage, and accelerated self-learning.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 91: AI Skills — This Skill Could Be as Valuable as Coding Soon\n• Day 92: AI Note Taking — Turn Messy Notes Into Organized Summaries Instantly\n• Day 93: AI Coding — Write Code 10x Faster With This Workflow\n• Day 94: AI Email — Never Stare at a Blank Email Again\n• Day 95: AI Research — Turn Hours of Research Into Minutes\n• Day 96: AI Data Analysis — Ask Your Spreadsheet Questions in Plain English\n• Day 97: AI Presentations — Turn a Rough Outline Into Full Slides\n• Day 98: AI Learning — Your Personal Tutor Is Now Available 24/7\n• Day 99: AI Productivity — 5 Tasks You're Still Doing Manually (Stop That)\n• Day 100: AI Tools — Stop Using ONE AI for Everything\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #aiproductivity #aicoding #10xengineer #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #aiproductivity #aicoding #10xengineer #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": ""
+    },
+    {
+      "id": "master_umbrella",
+      "cluster_num": 0,
+      "cluster_title": "Master Series: Complete 100-Day Curriculum",
+      "episodes_range": "Ep 01–100",
+      "title": "100 Days of Learning AI | Complete Curriculum (Episodes 01–100) — Sarav × AI",
+      "description": "The complete 100-Day roadmap to mastering Artificial Intelligence from the ground up! 🚀\n\nHosted by Enterprise AI Architect Sarav (@iamsaravofficial), this 100-video curriculum demystifies foundational LLM mechanics, advanced prompt engineering, production RAG & vector databases, multi-agent swarms, model fine-tuning, and modern agentic architectures.\n\n📚 CURRICULUM CLUSTERS:\n• Cluster 1 (Days 01–10): LLM Fundamentals & Neural Mechanics\n• Cluster 2 (Days 11–20): Prompt Engineering & Context Windows\n• Cluster 3 (Days 21–30): Production RAG & Vector Search\n• Cluster 4 (Days 31–40): Agentic AI & Autonomous Systems\n• Cluster 5 (Days 41–50): Multimodal AI & Generative Media\n• Cluster 6 (Days 51–60): AI Safety, Ethics & Alignment\n• Cluster 7 (Days 61–70): Enterprise AI & Copilots\n• Cluster 8 (Days 71–80): Model Architectures, Quantization & MoE\n• Cluster 9 (Days 81–90): AI Trends, Frontier Models & Tokenomics\n• Cluster 10 (Days 91–100): Practical AI Skills & 10x Workflows\n\n───────────────\n🔔 SUBSCRIBE to @iamsaravofficial & bookmark this playlist to never miss a daily byte!\n🌐 Architecture Blueprints, Code & 1-on-1 Advisory: https://iamsaravofficial.com\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #machinelearning #promptengineering #rag #agenticai #sigmabyte #saravxai #100daysofai",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #machinelearning #promptengineering #rag #agenticai #sigmabyte #saravxai #100daysofai",
+      "playlist_url": ""
     }
   ]
 };

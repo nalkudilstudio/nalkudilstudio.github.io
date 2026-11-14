@@ -7893,7 +7893,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_14_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_14.jpg",
       "slide2_filename": "SidIsha_Day_14_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DftYOaXjdzG/",
       "slide1_alt": "Digital romantic painting illustration for Day 14: 'The Junior’s Query'. A sunny school verandah with white colonial pillars and arched brick corridors. A pretty Indian schoolgirl leaning against a pillar with arms crossed, playfully pouting with feigned jealousy. A han... Overlay banner at top reads: 'Flattery won't save you, Sid.' with Nalkudil Studio signature watermark.",
       "slide2_alt": "Luxury 4:5 editorial story card for Day 14: 'The Junior’s Query'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },

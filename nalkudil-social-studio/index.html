@@ -1620,6 +1620,8 @@
                 <button class="btn-copy cyan" onclick="copyCardField('sid_isha', ${day}, 'caption', this)">📖 Copy Full Caption</button>
                 <button class="btn-copy" onclick="copyCardField('sid_isha', ${day}, 'hashtags', this)">🏷️ Copy Hashtags (5)</button>
                 <button class="btn-copy" onclick="copyCardField('sid_isha', ${day}, 'punchline', this)">💬 Copy Punchline</button>
+                <button class="btn-copy" onclick="copyCardField('sid_isha', ${day}, 'slide1_alt', this)">♿ Copy Slide 1 Alt</button>
+                <button class="btn-copy" onclick="copyCardField('sid_isha', ${day}, 'slide2_alt', this)">♿ Copy Slide 2 Alt</button>
               </div>
 
               <details class="field-drawer" open>
@@ -1628,6 +1630,17 @@
                   <span>▾</span>
                 </summary>
                 <div class="field-drawer-body">${escapeHtml(item.caption)}</div>
+              </details>
+
+              <details class="field-drawer">
+                <summary>
+                  <span>♿ Accessibility &amp; Alt Text Preview</span>
+                  <span>▾</span>
+                </summary>
+                <div class="field-drawer-body" style="font-size: 12.5px; line-height: 1.6;">
+                  <div style="margin-bottom: 8px;"><strong>Slide 1 Alt (Art):</strong><br>${escapeHtml(item.slide1_alt || '')}</div>
+                  <div><strong>Slide 2 Alt (Story):</strong><br>${escapeHtml(item.slide2_alt || '')}</div>
+                </div>
               </details>
             </div>
           </div>
@@ -1907,8 +1920,16 @@ ${item.description}`;
           text = item.punchline || '';
           label = 'Punchline';
           break;
+        case 'slide1_alt':
+          text = item.slide1_alt || '';
+          label = 'Slide 1 Alt Text';
+          break;
+        case 'slide2_alt':
+          text = item.slide2_alt || '';
+          label = 'Slide 2 Alt Text';
+          break;
         case 'alt_text':
-          text = item.alt_text || '';
+          text = item.alt_text || item.slide1_alt || '';
           label = 'Alt Text';
           break;
         case 'comic_full_packet':

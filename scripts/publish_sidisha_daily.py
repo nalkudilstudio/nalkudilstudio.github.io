@@ -83,13 +83,15 @@ def get_target_item(catalog_data):
             
     raise ValueError(f"No pending episode found in catalog for date {today_ist}.")
 
-def create_container_item(ig_id, token, image_url):
+def create_container_item(ig_id, token, image_url, alt_text=None):
     url = f"https://graph.facebook.com/v20.0/{ig_id}/media"
     payload = {
         "image_url": image_url,
         "is_carousel_item": "true",
         "access_token": token
     }
+    if alt_text:
+        payload["alt_text"] = alt_text
     data = urllib.parse.urlencode(payload).encode("utf-8")
     req = urllib.request.Request(url, data=data)
     with urllib.request.urlopen(req, timeout=30) as resp:
@@ -226,18 +228,24 @@ def main():
 
     slide1_cdn = f"https://nalkudilstudio.github.io/nalkudil-social-studio/assets/sid_isha/slide1/day_{day_num:02d}.jpg"
     slide2_cdn = f"https://nalkudilstudio.github.io/nalkudil-social-studio/assets/sid_isha/slide2/day_{day_num:02d}.jpg"
+    slide1_alt = item.get("slide1_alt")
+    slide2_alt = item.get("slide2_alt")
 
     print(f"[*] Publishing Day {day_num}: '{title}'")
     print(f"    Slide 1: {slide1_cdn}")
     print(f"    Slide 2: {slide2_cdn}")
+    if slide1_alt:
+        print(f"    Slide 1 Alt: {slide1_alt[:55]}...")
+    if slide2_alt:
+        print(f"    Slide 2 Alt: {slide2_alt[:55]}...")
 
     try:
-        print("[*] Creating Slide 1 container...")
-        c1 = create_container_item(INSTAGRAM_BUSINESS_ID, META_ACCESS_TOKEN, slide1_cdn)
+        print("[*] Creating Slide 1 container (with Alt Text)...")
+        c1 = create_container_item(INSTAGRAM_BUSINESS_ID, META_ACCESS_TOKEN, slide1_cdn, alt_text=slide1_alt)
         print(f"    Container 1: {c1}")
 
-        print("[*] Creating Slide 2 container...")
-        c2 = create_container_item(INSTAGRAM_BUSINESS_ID, META_ACCESS_TOKEN, slide2_cdn)
+        print("[*] Creating Slide 2 container (with Alt Text)...")
+        c2 = create_container_item(INSTAGRAM_BUSINESS_ID, META_ACCESS_TOKEN, slide2_cdn, alt_text=slide2_alt)
         print(f"    Container 2: {c2}")
 
         print("[*] Creating Carousel container...")

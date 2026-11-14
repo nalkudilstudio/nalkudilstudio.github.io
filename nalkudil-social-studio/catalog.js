@@ -7673,7 +7673,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_01.jpg",
       "slide2_filename": "SidIsha_Day_01_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfL5Rd7n68z/"
+      "instagram_url": "https://www.instagram.com/p/DfL5Rd7n68z/",
+      "slide1_alt": "Digital romantic painting illustration for Day 01: 'The Chalkboard Sentence'. Cinematic 90s Indian classroom nostalgia, morning sunlight streaming through wooden louvre windows, dust motes floating in sunbeams. A charming teenage Indian high school boy standing by an old gre... Overlay banner at top reads: 'The entire classroom laughed.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 01: 'The Chalkboard Sentence'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 2,
@@ -7688,7 +7690,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_02.jpg",
       "slide2_filename": "SidIsha_Day_02_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfOeE25n-uf/"
+      "instagram_url": "https://www.instagram.com/p/DfOeE25n-uf/",
+      "slide1_alt": "Digital romantic painting illustration for Day 02: 'The Chemistry & The Rain'. Two teenage Indian students pushing vintage bicycles along a quiet rain-drenched tree-lined road in India. Sudden monsoon drizzle catching the golden afternoon light. Raindrops sparkling on bicycle... Overlay banner at top reads: 'You turned me on.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 02: 'The Chemistry & The Rain'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 3,
@@ -7703,7 +7707,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_03.jpg",
       "slide2_filename": "SidIsha_Day_03_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfRAYyrHzh3/"
+      "instagram_url": "https://www.instagram.com/p/DfRAYyrHzh3/",
+      "slide1_alt": "Digital romantic painting illustration for Day 03: 'Deliciously Dangerous'. Intimate cinematic close-up of a teenage Indian boy and girl standing under a sheltering banyan tree beside their parked bicycles during twilight rain. Droplets dripping from lush green leaves. Sof... Overlay banner at top reads: 'Deliciously dangerous.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 03: 'Deliciously Dangerous'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 4,
@@ -7718,7 +7724,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_04.jpg",
       "slide2_filename": "SidIsha_Day_04_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfUNdLIn41t/"
+      "instagram_url": "https://www.instagram.com/p/DfUNdLIn41t/",
+      "slide1_alt": "Digital romantic painting illustration for Day 04: 'Midnight Whispers'. A dimly lit bedroom at midnight, an Indian teenage boy lying on his bed smiling warmly at the blue-white glow of a mobile phone screen. An open sketchbook with charcoal pencils beside him on the bl... Overlay banner at top reads: 'Love was simply Us.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 04: 'Midnight Whispers'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 5,
@@ -7733,7 +7741,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_05.jpg",
       "slide2_filename": "SidIsha_Day_05_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfWzJuYn-vQ/"
+      "instagram_url": "https://www.instagram.com/p/DfWzJuYn-vQ/",
+      "slide1_alt": "Digital romantic painting illustration for Day 05: 'The Envelope at the Cycle Stand'. Indian high school cycle parking shed bathed in crisp morning golden hour sunlight. Long rows of metal bicycles. A teenage Indian boy secretly passing a folded kraft paper envelope into the hand of... Overlay banner at top reads: 'You ruled my dreams.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 05: 'The Envelope at the Cycle Stand'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 6,
@@ -7748,7 +7758,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_06.jpg",
       "slide2_filename": "SidIsha_Day_06_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfZryrLH0Ei/"
+      "instagram_url": "https://www.instagram.com/p/DfZryrLH0Ei/",
+      "slide1_alt": "Digital romantic painting illustration for Day 06: 'The Darkroom Secret'. Inside a darkened, deserted vintage Indian classroom with closed wooden blinds. A luminous sketch glowing with soft phosphorescent neon green-blue paint held by a teenage Indian girl, illuminating ... Overlay banner at top reads: 'Always here to protect my queen.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 06: 'The Darkroom Secret'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 7,
@@ -7763,7 +7775,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_07.jpg",
       "slide2_filename": "SidIsha_Day_07_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfbReESny3i/"
+      "instagram_url": "https://www.instagram.com/p/DfbReESny3i/",
+      "slide1_alt": "Digital romantic painting illustration for Day 07: 'The Lingering Glow'. Tender romantic moment inside an old school room behind an open wooden door. A teenage Indian boy and girl hiding closely together, holding hands with fingers tightly intertwined. Moonlight and hal... Overlay banner at top reads: 'You really are my safest place.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 07: 'The Lingering Glow'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 8,
@@ -7778,7 +7792,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_08.jpg",
       "slide2_filename": "SidIsha_Day_08_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfdzjZXn0Fx/"
+      "instagram_url": "https://www.instagram.com/p/DfdzjZXn0Fx/",
+      "slide1_alt": "Digital romantic painting illustration for Day 08: 'The Crimson Thread'. Macro close-up shot of delicate teenage hands: a girl tying a sacred slender crimson cotton thread around a boy's thumb. Soft morning school light filtering onto their wrists. Golden dust, authenti... Overlay banner at top reads: 'My universe is standing right in front of me.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 08: 'The Crimson Thread'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 9,
@@ -7793,7 +7809,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_09.jpg",
       "slide2_filename": "SidIsha_Day_09_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfhTEi-nywn/"
+      "instagram_url": "https://www.instagram.com/p/DfhTEi-nywn/",
+      "slide1_alt": "Digital romantic painting illustration for Day 09: 'Half a Song, Whole World'. A teenage Indian couple sitting together on a worn stone bench beneath a majestic ancient banyan tree in a public park at sunset. Sharing a pair of vintage white wired earphones connected to a smal... Overlay banner at top reads: 'With half a song each, our universe was whole.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 09: 'Half a Song, Whole World'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 10,
@@ -7808,7 +7826,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_10.jpg",
       "slide2_filename": "SidIsha_Day_10_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/Dfkne_zkiQ4/"
+      "instagram_url": "https://www.instagram.com/p/Dfkne_zkiQ4/",
+      "slide1_alt": "Digital romantic painting illustration for Day 10: 'Parallel Pedals'. Wide angle dynamic shot of a young Indian boy and girl cycling parallel side-by-side down an open country road towards an epic golden sunset. Long cast shadows stretching behind them. The girl's co... Overlay banner at top reads: 'The joy was staying parallel, riding alongside.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 10: 'Parallel Pedals'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 11,
@@ -7823,7 +7843,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_11.jpg",
       "slide2_filename": "SidIsha_Day_11_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/Dfmfq1-mhKx/"
+      "instagram_url": "https://www.instagram.com/p/Dfmfq1-mhKx/",
+      "slide1_alt": "Digital romantic painting illustration for Day 11: 'The Leap'. Playful and spontaneous moment under a rustic stone railway arch bridge. Two bicycles resting tossed in green meadow grass. An Indian teenage boy and girl lying together in wild clover, laughing br... Overlay banner at top reads: 'Only the mad get to fly.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 11: 'The Leap'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 12,
@@ -7838,7 +7860,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_12.jpg",
       "slide2_filename": "SidIsha_Day_12_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfpIqp2lEwA/"
+      "instagram_url": "https://www.instagram.com/p/DfpIqp2lEwA/",
+      "slide1_alt": "A warm, nostalgic photograph inside a school library showing a teenage girl in a school uniform with braided hair tied in red ribbons, smiling shyly from behind a stack of thick open textbooks, including one titled \"PHYSICS: Principles & Problems\". A text overlay at the top reads \"With you, my entire world finds perfect order.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Margin Notes\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha sliding her physics textbook across a scarred wooden library table to Sid during study hour, trading handwritten margin notes about the second law of thermodynamics and entropy. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 13,
@@ -7853,7 +7877,9 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_13.jpg",
       "slide2_filename": "SidIsha_Day_13_Slide2_Story.jpg",
       "status": "PUBLISHED",
-      "instagram_url": "https://www.instagram.com/p/DfrpIQEl5cU/"
+      "instagram_url": "https://www.instagram.com/p/DfrpIQEl5cU/",
+      "slide1_alt": "Digital romantic painting illustration for Day 13: 'Half a Cup of Chai'. Atmospheric roadside Indian tea stall (chai tapri) in the cool late afternoon. Steam rising from a traditional cutting chai glass tumbler held between two young hands. Boiling kettle and crushed gi... Overlay banner at top reads: 'One chai. Shared warmth.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 13: 'Half a Cup of Chai'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 14,
@@ -7867,7 +7893,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_14_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_14.jpg",
       "slide2_filename": "SidIsha_Day_14_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 14: 'The Junior’s Query'. A sunny school verandah with white colonial pillars and arched brick corridors. A pretty Indian schoolgirl leaning against a pillar with arms crossed, playfully pouting with feigned jealousy. A han... Overlay banner at top reads: 'Flattery won't save you, Sid.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 14: 'The Junior’s Query'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 15,
@@ -7881,7 +7909,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_15_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_15.jpg",
       "slide2_filename": "SidIsha_Day_15_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 15: 'The Sweet Apology'. A warm golden street scene near an old iron school gate at dusk. A boy holding open a rustic brown paper parcel revealing glistening, spiral orange hot jalebis dripping with sugar syrup. A girl smi... Overlay banner at top reads: 'An offering to appease the queen.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 15: 'The Sweet Apology'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 16,
@@ -7895,7 +7925,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_16_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_16.jpg",
       "slide2_filename": "SidIsha_Day_16_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 16: 'The Rooftop Vow'. Panoramic rooftop view of an Indian small town at deep purple and orange twilight. A teenage boy and girl sitting side-by-side on a concrete rooftop ledge overlooking twinkling city lights below. C... Overlay banner at top reads: 'Wherever you go, home follows.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 16: 'The Rooftop Vow'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 17,
@@ -7909,7 +7941,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_17_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_17.jpg",
       "slide2_filename": "SidIsha_Day_17_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 17: 'The Countdown'. A crowded high school classroom during rigorous exam season. Wooden desks stacked high with thick calculus guidebooks and lined paper. A folded paper chit being discreetly passed between two studen... Overlay banner at top reads: 'Formula: lim(x→∞) of my love = infinite.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 17: 'The Countdown'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 18,
@@ -7923,7 +7957,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_18_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_18.jpg",
       "slide2_filename": "SidIsha_Day_18_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 18: 'Two A.M. Frequencies'. Split screen or dual mood composition of late-night study romance: on one side, an Indian boy lying in bed with an open physics textbook under a yellow desk lamp, holding an old-school telephone re... Overlay banner at top reads: 'Everything in my universe tumbles toward you.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 18: 'Two A.M. Frequencies'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 19,
@@ -7937,7 +7973,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_19_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_19.jpg",
       "slide2_filename": "SidIsha_Day_19_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 19: 'Five Marks and a Glow'. An empty afternoon classroom after exams. An Indian schoolgirl sitting at a desk with tears streaming down her face, comforted by a compassionate schoolboy gently cupping her cheeks and wiping away... Overlay banner at top reads: 'You still outshine the entire school.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 19: 'Five Marks and a Glow'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 20,
@@ -7951,7 +7989,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_20_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_20.jpg",
       "slide2_filename": "SidIsha_Day_20_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 20: 'Into the Sunlight'. Two Indian high school students walking out of historic school arched gateway into bright radiant summer sunshine. Students cheering and tossing exam papers in background. The boy and girl walking ... Overlay banner at top reads: 'We conquered. Two hearts into the unfolding future.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 20: 'Into the Sunlight'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 21,
@@ -7965,7 +8005,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_21_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_21.jpg",
       "slide2_filename": "SidIsha_Day_21_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 21: 'Ink on Cotton'. School uniform shirt signing day in an Indian school courtyard. A beautiful Indian girl with moist emotional eyes writing with a black permanent marker directly over a boy's white school shirt ches... Overlay banner at top reads: 'Property of Isha. Forever non-negotiable.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 21: 'Ink on Cotton'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 22,
@@ -7979,7 +8021,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_22_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_22.jpg",
       "slide2_filename": "SidIsha_Day_22_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 22: 'Different Envelopes'. Two official university admission letters resting on a weathered stone terrace parapet at dusk, fluttering in the wind. A boy and girl's hands clasped together tightly between the papers, silhouett... Overlay banner at top reads: 'The skies are different. The gravity stays the same.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 22: 'Different Envelopes'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 23,
@@ -7993,7 +8037,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_23_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_23.jpg",
       "slide2_filename": "SidIsha_Day_23_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 23: 'Terminal Goodbyes'. Emotional airport departure terminal goodbye. Modern airport glass architecture, travelers bustling in background. An Indian young man and woman sharing an agonizingly tender embrace near security ... Overlay banner at top reads: 'Every frequency in my mind is tuned to you.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 23: 'Terminal Goodbyes'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 24,
@@ -8007,7 +8053,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_24_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_24.jpg",
       "slide2_filename": "SidIsha_Day_24_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 24: 'The Cut Wire'. Vintage yellow metal coin-box payphone on a peeling hostel hallway wall. Dim yellow bulb buzzing overhead. A distraught young Indian college freshman boy holding the black telephone receiver with h... Overlay banner at top reads: 'The silence felt absolute.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 24: 'The Cut Wire'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 25,
@@ -8021,7 +8069,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_25_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_25.jpg",
       "slide2_filename": "SidIsha_Day_25_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 25: 'Across Hemispheres'. Dual contrasting atmosphere: An Indian girl standing bundled in a warm winter woolen coat on a snowy European Munich bridge watching snow falling softly over historic German spires, while clutching... Overlay banner at top reads: 'Distant horizons, zero contact—yet never so alone.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 25: 'Across Hemispheres'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 26,
@@ -8035,7 +8085,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_26_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_26.jpg",
       "slide2_filename": "SidIsha_Day_26_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 26: 'Lines of Code'. Modern IT software engineer at his corporate glass office desk late at night. Dual computer monitors displaying glowing syntax code and an email with an official European onsite relocation letter: ... Overlay banner at top reads: 'Fate, after seven silent years, quietly cracked its knuckles.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 26: 'Lines of Code'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 27,
@@ -8049,7 +8101,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_27_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_27.jpg",
       "slide2_filename": "SidIsha_Day_27_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 27: 'The Bavarian Crowd'. Epic Oktoberfest festival beer tent in Munich (Paulaner tent). Festive warm glowing fairy lights, traditional wooden rafters, crowded tables with singing festival-goers in Bavarian attire clinking ... Overlay banner at top reads: 'Across twenty feet of strangers, her eyes snapped to his.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 27: 'The Bavarian Crowd'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 28,
@@ -8063,7 +8117,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_28_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_28.jpg",
       "slide2_filename": "SidIsha_Day_28_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 28: 'Warm Coffee, Cold Morning'. Crisp autumn morning in Munich outside the futuristic glass architecture of BMW Welt and Olympiapark. Golden yellow and crimson maple leaves blanketing the ground. An adult Indian couple walking cl... Overlay banner at top reads: 'Seven years vanished in seven seconds.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 28: 'Warm Coffee, Cold Morning'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 29,
@@ -8077,7 +8133,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_29_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_29.jpg",
       "slide2_filename": "SidIsha_Day_29_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 29: 'Only Yours'. High emotion intimate drama inside a modern penthouse apartment overlooking a rain-swept European city skyline at dusk. A beautiful Indian woman passionately grabbing the lapels of a handsome India... Overlay banner at top reads: 'I’m still your glowing queen. Only yours.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 29: 'Only Yours'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },
     {
       "day": 30,
@@ -8091,7 +8149,9 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_30_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_30.jpg",
       "slide2_filename": "SidIsha_Day_30_Slide2_Story.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "slide1_alt": "Digital romantic painting illustration for Day 30: 'Home Was You'. Grand traditional South Indian Hindu temple wedding ceremony. Sacred agni holy fire glowing brightly. The bride in magnificent crimson Kanjeevaram silk saree adorned with gold temple jewelry and ja... Overlay banner at top reads: 'You were never just a place. Home was always you.' with Nalkudil Studio signature watermark.",
+      "slide2_alt": "Luxury 4:5 editorial story card for Day 30: 'Home Was You'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     }
   ],
   "inkling_ig": [

@@ -7910,7 +7910,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_15_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_15.jpg",
       "slide2_filename": "SidIsha_Day_15_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Dfv9CpvD_ki/",
       "slide1_alt": "Digital romantic painting illustration for Day 15: 'The Sweet Apology'. A warm golden street scene near an old iron school gate at dusk. A boy holding open a rustic brown paper parcel revealing glistening, spiral orange hot jalebis dripping with sugar syrup. A girl smi... Overlay banner at top reads: 'An offering to appease the queen.' with Nalkudil Studio signature watermark.",
       "slide2_alt": "Luxury 4:5 editorial story card for Day 15: 'The Sweet Apology'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
     },

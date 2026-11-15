@@ -955,7 +955,7 @@
       </button>
       <button class="nav-tab-btn" onclick="switchSuite('sarav_playlists', this)">
         <span>📺 Playlists Hub</span>
-        <span class="tab-count" id="count-playlists">11</span>
+        <span class="tab-count" id="count-playlists">19</span>
       </button>
     </div>
   </nav>
@@ -1152,9 +1152,10 @@
         );
       } else if (currentSuite === 'sarav_playlists') {
         chips.push(
-          { id: 'clusters', label: 'All 10 Clusters' },
-          { id: 'c5to10', label: 'Clusters 5–10 (New)' },
-          { id: 'master', label: 'Master Umbrella' }
+          { id: '100days', label: '⚡ 100 Days Clusters (11)' },
+          { id: 'techradar', label: '📡 Tech Radar (1)' },
+          { id: 'karma', label: '⚖️ Karma Court (1)' },
+          { id: 'inkling', label: '🔁 Inkling Tales (6)' }
         );
       } else if (currentSuite === 'the_loop') {
         chips.push(
@@ -1235,9 +1236,10 @@
           if (currentFilter === 'c5' && !(ep >= 41 && ep <= 50)) return false;
           if (currentFilter === 'upcoming' && !(ep >= 51)) return false;
         } else if (currentSuite === 'sarav_playlists') {
-          if (currentFilter === 'c5to10' && (item.cluster_num < 5 || item.cluster_num > 10)) return false;
-          if (currentFilter === 'clusters' && item.cluster_num === 0) return false;
-          if (currentFilter === 'master' && item.cluster_num !== 0) return false;
+          if (currentFilter === '100days' && item.category !== '100_days') return false;
+          if (currentFilter === 'techradar' && item.category !== 'tech_radar') return false;
+          if (currentFilter === 'karma' && item.category !== 'karma_court') return false;
+          if (currentFilter === 'inkling' && item.category !== 'inkling_tales') return false;
         } else if (currentSuite === 'the_loop') {
           const ep = item.episode;
           if (currentFilter === 'b1' && !(ep >= 1 && ep <= 50)) return false;
@@ -1549,6 +1551,12 @@
               </div>
               <h2 class="card-title-text">${escapeHtml(item.title)}</h2>
 
+              <div style="background: rgba(14, 28, 48, 0.7); border: 1px solid rgba(0, 240, 255, 0.2); border-radius: 8px; padding: 8px 12px; margin-bottom: 8px; font-size: 11.5px;">
+                <div style="color: var(--gold-bright); font-weight: 700; margin-bottom: 4px;">📂 Add To Playlists:</div>
+                <div style="color: #E2E8F0; margin-bottom: 2px;">• <a href="${item.master_playlist_url}" target="_blank" rel="noopener" style="color: #38BDF8; text-decoration: none;">${escapeHtml(item.master_playlist || 'Inkling Tales Complete')}</a></div>
+                <div style="color: #E2E8F0;">• <a href="${item.mood_playlist_url}" target="_blank" rel="noopener" style="color: #F43F5E; text-decoration: none;">${escapeHtml(item.mood_playlist || 'Mood Playlist')}</a></div>
+              </div>
+
               <div class="actions-grid">
                 <button class="btn-copy gold" onclick="copyCardField('the_loop', ${ep}, 'title', this)">📋 Copy Title</button>
                 <button class="btn-copy cyan" onclick="copyCardField('the_loop', ${ep}, 'description', this)">📋 Copy Description</button>
@@ -1781,14 +1789,21 @@
     // Builder: YouTube Playlists Hub
     function buildPlaylistsCard(item) {
       const isMaster = item.cluster_num === 0;
+      let badgeTheme = 'gold';
+      let catTag = '100 DAYS';
+      if (item.category === 'tech_radar') { badgeTheme = 'cyan'; catTag = 'TECH RADAR'; }
+      else if (item.category === 'karma_court') { badgeTheme = 'magenta'; catTag = 'KARMA COURT'; }
+      else if (item.category === 'inkling_tales') { badgeTheme = 'cyan'; catTag = 'INKLING TALES'; }
+      else if (isMaster) { badgeTheme = 'magenta'; catTag = 'MASTER SERIES'; }
+
       return `
         <article class="pub-card" id="card-playlist-${item.id}">
           <div class="card-top">
             <div class="card-meta-left">
-              <span class="ep-badge ${isMaster ? 'magenta' : 'gold'}">${isMaster ? 'MASTER SERIES' : 'CLUSTER ' + item.cluster_num}</span>
-              <span class="cat-badge">${escapeHtml(item.episodes_range)}</span>
+              <span class="ep-badge ${badgeTheme}">${catTag}</span>
+              <span class="cat-badge" style="color: var(--gold-bright);">${escapeHtml(item.video_count || '')}</span>
               <span class="cat-badge">${escapeHtml(item.cluster_title)}</span>
-              ${item.playlist_url ? `<a href="${item.playlist_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none;">▶️ Open on YouTube</a>` : ''}
+              ${item.playlist_url ? `<a href="${item.playlist_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none; font-weight: bold;">▶️ Open on YouTube</a>` : '<span class="cat-badge" style="color: #94A3B8;">Staged in Studio</span>'}
             </div>
           </div>
           <div class="content-box" style="padding: 16px;">

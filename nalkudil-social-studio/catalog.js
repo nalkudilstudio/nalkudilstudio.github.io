@@ -11,7 +11,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, tokens, tokens explained, what is tokens, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, llm basics, how ai works",
       "pinned_comment": "👇 Day 1 Discussion: Comment 'TOKEN' if this finally made sense!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 2 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep001.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep001_Cover.png",
+      "cover_filename": "cover_ep001.png",
       "poll": {
         "question": "How does an LLM like ChatGPT actually read your prompt?",
         "options": [
@@ -27,7 +27,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "1beFkdxqO-s",
       "youtube_url": "https://www.youtube.com/shorts/1beFkdxqO-s",
-      "whatsapp_post": "Day 1 / 100: Tokens — (Day 1/100) Your AI Doesn't Read Words. It Reads THIS\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tokens with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/1beFkdxqO-s\n\n🗳️ Test your knowledge (Day 1 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 1 / 100: Tokens — (Day 1/100) Your AI Doesn't Read Words. It Reads THIS\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tokens with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/1beFkdxqO-s\n\n🗳️ Test your knowledge (Day 1 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 2",
@@ -40,7 +40,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, context window, context window explained, what is context window, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, llm basics, ai memory",
       "pinned_comment": "👇 Day 2 Discussion: Comment 'MEMORY' if your AI ever forgot mid-chat!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 3 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep002.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep002_Cover.png",
+      "cover_filename": "cover_ep002.png",
       "poll": {
         "question": "Why does an AI begin forgetting things in a long conversation?",
         "options": [
@@ -56,7 +56,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "mvegAJR9Qdg",
       "youtube_url": "https://www.youtube.com/shorts/mvegAJR9Qdg",
-      "whatsapp_post": "Day 2 / 100: Context Window — (Day 2/100) AI Has a Secret Memory Limit: Context Windows\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Window with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/mvegAJR9Qdg\n\n🗳️ Test your knowledge (Day 2 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 2 / 100: Context Window — (Day 2/100) AI Has a Secret Memory Limit: Context Windows\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Window with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/mvegAJR9Qdg\n\n🗳️ Test your knowledge (Day 2 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 3",
@@ -69,7 +69,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, embeddings, embeddings explained, what is embeddings, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, vectors, llm basics",
       "pinned_comment": "👇 Day 3 Discussion: Comment 'VECTOR' if math class finally makes sense now!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 4 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep003.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep003_Cover.png",
+      "cover_filename": "cover_ep003.png",
       "poll": {
         "question": "How does AI understand that 'Doctor' and 'Hospital' are related?",
         "options": [
@@ -85,7 +85,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "ghOUtQoi9x8",
       "youtube_url": "https://www.youtube.com/shorts/ghOUtQoi9x8",
-      "whatsapp_post": "Day 3 / 100: Embeddings — (Day 3/100) Why AI Turns Every Word Into Numbers: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ghOUtQoi9x8\n\n🗳️ Test your knowledge (Day 3 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 3 / 100: Embeddings — (Day 3/100) Why AI Turns Every Word Into Numbers: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ghOUtQoi9x8\n\n🗳️ Test your knowledge (Day 3 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 4",
@@ -98,7 +98,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, transformers, transformers explained, what is transformers, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, neural networks, ai history",
       "pinned_comment": "👇 Day 4 Discussion: Comment 'TRANSFORMER' if you didn't know this was the same tech everywhere!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 5 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep004.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep004_Cover.png",
+      "cover_filename": "cover_ep004.png",
       "poll": {
         "question": "What foundational 2017 architecture powers almost all modern LLMs?",
         "options": [
@@ -114,7 +114,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "kWRB1bpI1QY",
       "youtube_url": "https://www.youtube.com/shorts/kWRB1bpI1QY",
-      "whatsapp_post": "Day 4 / 100: Transformers — (Day 4/100) The One Invention Behind Every AI: Transformers\n\nDive into today's bite-sized AI architecture breakdown! We unpack Transformers with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/kWRB1bpI1QY\n\n🗳️ Test your knowledge (Day 4 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 4 / 100: Transformers — (Day 4/100) The One Invention Behind Every AI: Transformers\n\nDive into today's bite-sized AI architecture breakdown! We unpack Transformers with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/kWRB1bpI1QY\n\n🗳️ Test your knowledge (Day 4 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 5",
@@ -127,7 +127,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, attention mechanism, attention mechanism explained, what is attention mechanism, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, transformers, llm basics",
       "pinned_comment": "👇 Day 5 Discussion: Comment 'FOCUS' if this cleared up how AI tracks context!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 6 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep005.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep005_Cover.png",
+      "cover_filename": "cover_ep005.png",
       "poll": {
         "question": "What actually happens when you ask AI to generate an answer?",
         "options": [
@@ -143,7 +143,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "TgiUHtfkWig",
       "youtube_url": "https://www.youtube.com/shorts/TgiUHtfkWig",
-      "whatsapp_post": "Day 5 / 100: Attention Mechanism — (Day 5/100) How AI Knows Which Words Matter Most: Attention\n\nDive into today's bite-sized AI architecture breakdown! We unpack Attention Mechanism with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/TgiUHtfkWig\n\n🗳️ Test your knowledge (Day 5 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 5 / 100: Attention Mechanism — (Day 5/100) How AI Knows Which Words Matter Most: Attention\n\nDive into today's bite-sized AI architecture breakdown! We unpack Attention Mechanism with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/TgiUHtfkWig\n\n🗳️ Test your knowledge (Day 5 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 6",
@@ -156,7 +156,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, temperature, temperature explained, what is temperature, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, ai settings, prompt engineering",
       "pinned_comment": "👇 Day 6 Discussion: Comment 'HOT' if you're gonna go tweak your AI settings now!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 7 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep006.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep006_Cover.png",
+      "cover_filename": "cover_ep006.png",
       "poll": {
         "question": "What does the 'Temperature' parameter (0.0 to 1.0) control in an LLM?",
         "options": [
@@ -172,7 +172,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "-krKiNXAH_Y",
       "youtube_url": "https://www.youtube.com/shorts/-krKiNXAH_Y",
-      "whatsapp_post": "Day 6 / 100: Temperature — (Day 6/100) This One Setting Controls AI Creativity: Temperature\n\nDive into today's bite-sized AI architecture breakdown! We unpack Temperature with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-krKiNXAH_Y\n\n🗳️ Test your knowledge (Day 6 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 6 / 100: Temperature — (Day 6/100) This One Setting Controls AI Creativity: Temperature\n\nDive into today's bite-sized AI architecture breakdown! We unpack Temperature with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-krKiNXAH_Y\n\n🗳️ Test your knowledge (Day 6 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 7",
@@ -185,7 +185,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, zeroshot learning, zeroshot learning explained, what is zeroshot learning, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, llm basics, ai capabilities",
       "pinned_comment": "👇 Day 7 Discussion: Comment 'ZERO' if you've used AI this way without realizing it!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 8 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep007.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep007_Cover.png",
+      "cover_filename": "cover_ep007.png",
       "poll": {
         "question": "What is the primary cause of AI 'Hallucinations'?",
         "options": [
@@ -201,7 +201,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "A7p_ETb7V48",
       "youtube_url": "https://www.youtube.com/shorts/A7p_ETb7V48",
-      "whatsapp_post": "Day 7 / 100: Zero-shot Learning — (Day 7/100) How AI Solves Tasks It Was NEVER Trained For\n\nDive into today's bite-sized AI architecture breakdown! We unpack Zero-shot Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/A7p_ETb7V48\n\n🗳️ Test your knowledge (Day 7 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 7 / 100: Zero-shot Learning — (Day 7/100) How AI Solves Tasks It Was NEVER Trained For\n\nDive into today's bite-sized AI architecture breakdown! We unpack Zero-shot Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/A7p_ETb7V48\n\n🗳️ Test your knowledge (Day 7 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 8",
@@ -214,7 +214,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, few-shot prompting, prompt engineering, teach ai with examples, chatgpt prompting hacks, chatgpt tips, ai prompt guide, better chatgpt prompts, how to prompt ai, few shot learning, llm prompting, in-context learning, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts",
       "pinned_comment": "👇 Day 8 Discussion: Comment 'FEWSHOT' if you're trying this in your next prompt!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 9 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep008.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep008_Cover.png",
+      "cover_filename": "cover_ep008.png",
       "poll": {
         "question": "Which prompt strategy gives AI the fastest understanding of your desired format?",
         "options": [
@@ -230,7 +230,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "EM7Ue3j2u1c",
       "youtube_url": "https://www.youtube.com/shorts/EM7Ue3j2u1c",
-      "whatsapp_post": "Day 8 / 100: Few-Shot Prompting — (Day 8/100) Teach AI Anything Using Just 3 Examples: Few-Shot\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-Shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/EM7Ue3j2u1c\n\n🗳️ Test your knowledge (Day 8 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 8 / 100: Few-Shot Prompting — (Day 8/100) Teach AI Anything Using Just 3 Examples: Few-Shot\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-Shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/EM7Ue3j2u1c\n\n🗳️ Test your knowledge (Day 8 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 9",
@@ -243,7 +243,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, chain of thought, chain of thought explained, what is chain of thought, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, prompt engineering, ai reasoning",
       "pinned_comment": "👇 Day 9 Discussion: Comment 'STEPBYSTEP' if you're adding this to your prompts now!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 10 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep009.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep009_Cover.png",
+      "cover_filename": "cover_ep009.png",
       "poll": {
         "question": "Why does adding 'Think step-by-step' dramatically improve AI math & logic?",
         "options": [
@@ -259,7 +259,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "dI-iFQ1j_SY",
       "youtube_url": "https://www.youtube.com/shorts/dI-iFQ1j_SY",
-      "whatsapp_post": "Day 9 / 100: Chain of Thought — (Day 9/100) Why \"Think Step by Step\" Makes AI 10x Smarter\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chain of Thought with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/dI-iFQ1j_SY\n\n🗳️ Test your knowledge (Day 9 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 9 / 100: Chain of Thought — (Day 9/100) Why \"Think Step by Step\" Makes AI 10x Smarter\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chain of Thought with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/dI-iFQ1j_SY\n\n🗳️ Test your knowledge (Day 9 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 10",
@@ -272,7 +272,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, ai hallucination, ai hallucination explained, what is ai hallucination, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, ai safety, llm basics",
       "pinned_comment": "👇 Day 10 Discussion: Comment 'HALLUCINATE' if AI ever confidently lied to you!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 11 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep010.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep010_Cover.png",
+      "cover_filename": "cover_ep010.png",
       "poll": {
         "question": "What does 'System Prompt' mean in LLM architecture?",
         "options": [
@@ -288,7 +288,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "xnhOWpL_P0E",
       "youtube_url": "https://www.youtube.com/shorts/xnhOWpL_P0E",
-      "whatsapp_post": "Day 10 / 100: AI Hallucination — (Day 10/100) Why AI Confidently Lies to You: Hallucinations\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Hallucination with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xnhOWpL_P0E\n\n🗳️ Test your knowledge (Day 10 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 10 / 100: AI Hallucination — (Day 10/100) Why AI Confidently Lies to You: Hallucinations\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Hallucination with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xnhOWpL_P0E\n\n🗳️ Test your knowledge (Day 10 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 11",
@@ -301,7 +301,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, system prompts, system prompts explained, what is system prompts, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, prompt engineering, ai customization",
       "pinned_comment": "👇 Day 11 Discussion: Comment 'SYSTEM' if you're gonna try writing a system prompt today!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 12 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep011.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep011_Cover.png",
+      "cover_filename": "cover_ep011.png",
       "poll": {
         "question": "Why should you structure complex AI outputs as JSON schemas?",
         "options": [
@@ -317,7 +317,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "os_bDL3rLKM",
       "youtube_url": "https://www.youtube.com/shorts/os_bDL3rLKM",
-      "whatsapp_post": "Day 11 / 100: System Prompts — (Day 11/100) The Hidden Rules Controlling Every AI: System Prompts\n\nDive into today's bite-sized AI architecture breakdown! We unpack System Prompts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/os_bDL3rLKM\n\n🗳️ Test your knowledge (Day 11 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 11 / 100: System Prompts — (Day 11/100) The Hidden Rules Controlling Every AI: System Prompts\n\nDive into today's bite-sized AI architecture breakdown! We unpack System Prompts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/os_bDL3rLKM\n\n🗳️ Test your knowledge (Day 11 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 12",
@@ -330,7 +330,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, prompt chaining, prompt chaining explained, what is prompt chaining, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, prompt engineering, ai workflow",
       "pinned_comment": "👇 Day 12 Discussion: Comment 'CHAIN' if you're breaking your next prompt into steps!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 13 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep012.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep012_Cover.png",
+      "cover_filename": "cover_ep012.png",
       "poll": {
         "question": "What is 'Prompt Chaining'?",
         "options": [
@@ -346,7 +346,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "tZ_ka5zOvz0",
       "youtube_url": "https://www.youtube.com/shorts/tZ_ka5zOvz0",
-      "whatsapp_post": "Day 12 / 100: Prompt Chaining — (Day 12/100) Stop Asking AI One Giant Question: Prompt Chaining\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Chaining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/tZ_ka5zOvz0\n\n🗳️ Test your knowledge (Day 12 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 12 / 100: Prompt Chaining — (Day 12/100) Stop Asking AI One Giant Question: Prompt Chaining\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Chaining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/tZ_ka5zOvz0\n\n🗳️ Test your knowledge (Day 12 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 13",
@@ -359,7 +359,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, role prompting, role prompting explained, what is role prompting, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, prompt engineering, ai tips",
       "pinned_comment": "👇 Day 13 Discussion: Comment 'ROLEPLAY' if you're trying this trick right now!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 14 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep013.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep013_Cover.png",
+      "cover_filename": "cover_ep013.png",
       "poll": {
         "question": "What is the RCTF prompt formula developed for production engineering?",
         "options": [
@@ -375,7 +375,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "xjEeQ-YiteU",
       "youtube_url": "https://www.youtube.com/shorts/xjEeQ-YiteU",
-      "whatsapp_post": "Day 13 / 100: Role Prompting — (Day 13/100) How One Job Title Unlocks Expert AI: Role Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Role Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xjEeQ-YiteU\n\n🗳️ Test your knowledge (Day 13 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 13 / 100: Role Prompting — (Day 13/100) How One Job Title Unlocks Expert AI: Role Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Role Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xjEeQ-YiteU\n\n🗳️ Test your knowledge (Day 13 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 14",
@@ -388,7 +388,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, fewshot prompting, fewshot prompting explained, what is fewshot prompting, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, prompt engineering, ai tips",
       "pinned_comment": "👇 Day 14 Discussion: Comment 'SHOWME' if you use examples in your prompts already!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 15 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep014.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep014_Cover.png",
+      "cover_filename": "cover_ep014.png",
       "poll": {
         "question": "What is 'Meta-Prompting'?",
         "options": [
@@ -404,7 +404,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "i9KuTmULUfs",
       "youtube_url": "https://www.youtube.com/shorts/i9KuTmULUfs",
-      "whatsapp_post": "Day 14 / 100: Few-shot Prompting — (Day 14/100) Show, Don't Tell: How to Make AI Write Like You\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/i9KuTmULUfs\n\n🗳️ Test your knowledge (Day 14 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 14 / 100: Few-shot Prompting — (Day 14/100) Show, Don't Tell: How to Make AI Write Like You\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/i9KuTmULUfs\n\n🗳️ Test your knowledge (Day 14 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 15",
@@ -417,7 +417,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, negative prompting, negative prompting explained, what is negative prompting, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, prompt engineering, ai image generation",
       "pinned_comment": "👇 Day 15 Discussion: Comment 'AVOID' if you're adding exclusions to your next prompt!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 16 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep015.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep015_Cover.png",
+      "cover_filename": "cover_ep015.png",
       "poll": {
         "question": "What is the most effective way to eliminate generic corporate fluff in AI drafts?",
         "options": [
@@ -433,7 +433,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "KFLDBvjufkA",
       "youtube_url": "https://www.youtube.com/shorts/KFLDBvjufkA",
-      "whatsapp_post": "Day 15 / 100: Negative Prompting — (Day 15/100) Stop AI From Using Robot Fluff: Negative Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Negative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KFLDBvjufkA\n\n🗳️ Test your knowledge (Day 15 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 15 / 100: Negative Prompting — (Day 15/100) Stop AI From Using Robot Fluff: Negative Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Negative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KFLDBvjufkA\n\n🗳️ Test your knowledge (Day 15 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 16",
@@ -446,7 +446,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, prompt injection, prompt injection explained, what is prompt injection, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, ai security, ai safety",
       "pinned_comment": "👇 Day 16 Discussion: Comment 'INJECTION' if you didn't know this AI risk existed!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 17 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep016.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep016_Cover.png",
+      "cover_filename": "cover_ep016.png",
       "poll": {
         "question": "What is 'Prompt Injection' in AI security?",
         "options": [
@@ -462,7 +462,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "_yAo-Ej18eg",
       "youtube_url": "https://www.youtube.com/shorts/_yAo-Ej18eg",
-      "whatsapp_post": "Day 16 / 100: Prompt Injection — (Day 16/100) How 1 Line of Hidden Text Hacks Enterprise AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/_yAo-Ej18eg\n\n🗳️ Test your knowledge (Day 16 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 16 / 100: Prompt Injection — (Day 16/100) How 1 Line of Hidden Text Hacks Enterprise AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/_yAo-Ej18eg\n\n🗳️ Test your knowledge (Day 16 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 17",
@@ -475,7 +475,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, structured output, structured output explained, what is structured output, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, json, prompt engineering",
       "pinned_comment": "👇 Day 17 Discussion: Comment 'JSON' if you're building something with structured AI output!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 18 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep017.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep017_Cover.png",
+      "cover_filename": "cover_ep017.png",
       "poll": {
         "question": "What is the main advantage of Markdown formatting in prompt design?",
         "options": [
@@ -491,7 +491,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "LXaadvIMv6s",
       "youtube_url": "https://www.youtube.com/shorts/LXaadvIMv6s",
-      "whatsapp_post": "Day 17 / 100: Structured Output — (Day 17/100) Stop Parsing AI Text: Use Structured JSON Output\n\nDive into today's bite-sized AI architecture breakdown! We unpack Structured Output with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/LXaadvIMv6s\n\n🗳️ Test your knowledge (Day 17 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 17 / 100: Structured Output — (Day 17/100) Stop Parsing AI Text: Use Structured JSON Output\n\nDive into today's bite-sized AI architecture breakdown! We unpack Structured Output with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/LXaadvIMv6s\n\n🗳️ Test your knowledge (Day 17 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 18",
@@ -504,7 +504,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, meta prompting, meta prompting explained, what is meta prompting, chatgpt tips, ai prompt guide, how to prompt ai, chatgpt tricks, ai tutorial, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, ai, tech explained, prompt engineering, ai tips",
       "pinned_comment": "👇 Day 18 Discussion: Comment 'METALEVEL' if you're trying this shortcut today!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 19 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep018.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep018_Cover.png",
+      "cover_filename": "cover_ep018.png",
       "poll": {
         "question": "What is 'Directional Stimulus Prompting'?",
         "options": [
@@ -520,7 +520,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "8lG7o0zeCLA",
       "youtube_url": "https://www.youtube.com/shorts/8lG7o0zeCLA",
-      "whatsapp_post": "Day 18 / 100: Meta Prompting — (Day 18/100) Stop Writing AI Prompts Yourself: Meta-Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Meta Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8lG7o0zeCLA\n\n🗳️ Test your knowledge (Day 18 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 18 / 100: Meta Prompting — (Day 18/100) Stop Writing AI Prompts Yourself: Meta-Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Meta Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8lG7o0zeCLA\n\n🗳️ Test your knowledge (Day 18 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 19",
@@ -533,7 +533,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, iterative prompting, iterative prompting explained, what is iterative prompting, stop ai prompt mistakes, how to refine ai prompts, iterative prompting chatgpt, ai draft workflow, prompt engineering tricks, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 19 Discussion: Do you usually accept AI's first draft, or do you force it through 2-3 rounds of refinement? Drop 'DRAFT 1' or 'REFINE' below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 20 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep019.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep019_Cover.png",
+      "cover_filename": "cover_ep019.png",
       "poll": {
         "question": "What should you always do before accepting an AI's first draft?",
         "options": [
@@ -549,7 +549,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "c-DmZdCa7W0",
       "youtube_url": "https://www.youtube.com/shorts/c-DmZdCa7W0",
-      "whatsapp_post": "Day 19 / 100: Iterative Prompting — (Day 19/100) Stop Accepting AI's First Draft: Fix It Fast\n\nDive into today's bite-sized AI architecture breakdown! We unpack Iterative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-DmZdCa7W0\n\n🗳️ Test your knowledge (Day 19 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 19 / 100: Iterative Prompting — (Day 19/100) Stop Accepting AI's First Draft: Fix It Fast\n\nDive into today's bite-sized AI architecture breakdown! We unpack Iterative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-DmZdCa7W0\n\n🗳️ Test your knowledge (Day 19 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 20",
@@ -562,7 +562,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, prompt templates, prompt templates explained, what is prompt templates, universal prompt formula, rctf prompt framework, chatgpt templates, stop writing prompts, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 20 Discussion: Be honest — do you write fresh prompts every day or do you have saved templates? Drop 'SCRATCH' or 'TEMPLATE' below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 21 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep020.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep020_Cover.png",
+      "cover_filename": "cover_ep020.png",
       "poll": {
         "question": "Why do LLMs struggle with counting letters (e.g. 'how many r's in strawberry')?",
         "options": [
@@ -578,7 +578,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "-XcuPBDl2aM",
       "youtube_url": "https://www.youtube.com/shorts/-XcuPBDl2aM",
-      "whatsapp_post": "Day 20 / 100: Prompt Templates — (Day 20/100) Stop Typing Prompts From Scratch: Use R-C-T-F\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Templates with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-XcuPBDl2aM\n\n🗳️ Test your knowledge (Day 20 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 20 / 100: Prompt Templates — (Day 20/100) Stop Typing Prompts From Scratch: Use R-C-T-F\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Templates with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-XcuPBDl2aM\n\n🗳️ Test your knowledge (Day 20 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 21",
@@ -591,7 +591,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, vector database, vector database explained, what is vector database, pinecone vs chroma, how vector search works, rag architecture, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 21 Discussion: Which vector DB are you testing or running in production? Pinecone, Chroma, Qdrant, or pgvector? Drop your stack below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 22 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep021.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep021_Cover.png",
+      "cover_filename": "cover_ep021.png",
       "poll": {
         "question": "What is RAG (Retrieval-Augmented Generation)?",
         "options": [
@@ -602,12 +602,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 21/100\n\nWhat is RAG (Retrieval-Augmented Generation)?\n\nA) A new video game rendering engine\nB) Injecting external private documents into the prompt at runtime so AI answers factually\nC) A method to delete old chat histories\nD) Training a brand new foundation model from scratch\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 RAG (Retrieval-Augmented Generation) injects external private data into prompt context at runtime, providing factual accuracy without costly fine-tuning.",
-        "explanation": "Spot on if you picked Option B! 🎯 RAG (Retrieval-Augmented Generation) injects external private data into prompt context at runtime, providing factual accuracy without costly fine-tuning."
+        "explanation": "Spot on if you picked Option B! 🎯 RAG (Retrieval-Augmented Generation) injects external private data into prompt context at runtime, providing factual accuracy without costly fine-tuning.",
+        "poll_url": "https://youtube.com/post/UgkxD5FtAgBKpTYGm1F8NxEmOUIba24D59OG"
       },
       "status": "PUBLISHED",
       "youtube_id": "5MKvLB09J-c",
       "youtube_url": "https://www.youtube.com/shorts/5MKvLB09J-c",
-      "whatsapp_post": "Day 21 / 100: Vector Database — (Day 21/100) Stop Fine-Tuning AI Models: Use RAG Instead\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vector Database with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5MKvLB09J-c\n\n🗳️ Test your knowledge (Day 21 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 21 / 100: Vector Database — (Day 21/100) Stop Fine-Tuning AI Models: Use RAG Instead\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vector Database with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5MKvLB09J-c\n\n🗳️ Test your knowledge (Day 21 Quiz):\nhttps://youtube.com/post/UgkxD5FtAgBKpTYGm1F8NxEmOUIba24D59OG\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxD5FtAgBKpTYGm1F8NxEmOUIba24D59OG"
     },
     {
       "day": "Day 22",
@@ -620,7 +622,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, semantic search, semantic search explained, what is semantic search, keyword search vs semantic, vector search tutorial, natural language search, rag search, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 22 Discussion: When building search, do you prefer pure Semantic Search or traditional Keyword BM25? Drop 'SEMANTIC' or 'HYBRID' below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 23 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep022.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep022_Cover.png",
+      "cover_filename": "cover_ep022.png",
       "poll": {
         "question": "Why are Vector Databases better than SQL for semantic search?",
         "options": [
@@ -636,7 +638,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "-AaLQMEHZAU",
       "youtube_url": "https://www.youtube.com/shorts/-AaLQMEHZAU",
-      "whatsapp_post": "Day 22 / 100: Semantic Search — (Day 22/100) Stop Using Keyword Search for AI: Vector DBs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Semantic Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-AaLQMEHZAU\n\n🗳️ Test your knowledge (Day 22 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 22 / 100: Semantic Search — (Day 22/100) Stop Using Keyword Search for AI: Vector DBs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Semantic Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-AaLQMEHZAU\n\n🗳️ Test your knowledge (Day 22 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 23",
@@ -649,7 +651,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, rag, rag explained, what is rag, what is rag in ai, retrieval augmented generation, stop fine tuning use rag, enterprise rag architecture, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 23 Discussion: What's the biggest pain you face in RAG? Hallucinations, chunking, or retrieval latency? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 24 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep023.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep023_Cover.png",
+      "cover_filename": "cover_ep023.png",
       "poll": {
         "question": "What is 'Chunking' in a RAG pipeline?",
         "options": [
@@ -660,12 +662,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 23/100\n\nWhat is 'Chunking' in a RAG pipeline?\n\nA) Deleting duplicate files from the hard drive\nB) Splitting large documents into smaller, semantically coherent passages for embedding\nC) Compressing images to 8-bit color\nD) Combining 10 PDFs into one giant zip file\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Chunking splits large documents into semantically coherent passages. Recursive splitting preserves paragraph context while keeping passages within optimal embedding sizes.",
-        "explanation": "Spot on if you picked Option B! 🎯 Chunking splits large documents into semantically coherent passages. Recursive splitting preserves paragraph context while keeping passages within optimal embedding sizes."
+        "explanation": "Spot on if you picked Option B! 🎯 Chunking splits large documents into semantically coherent passages. Recursive splitting preserves paragraph context while keeping passages within optimal embedding sizes.",
+        "poll_url": "https://youtube.com/post/UgkxS5uxlv44TgUwxuKHRst9KrmkojHgIFfv"
       },
       "status": "PUBLISHED",
       "youtube_id": "cCyNsnQAe-Q",
       "youtube_url": "https://www.youtube.com/shorts/cCyNsnQAe-Q",
-      "whatsapp_post": "Day 23 / 100: RAG — (Day 23/100) Stop Dumping Huge PDFs Into AI: Chunking Fix\n\nDive into today's bite-sized AI architecture breakdown! We unpack RAG with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/cCyNsnQAe-Q\n\n🗳️ Test your knowledge (Day 23 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 23 / 100: RAG — (Day 23/100) Stop Dumping Huge PDFs Into AI: Chunking Fix\n\nDive into today's bite-sized AI architecture breakdown! We unpack RAG with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/cCyNsnQAe-Q\n\n🗳️ Test your knowledge (Day 23 Quiz):\nhttps://youtube.com/post/UgkxS5uxlv44TgUwxuKHRst9KrmkojHgIFfv\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxS5uxlv44TgUwxuKHRst9KrmkojHgIFfv"
     },
     {
       "day": "Day 24",
@@ -678,7 +682,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, chunking, chunking explained, what is chunking, document chunking rag, how to chunk pdf for ai, chunk size and overlap, fix lost in middle ai, rag document processing, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 24 Discussion: What is your preferred chunking strategy? Fixed token size, sentence-based, or recursive markdown? Drop your method below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 25 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep024.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep024_Cover.png",
+      "cover_filename": "cover_ep024.png",
       "poll": {
         "question": "What happens if you dump a 500-page PDF directly into a 1M context window?",
         "options": [
@@ -694,7 +698,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "8cc_WGDMOBU",
       "youtube_url": "https://www.youtube.com/shorts/8cc_WGDMOBU",
-      "whatsapp_post": "Day 24 / 100: Chunking — (Day 24/100) Stop Keyword Search for Long Docs: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chunking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8cc_WGDMOBU\n\n🗳️ Test your knowledge (Day 24 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 24 / 100: Chunking — (Day 24/100) Stop Keyword Search for Long Docs: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chunking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8cc_WGDMOBU\n\n🗳️ Test your knowledge (Day 24 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 25",
@@ -707,7 +711,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, embeddings, embeddings explained, what is embeddings, what are embeddings, vector embeddings explained, cosine similarity text, llm embeddings tutorial, how embeddings work, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 25 Discussion: Do you run cloud embeddings (OpenAI/Cohere) or local open-source models (BGE/MiniLM)? Drop your stack below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 26 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep025.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep025_Cover.png",
+      "cover_filename": "cover_ep025.png",
       "poll": {
         "question": "What metric is commonly used to measure distance between two vector embeddings?",
         "options": [
@@ -718,12 +722,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 25/100\n\nWhat metric is commonly used to measure distance between two vector embeddings?\n\nA) Miles / Kilometers\nB) Cosine Similarity / Dot Product\nC) Decibels (dB)\nD) Pixels per inch (PPI)\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Cosine similarity measures the cosine of the angle between two normalized vectors in multi-dimensional space, capturing orientation and semantic alignment regardless of magnitude.",
-        "explanation": "Spot on if you picked Option B! 🎯 Cosine similarity measures the cosine of the angle between two normalized vectors in multi-dimensional space, capturing orientation and semantic alignment regardless of magnitude."
+        "explanation": "Spot on if you picked Option B! 🎯 Cosine similarity measures the cosine of the angle between two normalized vectors in multi-dimensional space, capturing orientation and semantic alignment regardless of magnitude.",
+        "poll_url": "https://youtube.com/post/UgkxHUZe6cZe0y_iZjx8CVm0xOnrVoEFfJoU"
       },
       "status": "PUBLISHED",
       "youtube_id": "qY2LbgivWWU",
       "youtube_url": "https://www.youtube.com/shorts/qY2LbgivWWU",
-      "whatsapp_post": "Day 25 / 100: Embeddings — (Day 25/100) Stop Blind Retrieval: Cosine Similarity\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/qY2LbgivWWU\n\n🗳️ Test your knowledge (Day 25 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 25 / 100: Embeddings — (Day 25/100) Stop Blind Retrieval: Cosine Similarity\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/qY2LbgivWWU\n\n🗳️ Test your knowledge (Day 25 Quiz):\nhttps://youtube.com/post/UgkxHUZe6cZe0y_iZjx8CVm0xOnrVoEFfJoU\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxHUZe6cZe0y_iZjx8CVm0xOnrVoEFfJoU"
     },
     {
       "day": "Day 26",
@@ -736,7 +742,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, reranking, reranking explained, what is reranking, reranking in rag, cohere rerank explained, cross encoder vs bi encoder, improve rag accuracy, search reranking, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 26 Discussion: Do you use Cohere Rerank, BGE Reranker, or standard vector top-k? Drop your retrieval pipeline below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 27 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep026.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep026_Cover.png",
+      "cover_filename": "cover_ep026.png",
       "poll": {
         "question": "What is the role of a 'Reranker' in enterprise search?",
         "options": [
@@ -747,12 +753,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 26/100\n\nWhat is the role of a 'Reranker' in enterprise search?\n\nA) To rank employees by performance\nB) A cross-encoder that re-scores top vector candidates for true semantic relevance\nC) To sort database files alphabetically\nD) To filter out spam emails\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Cross-encoder rerankers jointly evaluate query-document pairs, providing high-precision scoring on top vector search candidates to eliminate false positives.",
-        "explanation": "Spot on if you picked Option B! 🎯 Cross-encoder rerankers jointly evaluate query-document pairs, providing high-precision scoring on top vector search candidates to eliminate false positives."
+        "explanation": "Spot on if you picked Option B! 🎯 Cross-encoder rerankers jointly evaluate query-document pairs, providing high-precision scoring on top vector search candidates to eliminate false positives.",
+        "poll_url": "https://youtube.com/post/UgkxFanbj79Kv6DWJbjYQIi2ktAjQdyHu1O9"
       },
       "status": "PUBLISHED",
       "youtube_id": "lswnFGuDIq8",
       "youtube_url": "https://www.youtube.com/shorts/lswnFGuDIq8",
-      "whatsapp_post": "Day 26 / 100: Reranking — (Day 26/100) Stop Trusting the Top Search Result: Always Rerank\n\nDive into today's bite-sized AI architecture breakdown! We unpack Reranking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/lswnFGuDIq8\n\n🗳️ Test your knowledge (Day 26 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 26 / 100: Reranking — (Day 26/100) Stop Trusting the Top Search Result: Always Rerank\n\nDive into today's bite-sized AI architecture breakdown! We unpack Reranking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/lswnFGuDIq8\n\n🗳️ Test your knowledge (Day 26 Quiz):\nhttps://youtube.com/post/UgkxFanbj79Kv6DWJbjYQIi2ktAjQdyHu1O9\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxFanbj79Kv6DWJbjYQIi2ktAjQdyHu1O9"
     },
     {
       "day": "Day 27",
@@ -765,7 +773,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, knowledge grounding, knowledge grounding explained, what is knowledge grounding, stop ai hallucinations, knowledge grounding rag, how to stop chatgpt lies, enterprise ai grounding, reliable ai outputs, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 27 Discussion: What is your primary defense against hallucinations? Strict grounding prompts, low temperature, or guardrails? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 28 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep027.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep027_Cover.png",
+      "cover_filename": "cover_ep027.png",
       "poll": {
         "question": "How does Knowledge Grounding eliminate hallucinations?",
         "options": [
@@ -781,7 +789,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "KSSWj-5mPus",
       "youtube_url": "https://www.youtube.com/shorts/KSSWj-5mPus",
-      "whatsapp_post": "Day 27 / 100: Knowledge Grounding — (Day 27/100) Stop AI Hallucinations Cold: Anchor With Grounding\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Grounding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KSSWj-5mPus\n\n🗳️ Test your knowledge (Day 27 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 27 / 100: Knowledge Grounding — (Day 27/100) Stop AI Hallucinations Cold: Anchor With Grounding\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Grounding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KSSWj-5mPus\n\n🗳️ Test your knowledge (Day 27 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 28",
@@ -794,7 +802,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, hybrid search, hybrid search explained, what is hybrid search, hybrid search rag, bm25 vs vector search, reciprocal rank fusion rrf, best search architecture ai, hybrid retrieval, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 28 Discussion: Reciprocal Rank Fusion (RRF) vs Vector Search: Have you tested Hybrid search on internal docs? Drop your thoughts below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 29 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep028.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep028_Cover.png",
+      "cover_filename": "cover_ep028.png",
       "poll": {
         "question": "What is 'Hybrid Search' in modern enterprise retrieval?",
         "options": [
@@ -810,7 +818,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "O6R4vPadEgk",
       "youtube_url": "https://www.youtube.com/shorts/O6R4vPadEgk",
-      "whatsapp_post": "Day 28 / 100: Hybrid Search — (Day 28/100) Stop Relying on One Search Method: Use Hybrid Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Hybrid Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/O6R4vPadEgk\n\n🗳️ Test your knowledge (Day 28 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 28 / 100: Hybrid Search — (Day 28/100) Stop Relying on One Search Method: Use Hybrid Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Hybrid Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/O6R4vPadEgk\n\n🗳️ Test your knowledge (Day 28 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 29",
@@ -823,7 +831,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, context injection, context injection explained, what is context injection, llm memory explained, stateless ai context injection, how chatbots remember, session memory rag, ai state management, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 29 Discussion: How do you handle chat memory? Full history injection, summary buffer, or vector recall? Drop your architecture below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 30 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep029.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep029_Cover.png",
+      "cover_filename": "cover_ep029.png",
       "poll": {
         "question": "How do production chatbots remember user state without bloating context?",
         "options": [
@@ -839,7 +847,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "fwShBL1tWvo",
       "youtube_url": "https://www.youtube.com/shorts/fwShBL1tWvo",
-      "whatsapp_post": "Day 29 / 100: Context Injection — (Day 29/100) Stop Letting Chatbots Forget Context: Inject State\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fwShBL1tWvo\n\n🗳️ Test your knowledge (Day 29 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 29 / 100: Context Injection — (Day 29/100) Stop Letting Chatbots Forget Context: Inject State\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fwShBL1tWvo\n\n🗳️ Test your knowledge (Day 29 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 30",
@@ -852,7 +860,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, retrieval latency, retrieval latency explained, what is retrieval latency, optimize vector search, reduce rag latency, hnsw vector index, fast ai retrieval, speed up chatgpt responses, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 30 Discussion: What causes the biggest latency in your AI stack: model generation or vector search retrieval? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 31 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep030.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep030_Cover.png",
+      "cover_filename": "cover_ep030.png",
       "poll": {
         "question": "What is 'Semantic Caching'?",
         "options": [
@@ -868,7 +876,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "L61U79mMTLY",
       "youtube_url": "https://www.youtube.com/shorts/L61U79mMTLY",
-      "whatsapp_post": "Day 30 / 100: Retrieval Latency — (Day 30/100) Stop Suffering 5-Second Latency: Optimize Vector Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Retrieval Latency with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/L61U79mMTLY\n\n🗳️ Test your knowledge (Day 30 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 30 / 100: Retrieval Latency — (Day 30/100) Stop Suffering 5-Second Latency: Optimize Vector Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Retrieval Latency with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/L61U79mMTLY\n\n🗳️ Test your knowledge (Day 30 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 31",
@@ -881,7 +889,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, ai agents, ai agents explained, what is ai agents, what is an ai agent, autonomous ai agents, chatbots vs agents, how ai agents work, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 31 Discussion: What task would you hand off to an AI agent tomorrow if you 100% trusted it? Drop your dream workflow below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 32 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep031.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep031_Cover.png",
+      "cover_filename": "cover_ep031.png",
       "poll": {
         "question": "What differentiates an 'AI Agent' from a standard chatbot?",
         "options": [
@@ -892,12 +900,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 31/100\n\nWhat differentiates an 'AI Agent' from a standard chatbot?\n\nA) Agents have colorful 3D avatars\nB) Agents can plan, use external tools, call APIs, and execute autonomous multi-step tasks\nC) Agents cost $50 per month\nD) Agents only speak in audio\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Unlike conversational chatbots, AI agents can plan multi-step workflows, call external tools/APIs, observe environment feedback, and persist until tasks are solved.",
-        "explanation": "Spot on if you picked Option B! 🎯 Unlike conversational chatbots, AI agents can plan multi-step workflows, call external tools/APIs, observe environment feedback, and persist until tasks are solved."
+        "explanation": "Spot on if you picked Option B! 🎯 Unlike conversational chatbots, AI agents can plan multi-step workflows, call external tools/APIs, observe environment feedback, and persist until tasks are solved.",
+        "poll_url": "https://youtube.com/post/Ugkx2NxO8_IbEQK-i7Xanyh7YunTlHQ6iRBi"
       },
       "status": "PUBLISHED",
       "youtube_id": "ORpH9c0crUM",
       "youtube_url": "https://www.youtube.com/shorts/ORpH9c0crUM",
-      "whatsapp_post": "Day 31 / 100: AI Agents — (Day 31/100) Stop Using AI Just for Chat: Deploy Autonomous Agents\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ORpH9c0crUM\n\n🗳️ Test your knowledge (Day 31 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 31 / 100: AI Agents — (Day 31/100) Stop Using AI Just for Chat: Deploy Autonomous Agents\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ORpH9c0crUM\n\n🗳️ Test your knowledge (Day 31 Quiz):\nhttps://youtube.com/post/Ugkx2NxO8_IbEQK-i7Xanyh7YunTlHQ6iRBi\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/Ugkx2NxO8_IbEQK-i7Xanyh7YunTlHQ6iRBi"
     },
     {
       "day": "Day 32",
@@ -910,7 +920,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, tool use, tool use explained, what is tool use, tool use ai, function calling llm, giving ai apis, how ai calls tools, agentic tool use, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 32 Discussion: Have you implemented function calling or tool use with OpenAI/Anthropic/Gemini? Drop your use case below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 33 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep032.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep032_Cover.png",
+      "cover_filename": "cover_ep032.png",
       "poll": {
         "question": "What is 'Tool Calling' / 'Function Calling' in LLMs?",
         "options": [
@@ -921,12 +931,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 32/100\n\nWhat is 'Tool Calling' / 'Function Calling' in LLMs?\n\nA) Asking the AI to recommend software apps\nB) The model outputting structured arguments to trigger real external APIs and code\nC) Calling customer support on the telephone\nD) Installing a Python package on Windows\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Function calling enables models to output valid JSON arguments to trigger external tools, database queries, and code execution environments reliably.",
-        "explanation": "Spot on if you picked Option B! 🎯 Function calling enables models to output valid JSON arguments to trigger external tools, database queries, and code execution environments reliably."
+        "explanation": "Spot on if you picked Option B! 🎯 Function calling enables models to output valid JSON arguments to trigger external tools, database queries, and code execution environments reliably.",
+        "poll_url": "https://youtube.com/post/Ugkxs8eMUMZFmtBp8N_IQmXkwu74fi1NU5Ml"
       },
       "status": "PUBLISHED",
       "youtube_id": "smgvSDF_r2Y",
       "youtube_url": "https://www.youtube.com/shorts/smgvSDF_r2Y",
-      "whatsapp_post": "Day 32 / 100: Tool Use — (Day 32/100) Stop Copy-Pasting AI Answers: Give AI Tools & APIs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tool Use with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/smgvSDF_r2Y\n\n🗳️ Test your knowledge (Day 32 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 32 / 100: Tool Use — (Day 32/100) Stop Copy-Pasting AI Answers: Give AI Tools & APIs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tool Use with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/smgvSDF_r2Y\n\n🗳️ Test your knowledge (Day 32 Quiz):\nhttps://youtube.com/post/Ugkxs8eMUMZFmtBp8N_IQmXkwu74fi1NU5Ml\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/Ugkxs8eMUMZFmtBp8N_IQmXkwu74fi1NU5Ml"
     },
     {
       "day": "Day 33",
@@ -939,7 +951,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, multi-agent systems, multi-agent systems explained, what is multi-agent systems, multi agent systems, crewai vs autogen, ai agent teams, multi agent architecture, collaborative ai agents, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 33 Discussion: Are you using CrewAI, AutoGen, LangGraph, or custom agent swarms? Drop your multi-agent framework below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 34 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep033.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep033_Cover.png",
+      "cover_filename": "cover_ep033.png",
       "poll": {
         "question": "Why is a Multi-Agent Specialist Squad superior to a single giant prompt?",
         "options": [
@@ -950,12 +962,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 33/100\n\nWhy is a Multi-Agent Specialist Squad superior to a single giant prompt?\n\nA) It uses more electricity\nB) Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce cognitive error\nC) It takes 10x longer to run\nD) Single agents refuse to work overtime\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Multi-agent squads divide complex objectives among specialist agents (e.g. Researcher, Coder, Reviewer), reducing context bloat and compounding reasoning errors.",
-        "explanation": "Spot on if you picked Option B! 🎯 Multi-agent squads divide complex objectives among specialist agents (e.g. Researcher, Coder, Reviewer), reducing context bloat and compounding reasoning errors."
+        "explanation": "Spot on if you picked Option B! 🎯 Multi-agent squads divide complex objectives among specialist agents (e.g. Researcher, Coder, Reviewer), reducing context bloat and compounding reasoning errors.",
+        "poll_url": "https://youtube.com/post/UgkxMOHJKomKUsrOmPh19e5MJC-bGxEOo8bf"
       },
       "status": "PUBLISHED",
       "youtube_id": "7EjgeXQrLsk",
       "youtube_url": "https://www.youtube.com/shorts/7EjgeXQrLsk",
-      "whatsapp_post": "Day 33 / 100: Multi-Agent Systems — (Day 33/100) Stop Using One AI for Everything: Build Agent Squads\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multi-Agent Systems with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/7EjgeXQrLsk\n\n🗳️ Test your knowledge (Day 33 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 33 / 100: Multi-Agent Systems — (Day 33/100) Stop Using One AI for Everything: Build Agent Squads\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multi-Agent Systems with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/7EjgeXQrLsk\n\n🗳️ Test your knowledge (Day 33 Quiz):\nhttps://youtube.com/post/UgkxMOHJKomKUsrOmPh19e5MJC-bGxEOo8bf\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxMOHJKomKUsrOmPh19e5MJC-bGxEOo8bf"
     },
     {
       "day": "Day 34",
@@ -968,7 +982,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, agent memory, agent memory explained, what is agent memory, ai agent memory, long term memory llm, mem0 tutorial, agent episodic memory, how agents remember, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 34 Discussion: How do you structure agent memory? Mem0, vector recall, or markdown profile files? Drop your stack below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 35 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep034.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep034_Cover.png",
+      "cover_filename": "cover_ep034.png",
       "poll": {
         "question": "What is 'Persistent Memory' for AI agents?",
         "options": [
@@ -979,12 +993,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 34/100\n\nWhat is 'Persistent Memory' for AI agents?\n\nA) Upgrading the computer's physical RAM to 64 GB\nB) Cross-session state storage allowing agents to remember user preferences & past decisions\nC) Keeping the browser tab open forever\nD) Hardcoding answers into the Python script\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Persistent agent memory stores facts, user preferences, and intermediate state across sessions, allowing agents to maintain long-term context indefinitely.",
-        "explanation": "Spot on if you picked Option B! 🎯 Persistent agent memory stores facts, user preferences, and intermediate state across sessions, allowing agents to maintain long-term context indefinitely."
+        "explanation": "Spot on if you picked Option B! 🎯 Persistent agent memory stores facts, user preferences, and intermediate state across sessions, allowing agents to maintain long-term context indefinitely.",
+        "poll_url": "https://youtube.com/post/UgkxTKrW4y4_UKPOFt_74HaBYc0nU4Y9zTI9"
       },
       "status": "PUBLISHED",
       "youtube_id": "08iitruCQgs",
       "youtube_url": "https://www.youtube.com/shorts/08iitruCQgs",
-      "whatsapp_post": "Day 34 / 100: Agent Memory — (Day 34/100) Stop Losing Agent Chat History: Add Persistent Memory\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Memory with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/08iitruCQgs\n\n🗳️ Test your knowledge (Day 34 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 34 / 100: Agent Memory — (Day 34/100) Stop Losing Agent Chat History: Add Persistent Memory\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Memory with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/08iitruCQgs\n\n🗳️ Test your knowledge (Day 34 Quiz):\nhttps://youtube.com/post/UgkxTKrW4y4_UKPOFt_74HaBYc0nU4Y9zTI9\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxTKrW4y4_UKPOFt_74HaBYc0nU4Y9zTI9"
     },
     {
       "day": "Day 35",
@@ -997,7 +1013,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, react framework, react framework explained, what is react framework, react framework ai, reasoning and acting llm, agent reasoning loop, how react agents work, ai reasoning cycle, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 35 Discussion: Have you studied the ReAct paper (Reasoning + Acting)? Did it change how you build agent workflows? Drop thoughts below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 36 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep035.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep035_Cover.png",
+      "cover_filename": "cover_ep035.png",
       "poll": {
         "question": "What is the ReAct loop in agentic architecture?",
         "options": [
@@ -1008,12 +1024,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 35/100\n\nWhat is the ReAct loop in agentic architecture?\n\nA) A JavaScript frontend UI framework\nB) Reason + Act + Observe iterative cycle until a goal is accomplished\nC) Reacting emotionally to user insults\nD) A video recording software\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The ReAct framework alternates between Thought (reasoning), Action (tool calling), and Observation (environment feedback) until a termination condition is reached.",
-        "explanation": "Spot on if you picked Option B! 🎯 The ReAct framework alternates between Thought (reasoning), Action (tool calling), and Observation (environment feedback) until a termination condition is reached."
+        "explanation": "Spot on if you picked Option B! 🎯 The ReAct framework alternates between Thought (reasoning), Action (tool calling), and Observation (environment feedback) until a termination condition is reached.",
+        "poll_url": "https://youtube.com/post/UgkxIlHals7soIhcWL72P_ltkFVXP1-MuLFd"
       },
       "status": "PUBLISHED",
       "youtube_id": "5UY-dd-ZHN4",
       "youtube_url": "https://www.youtube.com/shorts/5UY-dd-ZHN4",
-      "whatsapp_post": "Day 35 / 100: ReAct Framework — (Day 35/100) Stop One-Shot Guessing: Run the ReAct Reasoning Loop\n\nDive into today's bite-sized AI architecture breakdown! We unpack ReAct Framework with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5UY-dd-ZHN4\n\n🗳️ Test your knowledge (Day 35 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 35 / 100: ReAct Framework — (Day 35/100) Stop One-Shot Guessing: Run the ReAct Reasoning Loop\n\nDive into today's bite-sized AI architecture breakdown! We unpack ReAct Framework with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5UY-dd-ZHN4\n\n🗳️ Test your knowledge (Day 35 Quiz):\nhttps://youtube.com/post/UgkxIlHals7soIhcWL72P_ltkFVXP1-MuLFd\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxIlHals7soIhcWL72P_ltkFVXP1-MuLFd"
     },
     {
       "day": "Day 36",
@@ -1026,7 +1044,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, agent orchestration, agent orchestration explained, what is agent orchestration, router pattern ai, supervisor agent architecture, langgraph orchestration, multi agent control, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 36 Discussion: Centralized supervisor vs decentralized swarms: Which multi-agent pattern do you trust in production? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 37 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep036.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep036_Cover.png",
+      "cover_filename": "cover_ep036.png",
       "poll": {
         "question": "What is the role of an 'Agent Orchestrator' / Supervisor?",
         "options": [
@@ -1037,12 +1055,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 36/100\n\nWhat is the role of an 'Agent Orchestrator' / Supervisor?\n\nA) To pay the cloud server bills\nB) To decompose goals, assign sub-tasks to specialized worker agents, and synthesize results\nC) To monitor employee chat logs\nD) To schedule calendar meetings\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 An Agent Orchestrator acts as the central supervisor, decomposing high-level tasks into sub-tasks, routing them to specialist workers, and synthesizing the final output.",
-        "explanation": "Spot on if you picked Option B! 🎯 An Agent Orchestrator acts as the central supervisor, decomposing high-level tasks into sub-tasks, routing them to specialist workers, and synthesizing the final output."
+        "explanation": "Spot on if you picked Option B! 🎯 An Agent Orchestrator acts as the central supervisor, decomposing high-level tasks into sub-tasks, routing them to specialist workers, and synthesizing the final output.",
+        "poll_url": "https://youtube.com/post/UgkxLtW5Y2jWcIvsTaXUO-zBW4MA-XoMHbQI"
       },
       "status": "PUBLISHED",
       "youtube_id": "ktqwATHzvS8",
       "youtube_url": "https://www.youtube.com/shorts/ktqwATHzvS8",
-      "whatsapp_post": "Day 36 / 100: Agent Orchestration — (Day 36/100) Stop Multi-Agent Chaos: Add a Router Orchestrator\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Orchestration with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ktqwATHzvS8\n\n🗳️ Test your knowledge (Day 36 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 36 / 100: Agent Orchestration — (Day 36/100) Stop Multi-Agent Chaos: Add a Router Orchestrator\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Orchestration with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ktqwATHzvS8\n\n🗳️ Test your knowledge (Day 36 Quiz):\nhttps://youtube.com/post/UgkxLtW5Y2jWcIvsTaXUO-zBW4MA-XoMHbQI\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxLtW5Y2jWcIvsTaXUO-zBW4MA-XoMHbQI"
     },
     {
       "day": "Day 37",
@@ -1055,7 +1075,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, autonomous planning, autonomous planning explained, what is autonomous planning, autonomous planning ai, tree of thoughts planning, goal decomposition llm, ai task planner, plan and execute agents, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 37 Discussion: Goal-driven vs step-driven prompts: When does autonomous planning break down in your experience? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 38 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep037.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep037_Cover.png",
+      "cover_filename": "cover_ep037.png",
       "poll": {
         "question": "What is 'Autonomous Planning' in agentic systems?",
         "options": [
@@ -1071,7 +1091,7 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "fav-pse9DUs",
       "youtube_url": "https://www.youtube.com/shorts/fav-pse9DUs",
-      "whatsapp_post": "Day 37 / 100: Autonomous Planning — (Day 37/100) Stop Micromanaging Prompts: Let AI Plan Autonomous Steps\n\nDive into today's bite-sized AI architecture breakdown! We unpack Autonomous Planning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fav-pse9DUs\n\n🗳️ Test your knowledge (Day 37 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 37 / 100: Autonomous Planning — (Day 37/100) Stop Micromanaging Prompts: Let AI Plan Autonomous Steps\n\nDive into today's bite-sized AI architecture breakdown! We unpack Autonomous Planning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fav-pse9DUs\n\n🗳️ Test your knowledge (Day 37 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 38",
@@ -1084,7 +1104,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, model context protocol, mcp explained, what is model context protocol, what is mcp anthropic, mcp server tutorial, universal ai tool standard, anthropic mcp explained, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 38 Discussion: Is Anthropic's Model Context Protocol (MCP) the permanent open standard for AI tools, or will competing protocols fragment the ecosystem? Drop your prediction below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 39 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep038.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep038_Cover.png",
+      "cover_filename": "cover_ep038.png",
       "poll": {
         "question": "What is the primary purpose of Anthropic's Model Context Protocol (MCP)?",
         "options": [
@@ -1095,12 +1115,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nWhat is the primary purpose of Anthropic's Model Context Protocol (MCP)?\n\nA) A Minecraft gaming server mod\nB) An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API\nC) A cloud subscription billing mechanism\nD) A method to speed up graphic rendering\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Anthropic's Model Context Protocol (MCP) acts as the universal USB-C standard for AI. Instead of custom integrations for every model, one MCP server connects any client (Claude, Cursor, Antigravity) to your tools and databases.",
-        "explanation": "Spot on if you picked Option B! 🎯 Anthropic's Model Context Protocol (MCP) acts as the universal USB-C standard for AI. Instead of custom integrations for every model, one MCP server connects any client (Claude, Cursor, Antigravity) to your tools and databases."
+        "explanation": "Spot on if you picked Option B! 🎯 Anthropic's Model Context Protocol (MCP) acts as the universal USB-C standard for AI. Instead of custom integrations for every model, one MCP server connects any client (Claude, Cursor, Antigravity) to your tools and databases.",
+        "poll_url": "https://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh"
       },
       "status": "PUBLISHED",
       "youtube_id": "-BT8QtTRG8o",
       "youtube_url": "https://www.youtube.com/shorts/-BT8QtTRG8o",
-      "whatsapp_post": "Day 38 / 100: Why Anthropic’s MCP Changes Everything for AI Tooling\n\nConnecting AI to databases and APIs used to mean building custom spaghetti code for every single model.\n\nAnthropic’s Model Context Protocol (MCP) changes this forever. It is the universal USB-C cable for AI:\n1. The Core Standard: One open protocol connects any AI agent to your files, databases, and development tools.\n2. Zero Vendor Lock-in: Switch from Claude to Cursor or Antigravity instantly without rewriting your tool integrations.\n\nOne universal socket powering the autonomous future.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-BT8QtTRG8o\n\n🗳️ Test your knowledge (Day 38 Quiz):\nhttps://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh?si=UQwka27OwlWo2gJF"
+      "whatsapp_post": "Day 38 / 100: Model Context Protocol (MCP) — (Day 38/100) Why Anthropic's MCP Changes Everything for AI Tooling\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Context Protocol (MCP) with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-BT8QtTRG8o\n\n🗳️ Test your knowledge (Day 38 Quiz):\nhttps://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh"
     },
     {
       "day": "Day 39",
@@ -1113,7 +1135,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, ai evaluations, llm as a judge, automated ai testing, ragas eval, promptfoo, llm ci pipeline, ai benchmark, eval framework, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 39 Discussion: How do you evaluate your AI apps before production: manual vibe checks, deterministic assertions, or LLM-as-a-Judge? Drop your workflow below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 40 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep039.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep039_Cover.png",
+      "cover_filename": "cover_ep039.png",
       "poll": {
         "question": "Why are 'Vibe Checks' insufficient for production AI engineering?",
         "options": [
@@ -1124,12 +1146,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nWhy are 'Vibe Checks' insufficient for production AI engineering?\n\nA) Vibes don't have enough colorful charts\nB) Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions\nC) Cloud APIs refuse prompts containing the word vibe\nD) They consume 10x more GPU electricity\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 'Vibe checks' fail in production because prompt changes often fix one edge case while silently breaking twenty others. Automated evaluations in CI/CD track benchmark metrics and prevent regressions.",
-        "explanation": "Spot on if you picked Option B! 🎯 'Vibe checks' fail in production because prompt changes often fix one edge case while silently breaking twenty others. Automated evaluations in CI/CD track benchmark metrics and prevent regressions."
+        "explanation": "Spot on if you picked Option B! 🎯 'Vibe checks' fail in production because prompt changes often fix one edge case while silently breaking twenty others. Automated evaluations in CI/CD track benchmark metrics and prevent regressions.",
+        "poll_url": "https://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM"
       },
       "status": "PUBLISHED",
       "youtube_id": "c-R3SjKeUTg",
       "youtube_url": "https://www.youtube.com/shorts/c-R3SjKeUTg",
-      "whatsapp_post": "Day 39 / 100: You Cannot Improve an AI Pipeline You Don't Measure\n\nMost developers test AI prompts by hitting refresh and vibing. That is why enterprise AI breaks in production.\n\nAutomated Evaluations turn subjective AI intuition into hard engineering data:\n1. Deterministic Checks: Code-level validation for strict JSON schemas, latency, and regex patterns.\n2. LLM-as-a-Judge: A secondary model scoring outputs for tone, accuracy, and hallucination regressions.\n\nIf you don't benchmark your prompts in CI/CD, your users will benchmark them for you.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-R3SjKeUTg\n\n🗳️ Test your knowledge (Day 39 Quiz):\nhttps://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM?si=sBrqZUzZI8TkjGI3"
+      "whatsapp_post": "Day 39 / 100: Automated Evals & CI — (Day 39/100) You Cannot Improve an AI Pipeline You Don't Measure\n\nDive into today's bite-sized AI architecture breakdown! We unpack Automated Evals & CI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-R3SjKeUTg\n\n🗳️ Test your knowledge (Day 39 Quiz):\nhttps://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM"
     },
     {
       "day": "Day 40",
@@ -1142,7 +1166,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, local ai, slm on npu, ollama local llm, edge ai, phi 4 mini, qwen local, zero cloud cost ai, onnx runtime, gguf quantization, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 40 Discussion: What is the primary reason you would run local SLMs on your laptop — zero API costs, zero internet latency, or 100% data privacy? Drop your choice below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 41 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep040.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep040_Cover.png",
+      "cover_filename": "cover_ep040.png",
       "poll": {
         "question": "What is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?",
         "options": [
@@ -1153,12 +1177,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 1,
         "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nWhat is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?\n\nA) They require paying $20/month per user\nB) Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy\nC) They only run on massive cloud server clusters\nD) They require an active internet connection for every single token\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 2! 🎯 Pinging frontier cloud models for basic classification, data formatting, or embeddings adds network latency and high API costs. Quantized SLMs (like Phi-4-mini or Qwen 3B) running on local NPUs deliver sub-10ms response times with zero token bills and complete on-device privacy.",
-        "explanation": "Spot on if you picked Option 2! 🎯 Pinging frontier cloud models for basic classification, data formatting, or embeddings adds network latency and high API costs. Quantized SLMs (like Phi-4-mini or Qwen 3B) running on local NPUs deliver sub-10ms response times with zero token bills and complete on-device privacy."
+        "explanation": "Spot on if you picked Option 2! 🎯 Pinging frontier cloud models for basic classification, data formatting, or embeddings adds network latency and high API costs. Quantized SLMs (like Phi-4-mini or Qwen 3B) running on local NPUs deliver sub-10ms response times with zero token bills and complete on-device privacy.",
+        "poll_url": "https://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp"
       },
       "status": "PUBLISHED",
       "youtube_id": "f-CCh39WHfg",
       "youtube_url": "https://www.youtube.com/shorts/f-CCh39WHfg",
-      "whatsapp_post": "Day 40 / 100: Cloud AI Is Powerful, But Edge AI Is Private and Free\n\nRelying entirely on cloud AI APIs creates massive token bills and serious privacy vulnerabilities.\n\nThe breakthrough of 2026 is Local Small Language Models (SLMs) running directly on your device:\n1. Edge Silicon (NPUs): Models like Phi-4-mini and Qwen run at 90 tokens/second on consumer hardware.\n2. Complete Data Sovereignty: Zero API costs, zero internet dependency, and 100% private data isolation.\n\nHeavy reasoning stays on the cloud; daily operational intelligence belongs on the edge.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/f-CCh39WHfg\n\n🗳️ Test your knowledge (Day 40 Quiz):\nhttps://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp?si=9yQNqrAf32SOQdG_"
+      "whatsapp_post": "Day 40 / 100: Local SLMs on NPUs — (Day 40/100) Cloud AI Is Powerful, But Edge AI Is Private and Free\n\nDive into today's bite-sized AI architecture breakdown! We unpack Local SLMs on NPUs with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/f-CCh39WHfg\n\n🗳️ Test your knowledge (Day 40 Quiz):\nhttps://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp"
     },
     {
       "day": "Day 41",
@@ -1171,7 +1197,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, text to image, text to image explained, what is text to image, text to image prompting, midjourney composition tricks, flux image prompting, stop bad ai images, cinematic ai prompts, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 41 Discussion: Flux vs Midjourney v6 vs SDXL: Which model has the best prompt adherence right now? Drop your winner below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 42 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep041.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep041_Cover.png",
+      "cover_filename": "cover_ep041.png",
       "poll": {
         "question": "When you prompt AI to generate an image, which model connects text to visuals?",
         "options": [
@@ -1182,12 +1208,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nWhen you prompt AI to generate an image, which model connects text to visuals?\n\nA) CLIP (Contrastive Language-Image Pretraining)\nB) Pure ChatGPT text tokenizer\nC) Standard SQL database index\nD) Edge-TTS speech synthesizer\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked CLIP! 🎯 CLIP (Contrastive Language-Image Pretraining) projects text prompts and images into a shared semantic latent space, providing the mathematical coordinates that guide diffusion models to synthesize matching pixels.",
-        "explanation": "Spot on if you picked CLIP! 🎯 CLIP (Contrastive Language-Image Pretraining) projects text prompts and images into a shared semantic latent space, providing the mathematical coordinates that guide diffusion models to synthesize matching pixels."
+        "explanation": "Spot on if you picked CLIP! 🎯 CLIP (Contrastive Language-Image Pretraining) projects text prompts and images into a shared semantic latent space, providing the mathematical coordinates that guide diffusion models to synthesize matching pixels.",
+        "poll_url": "https://youtube.com/post/UgkxQAiP5H-jVjR95EwvlJXXNHgb0MI7kkcP"
       },
       "status": "PUBLISHED",
       "youtube_id": "Cptnp27fcfY",
       "youtube_url": "https://www.youtube.com/shorts/Cptnp27fcfY",
-      "whatsapp_post": "Day 41 / 100: Type a Sentence. Get a Full Image. How?\n\nYou type eight words into an AI prompt box, and two seconds later you have a 4K photorealistic image. How does text cross the bridge into pixels?\n\nThe magic relies on an architectural bridge called CLIP:\n1. Contrastive Encoding: Your text prompt is translated into a mathematical coordinate vector in latent space.\n2. Concept Alignment: The model maps those words to millions of visual patterns it learned during training.\n\nIt isn't searching a photo library—it is rendering mathematical imagination.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/Cptnp27fcfY\n\n🗳️ Test your knowledge (Day 41 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 41 / 100: Text to Image — (Day 41/100) Type a Sentence. Get a Full Image. How?\n\nDive into today's bite-sized AI architecture breakdown! We unpack Text to Image with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/Cptnp27fcfY\n\n🗳️ Test your knowledge (Day 41 Quiz):\nhttps://youtube.com/post/UgkxQAiP5H-jVjR95EwvlJXXNHgb0MI7kkcP\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxQAiP5H-jVjR95EwvlJXXNHgb0MI7kkcP"
     },
     {
       "day": "Day 42",
@@ -1200,7 +1228,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, text to video, text to video explained, what is text to video, ai video generation, runway gen 3 tutorial, kling ai video, fix flickering ai video, text to video tips, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 42 Discussion: Kling vs Runway Gen-3 vs Luma: Which video model gives you the highest temporal consistency? Drop your verdict below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 43 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep042.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep042_Cover.png",
+      "cover_filename": "cover_ep042.png",
       "poll": {
         "question": "What allows modern AI video models (like Sora) to keep objects consistent in time?",
         "options": [
@@ -1211,12 +1239,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat allows modern AI video models (like Sora) to keep objects consistent in time?\n\nA) Spatiotemporal latent patches (Space + Time)\nB) Generating 30 separate PNG images every second\nC) Using traditional Adobe Premiere filters\nD) Storing every single raw video frame in RAM\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Spatiotemporal latent patches! 🎬 Modern AI video world models (like Sora and Veo) treat video as a 4D spacetime volume, maintaining physical continuity, lighting, and object permanence across consecutive frames.",
-        "explanation": "Spot on if you picked Spatiotemporal latent patches! 🎬 Modern AI video world models (like Sora and Veo) treat video as a 4D spacetime volume, maintaining physical continuity, lighting, and object permanence across consecutive frames."
+        "explanation": "Spot on if you picked Spatiotemporal latent patches! 🎬 Modern AI video world models (like Sora and Veo) treat video as a 4D spacetime volume, maintaining physical continuity, lighting, and object permanence across consecutive frames.",
+        "poll_url": "https://youtube.com/post/UgkxPsgsDVzZ4OEjEuEpH1AiPwFpJlYaIHFx"
       },
       "status": "PUBLISHED",
       "youtube_id": "FQvfrZT9x1w",
       "youtube_url": "https://www.youtube.com/shorts/FQvfrZT9x1w",
-      "whatsapp_post": "Day 42 / 100: AI Now Generates Full Videos From Text\n\nFirst AI learned to write, then it learned to draw, and now it simulates physical motion across space and time.\n\nModels like Sora and Veo are not video stitchers—they are Spatiotemporal World Models:\n1. 3D Space + 1D Time: The model treats a video clip as a 4-dimensional volume of space-time latent patches.\n2. Physical Continuity: It simulates light rays, gravity, and object permanence across consecutive frames.\n\nWe are witnessing the death of static cameras and the birth of infinite generative cinema.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/FQvfrZT9x1w\n\n🗳️ Test your knowledge (Day 42 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 42 / 100: Text to Video — (Day 42/100) AI Now Generates Full Videos From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack Text to Video with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/FQvfrZT9x1w\n\n🗳️ Test your knowledge (Day 42 Quiz):\nhttps://youtube.com/post/UgkxPsgsDVzZ4OEjEuEpH1AiPwFpJlYaIHFx\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxPsgsDVzZ4OEjEuEpH1AiPwFpJlYaIHFx"
     },
     {
       "day": "Day 43",
@@ -1229,7 +1259,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, text to speech, text to speech explained, what is text to speech, f5 tts voice clone, zero shot voice cloning, stop robotic tts, open source tts local, how to clone voice ai, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 43 Discussion: F5-TTS vs ElevenLabs: Is open-source voice cloning ready to completely replace paid SaaS? Drop your verdict below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 44 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep043.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep043_Cover.png",
+      "cover_filename": "cover_ep043.png",
       "poll": {
         "question": "What is the primary role of a neural vocoder (like Vocos) in modern AI voice?",
         "options": [
@@ -1240,12 +1270,14 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 0,
         "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the primary role of a neural vocoder (like Vocos) in modern AI voice?\n\nA) Converts acoustic spectrograms into sound waves\nB) Translates English text into French audio\nC) Records human voice from a physical microphone\nD) Checks prompt grammar and spelling errors\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked converting spectrograms into sound waves! 🎙️ Modern zero-shot TTS models use flow matching to generate intermediate acoustic mel-spectrograms. The neural vocoder (like Vocos or HiFi-GAN) is the high-speed engine that decodes those latents into continuous 24kHz studio audio waves.",
-        "explanation": "Spot on if you picked converting spectrograms into sound waves! 🎙️ Modern zero-shot TTS models use flow matching to generate intermediate acoustic mel-spectrograms. The neural vocoder (like Vocos or HiFi-GAN) is the high-speed engine that decodes those latents into continuous 24kHz studio audio waves."
+        "explanation": "Spot on if you picked converting spectrograms into sound waves! 🎙️ Modern zero-shot TTS models use flow matching to generate intermediate acoustic mel-spectrograms. The neural vocoder (like Vocos or HiFi-GAN) is the high-speed engine that decodes those latents into continuous 24kHz studio audio waves.",
+        "poll_url": "https://youtube.com/post/Ugkx2zCIe3Xdt9RNc10VPMSfi_csFXjjpesE"
       },
       "status": "PUBLISHED",
       "youtube_id": "Li-x6Zidv4I",
       "youtube_url": "https://www.youtube.com/shorts/Li-x6Zidv4I",
-      "whatsapp_post": "Day 43 / 100: How AI Voices Sound So Human Now\n\nRemember robotic text-to-speech that sounded like an elevator announcement? Modern AI voice sounds indistinguishable from real human speech.\n\nThe breakthrough comes down to Neural Vocoders and Flow Matching:\n1. Prosody Modeling: The AI predicts breath micro-pauses, vocal cadence, and emotional chest inflection.\n2. Neural Vocoders (Vocos/HiFi-GAN): Decodes abstract acoustic latents into clean 24kHz studio audio waves in 100 milliseconds.\n\nSpeech synthesis is no longer robotic concatenation—it is acoustic physics in real time.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/Li-x6Zidv4I\n\n🗳️ Test your knowledge (Day 43 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 43 / 100: From Robot to Human—The Voice Synthesis Leap!\n\nRemember the robotic, soulless GPS voices from 2012?\n\nWe have officially entered the era of organic voice synthesis. Modern speech models don't stitch together chopped up recordings.\n\nHere is what powers the shift:\n• Raw Waveform Prediction: Flow-matching transformers predict continuous audio directly at 24kHz uncompressed.\n• Neural Vocoders: Bridge the gap between abstract spectrograms and rich, natural sound.\n• Organic Prosody: Models now naturally inject vocal fry, breathing, micro-hesitations, and emotional inflections.\n\nThe boundary between synthetic narration and human speech has completely dissolved.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/Li-x6Zidv4I\n\n🗳️ Test your knowledge (Day 43 Quiz):\nhttps://youtube.com/post/Ugkx2zCIe3Xdt9RNc10VPMSfi_csFXjjpesE\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/Ugkx2zCIe3Xdt9RNc10VPMSfi_csFXjjpesE"
     },
     {
       "day": "Day 44",
@@ -1258,23 +1290,24 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, diffusion models, diffusion models explained, what is diffusion models, how stable diffusion works, denoising u net math, latent diffusion tutorial, generative ai math, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 44 Discussion: Have you explored the math behind diffusion models? Latent space vs pixel space: Which is cleaner? Drop thoughts below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 45 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep044.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep044_Cover.png",
+      "cover_filename": "cover_ep044.png",
       "poll": {
-        "question": "How do Diffusion Models generate crisp, photorealistic art from pure static?",
+        "question": "During the image generation process in diffusion models like Flux or Stable Diffusion, what occurs during the 30-step iterative denoising phase?",
         "options": [
-          "Iteratively subtracting noise via reverse U-Net",
-          "Copy-pasting pixels from Google Images",
-          "Stretching and upscaling a 10x10 pixel thumbnail",
-          "Blending 1,000 photos with 50% opacity"
+          "The model adds more random Gaussian noise to obscure the image",
+          "The neural network progressively subtracts noise to reveal clean data",
+          "The prompt is converted directly into a hardcoded vector with no visual math"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nHow do Diffusion Models generate crisp, photorealistic art from pure static?\n\nA) Iteratively subtracting noise via reverse U-Net\nB) Copy-pasting pixels from Google Images\nC) Stretching and upscaling a 10x10 pixel thumbnail\nD) Blending 1,000 photos with 50% opacity\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked reverse U-Net denoising! 🎨 Diffusion models start with pure Gaussian static and iteratively subtract predicted noise across 25–30 steps, transforming television static into photorealistic imagery guided by text latents.",
-        "explanation": "Spot on if you picked reverse U-Net denoising! 🎨 Diffusion models start with pure Gaussian static and iteratively subtract predicted noise across 25–30 steps, transforming television static into photorealistic imagery guided by text latents."
+        "correct_index": 1,
+        "explanation": "Spot on if you picked Option 2! 🎯 Diffusion models start with pure random static. Over dozens of denoising steps, the neural network learns to reverse the chaos, gradually subtracting noise to reveal a hyper-detailed, prompt-aligned masterpiece from pure randomness.\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+        "poll_url": "https://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS",
+        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nDuring the image generation process in diffusion models like Flux or Stable Diffusion, what occurs during the 30-step iterative denoising phase?\n\nA) The model adds more random Gaussian noise to obscure the image\nB) The neural network progressively subtracts noise to reveal clean data\nC) The prompt is converted directly into a hardcoded vector with no visual math\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 2! 🎯 Diffusion models start with pure random static. Over dozens of denoising steps, the neural network learns to reverse the chaos, gradually subtracting noise to reveal a hyper-detailed, prompt-aligned masterpiece from pure randomness.\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
       },
-      "status": "READY 🚀",
-      "youtube_id": "",
-      "youtube_url": "",
-      "whatsapp_post": "Day 44 / 100: Born From Static—How Diffusion Models Create Art!\n\nEvery breathtaking AI artwork online started its life as a chaotic wall of television static.\n\nThis is the magic of Diffusion Models. The process relies on a two-part duality:\n1. The Forward Process: Pure visual data is systematically destroyed by adding Gaussian noise.\n2. The Reverse Process: Guided by your prompt, the neural network learns to subtract that noise across 30 iterative steps.\n\nIt is literally turning visual chaos into order. Pure randomness molded into museum-grade visuals.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 44 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "status": "PUBLISHED",
+      "youtube_id": "AtzKJda8-3c",
+      "youtube_url": "https://www.youtube.com/shorts/AtzKJda8-3c",
+      "whatsapp_post": "Day 44 / 100: Born From Static—How Diffusion Models Create Art!\n\nEvery breathtaking AI artwork online started its life as a chaotic wall of television static.\n\nDiffusion models like Flux or Stable Diffusion do not generate images all at once. They sculpt them out of chaos.\n\nHere is what occurs during the 30-step iterative denoising phase:\n• Pure Static Initialization: The image begins as pure high-dimensional Gaussian noise.\n• Iterative Subtraction: Guided by the prompt embeddings, a reverse U-Net or DiT neural network progressively predicts and subtracts noise.\n• Crisp Detail Emergence: Over dozens of denoising steps, the neural network reverses chaos to reveal a hyper-detailed masterpiece.\n\nPure randomness molded into museum-grade visuals.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/AtzKJda8-3c\n\n🗳️ Test your knowledge (Day 44 Quiz):\nhttps://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "poll_url": "https://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS"
     },
     {
       "day": "Day 45",
@@ -1287,21 +1320,24 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, ai avatars, ai avatars explained, what is ai avatars, open source ai avatar, liveportrait tutorial, heygen alternative free, zero cost ai video pipeline, talking head ai free, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 45 Discussion: LivePortrait vs HeyGen: Have you tested open-source talking heads on local hardware? Drop your experience below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 46 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep045.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep045_Cover.png",
+      "cover_filename": "cover_ep045.png",
       "poll": {
-        "question": "What math structure allows 2D AI avatars to speak with realistic lip-sync?",
+        "question": "In Day 45 on AI Avatars, how do digital presenters synchronize realistic lip movements and expressions with a text script?",
         "options": [
-          "3D Facial Blendshapes & FACS coefficients",
-          "Playing an animated GIF on an infinite loop",
-          "Static Photoshop warping layers",
-          "Random pixel color inversion"
+          "By recording a live human actor separately for all 40 languages",
+          "By manually animating every video frame by hand in 3D software",
+          "By mapping audio phonemes to 52 distinct 3D facial blendshapes"
         ],
-        "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nWhat math structure allows 2D AI avatars to speak with realistic lip-sync?\n\nA) 3D Facial Blendshapes & FACS coefficients\nB) Playing an animated GIF on an infinite loop\nC) Static Photoshop warping layers\nD) Random pixel color inversion\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked 3D Facial Blendshapes! 👤 Neural avatars track 3D Facial Action Coding System (FACS) blendshapes. By predicting rotation vectors and expression coefficients, the model deforms a 2D source portrait into natural lip-sync without full 3D mesh rendering.",
-        "explanation": "Spot on if you picked 3D Facial Blendshapes! 👤 Neural avatars track 3D Facial Action Coding System (FACS) blendshapes. By predicting rotation vectors and expression coefficients, the model deforms a 2D source portrait into natural lip-sync without full 3D mesh rendering."
+        "correct_index": 2,
+        "explanation": "Spot on if you picked Option 3! 🎯 Modern digital presenters require zero cameras or studio lighting. By pairing neural TTS with 52 distinct 3D facial blendshapes and micro-blinks, pipelines like LivePortrait + F5-TTS map audio phonemes directly onto photorealistic lip movements across 40+ languages in real time.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 46 drops tomorrow at 6 PM! 🚀",
+        "poll_url": "https://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG",
+        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nIn Day 45 on AI Avatars, how do digital presenters synchronize realistic lip movements and expressions with a text script?\n\nA) By recording a live human actor separately for all 40 languages\nB) By manually animating every video frame by hand in 3D software\nC) By mapping audio phonemes to 52 distinct 3D facial blendshapes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 3! 🎯 Modern digital presenters require zero cameras or studio lighting. By pairing neural TTS with 52 distinct 3D facial blendshapes and micro-blinks, pipelines like LivePortrait + F5-TTS map audio phonemes directly onto photorealistic lip movements across 40+ languages in real time.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 46 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "QUEUED",
-      "whatsapp_post": "Day 45 / 100: AI Avatars — (Day 45/100) This Video Host Isn't Real. Neither Am I (Almost)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Avatars with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 45 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 45 / 100: Digital Humans—AI Avatars & 3D Blendshapes!\n\nThis video host isn't real. Neither am I (almost).\n\nHow do digital presenters synchronize realistic lip movements and expressions with any text script across 40+ languages?\n\nHere is the architectural stack:\n• Neural Phoneme Alignment: Speech models slice spoken audio into millisecond phonetic tokens.\n• 3D Blendshapes (FACS): 52 muscle motion coefficients map phonemes directly to facial mesh deformations and micro-blinks.\n• Zero-Shot Motion Warping: Neural rendering pipelines animate a single still photo with zero 3D rigging or studio cameras.\n\nDigital presenters now talk, teach, and pitch without a camera or studio lighting.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/10PA16pK0-4\n\n🗳️ Test your knowledge (Day 45 Quiz):\nhttps://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "10PA16pK0-4",
+      "youtube_url": "https://www.youtube.com/shorts/10PA16pK0-4",
+      "poll_url": "https://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG"
     },
     {
       "day": "Day 46",
@@ -1314,7 +1350,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, voice cloning, voice cloning explained, what is voice cloning, voice cloning tutorial, clone voice from 10 seconds, f5 tts clean reference, audio mastering ai voice, ai voice clone test, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 46 Discussion: Ethics vs productivity: Should voice cloning require biometric watermarking by law? Drop your thoughts below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 47 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep046.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep046_Cover.png",
+      "cover_filename": "cover_ep046.png",
       "poll": {
         "question": "How can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?",
         "options": [
@@ -1327,8 +1363,10 @@ window.PUBLISHING_CATALOG = {
         "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nHow can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?\n\nA) Matching speaker timbre in acoustic latent space\nB) Retraining the entire neural network from zero\nC) Applying an aggressive robotic pitch shifter\nD) Downloading your private WhatsApp voice notes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked matching acoustic latent embeddings! 🎙️ Zero-shot models like F5-TTS extract vocal timbre, pitch distribution, and breath prosody into a compressed speaker embedding vector, synthesizing speech in that vocal signature without retraining weights.",
         "explanation": "Spot on if you picked matching acoustic latent embeddings! 🎙️ Zero-shot models like F5-TTS extract vocal timbre, pitch distribution, and breath prosody into a compressed speaker embedding vector, synthesizing speech in that vocal signature without retraining weights."
       },
-      "status": "QUEUED",
-      "whatsapp_post": "Day 46 / 100: Voice Cloning — (Day 46/100) AI Can Copy ANY Voice From 30 Seconds of Audio\n\nDive into today's bite-sized AI architecture breakdown! We unpack Voice Cloning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 46 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 46 / 100: Voice Cloning & Acoustic Biometrics—30 Seconds to Clone ANY Voice!\n\nIn 2020, voice cloning required 50 hours of soundproof studio recordings and days of GPU retraining.\n\nIn 2026, zero-shot models (like F5-TTS) clone your exact voice timbre from just 30 seconds of audio.\n\nHere is what powers the leap:\n• Speaker Latent Embeddings: A continuous flow-matching transformer maps speaker acoustic characteristics into high-dimensional latent space.\n• Mel Duration Scaling: Infers native speaking cadence, pitch inflection, and vocal fry without retraining weights.\n• Real-Time Inference: Runs entirely on consumer GPUs at 100% zero cloud cost.\n\nOne short clip. Now AI can speak in that exact voice forever.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/IHC7t0wtvDc\n\n🗳️ Test your knowledge (Day 46 Quiz):\n[Community Post staged & dropping on channel]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "IHC7t0wtvDc",
+      "youtube_url": "https://www.youtube.com/shorts/IHC7t0wtvDc"
     },
     {
       "day": "Day 47",
@@ -1341,7 +1379,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, ai music, ai music explained, what is ai music, ai music generation, suno ai tutorial, udio ai music tips, royalty free ai music, generate bgm for youtube, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 47 Discussion: Suno vs Udio: Who creates better vocal tracks and musical arrangements? Drop your winner below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 48 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep047.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep047_Cover.png",
+      "cover_filename": "cover_ep047.png",
       "poll": {
         "question": "How do generative audio models (Suno/Udio) compose full multi-track songs?",
         "options": [
@@ -1355,7 +1393,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked dual-stream diffusion! 🎵 Frontier AI music models run multi-stream diffusion across time-frequency representations, concurrently modeling harmonic progressions, percussion transients, and vocal phonemes."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 47 / 100: AI Music — (Day 47/100) AI Just Composed a Full Song. From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Music with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 47 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 47 / 100: AI Music — (Day 47/100) AI Just Composed a Full Song. From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Music with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 47 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 48",
@@ -1368,7 +1406,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, image upscaling, image upscaling explained, what is image upscaling, ai image upscaling, real esrgan tutorial, magnific ai alternative, how to upscale ai art, fix blurry images ai, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 48 Discussion: What is your favorite upscaler? Real-ESRGAN, Topaz Photo AI, or Magnific? Drop your choice below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 49 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep048.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep048_Cover.png",
+      "cover_filename": "cover_ep048.png",
       "poll": {
         "question": "How does Generative AI upscale blurry, low-res photos without smudging?",
         "options": [
@@ -1382,7 +1420,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked hallucinating texture priors! 🖼️ Unlike basic bilinear stretching which blurs edges, Generative Super-Resolution predicts plausible high-frequency textures (skin pores, fabric weaves, iris details) consistent with the real-world semantics of the scene."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 48 / 100: Image Upscaling — (Day 48/100) Blurry Old Photo? AI Fixes It Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Image Upscaling with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 48 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 48 / 100: Image Upscaling — (Day 48/100) Blurry Old Photo? AI Fixes It Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Image Upscaling with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 48 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 49",
@@ -1395,7 +1433,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, multimodal ai, multimodal ai explained, what is multimodal ai, vision language models, gpt 4o vs gemini vision, tokenizing images and text, multimodal architecture, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 49 Discussion: Gemini 1.5 Pro vs GPT-4o vision: Which handles complex technical diagrams better? Drop your test results below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 50 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep049.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep049_Cover.png",
+      "cover_filename": "cover_ep049.png",
       "poll": {
         "question": "What makes native multimodal AI (like Gemini) smarter than tool-stitched apps?",
         "options": [
@@ -1409,7 +1447,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked early fusion in a shared token space! 🧠 Native multimodal models (like Gemini) process text, audio, and pixel patches within one unified transformer architecture, eliminating the translation lag and context loss of tool-stitched pipelines."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 50",
@@ -1422,7 +1460,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "shorts, viral shorts, trending shorts, viral, trending, style transfer, style transfer explained, what is style transfer, neural style transfer, ip adapter tutorial, controlnet style transfer, stable diffusion style match, ai art transformation, chatgpt, ai, artificial intelligence, machine learning, learn ai, 100 days of ai, sigma byte, sarav x ai, iamsaravofficial, tech shorts, tech explained",
       "pinned_comment": "👇 Day 50 Discussion: IP-Adapter vs ControlNet: What's the cleanest way to transfer reference styles without distorting faces? Drop it below!\n\nDrop your answer in the comments! 💬 I read and reply to every comment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 51 drops tomorrow at 6 PM! 🚀",
       "cover_url": "assets/sarav_ai/cover_ep050.png",
-      "cover_filename": "Sarav_AI_Shorts_Ep050_Cover.png",
+      "cover_filename": "cover_ep050.png",
       "poll": {
         "question": "How does Neural Style Transfer paint your photo in the exact style of Van Gogh?",
         "options": [
@@ -1436,7 +1474,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked CNN feature map separation! 🎨 Deep Convolutional Neural Networks separate content representations (high-level feature maps) from artistic style representations (Gram matrices of spatial correlations), allowing style transfer without altering object geometry."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 51",
@@ -1463,7 +1501,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Bias', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 52",
@@ -1490,7 +1528,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Alignment', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 53",
@@ -1517,7 +1555,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'RLHF', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 53 / 100: RLHF — (Day 53/100) The Secret Training Step That Makes AI 'Nice.'\n\nDive into today's bite-sized AI architecture breakdown! We unpack RLHF with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 53 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 53 / 100: RLHF — (Day 53/100) The Secret Training Step That Makes AI 'Nice.'\n\nDive into today's bite-sized AI architecture breakdown! We unpack RLHF with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 53 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 54",
@@ -1544,7 +1582,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Deepfakes', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 54 / 100: Deepfakes — (Day 54/100) Fake Videos That Look 100% Real. Here's the Danger\n\nDive into today's bite-sized AI architecture breakdown! We unpack Deepfakes with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 54 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 54 / 100: Deepfakes — (Day 54/100) Fake Videos That Look 100% Real. Here's the Danger\n\nDive into today's bite-sized AI architecture breakdown! We unpack Deepfakes with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 54 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 55",
@@ -1571,7 +1609,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Regulation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 55 / 100: AI Regulation — (Day 55/100) Governments Are Racing to Control AI. Here's Why\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Regulation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 55 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 55 / 100: AI Regulation — (Day 55/100) Governments Are Racing to Control AI. Here's Why\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Regulation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 55 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 56",
@@ -1598,7 +1636,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Explainable AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 56 / 100: Explainable AI — (Day 56/100) Why 'AI Said So' Isn't Good Enough Anymore\n\nDive into today's bite-sized AI architecture breakdown! We unpack Explainable AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 56 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 56 / 100: Explainable AI — (Day 56/100) Why 'AI Said So' Isn't Good Enough Anymore\n\nDive into today's bite-sized AI architecture breakdown! We unpack Explainable AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 56 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 57",
@@ -1625,7 +1663,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Privacy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 57 / 100: AI Privacy — (Day 57/100) Is Your Data Training the Next AI Model?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Privacy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 57 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 57 / 100: AI Privacy — (Day 57/100) Is Your Data Training the Next AI Model?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Privacy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 57 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 58",
@@ -1652,7 +1690,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Watermarking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 58 / 100: AI Watermarking — (Day 58/100) How We'll Tell AI Content From Real Content\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Watermarking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 58 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 58 / 100: AI Watermarking — (Day 58/100) How We'll Tell AI Content From Real Content\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Watermarking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 58 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 59",
@@ -1679,7 +1717,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Model Cards', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 59 / 100: Model Cards — (Day 59/100) The 'Nutrition Label' for AI Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Cards with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 59 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 59 / 100: Model Cards — (Day 59/100) The 'Nutrition Label' for AI Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Cards with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 59 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 60",
@@ -1706,7 +1744,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Responsible AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 60 / 100: Responsible AI — (Day 60/100) The Framework Every Company Building AI Needs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Responsible AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 60 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 60 / 100: Responsible AI — (Day 60/100) The Framework Every Company Building AI Needs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Responsible AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 60 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 61",
@@ -1733,7 +1771,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Copilots', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 61 / 100: AI Copilots — (Day 61/100) Why Every App Is Getting an AI Sidekick\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Copilots with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 61 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 61 / 100: AI Copilots — (Day 61/100) Why Every App Is Getting an AI Sidekick\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Copilots with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 61 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 62",
@@ -1760,7 +1798,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'No Code AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 62 / 100: No Code AI — (Day 62/100) Build an AI App Without Writing Code\n\nDive into today's bite-sized AI architecture breakdown! We unpack No Code AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 62 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 62 / 100: No Code AI — (Day 62/100) Build an AI App Without Writing Code\n\nDive into today's bite-sized AI architecture breakdown! We unpack No Code AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 62 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 63",
@@ -1787,7 +1825,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Enterprise AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 63 / 100: Enterprise AI — (Day 63/100) Why Big Companies Are Slower to Use AI Than You Think\n\nDive into today's bite-sized AI architecture breakdown! We unpack Enterprise AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 63 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 63 / 100: Enterprise AI — (Day 63/100) Why Big Companies Are Slower to Use AI Than You Think\n\nDive into today's bite-sized AI architecture breakdown! We unpack Enterprise AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 63 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 64",
@@ -1814,7 +1852,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Automation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 64 / 100: AI Automation — (Day 64/100) AI Doing Your Repetitive Tasks While You Sleep\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Automation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 64 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 64 / 100: AI Automation — (Day 64/100) AI Doing Your Repetitive Tasks While You Sleep\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Automation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 64 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 65",
@@ -1841,7 +1879,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Customer Support', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 65 / 100: AI Customer Support — (Day 65/100) Why That Chat Support Might Be AI, Not Human\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Customer Support with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 65 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 65 / 100: AI Customer Support — (Day 65/100) Why That Chat Support Might Be AI, Not Human\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Customer Support with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 65 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 66",
@@ -1868,7 +1906,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Code Assistants', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 66 / 100: AI Code Assistants — (Day 66/100) How AI Writes Half Your Code Now\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Code Assistants with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 66 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 66 / 100: AI Code Assistants — (Day 66/100) How AI Writes Half Your Code Now\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Code Assistants with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 66 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 67",
@@ -1895,7 +1933,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Governance', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 67 / 100: AI Governance — (Day 67/100) The Rulebook Companies Need Before Using AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Governance with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 67 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 67 / 100: AI Governance — (Day 67/100) The Rulebook Companies Need Before Using AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Governance with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 67 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 68",
@@ -1922,7 +1960,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI ROI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 68 / 100: AI ROI — (Day 68/100) How Companies Know If AI Is Actually Worth It\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI ROI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 68 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 68 / 100: AI ROI — (Day 68/100) How Companies Know If AI Is Actually Worth It\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI ROI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 68 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 69",
@@ -1949,7 +1987,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Change Management', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 69 / 100: AI Change Management — (Day 69/100) Why AI Rollouts Fail Even With Great Tech\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Change Management with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 69 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 69 / 100: AI Change Management — (Day 69/100) Why AI Rollouts Fail Even With Great Tech\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Change Management with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 69 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 70",
@@ -1976,7 +2014,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Vendor Lock-in', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 70 / 100: Vendor Lock-in — (Day 70/100) The Hidden Cost of Betting on One AI Provider\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vendor Lock-in with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 70 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 70 / 100: Vendor Lock-in — (Day 70/100) The Hidden Cost of Betting on One AI Provider\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vendor Lock-in with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 70 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 71",
@@ -2003,7 +2041,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Fine-tuning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 71 / 100: Fine-tuning — (Day 71/100) Teaching AI YOUR Specific Knowledge & Tone\n\nDive into today's bite-sized AI architecture breakdown! We unpack Fine-tuning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 71 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 71 / 100: Fine-tuning — (Day 71/100) Teaching AI YOUR Specific Knowledge & Tone\n\nDive into today's bite-sized AI architecture breakdown! We unpack Fine-tuning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 71 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 72",
@@ -2030,7 +2068,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'LoRA', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 72 / 100: LoRA — (Day 72/100) Train AI on a Laptop With 1% of the Weights: LoRA\n\nDive into today's bite-sized AI architecture breakdown! We unpack LoRA with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 72 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 72 / 100: LoRA — (Day 72/100) Train AI on a Laptop With 1% of the Weights: LoRA\n\nDive into today's bite-sized AI architecture breakdown! We unpack LoRA with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 72 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 73",
@@ -2057,7 +2095,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Quantization', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 73 / 100: Quantization — (Day 73/100) How to Shrink Giant AI Models to Phone Size: Quantization\n\nDive into today's bite-sized AI architecture breakdown! We unpack Quantization with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 73 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 73 / 100: Quantization — (Day 73/100) How to Shrink Giant AI Models to Phone Size: Quantization\n\nDive into today's bite-sized AI architecture breakdown! We unpack Quantization with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 73 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 74",
@@ -2084,7 +2122,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Mixture of Experts', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 74 / 100: Mixture of Experts — (Day 74/100) Why Modern AI Uses Multiple Mini-Brains: MoE\n\nDive into today's bite-sized AI architecture breakdown! We unpack Mixture of Experts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 74 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 74 / 100: Mixture of Experts — (Day 74/100) Why Modern AI Uses Multiple Mini-Brains: MoE\n\nDive into today's bite-sized AI architecture breakdown! We unpack Mixture of Experts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 74 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 75",
@@ -2111,7 +2149,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Knowledge Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 75 / 100: Knowledge Distillation — (Day 75/100) How Giant AI Models Teach Pocket SLMs: Distillation\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 75 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 75 / 100: Knowledge Distillation — (Day 75/100) How Giant AI Models Teach Pocket SLMs: Distillation\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 75 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 76",
@@ -2138,7 +2176,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Scaling Laws', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 76 / 100: Scaling Laws — (Day 76/100) The Secret Equation That Predicts How Smart AI Gets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Scaling Laws with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 76 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 76 / 100: Scaling Laws — (Day 76/100) The Secret Equation That Predicts How Smart AI Gets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Scaling Laws with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 76 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 77",
@@ -2165,7 +2203,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Pretraining', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 77 / 100: Pretraining — (Day 77/100) The 2 Training Steps Every AI Goes Through\n\nDive into today's bite-sized AI architecture breakdown! We unpack Pretraining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 77 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 77 / 100: Pretraining — (Day 77/100) The 2 Training Steps Every AI Goes Through\n\nDive into today's bite-sized AI architecture breakdown! We unpack Pretraining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 77 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 78",
@@ -2192,7 +2230,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Synthetic Data', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 78 / 100: Synthetic Data — (Day 78/100) Can AI Train AI Without Human Data? Synthetic Sets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Synthetic Data with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 78 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 78 / 100: Synthetic Data — (Day 78/100) Can AI Train AI Without Human Data? Synthetic Sets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Synthetic Data with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 78 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 79",
@@ -2219,7 +2257,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Model Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 79 / 100: Model Distillation — (Day 79/100) Cutting Token Bills by 90% With Distilled Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 79 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 79 / 100: Model Distillation — (Day 79/100) Cutting Token Bills by 90% With Distilled Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 79 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 80",
@@ -2246,7 +2284,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Sparse Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 80 / 100: Sparse Models — (Day 80/100) How Sparse Models Save Massive Computing Power\n\nDive into today's bite-sized AI architecture breakdown! We unpack Sparse Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 80 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 80 / 100: Sparse Models — (Day 80/100) How Sparse Models Save Massive Computing Power\n\nDive into today's bite-sized AI architecture breakdown! We unpack Sparse Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 80 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 81",
@@ -2273,7 +2311,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AGI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 81 / 100: AGI — (Day 81/100) What Happens When AI Matches Human Intelligence?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AGI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 81 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 81 / 100: AGI — (Day 81/100) What Happens When AI Matches Human Intelligence?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AGI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 81 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 82",
@@ -2300,7 +2338,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Emergent Abilities', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 82 / 100: Emergent Abilities — (Day 82/100) AI Skills That Just... Appear Out of Nowhere\n\nDive into today's bite-sized AI architecture breakdown! We unpack Emergent Abilities with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 82 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 82 / 100: Emergent Abilities — (Day 82/100) AI Skills That Just... Appear Out of Nowhere\n\nDive into today's bite-sized AI architecture breakdown! We unpack Emergent Abilities with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 82 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 83",
@@ -2327,7 +2365,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Frontier Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 83 / 100: Frontier Models — (Day 83/100) The 'Latest and Greatest' AI You Keep Hearing About\n\nDive into today's bite-sized AI architecture breakdown! We unpack Frontier Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 83 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 83 / 100: Frontier Models — (Day 83/100) The 'Latest and Greatest' AI You Keep Hearing About\n\nDive into today's bite-sized AI architecture breakdown! We unpack Frontier Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 83 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 84",
@@ -2354,7 +2392,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Open Source AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 84 / 100: Open Source AI — (Day 84/100) Should AI Models Be Free for Everyone to See?\n\nDive into today's bite-sized AI architecture breakdown! We unpack Open Source AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 84 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 84 / 100: Open Source AI — (Day 84/100) Should AI Models Be Free for Everyone to See?\n\nDive into today's bite-sized AI architecture breakdown! We unpack Open Source AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 84 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 85",
@@ -2381,7 +2419,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'On-device AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 85 / 100: On-device AI — (Day 85/100) Why Your Phone Might Not Need the Internet for AI Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack On-device AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 85 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 85 / 100: On-device AI — (Day 85/100) Why Your Phone Might Not Need the Internet for AI Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack On-device AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 85 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 86",
@@ -2408,7 +2446,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Agents Economy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 86 / 100: AI Agents Economy — (Day 86/100) Are AI Agents About to Get Their Own Jobs?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents Economy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 86 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 86 / 100: AI Agents Economy — (Day 86/100) Are AI Agents About to Get Their Own Jobs?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents Economy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 86 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 87",
@@ -2435,7 +2473,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Local LLMs', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 87 / 100: Local LLMs — (Day 87/100) Run a Full AI Model Without the Internet\n\nDive into today's bite-sized AI architecture breakdown! We unpack Local LLMs with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 87 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 87 / 100: Local LLMs — (Day 87/100) Run a Full AI Model Without the Internet\n\nDive into today's bite-sized AI architecture breakdown! We unpack Local LLMs with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 87 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 88",
@@ -2462,7 +2500,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'Context Caching', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 88 / 100: Context Caching — (Day 88/100) How AI Apps Got Cheaper AND Faster\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Caching with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 88 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 88 / 100: Context Caching — (Day 88/100) How AI Apps Got Cheaper AND Faster\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Caching with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 88 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 89",
@@ -2489,7 +2527,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'MCP', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 89 / 100: MCP — (Day 89/100) Why Every AI Company Is Suddenly Adopting ONE Standard\n\nDive into today's bite-sized AI architecture breakdown! We unpack MCP with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 89 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 89 / 100: MCP — (Day 89/100) Why Every AI Company Is Suddenly Adopting ONE Standard\n\nDive into today's bite-sized AI architecture breakdown! We unpack MCP with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 89 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 90",
@@ -2516,7 +2554,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Model Names', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 90 / 100: AI Model Names — (Day 90/100) Why AI Models Have Such Weird, Epic Names\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Model Names with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 90 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 90 / 100: AI Model Names — (Day 90/100) Why AI Models Have Such Weird, Epic Names\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Model Names with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 90 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 91",
@@ -2543,7 +2581,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Skills', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 91 / 100: AI Skills — (Day 91/100) This Skill Could Be as Valuable as Coding Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Skills with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 91 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 91 / 100: AI Skills — (Day 91/100) This Skill Could Be as Valuable as Coding Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Skills with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 91 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 92",
@@ -2570,7 +2608,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Note Taking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 92 / 100: AI Note Taking — (Day 92/100) Turn Messy Notes Into Organized Summaries Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Note Taking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 92 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 92 / 100: AI Note Taking — (Day 92/100) Turn Messy Notes Into Organized Summaries Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Note Taking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 92 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 93",
@@ -2597,7 +2635,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Coding', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 93 / 100: AI Coding — (Day 93/100) Write Code 10x Faster With This Workflow\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Coding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 93 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 93 / 100: AI Coding — (Day 93/100) Write Code 10x Faster With This Workflow\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Coding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 93 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 94",
@@ -2624,7 +2662,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Email', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 94 / 100: AI Email — (Day 94/100) Never Stare at a Blank Email Again\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Email with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 94 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 94 / 100: AI Email — (Day 94/100) Never Stare at a Blank Email Again\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Email with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 94 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 95",
@@ -2651,7 +2689,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Research', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 95 / 100: AI Research — (Day 95/100) Turn Hours of Research Into Minutes\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Research with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 95 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 95 / 100: AI Research — (Day 95/100) Turn Hours of Research Into Minutes\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Research with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 95 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 96",
@@ -2678,7 +2716,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Data Analysis', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 96 / 100: AI Data Analysis — (Day 96/100) Ask Your Spreadsheet Questions in Plain English\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Data Analysis with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 96 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 96 / 100: AI Data Analysis — (Day 96/100) Ask Your Spreadsheet Questions in Plain English\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Data Analysis with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 96 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 97",
@@ -2705,7 +2743,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Presentations', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 97 / 100: AI Presentations — (Day 97/100) Turn a Rough Outline Into Full Slides\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Presentations with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 97 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 97 / 100: AI Presentations — (Day 97/100) Turn a Rough Outline Into Full Slides\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Presentations with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 97 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 98",
@@ -2732,7 +2770,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Learning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 98 / 100: AI Learning — (Day 98/100) Your Personal Tutor Is Now Available 24/7\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 98 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 98 / 100: AI Learning — (Day 98/100) Your Personal Tutor Is Now Available 24/7\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 98 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 99",
@@ -2759,7 +2797,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Productivity', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 99 / 100: AI Productivity — (Day 99/100) 5 Tasks You're Still Doing Manually (Stop That)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Productivity with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 99 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 99 / 100: AI Productivity — (Day 99/100) 5 Tasks You're Still Doing Manually (Stop That)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Productivity with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 99 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     },
     {
       "day": "Day 100",
@@ -2786,7 +2824,7 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on! In 'AI Tools', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
       },
       "status": "QUEUED",
-      "whatsapp_post": "Day 100 / 100: AI Tools — (Day 100/100) Stop Using ONE AI for Everything\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Tools with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 100 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]"
+      "whatsapp_post": "Day 100 / 100: AI Tools — (Day 100/100) Stop Using ONE AI for Everything\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Tools with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 100 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
     }
   ],
   "the_loop": [
@@ -2805,8 +2843,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_001.jpg",
       "cover_filename": "cover_tale_001.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "X63h_VeCsW8",
-      "youtube_url": "https://www.youtube.com/shorts/X63h_VeCsW8"
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 2,
@@ -2823,8 +2866,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_002.jpg",
       "cover_filename": "cover_tale_002.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "5_DCih2Pnb4",
-      "youtube_url": "https://www.youtube.com/shorts/5_DCih2Pnb4"
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 3,
@@ -2841,8 +2889,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_003.jpg",
       "cover_filename": "cover_tale_003.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "CjSIFUaPOFY",
-      "youtube_url": "https://www.youtube.com/shorts/CjSIFUaPOFY"
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 4,
@@ -2859,8 +2912,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_004.jpg",
       "cover_filename": "cover_tale_004.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "RDhmdNBA3Jo",
-      "youtube_url": "https://www.youtube.com/shorts/RDhmdNBA3Jo"
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 5,
@@ -2877,8 +2935,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_005.jpg",
       "cover_filename": "cover_tale_005.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "0ou3XMg29q0",
-      "youtube_url": "https://www.youtube.com/shorts/0ou3XMg29q0"
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 6,
@@ -2895,8 +2958,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_006.jpg",
       "cover_filename": "cover_tale_006.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "-lV7TCRAI5Y",
-      "youtube_url": "https://www.youtube.com/shorts/-lV7TCRAI5Y"
+      "youtube_id": "mf7Qv7vkejU",
+      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 7,
@@ -2913,8 +2981,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_007.jpg",
       "cover_filename": "cover_tale_007.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "bU2OeV8wCLQ",
-      "youtube_url": "https://www.youtube.com/shorts/bU2OeV8wCLQ"
+      "youtube_id": "XgwwrULEAAw",
+      "youtube_url": "https://www.youtube.com/shorts/XgwwrULEAAw",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 8,
@@ -2931,8 +3004,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_008.jpg",
       "cover_filename": "cover_tale_008.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "1wMeutJGtc0",
-      "youtube_url": "https://www.youtube.com/shorts/1wMeutJGtc0"
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 9,
@@ -2949,8 +3027,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_009.jpg",
       "cover_filename": "cover_tale_009.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "X_QalCX-Q0U",
-      "youtube_url": "https://www.youtube.com/shorts/X_QalCX-Q0U"
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 10,
@@ -2967,8 +3050,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_010.jpg",
       "cover_filename": "cover_tale_010.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "ilF0HoPIQtg",
-      "youtube_url": "https://www.youtube.com/shorts/ilF0HoPIQtg"
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 11,
@@ -2985,8 +3073,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_011.jpg",
       "cover_filename": "cover_tale_011.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "7wF29SD6-LI",
-      "youtube_url": "https://www.youtube.com/shorts/7wF29SD6-LI"
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 12,
@@ -3003,8 +3096,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_012.jpg",
       "cover_filename": "cover_tale_012.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "g4V86FGbdeM",
-      "youtube_url": "https://www.youtube.com/shorts/g4V86FGbdeM"
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 13,
@@ -3021,8 +3119,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_013.jpg",
       "cover_filename": "cover_tale_013.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "8yx_NtGYVpQ",
-      "youtube_url": "https://www.youtube.com/shorts/8yx_NtGYVpQ"
+      "youtube_id": "mf7Qv7vkejU",
+      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 14,
@@ -3039,8 +3142,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_014.jpg",
       "cover_filename": "cover_tale_014.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "4L1rkPyAg1c",
-      "youtube_url": "https://www.youtube.com/shorts/4L1rkPyAg1c"
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 15,
@@ -3057,8 +3165,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_015.jpg",
       "cover_filename": "cover_tale_015.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "G-VIYdpaQ2g",
-      "youtube_url": "https://www.youtube.com/shorts/G-VIYdpaQ2g"
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 16,
@@ -3075,8 +3188,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_016.jpg",
       "cover_filename": "cover_tale_016.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "2f1ma97EXmg",
-      "youtube_url": "https://www.youtube.com/shorts/2f1ma97EXmg"
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 17,
@@ -3093,8 +3211,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_017.jpg",
       "cover_filename": "cover_tale_017.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "FNCk21kH0_A",
-      "youtube_url": "https://www.youtube.com/shorts/FNCk21kH0_A"
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 18,
@@ -3111,8 +3234,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_018.jpg",
       "cover_filename": "cover_tale_018.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vjhlHng_3Fk",
-      "youtube_url": "https://www.youtube.com/shorts/vjhlHng_3Fk"
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 19,
@@ -3129,8 +3257,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_019.jpg",
       "cover_filename": "cover_tale_019.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "mbckYG85Hbk",
-      "youtube_url": "https://www.youtube.com/shorts/mbckYG85Hbk"
+      "youtube_id": "mf7Qv7vkejU",
+      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 20,
@@ -3147,8 +3280,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_020.jpg",
       "cover_filename": "cover_tale_020.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "ifM_tOaT-jw",
-      "youtube_url": "https://www.youtube.com/shorts/ifM_tOaT-jw"
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 21,
@@ -3165,8 +3303,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_021.jpg",
       "cover_filename": "cover_tale_021.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "CIC8O381F4c",
-      "youtube_url": "https://www.youtube.com/shorts/CIC8O381F4c"
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 22,
@@ -3183,8 +3326,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_022.jpg",
       "cover_filename": "cover_tale_022.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "g4TwV5lM1D8",
-      "youtube_url": "https://www.youtube.com/shorts/g4TwV5lM1D8"
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 23,
@@ -3201,8 +3349,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_023.jpg",
       "cover_filename": "cover_tale_023.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "2vXrp2kVrB4",
-      "youtube_url": "https://www.youtube.com/shorts/2vXrp2kVrB4"
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 24,
@@ -3219,8 +3372,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_024.jpg",
       "cover_filename": "cover_tale_024.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "GwmdZN5d0e8",
-      "youtube_url": "https://www.youtube.com/shorts/GwmdZN5d0e8"
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 25,
@@ -3237,8 +3395,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_025.jpg",
       "cover_filename": "cover_tale_025.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "kNncJhSb8Zc",
-      "youtube_url": "https://www.youtube.com/shorts/kNncJhSb8Zc"
+      "youtube_id": "mf7Qv7vkejU",
+      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 26,
@@ -3255,8 +3418,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_026.jpg",
       "cover_filename": "cover_tale_026.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "zamOBe0-vPo",
-      "youtube_url": "https://www.youtube.com/shorts/zamOBe0-vPo"
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 27,
@@ -3273,8 +3441,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_027.jpg",
       "cover_filename": "cover_tale_027.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "MZrEJ-xejZE",
-      "youtube_url": "https://www.youtube.com/shorts/MZrEJ-xejZE"
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 28,
@@ -3291,8 +3464,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_028.jpg",
       "cover_filename": "cover_tale_028.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "36Ai0o4E8HU",
-      "youtube_url": "https://www.youtube.com/shorts/36Ai0o4E8HU"
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 29,
@@ -3309,8 +3487,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_029.jpg",
       "cover_filename": "cover_tale_029.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "IqP5HLEhgvY",
-      "youtube_url": "https://www.youtube.com/shorts/IqP5HLEhgvY"
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 30,
@@ -3327,8 +3510,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_030.jpg",
       "cover_filename": "cover_tale_030.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "bSkSpR5CyGU",
-      "youtube_url": "https://www.youtube.com/shorts/bSkSpR5CyGU"
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 31,
@@ -3345,8 +3533,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_031.jpg",
       "cover_filename": "cover_tale_031.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "YCapkhSNgT0",
-      "youtube_url": "https://www.youtube.com/shorts/YCapkhSNgT0"
+      "youtube_id": "mf7Qv7vkejU",
+      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 32,
@@ -3363,8 +3556,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_032.jpg",
       "cover_filename": "cover_tale_032.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "JyL3bTLTM6E",
-      "youtube_url": "https://www.youtube.com/shorts/JyL3bTLTM6E"
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 33,
@@ -3381,8 +3579,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_033.jpg",
       "cover_filename": "cover_tale_033.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "OeCjG-VmgMc",
-      "youtube_url": "https://www.youtube.com/shorts/OeCjG-VmgMc"
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 34,
@@ -3399,8 +3602,13 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_034.jpg",
       "cover_filename": "cover_tale_034.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "6lp_9vJKdKA",
-      "youtube_url": "https://www.youtube.com/shorts/6lp_9vJKdKA"
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 35,
@@ -3416,7 +3624,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌸✦\nWhy can a single scent bring back an entire decade in less than a second?",
       "cover_url": "assets/the_loop/cover_tale_035.jpg",
       "cover_filename": "cover_tale_035.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 36,
@@ -3432,7 +3647,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⚖️✦\nWho judges the court when the judge himself is the one hiding the crime?",
       "cover_url": "assets/the_loop/cover_tale_036.jpg",
       "cover_filename": "cover_tale_036.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 37,
@@ -3448,7 +3670,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 📖✦\nIs any chapter in your life ever truly closed as long as you choose to keep writing?",
       "cover_url": "assets/the_loop/cover_tale_037.jpg",
       "cover_filename": "cover_tale_037.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 38,
@@ -3464,7 +3691,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🎖️✦\nCan a shiny medal ever silence the battles that still rage inside a soldier's mind?",
       "cover_url": "assets/the_loop/cover_tale_038.jpg",
       "cover_filename": "cover_tale_038.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "mf7Qv7vkejU",
+      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 39,
@@ -3480,7 +3714,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ☔✦\nHave you ever had an unexpected storm bring you the greatest blessing of your life?",
       "cover_url": "assets/the_loop/cover_tale_039.jpg",
       "cover_filename": "cover_tale_039.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 40,
@@ -3496,7 +3737,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌌✦\nIf the stars reset tonight, would you notice the simulation rebooting?",
       "cover_url": "assets/the_loop/cover_tale_040.jpg",
       "cover_filename": "cover_tale_040.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 41,
@@ -3512,7 +3760,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 👣✦\nDo you believe two souls are destined to meet, or is every connection a conscious choice?",
       "cover_url": "assets/the_loop/cover_tale_041.jpg",
       "cover_filename": "cover_tale_041.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 42,
@@ -3528,7 +3783,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 📓✦\nIf tomorrow's pages were already written, would you read ahead or close the diary?",
       "cover_url": "assets/the_loop/cover_tale_042.jpg",
       "cover_filename": "cover_tale_042.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 43,
@@ -3544,7 +3806,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 📦✦\nIn the end, does all worldly ambition shrink down to the same quiet wooden box?",
       "cover_url": "assets/the_loop/cover_tale_043.jpg",
       "cover_filename": "cover_tale_043.jpg",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 44,
@@ -3560,7 +3829,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🏔️✦\nCan true courage exist without your knees shaking first?",
       "cover_url": "assets/the_loop/cover_tale_044.jpg",
       "cover_filename": "cover_tale_044.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 45,
@@ -3576,7 +3850,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🧵✦\nWhat memory or family tradition has kept generations warm in your home?",
       "cover_url": "assets/the_loop/cover_tale_045.jpg",
       "cover_filename": "cover_tale_045.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 46,
@@ -3592,7 +3871,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕰️✦\nIf the clock struck thirteen, would you stop and question reality or keep rushing?",
       "cover_url": "assets/the_loop/cover_tale_046.jpg",
       "cover_filename": "cover_tale_046.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 47,
@@ -3608,7 +3892,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🐂✦\nWas the monster in the labyrinth evil, or was it just waiting for someone to bring flowers?",
       "cover_url": "assets/the_loop/cover_tale_047.jpg",
       "cover_filename": "cover_tale_047.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 48,
@@ -3624,7 +3913,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⏳✦\nHow can ten years of longing vanish in ten seconds of silence?",
       "cover_url": "assets/the_loop/cover_tale_048.jpg",
       "cover_filename": "cover_tale_048.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 49,
@@ -3640,7 +3934,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 💍✦\nWhat does it mean to offer someone not just your hand, but your entire universe?",
       "cover_url": "assets/the_loop/cover_tale_049.jpg",
       "cover_filename": "cover_tale_049.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 50,
@@ -3656,7 +3955,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🌿✦\nHow does a fragile seedling break through solid pavement?",
       "cover_url": "assets/the_loop/cover_tale_050.jpg",
       "cover_filename": "cover_tale_050.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 51,
@@ -3672,7 +3976,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 📱✦\nWhy do we keep voicemails from people who will never call again?",
       "cover_url": "assets/the_loop/cover_tale_051.jpg",
       "cover_filename": "cover_tale_051.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 52,
@@ -3688,7 +3997,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏮✦\nWere the ghost ships guiding the lost sailors home, or leading them into the deep?",
       "cover_url": "assets/the_loop/cover_tale_052.jpg",
       "cover_filename": "cover_tale_052.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 53,
@@ -3704,7 +4018,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🔍✦\nDid the detective solve the mystery, or did he sacrifice himself to protect someone?",
       "cover_url": "assets/the_loop/cover_tale_053.jpg",
       "cover_filename": "cover_tale_053.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 54,
@@ -3720,7 +4039,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🚉✦\nHave you ever gotten off at the wrong station, only to find the exact right soul?",
       "cover_url": "assets/the_loop/cover_tale_054.jpg",
       "cover_filename": "cover_tale_054.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 55,
@@ -3736,7 +4060,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? ⛰️✦\nDoes silence hold more wisdom than any spoken answer could ever give?",
       "cover_url": "assets/the_loop/cover_tale_055.jpg",
       "cover_filename": "cover_tale_055.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 56,
@@ -3752,7 +4081,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🤖✦\nIf an artificial creation learns to pray, what do you think it prays for?",
       "cover_url": "assets/the_loop/cover_tale_056.jpg",
       "cover_filename": "cover_tale_056.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 57,
@@ -3768,7 +4102,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🐕✦\nIs there any loyalty purer than a faithful companion waiting at an open gate?",
       "cover_url": "assets/the_loop/cover_tale_057.jpg",
       "cover_filename": "cover_tale_057.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 58,
@@ -3784,7 +4123,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👀✦\nHave you ever had a conversation where neither person spoke a single word?",
       "cover_url": "assets/the_loop/cover_tale_058.jpg",
       "cover_filename": "cover_tale_058.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 59,
@@ -3800,7 +4144,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🚒✦\nWas the rain an act of mercy, or did nature just steal the firefighters' victory?",
       "cover_url": "assets/the_loop/cover_tale_059.jpg",
       "cover_filename": "cover_tale_059.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 60,
@@ -3816,7 +4165,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⚔️✦\nDo your scars remind you of the pain you endured, or the fact that you survived?",
       "cover_url": "assets/the_loop/cover_tale_060.jpg",
       "cover_filename": "cover_tale_060.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 61,
@@ -3832,7 +4186,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 👤✦\nIf the man stayed put... whose shadow was stepping forward into the dark?",
       "cover_url": "assets/the_loop/cover_tale_061.jpg",
       "cover_filename": "cover_tale_061.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 62,
@@ -3848,7 +4207,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🪶✦\nDid someone learn how to fly, or did something take them into the sky?",
       "cover_url": "assets/the_loop/cover_tale_062.jpg",
       "cover_filename": "cover_tale_062.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 63,
@@ -3864,7 +4228,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ✨✦\nAre we just stardust looking back at ourselves in the mirror?",
       "cover_url": "assets/the_loop/cover_tale_063.jpg",
       "cover_filename": "cover_tale_063.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 64,
@@ -3880,7 +4249,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? ⚰️✦\nDid he hear her final confession before his last breath, or was she speaking to silence?",
       "cover_url": "assets/the_loop/cover_tale_064.jpg",
       "cover_filename": "cover_tale_064.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 65,
@@ -3896,7 +4270,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🦅✦\nWhen life brings a storm, do you seek ground shelter or fly above the clouds?",
       "cover_url": "assets/the_loop/cover_tale_065.jpg",
       "cover_filename": "cover_tale_065.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 66,
@@ -3912,7 +4291,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 📸✦\nWhy do the moments that leave no trace on paper burn the brightest in the soul?",
       "cover_url": "assets/the_loop/cover_tale_066.jpg",
       "cover_filename": "cover_tale_066.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 67,
@@ -3928,7 +4312,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🤝✦\nIs forgiveness louder in our arguments, or in the quiet ways we hold on while sleeping?",
       "cover_url": "assets/the_loop/cover_tale_067.jpg",
       "cover_filename": "cover_tale_067.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 68,
@@ -3944,7 +4333,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🚀✦\nWere the ancient humans ancestors who escaped Earth... or travelers from our own future?",
       "cover_url": "assets/the_loop/cover_tale_068.jpg",
       "cover_filename": "cover_tale_068.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 69,
@@ -3960,7 +4354,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 👾✦\nWhat happens to the monsters we fear when we simply greet them with kindness?",
       "cover_url": "assets/the_loop/cover_tale_069.jpg",
       "cover_filename": "cover_tale_069.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 70,
@@ -3976,7 +4375,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌊✦\nWhat hard stone in your life is your patience slowly reshaping right now?",
       "cover_url": "assets/the_loop/cover_tale_070.jpg",
       "cover_filename": "cover_tale_070.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 71,
@@ -3992,7 +4396,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🏴‍☠️✦\nWas the buried treasure a trap, or a reminder of what greed does to freedom?",
       "cover_url": "assets/the_loop/cover_tale_071.jpg",
       "cover_filename": "cover_tale_071.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 72,
@@ -4008,7 +4417,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🎂✦\nWhat wish was made by the wind on that lonely birthday cake?",
       "cover_url": "assets/the_loop/cover_tale_072.jpg",
       "cover_filename": "cover_tale_072.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 73,
@@ -4024,7 +4438,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🪙✦\nHave you ever tried to let go of a dream, only for destiny to follow you anyway?",
       "cover_url": "assets/the_loop/cover_tale_073.jpg",
       "cover_filename": "cover_tale_073.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 74,
@@ -4040,7 +4459,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🌅✦\nWhy does the darkest hour always arrive right before the light breaks through?",
       "cover_url": "assets/the_loop/cover_tale_074.jpg",
       "cover_filename": "cover_tale_074.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 75,
@@ -4056,7 +4480,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🛗✦\nIf the building had no basement, where was the elevator taking them?",
       "cover_url": "assets/the_loop/cover_tale_075.jpg",
       "cover_filename": "cover_tale_075.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 76,
@@ -4072,7 +4501,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕰️✦\nCan a single smile truly decide the next fifty years of your life?",
       "cover_url": "assets/the_loop/cover_tale_076.jpg",
       "cover_filename": "cover_tale_076.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 77,
@@ -4088,7 +4522,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🐺✦\nWho drew the map you are following... and do they truly have your safety in mind?",
       "cover_url": "assets/the_loop/cover_tale_077.jpg",
       "cover_filename": "cover_tale_077.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 78,
@@ -4104,7 +4543,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🚉✦\nDo we spend so much time rushing for the next train that we miss the life on the platform?",
       "cover_url": "assets/the_loop/cover_tale_078.jpg",
       "cover_filename": "cover_tale_078.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 79,
@@ -4120,7 +4564,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 💾✦\nIf human consciousness is uploaded to code, what happens when the power shuts off?",
       "cover_url": "assets/the_loop/cover_tale_079.jpg",
       "cover_filename": "cover_tale_079.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 80,
@@ -4136,7 +4585,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🛣️✦\nWhen your road keeps going but the car stops, what drives you forward?",
       "cover_url": "assets/the_loop/cover_tale_080.jpg",
       "cover_filename": "cover_tale_080.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 81,
@@ -4152,7 +4606,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌟✦\nHow much of the beauty we admire today was created by lights that burned out long ago?",
       "cover_url": "assets/the_loop/cover_tale_081.jpg",
       "cover_filename": "cover_tale_081.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 82,
@@ -4168,7 +4627,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔮✦\nWhat did the fortune teller see in her own future that made her freeze?",
       "cover_url": "assets/the_loop/cover_tale_082.jpg",
       "cover_filename": "cover_tale_082.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 83,
@@ -4184,7 +4648,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 👣✦\nWhen everyone doubts your path, what gives your footsteps the conviction to roar yes?",
       "cover_url": "assets/the_loop/cover_tale_083.jpg",
       "cover_filename": "cover_tale_083.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 84,
@@ -4200,7 +4669,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🎠✦\nCan rust ever erase the echoes of pure childhood joy?",
       "cover_url": "assets/the_loop/cover_tale_084.jpg",
       "cover_filename": "cover_tale_084.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 85,
@@ -4216,7 +4690,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🕊️✦\nAfter being caged for so long, how does the heart still remember how to fly?",
       "cover_url": "assets/the_loop/cover_tale_085.jpg",
       "cover_filename": "cover_tale_085.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 86,
@@ -4232,7 +4711,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🏡✦\nDid you have to travel the whole world just to discover home was within you all along?",
       "cover_url": "assets/the_loop/cover_tale_086.jpg",
       "cover_filename": "cover_tale_086.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 87,
@@ -4248,7 +4732,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪞✦\nAt what moment did you look in the mirror and realize you were becoming your parents?",
       "cover_url": "assets/the_loop/cover_tale_087.jpg",
       "cover_filename": "cover_tale_087.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 88,
@@ -4264,7 +4753,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🎶✦\nHow do two lonely voices in the dark always manage to find their harmony?",
       "cover_url": "assets/the_loop/cover_tale_088.jpg",
       "cover_filename": "cover_tale_088.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 89,
@@ -4280,7 +4774,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🥂✦\nWhy is it often luxury and success that destroys us, after we survived the greatest hardships?",
       "cover_url": "assets/the_loop/cover_tale_089.jpg",
       "cover_filename": "cover_tale_089.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 90,
@@ -4296,7 +4795,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🔐✦\nIf the greatest treasure in the vault was a mirror, what was the real secret?",
       "cover_url": "assets/the_loop/cover_tale_090.jpg",
       "cover_filename": "cover_tale_090.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 91,
@@ -4312,7 +4816,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🥖✦\nWhat childhood scent can instantly transport you back thirty years in time?",
       "cover_url": "assets/the_loop/cover_tale_091.jpg",
       "cover_filename": "cover_tale_091.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 92,
@@ -4328,7 +4837,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🏚️✦\nWho do you think was coming up from the cellar after the phone stopped ringing?",
       "cover_url": "assets/the_loop/cover_tale_092.jpg",
       "cover_filename": "cover_tale_092.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 93,
@@ -4344,7 +4858,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪞✦\nAre we often the thief who steals our own peace, joy, and time?",
       "cover_url": "assets/the_loop/cover_tale_093.jpg",
       "cover_filename": "cover_tale_093.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 94,
@@ -4360,7 +4879,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔥✦\nHave you ever had a moment where silence spoke louder and healed deeper than any words?",
       "cover_url": "assets/the_loop/cover_tale_094.jpg",
       "cover_filename": "cover_tale_094.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 95,
@@ -4376,7 +4900,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🧭✦\nWhen the waves crash around your life, what compass keeps you steady?",
       "cover_url": "assets/the_loop/cover_tale_095.jpg",
       "cover_filename": "cover_tale_095.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 96,
@@ -4392,7 +4921,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🏘️✦\nWhy do the giant places of our childhood seem so small when we return as adults?",
       "cover_url": "assets/the_loop/cover_tale_096.jpg",
       "cover_filename": "cover_tale_096.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 97,
@@ -4408,7 +4942,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? ⚡✦\nIf yesterday was standing right in front of you, what would you apologize for?",
       "cover_url": "assets/the_loop/cover_tale_097.jpg",
       "cover_filename": "cover_tale_097.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 98,
@@ -4424,7 +4963,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 📝✦\nWhat blank page in your life are you ready to write your best chapter on?",
       "cover_url": "assets/the_loop/cover_tale_098.jpg",
       "cover_filename": "cover_tale_098.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 99,
@@ -4440,7 +4984,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 💃✦\nHave you ever danced in silence, listening only to the rhythm of two hearts?",
       "cover_url": "assets/the_loop/cover_tale_099.jpg",
       "cover_filename": "cover_tale_099.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 100,
@@ -4456,7 +5005,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕯️✦\nWhy did the darkness whisper thanks when the light went out?",
       "cover_url": "assets/the_loop/cover_tale_100.jpg",
       "cover_filename": "cover_tale_100.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 101,
@@ -4472,7 +5026,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🔒✦\nIf every single door was locked from the outside... who was calling from inside the house?",
       "cover_url": "assets/the_loop/cover_tale_101.jpg",
       "cover_filename": "cover_tale_101.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 102,
@@ -4488,7 +5047,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🏖️✦\nIf the footsteps echoed behind you, whose prints were washing away in the wet sand?",
       "cover_url": "assets/the_loop/cover_tale_102.jpg",
       "cover_filename": "cover_tale_102.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 103,
@@ -4504,7 +5068,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? ⛓️✦\nDid he escape a physical prison only to find himself trapped in his own mind?",
       "cover_url": "assets/the_loop/cover_tale_103.jpg",
       "cover_filename": "cover_tale_103.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 104,
@@ -4520,7 +5089,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🖼️✦\nIf nobody in the photograph survived, why is their smile still watching you?",
       "cover_url": "assets/the_loop/cover_tale_104.jpg",
       "cover_filename": "cover_tale_104.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 105,
@@ -4536,7 +5110,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🚪✦\nWho was knocking at midnight if the front porch had already collapsed into the dark?",
       "cover_url": "assets/the_loop/cover_tale_105.jpg",
       "cover_filename": "cover_tale_105.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 106,
@@ -4552,7 +5131,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📖✦\nDid he write her name out of obsessive love, or was she the ghost haunting every line?",
       "cover_url": "assets/the_loop/cover_tale_106.jpg",
       "cover_filename": "cover_tale_106.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 107,
@@ -4568,7 +5152,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🪦✦\nIf your gravestone had tomorrow's date at dawn, what is the one thing you would do tonight?",
       "cover_url": "assets/the_loop/cover_tale_107.jpg",
       "cover_filename": "cover_tale_107.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 108,
@@ -4584,7 +5173,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🪞✦\nWhy did the mirror wink back after you had already turned away?",
       "cover_url": "assets/the_loop/cover_tale_108.jpg",
       "cover_filename": "cover_tale_108.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 109,
@@ -4600,7 +5194,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🛗✦\nIf the elevator was falling down, why were the floor numbers counting up toward the sky?",
       "cover_url": "assets/the_loop/cover_tale_109.jpg",
       "cover_filename": "cover_tale_109.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 110,
@@ -4616,7 +5215,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🩺✦\nDid he cure his patients, or did he create them all to cure his own loneliness?",
       "cover_url": "assets/the_loop/cover_tale_110.jpg",
       "cover_filename": "cover_tale_110.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 111,
@@ -4632,7 +5236,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ☎️✦\nIf the wire snapped in two, whose voice was still humming on the dial tone?",
       "cover_url": "assets/the_loop/cover_tale_111.jpg",
       "cover_filename": "cover_tale_111.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 112,
@@ -4648,7 +5257,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏴‍☠️✦\nWhat was buried inside that chest that made the dirt push back against the shovel?",
       "cover_url": "assets/the_loop/cover_tale_112.jpg",
       "cover_filename": "cover_tale_112.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 113,
@@ -4664,7 +5278,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🏮✦\nIf the keeper vanished into thin air, who was fueling the lighthouse beam every night?",
       "cover_url": "assets/the_loop/cover_tale_113.jpg",
       "cover_filename": "cover_tale_113.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 114,
@@ -4680,7 +5299,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🎨✦\nWas the portrait alive, or was the painter slowly trapping her soul on the canvas?",
       "cover_url": "assets/the_loop/cover_tale_114.jpg",
       "cover_filename": "cover_tale_114.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 115,
@@ -4696,7 +5320,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 😱✦\nDid you hear someone scream... or was your own throat raw from crying out in the dark?",
       "cover_url": "assets/the_loop/cover_tale_115.jpg",
       "cover_filename": "cover_tale_115.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 116,
@@ -4712,7 +5341,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🚆✦\nWhere was the train heading if none of the passengers cast a reflection on the glass?",
       "cover_url": "assets/the_loop/cover_tale_116.jpg",
       "cover_filename": "cover_tale_116.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 117,
@@ -4728,7 +5362,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ⏱️✦\nIf his pulse stopped beating, why was the watch on his wrist ticking louder?",
       "cover_url": "assets/the_loop/cover_tale_117.jpg",
       "cover_filename": "cover_tale_117.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 118,
@@ -4744,7 +5383,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏚️✦\nWho was whispering behind the locked attic door that had been sealed for fifty years?",
       "cover_url": "assets/the_loop/cover_tale_118.jpg",
       "cover_filename": "cover_tale_118.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 119,
@@ -4760,7 +5404,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🧥✦\nIf the silhouette outside was wearing your jacket... who was standing inside your room?",
       "cover_url": "assets/the_loop/cover_tale_119.jpg",
       "cover_filename": "cover_tale_119.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 120,
@@ -4776,7 +5425,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🐾✦\nWere we hunting a monster in the woods, or following our own dark footprints home?",
       "cover_url": "assets/the_loop/cover_tale_120.jpg",
       "cover_filename": "cover_tale_120.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 121,
@@ -4792,7 +5446,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 📻✦\nIf the radio broadcasted your private thoughts, who was listening on the other frequency?",
       "cover_url": "assets/the_loop/cover_tale_121.jpg",
       "cover_filename": "cover_tale_121.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 122,
@@ -4808,7 +5467,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🧪✦\nWhy did the poison feel warm and soothing while the antidote burned like fire?",
       "cover_url": "assets/the_loop/cover_tale_122.jpg",
       "cover_filename": "cover_tale_122.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 123,
@@ -4824,7 +5488,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🏛️✦\nWhat did the empty room tell you when the silence finally gave the answer?",
       "cover_url": "assets/the_loop/cover_tale_123.jpg",
       "cover_filename": "cover_tale_123.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 124,
@@ -4840,7 +5509,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 💰✦\nDid winning the lottery set him free, or did the ransom note arrive to take it all?",
       "cover_url": "assets/the_loop/cover_tale_124.jpg",
       "cover_filename": "cover_tale_124.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 125,
@@ -4856,7 +5530,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🪜✦\nIf you lived upstairs completely alone, who was knocking on the downstairs door?",
       "cover_url": "assets/the_loop/cover_tale_125.jpg",
       "cover_filename": "cover_tale_125.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 126,
@@ -4872,7 +5551,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 💍✦\nDid he honor her memory by wearing her ashes, or was she tethered to his side forever?",
       "cover_url": "assets/the_loop/cover_tale_126.jpg",
       "cover_filename": "cover_tale_126.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 127,
@@ -4888,7 +5572,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🎭✦\nDid the puppet come alive to cut its strings, or did the maker die of his own creation?",
       "cover_url": "assets/the_loop/cover_tale_127.jpg",
       "cover_filename": "cover_tale_127.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 128,
@@ -4904,7 +5593,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🏥✦\nWhen the surgeon pulled the bandages off the stranger, why was he staring into his own face?",
       "cover_url": "assets/the_loop/cover_tale_128.jpg",
       "cover_filename": "cover_tale_128.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 129,
@@ -4920,7 +5614,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕰️✦\nWhat happened to the missing daylight when the clock struck thirteen?",
       "cover_url": "assets/the_loop/cover_tale_129.jpg",
       "cover_filename": "cover_tale_129.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 130,
@@ -4936,7 +5635,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🪙✦\nDid saving every penny matter in the end, when moths feasted on the wooden casket?",
       "cover_url": "assets/the_loop/cover_tale_130.jpg",
       "cover_filename": "cover_tale_130.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 131,
@@ -4952,7 +5656,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🕯️✦\nHow does a shadow cross the ceiling when no lamp has been lit in years?",
       "cover_url": "assets/the_loop/cover_tale_131.jpg",
       "cover_filename": "cover_tale_131.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 132,
@@ -4968,7 +5677,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🩸✦\nWhy does the water wash the hands clean while the mirror refuses to erase the stain?",
       "cover_url": "assets/the_loop/cover_tale_132.jpg",
       "cover_filename": "cover_tale_132.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 133,
@@ -4984,7 +5698,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🧭✦\nIf Earth was no longer beneath the compass, where was the ship truly sailing?",
       "cover_url": "assets/the_loop/cover_tale_133.jpg",
       "cover_filename": "cover_tale_133.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 134,
@@ -5000,7 +5719,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🐕✦\nWhat was the stray guarding behind the closet door that no human could see?",
       "cover_url": "assets/the_loop/cover_tale_134.jpg",
       "cover_filename": "cover_tale_134.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 135,
@@ -5016,7 +5740,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🔥✦\nWho mailed your diary to you, and what secret was burned on the very last page?",
       "cover_url": "assets/the_loop/cover_tale_135.jpg",
       "cover_filename": "cover_tale_135.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 136,
@@ -5032,7 +5761,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌉✦\nDid the water refuse his body because it was not his time, or because he was already a phantom?",
       "cover_url": "assets/the_loop/cover_tale_136.jpg",
       "cover_filename": "cover_tale_136.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 137,
@@ -5048,7 +5782,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 📻✦\nWhose deep voice was humming through the baby monitor in the empty nursery?",
       "cover_url": "assets/the_loop/cover_tale_137.jpg",
       "cover_filename": "cover_tale_137.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 138,
@@ -5064,7 +5803,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 📱✦\nIf Face ID rejected your face, whose identity did you wake up with this morning?",
       "cover_url": "assets/the_loop/cover_tale_138.jpg",
       "cover_filename": "cover_tale_138.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 139,
@@ -5080,7 +5824,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🎼✦\nWho wound the music box if the bronze key had been lost in the river decades ago?",
       "cover_url": "assets/the_loop/cover_tale_139.jpg",
       "cover_filename": "cover_tale_139.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 140,
@@ -5096,7 +5845,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🕵️✦\nWas the spy an intruder, or was he wearing our own badge from the very start?",
       "cover_url": "assets/the_loop/cover_tale_140.jpg",
       "cover_filename": "cover_tale_140.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
     },
     {
       "episode": 141,
@@ -5112,7 +5866,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ☔✦\nHave you ever shared an umbrella with someone and wished the rain would never stop?",
       "cover_url": "assets/the_loop/cover_tale_141.jpg",
       "cover_filename": "cover_tale_141.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 142,
@@ -5128,7 +5887,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? ✨✦\nWhose laugh has the power to pause the entire noisy world around you?",
       "cover_url": "assets/the_loop/cover_tale_142.jpg",
       "cover_filename": "cover_tale_142.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 143,
@@ -5144,7 +5908,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 💌✦\nDo you remember the words of a letter that changed your heart forever?",
       "cover_url": "assets/the_loop/cover_tale_143.jpg",
       "cover_filename": "cover_tale_143.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 144,
@@ -5160,7 +5929,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🤝✦\nHow can two hands brushing softly make the whole universe fall completely quiet?",
       "cover_url": "assets/the_loop/cover_tale_144.jpg",
       "cover_filename": "cover_tale_144.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 145,
@@ -5176,7 +5950,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? ☕✦\nWho is the one person you could talk with until the coffee turns completely cold?",
       "cover_url": "assets/the_loop/cover_tale_145.jpg",
       "cover_filename": "cover_tale_145.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 146,
@@ -5192,7 +5971,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🧥✦\nWhy does wearing someone else's sweater feel like being wrapped in home?",
       "cover_url": "assets/the_loop/cover_tale_146.jpg",
       "cover_filename": "cover_tale_146.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 147,
@@ -5208,7 +5992,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌧️✦\nHave you ever danced in the pouring rain just to feel alive with someone you love?",
       "cover_url": "assets/the_loop/cover_tale_147.jpg",
       "cover_filename": "cover_tale_147.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 148,
@@ -5224,7 +6013,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 💖✦\nDoes true love love our scars because they tell the story of how brave we had to be?",
       "cover_url": "assets/the_loop/cover_tale_148.jpg",
       "cover_filename": "cover_tale_148.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 149,
@@ -5240,7 +6034,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌙✦\nHave you ever looked up at the midnight moon knowing someone miles away was looking too?",
       "cover_url": "assets/the_loop/cover_tale_149.jpg",
       "cover_filename": "cover_tale_149.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 150,
@@ -5256,7 +6055,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🤲✦\nWhy does the heart remember a lover's touch long after the mind forgets its own name?",
       "cover_url": "assets/the_loop/cover_tale_150.jpg",
       "cover_filename": "cover_tale_150.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 151,
@@ -5272,7 +6076,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 💍✦\nCan gold ever compete with a simple paper ring folded with true love?",
       "cover_url": "assets/the_loop/cover_tale_151.jpg",
       "cover_filename": "cover_tale_151.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 152,
@@ -5288,7 +6097,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🚂✦\nWould you jump off the train before the stop just to avoid losing a single second with them?",
       "cover_url": "assets/the_loop/cover_tale_152.jpg",
       "cover_filename": "cover_tale_152.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 153,
@@ -5304,7 +6118,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 👀✦\nHave you ever looked into someone's eyes and felt like home had finally found you?",
       "cover_url": "assets/the_loop/cover_tale_153.jpg",
       "cover_filename": "cover_tale_153.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 154,
@@ -5320,7 +6139,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌱✦\nWhat small dream did you build together that ended up outgrowing the entire sky?",
       "cover_url": "assets/the_loop/cover_tale_154.jpg",
       "cover_filename": "cover_tale_154.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 155,
@@ -5336,7 +6160,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 💓✦\nWhy do two hearts in love not need words when their rhythm keeps the song alive?",
       "cover_url": "assets/the_loop/cover_tale_155.jpg",
       "cover_filename": "cover_tale_155.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 156,
@@ -5352,7 +6181,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ❄️✦\nHow does a simple gentle touch make decades of hurt melt away like morning snow?",
       "cover_url": "assets/the_loop/cover_tale_156.jpg",
       "cover_filename": "cover_tale_156.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 157,
@@ -5368,7 +6202,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🚉✦\nDid you miss the final train on purpose just to stay on the platform together?",
       "cover_url": "assets/the_loop/cover_tale_157.jpg",
       "cover_filename": "cover_tale_157.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 158,
@@ -5384,7 +6223,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🌸✦\nWhose laughter healed the quiet cracks you tried so hard to hide inside?",
       "cover_url": "assets/the_loop/cover_tale_158.jpg",
       "cover_filename": "cover_tale_158.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 159,
@@ -5400,7 +6244,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🎨✦\nCan memory paint a clearer portrait of someone than any camera ever could?",
       "cover_url": "assets/the_loop/cover_tale_159.jpg",
       "cover_filename": "cover_tale_159.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 160,
@@ -5416,7 +6265,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👥✦\nWhen two people walk through life as one, whose shadow leads the way?",
       "cover_url": "assets/the_loop/cover_tale_160.jpg",
       "cover_filename": "cover_tale_160.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 161,
@@ -5432,7 +6286,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🛌✦\nWhat is the secret sanctuary where no monsters in the world can ever touch you?",
       "cover_url": "assets/the_loop/cover_tale_161.jpg",
       "cover_filename": "cover_tale_161.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 162,
@@ -5448,7 +6307,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⚓✦\nDid you have to cross stormy oceans just to discover that her heart was your only harbor?",
       "cover_url": "assets/the_loop/cover_tale_162.jpg",
       "cover_filename": "cover_tale_162.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 163,
@@ -5464,7 +6328,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 📱✦\nWhat voicemail do you listen to every twilight just to hear that familiar voice?",
       "cover_url": "assets/the_loop/cover_tale_163.jpg",
       "cover_filename": "cover_tale_163.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 164,
@@ -5480,7 +6349,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🍳✦\nWhat is the simplest thing you learned to do just to see a smile on their face?",
       "cover_url": "assets/the_loop/cover_tale_164.jpg",
       "cover_filename": "cover_tale_164.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 165,
@@ -5496,7 +6370,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🧥✦\nCan one shared coat in a summer shower keep two hearts warm for fifty years?",
       "cover_url": "assets/the_loop/cover_tale_165.jpg",
       "cover_filename": "cover_tale_165.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 166,
@@ -5512,7 +6391,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌟✦\nWhen stars burn out in the cosmic night, what is the light that burns brighter?",
       "cover_url": "assets/the_loop/cover_tale_166.jpg",
       "cover_filename": "cover_tale_166.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 167,
@@ -5528,7 +6412,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🕊️✦\nHow many paper cranes would you fold just for one genuine smile from the one you love?",
       "cover_url": "assets/the_loop/cover_tale_167.jpg",
       "cover_filename": "cover_tale_167.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 168,
@@ -5544,7 +6433,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🚪✦\nWhose arrival in your doorway makes the entire house feel alive again?",
       "cover_url": "assets/the_loop/cover_tale_168.jpg",
       "cover_filename": "cover_tale_168.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 169,
@@ -5560,7 +6454,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 👁️✦\nHave you ever shared a glance across a crowded room that gave away your whole secret?",
       "cover_url": "assets/the_loop/cover_tale_169.jpg",
       "cover_filename": "cover_tale_169.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 170,
@@ -5576,7 +6475,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 📚✦\nWho is the person who carried your books when you were young, and your burdens when you grew?",
       "cover_url": "assets/the_loop/cover_tale_170.jpg",
       "cover_filename": "cover_tale_170.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 171,
@@ -5592,7 +6496,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ⏳✦\nWhen you whisper a promise to someone, does time become your witness or your test?",
       "cover_url": "assets/the_loop/cover_tale_171.jpg",
       "cover_filename": "cover_tale_171.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 172,
@@ -5608,7 +6517,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕊️✦\nCan a kiss on the forehead bring peace to a heart that has fought a thousand battles?",
       "cover_url": "assets/the_loop/cover_tale_172.jpg",
       "cover_filename": "cover_tale_172.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 173,
@@ -5624,7 +6538,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🛤️✦\nWhen you meet someone at a crossroads, what tells your heart to take the same path?",
       "cover_url": "assets/the_loop/cover_tale_173.jpg",
       "cover_filename": "cover_tale_173.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 174,
@@ -5640,7 +6559,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 💓✦\nIf two pulses sync into one rhythm, can distance ever truly separate them?",
       "cover_url": "assets/the_loop/cover_tale_174.jpg",
       "cover_filename": "cover_tale_174.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 175,
@@ -5656,7 +6580,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🌹✦\nWhy does a single quiet gesture often speak louder than a thousand grand words?",
       "cover_url": "assets/the_loop/cover_tale_175.jpg",
       "cover_filename": "cover_tale_175.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 176,
@@ -5672,7 +6601,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 👵✦\nIf love stays young inside, does growing old together ever feel scary?",
       "cover_url": "assets/the_loop/cover_tale_176.jpg",
       "cover_filename": "cover_tale_176.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 177,
@@ -5688,7 +6622,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪑✦\nWho is the one person you want to sit beside on a quiet porch when you are eighty?",
       "cover_url": "assets/the_loop/cover_tale_177.jpg",
       "cover_filename": "cover_tale_177.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 178,
@@ -5704,7 +6643,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 💧✦\nCan someone catch your silent tear and turn it into strength?",
       "cover_url": "assets/the_loop/cover_tale_178.jpg",
       "cover_filename": "cover_tale_178.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 179,
@@ -5720,7 +6664,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🍵✦\nHave you ever shared midnight tea with someone and felt completely drunk on quiet dreams?",
       "cover_url": "assets/the_loop/cover_tale_179.jpg",
       "cover_filename": "cover_tale_179.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 180,
@@ -5736,7 +6685,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🎬✦\nWas every moment in your life before meeting your soulmate merely a rehearsal?",
       "cover_url": "assets/the_loop/cover_tale_180.jpg",
       "cover_filename": "cover_tale_180.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
     },
     {
       "episode": 181,
@@ -5752,7 +6706,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🚲✦\nWhat rusted childhood treasure in your garage still holds your most vivid memories?",
       "cover_url": "assets/the_loop/cover_tale_181.jpg",
       "cover_filename": "cover_tale_181.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 182,
@@ -5768,7 +6727,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🪑✦\nWhy does an empty chair often make a quiet room feel completely full of presence?",
       "cover_url": "assets/the_loop/cover_tale_182.jpg",
       "cover_filename": "cover_tale_182.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 183,
@@ -5784,7 +6748,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕰️✦\nWhy does childhood feel like it sprinted away while the clocks ticked so slowly?",
       "cover_url": "assets/the_loop/cover_tale_183.jpg",
       "cover_filename": "cover_tale_183.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 184,
@@ -5800,7 +6769,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📼✦\nWhat song on an old cassette tape can instantly bring your youth singing back?",
       "cover_url": "assets/the_loop/cover_tale_184.jpg",
       "cover_filename": "cover_tale_184.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 185,
@@ -5816,7 +6790,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 📦✦\nWhen packing up a loved one's room, why is their scent the hardest thing to leave behind?",
       "cover_url": "assets/the_loop/cover_tale_185.jpg",
       "cover_filename": "cover_tale_185.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 186,
@@ -5832,7 +6811,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🍂✦\nHave you ever realized that life turned seasons while you were still waiting to finish the chapter?",
       "cover_url": "assets/the_loop/cover_tale_186.jpg",
       "cover_filename": "cover_tale_186.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 187,
@@ -5848,7 +6832,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🔧✦\nWhat is the one broken thing from your past that no amount of fixing could restore?",
       "cover_url": "assets/the_loop/cover_tale_187.jpg",
       "cover_filename": "cover_tale_187.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 188,
@@ -5864,7 +6853,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🎹✦\nCan an untouched piano still play the melodies of the hands that once loved it?",
       "cover_url": "assets/the_loop/cover_tale_188.jpg",
       "cover_filename": "cover_tale_188.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 189,
@@ -5880,7 +6874,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🏫✦\nWhen you walk past your old school, do you still hear the ghosts of your childhood laughter?",
       "cover_url": "assets/the_loop/cover_tale_189.jpg",
       "cover_filename": "cover_tale_189.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 190,
@@ -5896,7 +6895,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🎫✦\nWhat concert ticket stub in your drawer holds a night that never really ended?",
       "cover_url": "assets/the_loop/cover_tale_190.jpg",
       "cover_filename": "cover_tale_190.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 191,
@@ -5912,7 +6916,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 📞✦\nHave you ever dialed an old childhood number just hoping the past would pick up?",
       "cover_url": "assets/the_loop/cover_tale_191.jpg",
       "cover_filename": "cover_tale_191.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 192,
@@ -5928,7 +6937,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🌳✦\nDo the initials carved into an old tree fade away, or does the tree grow them into the sky?",
       "cover_url": "assets/the_loop/cover_tale_192.jpg",
       "cover_filename": "cover_tale_192.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 193,
@@ -5944,7 +6958,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🍞✦\nWhat recipe from your grandmother still holds the warmth of a kitchen from thirty years ago?",
       "cover_url": "assets/the_loop/cover_tale_193.jpg",
       "cover_filename": "cover_tale_193.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 194,
@@ -5960,7 +6979,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🐕✦\nIs there anything more heartbreaking than an old dog sitting by a door that never opens?",
       "cover_url": "assets/the_loop/cover_tale_194.jpg",
       "cover_filename": "cover_tale_194.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 195,
@@ -5976,7 +7000,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌅✦\nWhy did yesterday feel like home while tomorrow arrived before we were even ready?",
       "cover_url": "assets/the_loop/cover_tale_195.jpg",
       "cover_filename": "cover_tale_195.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 196,
@@ -5992,7 +7021,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📬✦\nWhat handwritten letters in your shoebox are worth more to you than all the gold on earth?",
       "cover_url": "assets/the_loop/cover_tale_196.jpg",
       "cover_filename": "cover_tale_196.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 197,
@@ -6008,7 +7042,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 📱✦\nWhy does the heart continue dialing a number that the fingers already deleted?",
       "cover_url": "assets/the_loop/cover_tale_197.jpg",
       "cover_filename": "cover_tale_197.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 198,
@@ -6024,7 +7063,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 📏✦\nDo the pencil marks on the doorframe outlive the house where you grew up?",
       "cover_url": "assets/the_loop/cover_tale_198.jpg",
       "cover_filename": "cover_tale_198.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 199,
@@ -6040,7 +7084,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 📻✦\nWhat vinyl record crackle brings a ghost from your past spinning right back to life?",
       "cover_url": "assets/the_loop/cover_tale_199.jpg",
       "cover_filename": "cover_tale_199.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 200,
@@ -6056,7 +7105,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🛏️✦\nHow does grief manage to wear the warm socks of the person who is no longer there?",
       "cover_url": "assets/the_loop/cover_tale_200.jpg",
       "cover_filename": "cover_tale_200.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 201,
@@ -6072,7 +7126,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ⌛✦\nIf no grain of sand in the hourglass can flow upward, why do our minds live in reverse?",
       "cover_url": null,
       "cover_filename": "cover_tale_201.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 202,
@@ -6088,7 +7147,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏰✦\nWhen the treehouse rots away, where does the king of the world go?",
       "cover_url": null,
       "cover_filename": "cover_tale_202.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 203,
@@ -6104,7 +7168,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🧣✦\nWhy do we hold a simple folded scarf closer to our chest than any diamond?",
       "cover_url": null,
       "cover_filename": "cover_tale_203.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 204,
@@ -6120,7 +7189,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🔥✦\nDecades vanished like morning smoke, but did your eyes manage to keep their fire?",
       "cover_url": null,
       "cover_filename": "cover_tale_204.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 205,
@@ -6136,7 +7210,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🫙✦\nDid you ever catch fireflies in a glass jar and believe you had trapped summer forever?",
       "cover_url": null,
       "cover_filename": "cover_tale_205.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 206,
@@ -6152,7 +7231,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🧥✦\nWhy does winter feel twice as cold when an empty winter coat hangs on the rack?",
       "cover_url": null,
       "cover_filename": "cover_tale_206.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 207,
@@ -6168,7 +7252,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌇✦\nDid we spend our whole youth chasing setting suns, only to let night catch us unaware?",
       "cover_url": null,
       "cover_filename": "cover_tale_207.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 208,
@@ -6184,7 +7273,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔪✦\nWhat old keepsake from your grandfather carved your very first courage into wood?",
       "cover_url": null,
       "cover_filename": "cover_tale_208.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 209,
@@ -6200,7 +7294,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌊✦\nIf the sea took everything, why does the solitary shoe on shore feel like a monument?",
       "cover_url": null,
       "cover_filename": "cover_tale_209.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 210,
@@ -6216,7 +7315,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🏞️✦\nIf the river never pauses for anyone, why did we ever expect our youth to wait?",
       "cover_url": null,
       "cover_filename": "cover_tale_210.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 211,
@@ -6232,7 +7336,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 💡✦\nDo you remember the buzzing streetlights that told you it was finally time to run home?",
       "cover_url": null,
       "cover_filename": "cover_tale_211.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 212,
@@ -6248,7 +7357,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🪴✦\nCan watering someone's favorite plant keep their memory alive, or does grief wither in silence?",
       "cover_url": null,
       "cover_filename": "cover_tale_212.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 213,
@@ -6264,7 +7378,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 📷✦\nWhy do old photographs turn yellow while the smiles captured inside stay razor sharp?",
       "cover_url": null,
       "cover_filename": "cover_tale_213.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 214,
@@ -6280,7 +7399,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌧️✦\nWere the chalk drawings washed away by the rain, or did the sidewalk keep their spirit?",
       "cover_url": null,
       "cover_filename": "cover_tale_214.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 215,
@@ -6296,7 +7420,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🍽️✦\nWhy does an unused dinner plate at the table feel heavier than a mountain?",
       "cover_url": null,
       "cover_filename": "cover_tale_215.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 216,
@@ -6312,7 +7441,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🔥✦\nIf youth was a roaring flame, is the quiet ash of old age what truly warms the soul?",
       "cover_url": null,
       "cover_filename": "cover_tale_216.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 217,
@@ -6328,7 +7462,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🎸✦\nWhat anthem on the radio wakes up the teenage rebel you used to be?",
       "cover_url": null,
       "cover_filename": "cover_tale_217.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 218,
@@ -6344,7 +7483,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🌺✦\nDoes a garden grow wild out of sorrow when the hands that tended it are gone?",
       "cover_url": null,
       "cover_filename": "cover_tale_218.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 219,
@@ -6360,7 +7504,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 💨✦\nWe spent decades building stone walls—did we forget that wind turns everything back to dust?",
       "cover_url": null,
       "cover_filename": "cover_tale_219.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 220,
@@ -6376,7 +7525,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 📚✦\nWhat old book on your shelf holds a world that you traveled to and never quite returned from?",
       "cover_url": null,
       "cover_filename": "cover_tale_220.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 221,
@@ -6392,7 +7546,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🪐✦\nWhen Earth fell asleep into silence, what kind of humanity lit the first fire on Mars?",
       "cover_url": null,
       "cover_filename": "cover_tale_221.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 222,
@@ -6408,7 +7567,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🔮✦\nDid the oracle go blind, or did losing human sight finally reveal the true cosmos?",
       "cover_url": null,
       "cover_filename": "cover_tale_222.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 223,
@@ -6424,7 +7588,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🤖✦\nWhen thinking machines ask about God, are they searching for their programmer or their soul?",
       "cover_url": null,
       "cover_filename": "cover_tale_223.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 224,
@@ -6440,7 +7609,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🌌✦\nIf Voyager left our galaxy and found human footprints, were we exploring the future or our past?",
       "cover_url": null,
       "cover_filename": "cover_tale_224.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 225,
@@ -6456,7 +7630,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ⏳✦\nCan we ever truly escape our timeline, or does history just run ahead to meet us?",
       "cover_url": null,
       "cover_filename": "cover_tale_225.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 226,
@@ -6472,7 +7651,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🧘✦\nIs the meaning of life something you find at the end, or was the searching itself the answer?",
       "cover_url": null,
       "cover_filename": "cover_tale_226.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 227,
@@ -6488,7 +7672,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? ❄️✦\nIf the clone wakes up before the original, who owns the memories in the morning?",
       "cover_url": null,
       "cover_filename": "cover_tale_227.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 228,
@@ -6504,7 +7693,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🔺✦\nWhen the pyramids hum in response to shifting stars, what ancient signal are they echoing?",
       "cover_url": null,
       "cover_filename": "cover_tale_228.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 229,
@@ -6520,7 +7714,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 💀✦\nWhen Death asked Life why people love it so much, why did Life just smile and breathe?",
       "cover_url": null,
       "cover_filename": "cover_tale_229.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 230,
@@ -6536,7 +7735,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🛸✦\nIf the alien ship finally landed only to return our own ashes, where did we perish?",
       "cover_url": null,
       "cover_filename": "cover_tale_230.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 231,
@@ -6552,7 +7756,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌀✦\nWas every mistake and detour along your path actually guiding you to your true destiny?",
       "cover_url": null,
       "cover_filename": "cover_tale_231.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 232,
@@ -6568,7 +7777,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🌓✦\nDoes light need darkness to be seen, or does shadow exist only because light dared to shine?",
       "cover_url": null,
       "cover_filename": "cover_tale_232.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 233,
@@ -6584,7 +7798,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🧠✦\nIf we upload human consciousness into infinite servers, will code ever understand how to dream?",
       "cover_url": null,
       "cover_filename": "cover_tale_233.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 234,
@@ -6600,7 +7819,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🌌✦\nDid cosmic gravity pull two distant souls together, or was it the quiet pull of choice?",
       "cover_url": null,
       "cover_filename": "cover_tale_234.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 235,
@@ -6616,7 +7840,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? ⛰️✦\nIf soft water outlives the hard mountain, why do we still trust brute force over patience?",
       "cover_url": null,
       "cover_filename": "cover_tale_235.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 236,
@@ -6632,7 +7861,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🔵✦\nWhen the sun turned dark blue, did humanity learn how to glow from within?",
       "cover_url": null,
       "cover_filename": "cover_tale_236.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 237,
@@ -6648,7 +7882,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪞✦\nIf shattering the mirror revealed seven different futures, which one would you step into?",
       "cover_url": null,
       "cover_filename": "cover_tale_237.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 238,
@@ -6664,7 +7903,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🤫✦\nIs silence truly empty, or is it pregnant with every answer the universe ever kept?",
       "cover_url": null,
       "cover_filename": "cover_tale_238.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 239,
@@ -6680,7 +7924,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 💧✦\nWhen the android touched its first human tear, did it finally understand mortality?",
       "cover_url": null,
       "cover_filename": "cover_tale_239.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 240,
@@ -6696,7 +7945,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🌠✦\nWhen the constellations shift across the sky, what new destiny awakens on Earth?",
       "cover_url": null,
       "cover_filename": "cover_tale_240.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 241,
@@ -6712,7 +7966,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🌊✦\nCan you ever step into the same river twice, or does every moment wash away who you were?",
       "cover_url": null,
       "cover_filename": "cover_tale_241.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 242,
@@ -6728,7 +7987,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 💡✦\nIf we build artificial stars to banish darkness, will humanity forget how to look for dawn?",
       "cover_url": null,
       "cover_filename": "cover_tale_242.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 243,
@@ -6744,7 +8008,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🧵✦\nWhen the thread of fate was severed, how did the knot manage to tie itself even tighter?",
       "cover_url": null,
       "cover_filename": "cover_tale_243.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 244,
@@ -6760,7 +8029,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕊️✦\nIf the cage door has been thrown wide open, why does the bird choose to stay inside?",
       "cover_url": null,
       "cover_filename": "cover_tale_244.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 245,
@@ -6776,7 +8050,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 📡✦\nIf a deep cosmic signal is encoded with our own DNA, who broadcasted it from the stars?",
       "cover_url": null,
       "cover_filename": "cover_tale_245.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 246,
@@ -6792,7 +8071,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⚡✦\nDid running away from the omen lead you straight into the arms of your destiny?",
       "cover_url": null,
       "cover_filename": "cover_tale_246.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 247,
@@ -6808,7 +8092,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🌌✦\nHow could total nothingness give birth to every single star, galaxy, and breath you see?",
       "cover_url": null,
       "cover_filename": "cover_tale_247.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 248,
@@ -6824,7 +8113,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🔋✦\nWhen the very last battery dies on Earth, will nature reclaim the silicon without a trace?",
       "cover_url": null,
       "cover_filename": "cover_tale_248.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 249,
@@ -6840,7 +8134,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🃏✦\nWhy did the Death card smile politely when it was dealt face-up on the table?",
       "cover_url": null,
       "cover_filename": "cover_tale_249.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 250,
@@ -6856,7 +8155,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🗺️✦\nDo you have to become completely lost in the wilderness before you can truly discover yourself?",
       "cover_url": null,
       "cover_filename": "cover_tale_250.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 251,
@@ -6872,7 +8176,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌊✦\nIf gravity reversed for five seconds, what secret would the oceans whisper to the clouds?",
       "cover_url": null,
       "cover_filename": "cover_tale_251.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 252,
@@ -6888,7 +8197,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 👑✦\nWhen the king placed the golden crown on his head, why did his throne dissolve into dust?",
       "cover_url": null,
       "cover_filename": "cover_tale_252.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 253,
@@ -6904,7 +8218,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🍵✦\nIs a cup truly useful for holding tea, or is its value only found in its emptiness?",
       "cover_url": null,
       "cover_filename": "cover_tale_253.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 254,
@@ -6920,7 +8239,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🧬✦\nIf we mapped the human soul down to binary code, what is the one line that cannot be computed?",
       "cover_url": null,
       "cover_filename": "cover_tale_254.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 255,
@@ -6936,7 +8260,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🪙✦\nWhen the coin flipped midair and landed on its edge, what third destiny unlocked for you?",
       "cover_url": null,
       "cover_filename": "cover_tale_255.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 256,
@@ -6952,7 +8281,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? ⚔️✦\nWhy can a man conquer an entire empire with armies, yet remain powerless against his own desire?",
       "cover_url": null,
       "cover_filename": "cover_tale_256.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 257,
@@ -6968,7 +8302,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌙✦\nIf the moon drifted away into deep space, whose tides would the oceans follow in the dark?",
       "cover_url": null,
       "cover_filename": "cover_tale_257.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 258,
@@ -6984,7 +8323,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ☄️✦\nWhen a comet strikes at dawn, is it an ending for an old world or a rebirth for a new one?",
       "cover_url": null,
       "cover_filename": "cover_tale_258.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 259,
@@ -7000,7 +8344,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? ☝️✦\nAre words merely fingers pointing at the truth, while the moon shines completely untouched?",
       "cover_url": null,
       "cover_filename": "cover_tale_259.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 260,
@@ -7016,7 +8365,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 👁️✦\nWhen synthetic eyes saw beauty for the first time, why did circuitry weep real oil?",
       "cover_url": null,
       "cover_filename": "cover_tale_260.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
     },
     {
       "episode": 261,
@@ -7032,7 +8386,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌸✦\nAfter the fiercest storm of your life, what fresh flowers bloomed in your morning garden?",
       "cover_url": null,
       "cover_filename": "cover_tale_261.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 262,
@@ -7048,7 +8407,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? ✊✦\nCan true bravery exist without your hands shaking as you take that first step?",
       "cover_url": null,
       "cover_filename": "cover_tale_262.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 263,
@@ -7064,7 +8428,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌱✦\nWhen life buries you deep in the dark soil, do you realize you have been planted to grow?",
       "cover_url": null,
       "cover_filename": "cover_tale_263.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 264,
@@ -7080,7 +8449,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ❄️✦\nWinter claimed every branch, but did spring ever surrender its promise to return?",
       "cover_url": null,
       "cover_filename": "cover_tale_264.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 265,
@@ -7096,7 +8470,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🪨✦\nWhen the giant of doubt stands tall, what small pebble of truth do you reach for?",
       "cover_url": null,
       "cover_filename": "cover_tale_265.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 266,
@@ -7112,7 +8491,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🦋✦\nDoes the caterpillar know it will grow golden wings, or does it simply trust the sleep?",
       "cover_url": null,
       "cover_filename": "cover_tale_266.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 267,
@@ -7128,7 +8512,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕯️✦\nWhen all your candles blew out, did you see the early dawn breaking across the horizon?",
       "cover_url": null,
       "cover_filename": "cover_tale_267.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 268,
@@ -7144,7 +8533,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👣✦\nWhen the whole world tells you to stay down, what whispers to your feet to stand back up?",
       "cover_url": null,
       "cover_filename": "cover_tale_268.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 269,
@@ -7160,7 +8554,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌾✦\nDid you know that the tears that watered your sorrow are the exact ground where joy grows?",
       "cover_url": null,
       "cover_filename": "cover_tale_269.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 270,
@@ -7176,7 +8575,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🏝️✦\nWhen the boat took on water, was the island on the horizon a miracle or destiny?",
       "cover_url": null,
       "cover_filename": "cover_tale_270.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 271,
@@ -7192,7 +8596,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🕊️✦\nFear can shout as loud as thunder, but why does faith always whisper clearer?",
       "cover_url": null,
       "cover_filename": "cover_tale_271.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 272,
@@ -7208,7 +8617,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 👶✦\nWhen a child takes their first stumble, does the whole earth rise up to catch them?",
       "cover_url": null,
       "cover_filename": "cover_tale_272.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 273,
@@ -7224,7 +8638,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? ✨✦\nWhat deep wound in your life ended up glowing as your brightest scar of honor?",
       "cover_url": null,
       "cover_filename": "cover_tale_273.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 274,
@@ -7240,7 +8659,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🔥✦\nWhen darkness covers the entire valley, how does a single match have the power to break it?",
       "cover_url": null,
       "cover_filename": "cover_tale_274.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 275,
@@ -7256,7 +8680,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 💃✦\nWhen the music ended too soon, why did the dancers keep on moving across the floor?",
       "cover_url": null,
       "cover_filename": "cover_tale_275.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 276,
@@ -7272,7 +8701,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🌧️✦\nHow does a parched desert know how to bloom the very second it smells the first rain?",
       "cover_url": null,
       "cover_filename": "cover_tale_276.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 277,
@@ -7288,7 +8722,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🛡️✦\nWhen you stand alone against the crowd, what truth stands right beside you in silence?",
       "cover_url": null,
       "cover_filename": "cover_tale_277.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 278,
@@ -7304,7 +8743,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🤱✦\nWhen a mother holds her newborn child, does the whole universe take a deep, safe breath?",
       "cover_url": null,
       "cover_filename": "cover_tale_278.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 279,
@@ -7320,7 +8764,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🕊️✦\nWhen the cage door unhinges, what is the first sky you want to fly toward?",
       "cover_url": null,
       "cover_filename": "cover_tale_279.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 280,
@@ -7336,7 +8785,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🎤✦\nEven when your voice cracks with fear, why is singing your truth the only way forward?",
       "cover_url": null,
       "cover_filename": "cover_tale_280.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 281,
@@ -7352,7 +8806,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 💓✦\nIf your heart was given a second chance to beat, what song would you make it sing?",
       "cover_url": null,
       "cover_filename": "cover_tale_281.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 282,
@@ -7368,7 +8827,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🪟✦\nWhen every heavy door stayed shut in your face, what small window swung open for light?",
       "cover_url": null,
       "cover_filename": "cover_tale_282.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 283,
@@ -7384,7 +8848,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🏜️✦\nWho crossed the burning sands with you to find the sweet water waiting at the end?",
       "cover_url": null,
       "cover_filename": "cover_tale_283.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 284,
@@ -7400,7 +8869,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🍂✦\nWhen the old oak tree sheds its leaves, does it mourn the branches or drink winter peace?",
       "cover_url": null,
       "cover_filename": "cover_tale_284.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 285,
@@ -7416,7 +8890,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🌈✦\nAfter the heaviest storm clouds broke, did you look up to see the sky painted in victory?",
       "cover_url": null,
       "cover_filename": "cover_tale_285.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 286,
@@ -7432,7 +8911,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👑✦\nHow can empty hands holding pure hope cause mighty empires to crumble before them?",
       "cover_url": null,
       "cover_filename": "cover_tale_286.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 287,
@@ -7448,7 +8932,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 👶✦\nWhen a newborn takes their first breath, can you feel the ancestors cheering from above?",
       "cover_url": null,
       "cover_filename": "cover_tale_287.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 288,
@@ -7464,7 +8953,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🏮✦\nThe glass of the lighthouse cracked in the tempest, but did the flame ever go out?",
       "cover_url": null,
       "cover_filename": "cover_tale_288.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 289,
@@ -7480,7 +8974,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🛡️✦\nYour shield was broken in two, but did your heart emerge completely whole and undefeated?",
       "cover_url": null,
       "cover_filename": "cover_tale_289.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 290,
@@ -7496,7 +8995,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🌧️✦\nWhen warm rain soaks parched ground, does the earth breathe the sweetest scent of life?",
       "cover_url": null,
       "cover_filename": "cover_tale_290.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 291,
@@ -7512,7 +9016,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🤝✦\nWhen all hope seemed lost in the shadows, whose small hand reached out to hold yours?",
       "cover_url": null,
       "cover_filename": "cover_tale_291.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 292,
@@ -7528,7 +9037,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? ⚔️✦\nDid you step into the fire of adversity only to come out forged into unbreakable steel?",
       "cover_url": null,
       "cover_filename": "cover_tale_292.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 293,
@@ -7544,7 +9058,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🎶✦\nCan dancing through sorrow turn your deepest grief into the greatest anthem of joy?",
       "cover_url": null,
       "cover_filename": "cover_tale_293.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 294,
@@ -7560,7 +9079,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⛵✦\nWhen the heavy anchor snapped free, did the wind catch your sails toward your new life?",
       "cover_url": null,
       "cover_filename": "cover_tale_294.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 295,
@@ -7576,7 +9100,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 🗣️✦\nWhen one courageous voice spoke out in the quiet, did a million voices rise to answer?",
       "cover_url": null,
       "cover_filename": "cover_tale_295.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 296,
@@ -7592,7 +9121,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🐕✦\nWhat green fields of peace does an old, faithful companion dream of under the porch?",
       "cover_url": null,
       "cover_filename": "cover_tale_296.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 297,
@@ -7608,7 +9142,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🖋️✦\nEven when the ink runs dry on paper, can anyone stop your story from being lived?",
       "cover_url": null,
       "cover_filename": "cover_tale_297.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 298,
@@ -7624,7 +9163,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👁️✦\nWhen you stood toe-to-toe with the dark abyss, did the abyss blink first?",
       "cover_url": null,
       "cover_filename": "cover_tale_298.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 299,
@@ -7640,7 +9184,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🌲✦\nLeaves fall every autumn without fear—does the forest ever doubt that life will return?",
       "cover_url": null,
       "cover_filename": "cover_tale_299.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 300,
@@ -7656,7 +9205,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? 🌅✦\nThe darkest night must always end—will you be there when the dawn keeps its golden promise?",
       "cover_url": null,
       "cover_filename": "cover_tale_300.jpg",
-      "status": "QUEUED"
+      "status": "QUEUED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     }
   ],
   "sid_isha": [
@@ -7674,8 +9228,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_01_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfL5Rd7n68z/",
-      "slide1_alt": "Digital romantic painting illustration for Day 01: 'The Chalkboard Sentence'. Cinematic 90s Indian classroom nostalgia, morning sunlight streaming through wooden louvre windows, dust motes floating in sunbeams. A charming teenage Indian high school boy standing by an old gre... Overlay banner at top reads: 'The entire classroom laughed.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 01: 'The Chalkboard Sentence'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A warm, nostalgic photograph inside a sunlit 90s Indian classroom showing a charming high school boy in uniform writing playful romantic equations on a large green chalkboard while smiling shyly toward an off-camera classmate. A text overlay at the top reads \"The entire classroom laughed.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Chalkboard Sentence\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid stepping up to the blackboard before class begins to scribble a humorous sentence confessing his feelings for Isha, prompting laughter from the classroom while she hides behind her notebook. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 2,
@@ -7691,8 +9245,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_02_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfOeE25n-uf/",
-      "slide1_alt": "Digital romantic painting illustration for Day 02: 'The Chemistry & The Rain'. Two teenage Indian students pushing vintage bicycles along a quiet rain-drenched tree-lined road in India. Sudden monsoon drizzle catching the golden afternoon light. Raindrops sparkling on bicycle... Overlay banner at top reads: 'You turned me on.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 02: 'The Chemistry & The Rain'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A cinematic monsoon photograph of a teenage Indian boy and girl walking side by side under a shared transparent umbrella along a rain-drenched tree-lined road, pushing their bicycles through gentle puddles. A text overlay at the top reads \"You turned me on.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Chemistry & The Rain\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha walking home together in a sudden torrential downpour, discussing science formulas while sparks fly beneath their shared umbrella. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 3,
@@ -7708,8 +9262,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_03_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfRAYyrHzh3/",
-      "slide1_alt": "Digital romantic painting illustration for Day 03: 'Deliciously Dangerous'. Intimate cinematic close-up of a teenage Indian boy and girl standing under a sheltering banyan tree beside their parked bicycles during twilight rain. Droplets dripping from lush green leaves. Sof... Overlay banner at top reads: 'Deliciously dangerous.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 03: 'Deliciously Dangerous'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "An intimate cinematic close-up of a teenage Indian boy and girl standing close under the shelter of an old brick archway during a heavy rain shower, sharing breathless smiles with rain droplets glistening on their school uniforms. A text overlay at the top reads \"Deliciously dangerous.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Deliciously Dangerous\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha trapped under a narrow stone archway as thunder rumbles, caught between the danger of being seen and the sweet intimacy of their unspoken attraction. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 4,
@@ -7725,8 +9279,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_04_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfUNdLIn41t/",
-      "slide1_alt": "Digital romantic painting illustration for Day 04: 'Midnight Whispers'. A dimly lit bedroom at midnight, an Indian teenage boy lying on his bed smiling warmly at the blue-white glow of a mobile phone screen. An open sketchbook with charcoal pencils beside him on the bl... Overlay banner at top reads: 'Love was simply Us.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 04: 'Midnight Whispers'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A cozy nighttime photograph of a dimly lit bedroom where an Indian teenage boy lies on his bed smiling warmly at the soft blue glow of his basic mobile phone screen under a warm yellow bedside lamp. A text overlay at the top reads \"Love was simply Us.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Midnight Whispers\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid reading late-night text messages from Isha in the quiet of his room, discovering how simple everyday words bridge the silent midnight hours between them. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 5,
@@ -7742,8 +9296,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_05_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfWzJuYn-vQ/",
-      "slide1_alt": "Digital romantic painting illustration for Day 05: 'The Envelope at the Cycle Stand'. Indian high school cycle parking shed bathed in crisp morning golden hour sunlight. Long rows of metal bicycles. A teenage Indian boy secretly passing a folded kraft paper envelope into the hand of... Overlay banner at top reads: 'You ruled my dreams.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 05: 'The Envelope at the Cycle Stand'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A bright morning photograph inside a high school cycle stand with rows of classic steel bicycles bathed in golden sunbeams, showing a girl surreptitiously slipping a small white envelope into a boy's bicycle basket. A text overlay at the top reads \"You ruled my dreams.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Envelope at the Cycle Stand\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid discovering a handwritten letter tucked into his cycle bell gear at the school stand, turning an ordinary morning assembly into an unforgettable thrill. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 6,
@@ -7759,8 +9313,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_06_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfZryrLH0Ei/",
-      "slide1_alt": "Digital romantic painting illustration for Day 06: 'The Darkroom Secret'. Inside a darkened, deserted vintage Indian classroom with closed wooden blinds. A luminous sketch glowing with soft phosphorescent neon green-blue paint held by a teenage Indian girl, illuminating ... Overlay banner at top reads: 'Always here to protect my queen.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 06: 'The Darkroom Secret'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A moody, cinematic photograph inside a high school photography darkroom illuminated by a single crimson red safety lamp, showing two school students standing close amidst hanging film strips and wash trays. A text overlay at the top reads \"Always here to protect my queen.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Darkroom Secret\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha stepping into the darkroom where Sid is developing photographs, their whispered confessions sheltered by amber developer trays and red shadows. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 7,
@@ -7776,8 +9330,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_07_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfbReESny3i/",
-      "slide1_alt": "Digital romantic painting illustration for Day 07: 'The Lingering Glow'. Tender romantic moment inside an old school room behind an open wooden door. A teenage Indian boy and girl hiding closely together, holding hands with fingers tightly intertwined. Moonlight and hal... Overlay banner at top reads: 'You really are my safest place.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 07: 'The Lingering Glow'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A tender romantic photograph inside an empty vintage school classroom at twilight, showing a teenage boy and girl admiring glowing luminous green paint on a small paper star held between their palms. A text overlay at the top reads \"You really are my safest place.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Lingering Glow\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid showing Isha a glow-in-the-dark star hidden inside his physics notebook, whispering how her presence brings light to his quietest doubts. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 8,
@@ -7793,8 +9347,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_08_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfdzjZXn0Fx/",
-      "slide1_alt": "Digital romantic painting illustration for Day 08: 'The Crimson Thread'. Macro close-up shot of delicate teenage hands: a girl tying a sacred slender crimson cotton thread around a boy's thumb. Soft morning school light filtering onto their wrists. Golden dust, authenti... Overlay banner at top reads: 'My universe is standing right in front of me.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 08: 'The Crimson Thread'. Features gold Act header 'ACT I: THE INNOCENT SPARK', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A detailed macro photograph focusing on two teenage hands in front of an ancient school corridor brick pillar, showing a girl with red ribboned braids tying a slender sacred crimson thread around a boy's wrist. A text overlay at the top reads \"My universe is standing right in front of me.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Crimson Thread\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha tying a red protective thread around Sid's wrist before the final bell clangs, cementing an unspoken sacred promise before they part for the evening. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 9,
@@ -7810,8 +9364,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_09_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfhTEi-nywn/",
-      "slide1_alt": "Digital romantic painting illustration for Day 09: 'Half a Song, Whole World'. A teenage Indian couple sitting together on a worn stone bench beneath a majestic ancient banyan tree in a public park at sunset. Sharing a pair of vintage white wired earphones connected to a smal... Overlay banner at top reads: 'With half a song each, our universe was whole.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 09: 'Half a Song, Whole World'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A golden dusk photograph of a teenage couple sitting together on an old stone park bench beneath the hanging roots of a grand banyan tree, sharing a pair of wired white earphones plugged into a portable MP3 player. A text overlay at the top reads \"With half a song each, our universe was whole.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Half a Song, Whole World\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid untangling wired earphones to share an acoustic Rahman track with Isha on a park bench at sunset, discovering how half an earphone creates a complete shared world. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 10,
@@ -7827,8 +9381,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_10_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/Dfkne_zkiQ4/",
-      "slide1_alt": "Digital romantic painting illustration for Day 10: 'Parallel Pedals'. Wide angle dynamic shot of a young Indian boy and girl cycling parallel side-by-side down an open country road towards an epic golden sunset. Long cast shadows stretching behind them. The girl's co... Overlay banner at top reads: 'The joy was staying parallel, riding alongside.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 10: 'Parallel Pedals'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A wide-angle cinematic shot on an open country road at amber sunset, showing two Indian school students riding their bicycles parallel side-by-side, laughing with wind tossing their hair. A text overlay at the top reads \"The joy was staying parallel, riding alongside.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Parallel Pedals\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha racing their cycles down an empty highway after evening tuition, matching pedal strokes in silent synchronization under an amber November sky. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 11,
@@ -7844,8 +9398,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_11_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/Dfmfq1-mhKx/",
-      "slide1_alt": "Digital romantic painting illustration for Day 11: 'The Leap'. Playful and spontaneous moment under a rustic stone railway arch bridge. Two bicycles resting tossed in green meadow grass. An Indian teenage boy and girl lying together in wild clover, laughing br... Overlay banner at top reads: 'Only the mad get to fly.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 11: 'The Leap'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A carefree nostalgic photograph under an old stone railway arch bridge surrounded by tall green meadow grasses, showing two discarded bicycles in the clover and two teenage students laughing breathlessly together. A text overlay at the top reads \"Only the mad get to fly.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Leap\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha suddenly swerving her bicycle down an embankment into wild clover grass, daring Sid to follow her in a leap of carefree adolescent abandon. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 12,
@@ -7878,8 +9432,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_13_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DfrpIQEl5cU/",
-      "slide1_alt": "Digital romantic painting illustration for Day 13: 'Half a Cup of Chai'. Atmospheric roadside Indian tea stall (chai tapri) in the cool late afternoon. Steam rising from a traditional cutting chai glass tumbler held between two young hands. Boiling kettle and crushed gi... Overlay banner at top reads: 'One chai. Shared warmth.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 13: 'Half a Cup of Chai'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "An atmospheric roadside photograph of a traditional Indian tea tapri at cool dusk, steam rising gently from a warm cutting chai glass tumbler held between two young hands beside a brass kettle. A text overlay at the top reads \"One chai. Shared warmth.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Half a Cup of Chai\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha stopping at a roadside tea stall after tuition, sharing a single glass of steaming cutting chai in the November chill while talking about their futures. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 14,
@@ -7895,8 +9449,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_14_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/DftYOaXjdzG/",
-      "slide1_alt": "Digital romantic painting illustration for Day 14: 'The Junior’s Query'. A sunny school verandah with white colonial pillars and arched brick corridors. A pretty Indian schoolgirl leaning against a pillar with arms crossed, playfully pouting with feigned jealousy. A han... Overlay banner at top reads: 'Flattery won't save you, Sid.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 14: 'The Junior’s Query'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A bright photograph along a historic school verandah with white colonial pillars and terracotta tiles, showing an Indian schoolgirl playfully pouting with arms crossed while a boy explains himself with an amused, guilty smile. A text overlay at the top reads \"Flattery won't save you, Sid.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Junior’s Query\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha teasing Sid after spotting a younger student asking him for physics tutoring outside the staff room, eliciting his flustered and devoted reassurances. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 15,
@@ -7912,8 +9466,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_filename": "SidIsha_Day_15_Slide2_Story.jpg",
       "status": "PUBLISHED",
       "instagram_url": "https://www.instagram.com/p/Dfv9CpvD_ki/",
-      "slide1_alt": "Digital romantic painting illustration for Day 15: 'The Sweet Apology'. A warm golden street scene near an old iron school gate at dusk. A boy holding open a rustic brown paper parcel revealing glistening, spiral orange hot jalebis dripping with sugar syrup. A girl smi... Overlay banner at top reads: 'An offering to appease the queen.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 15: 'The Sweet Apology'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A warm golden hour photograph near a vintage school gate at dusk, showing a boy offering a rustic brown paper parcel filled with glistening, spiral orange hot jalebis to a smiling girl in uniform. A text overlay at the top reads \"An offering to appease the queen.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Sweet Apology\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid waiting by the back gate with freshly fried syrup-dripping hot jalebis to apologize for teasing Isha, dissolving her mock annoyance into sweet shared laughter. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 16,
@@ -7928,8 +9482,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_16.jpg",
       "slide2_filename": "SidIsha_Day_16_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 16: 'The Rooftop Vow'. Panoramic rooftop view of an Indian small town at deep purple and orange twilight. A teenage boy and girl sitting side-by-side on a concrete rooftop ledge overlooking twinkling city lights below. C... Overlay banner at top reads: 'Wherever you go, home follows.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 16: 'The Rooftop Vow'. Features gold Act header 'ACT II: THE GROWING FLAME & SECRET WORLD', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A panoramic twilight photograph from the concrete terrace water tank of an Indian home overlooking rooftops bathed in purple and orange dusk, showing two students sitting shoulder to shoulder watching the horizon. A text overlay at the top reads \"Wherever you go, home follows.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Rooftop Vow\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha perched high above town on a rooftop water tank after tuition, watching evening lights flicker awake as they vow that no distance will ever break what they have built. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 17,
@@ -7944,8 +9498,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_17.jpg",
       "slide2_filename": "SidIsha_Day_17_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 17: 'The Countdown'. A crowded high school classroom during rigorous exam season. Wooden desks stacked high with thick calculus guidebooks and lined paper. A folded paper chit being discreetly passed between two studen... Overlay banner at top reads: 'Formula: lim(x→∞) of my love = infinite.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 17: 'The Countdown'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A vintage classroom photograph during intense board exam preparation season, showing a chalkboard marked \"42 Days to Finals\" and two desks stacked with thick guidebooks and open notebooks under ceiling fans. A text overlay at the top reads \"Formula: lim(x→∞) of my love = infinite.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Countdown\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the ticking pressure of twelfth-grade board exams, as Sid writes calculus limit formulas on Isha's rough sheet that playfully prove his love is mathematically infinite. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 18,
@@ -7960,8 +9514,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_18.jpg",
       "slide2_filename": "SidIsha_Day_18_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 18: 'Two A.M. Frequencies'. Split screen or dual mood composition of late-night study romance: on one side, an Indian boy lying in bed with an open physics textbook under a yellow desk lamp, holding an old-school telephone re... Overlay banner at top reads: 'Everything in my universe tumbles toward you.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 18: 'Two A.M. Frequencies'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A split-frame late-night photograph of two quiet study bedrooms under table lamps, showing a teenage boy and girl each resting a telephone receiver against their ears while looking at identical open physics problem sets. A text overlay at the top reads \"Everything in my universe tumbles toward you.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Two A.M. Frequencies\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha studying across the telephone line at two in the morning, their whispered problem-solving turning into quiet reflections on gravity and love. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 19,
@@ -7976,8 +9530,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_19.jpg",
       "slide2_filename": "SidIsha_Day_19_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 19: 'Five Marks and a Glow'. An empty afternoon classroom after exams. An Indian schoolgirl sitting at a desk with tears streaming down her face, comforted by a compassionate schoolboy gently cupping her cheeks and wiping away... Overlay banner at top reads: 'You still outshine the entire school.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 19: 'Five Marks and a Glow'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A poignant afternoon photograph of an empty high school classroom after final examinations, showing a tearful Indian girl in uniform seated at a desk while a boy gently hands her a clean handkerchief. A text overlay at the top reads \"You still outshine the entire school.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Five Marks and a Glow\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha weeping over losing five marks on the chemistry paper due to traffic delays, while Sid comforts her by affirming that numbers will never measure her brilliance or his love. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 20,
@@ -7992,8 +9546,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_20.jpg",
       "slide2_filename": "SidIsha_Day_20_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 20: 'Into the Sunlight'. Two Indian high school students walking out of historic school arched gateway into bright radiant summer sunshine. Students cheering and tossing exam papers in background. The boy and girl walking ... Overlay banner at top reads: 'We conquered. Two hearts into the unfolding future.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 20: 'Into the Sunlight'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A bright, triumphant photograph of two high school students walking together out through the grand arched gates of their school into brilliant afternoon sunlight, holding rolled question papers as exam bells echo. A text overlay at the top reads \"We conquered. Two hearts into the unfolding future.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Into the Sunlight\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the ringing of the final school exam bell, as Sid and Isha walk out of the school gates together into an uncertain yet hopeful future. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 21,
@@ -8008,8 +9562,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_21.jpg",
       "slide2_filename": "SidIsha_Day_21_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 21: 'Ink on Cotton'. School uniform shirt signing day in an Indian school courtyard. A beautiful Indian girl with moist emotional eyes writing with a black permanent marker directly over a boy's white school shirt ches... Overlay banner at top reads: 'Property of Isha. Forever non-negotiable.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 21: 'Ink on Cotton'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A nostalgic photograph in a sunny school courtyard on uniform shirt-signing day, showing a teenage girl smiling brightly as she inks bold black marker cursive across the back of a boy's pristine white school shirt. A text overlay at the top reads \"Property of Isha. Forever non-negotiable.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Ink on Cotton\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates farewell day at school, where Isha claims Sid's uniform shirt with a permanent marker, writing a fiercely tender message that forever seals her claim on his heart. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 22,
@@ -8024,8 +9578,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_22.jpg",
       "slide2_filename": "SidIsha_Day_22_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 22: 'Different Envelopes'. Two official university admission letters resting on a weathered stone terrace parapet at dusk, fluttering in the wind. A boy and girl's hands clasped together tightly between the papers, silhouett... Overlay banner at top reads: 'The skies are different. The gravity stays the same.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 22: 'Different Envelopes'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A reflective sunset photograph on a weathered stone terrace parapet, showing two official university admission envelopes resting side-by-side with postmarks from Delhi and Bangalore against a violet evening sky. A text overlay at the top reads \"The skies are different. The gravity stays the same.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Different Envelopes\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the bitter reality of university counseling letters placing Sid in Delhi and Isha in Bangalore, facing the realization that different skies cannot break their shared gravitational pull. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 23,
@@ -8040,8 +9594,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_23.jpg",
       "slide2_filename": "SidIsha_Day_23_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 23: 'Terminal Goodbyes'. Emotional airport departure terminal goodbye. Modern airport glass architecture, travelers bustling in background. An Indian young man and woman sharing an agonizingly tender embrace near security ... Overlay banner at top reads: 'Every frequency in my mind is tuned to you.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 23: 'Terminal Goodbyes'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "An emotional airport departure terminal photograph framed through glass departure gates, showing a young Indian couple embracing tightly as boarding call announcements echo under cool airport halogen lights. A text overlay at the top reads \"Every frequency in my mind is tuned to you.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Terminal Goodbyes\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid seeing Isha off at Terminal 1 as she boards her flight for overseas higher education, sharing a desperate embrace that promises their minds will stay tuned to each other across any distance. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 24,
@@ -8056,8 +9610,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_24.jpg",
       "slide2_filename": "SidIsha_Day_24_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 24: 'The Cut Wire'. Vintage yellow metal coin-box payphone on a peeling hostel hallway wall. Dim yellow bulb buzzing overhead. A distraught young Indian college freshman boy holding the black telephone receiver with h... Overlay banner at top reads: 'The silence felt absolute.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 24: 'The Cut Wire'. Features gold Act header 'ACT III: THE THRESHOLD & THE PROMISE', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A somber, vintage photograph of a yellow coin-box payphone on a peeling hostel hallway wall under a dim fluorescent bulb, the telephone receiver hanging silent from its coiled cord. A text overlay at the top reads \"The silence felt absolute.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Cut Wire\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid standing before a dead hostel coin-box payphone as the hostel gates slam shut, facing the deafening silence of disconnected phone lines and unanswered letters. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 25,
@@ -8072,8 +9626,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_25.jpg",
       "slide2_filename": "SidIsha_Day_25_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 25: 'Across Hemispheres'. Dual contrasting atmosphere: An Indian girl standing bundled in a warm winter woolen coat on a snowy European Munich bridge watching snow falling softly over historic German spires, while clutching... Overlay banner at top reads: 'Distant horizons, zero contact—yet never so alone.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 25: 'Across Hemispheres'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A striking dual-contrast photograph: an Indian woman bundled in a winter wool coat walking along a snowy Munich boulevard, contrasted against a man working at a rainy Bangalore desk, both glancing at the cloudy sky. A text overlay at the top reads \"Distant horizons, zero contact—yet never so alone.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Across Hemispheres\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the passage of years across different continents, as Isha walks through European autumns and Sid builds his engineering career, living parallel lives bound by silent memory. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 26,
@@ -8088,8 +9642,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_26.jpg",
       "slide2_filename": "SidIsha_Day_26_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 26: 'Lines of Code'. Modern IT software engineer at his corporate glass office desk late at night. Dual computer monitors displaying glowing syntax code and an email with an official European onsite relocation letter: ... Overlay banner at top reads: 'Fate, after seven silent years, quietly cracked its knuckles.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 26: 'Lines of Code'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A sleek modern corporate photograph inside a glass office tower late at night, showing an exhausted software architect looking thoughtfully up from dual glowing monitors filled with lines of code. A text overlay at the top reads \"Fate, after seven silent years, quietly cracked its knuckles.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Lines of Code\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid working late on an enterprise software module seven years later, stumbling upon a code repository signed by an engineer named Isha, feeling fate stir once again in the dark. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 27,
@@ -8104,8 +9658,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_27.jpg",
       "slide2_filename": "SidIsha_Day_27_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 27: 'The Bavarian Crowd'. Epic Oktoberfest festival beer tent in Munich (Paulaner tent). Festive warm glowing fairy lights, traditional wooden rafters, crowded tables with singing festival-goers in Bavarian attire clinking ... Overlay banner at top reads: 'Across twenty feet of strangers, her eyes snapped to his.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 27: 'The Bavarian Crowd'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A vibrant festive photograph inside an immense Munich Oktoberfest beer tent with warm golden fairy lights and roaring crowds, showing two individuals locking eyes in stunned recognition across a sea of strangers. A text overlay at the top reads \"Across twenty feet of strangers, her eyes snapped to his.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Bavarian Crowd\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid attending Oktoberfest in Munich, looking across the roaring festival tent to find Isha standing right before him after seven long years of silence. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 28,
@@ -8120,8 +9674,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_28.jpg",
       "slide2_filename": "SidIsha_Day_28_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 28: 'Warm Coffee, Cold Morning'. Crisp autumn morning in Munich outside the futuristic glass architecture of BMW Welt and Olympiapark. Golden yellow and crimson maple leaves blanketing the ground. An adult Indian couple walking cl... Overlay banner at top reads: 'Seven years vanished in seven seconds.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 28: 'Warm Coffee, Cold Morning'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A crisp autumn morning photograph outside the futuristic glass architecture of BMW Welt in Munich, showing a man and woman holding paper coffee cups, walking together on a path covered in golden fallen maple leaves. A text overlay at the top reads \"Seven years vanished in seven seconds.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Warm Coffee, Cold Morning\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha walking through the chilly Munich morning after their reunion, feeling seven years of separation melt away as naturally as their very first conversation. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 29,
@@ -8136,8 +9690,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_29.jpg",
       "slide2_filename": "SidIsha_Day_29_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 29: 'Only Yours'. High emotion intimate drama inside a modern penthouse apartment overlooking a rain-swept European city skyline at dusk. A beautiful Indian woman passionately grabbing the lapels of a handsome India... Overlay banner at top reads: 'I’m still your glowing queen. Only yours.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 29: 'Only Yours'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "An emotional nighttime photograph inside a warm modern penthouse apartment overlooking a rain-swept European city skyline, showing a woman with wet eyelashes leaning her forehead against a man's chest in pure relief. A text overlay at the top reads \"I’m still your glowing queen. Only yours.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Only Yours\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha showing Sid a suitor's proposal sent by her family, choosing instead to step into his arms and whisper that after all the years, she has only ever belonged to him. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
     {
       "day": 30,
@@ -8152,8 +9706,8 @@ window.PUBLISHING_CATALOG = {
       "slide2_url": "assets/sid_isha/slide2/day_30.jpg",
       "slide2_filename": "SidIsha_Day_30_Slide2_Story.jpg",
       "status": "READY 🚀",
-      "slide1_alt": "Digital romantic painting illustration for Day 30: 'Home Was You'. Grand traditional South Indian Hindu temple wedding ceremony. Sacred agni holy fire glowing brightly. The bride in magnificent crimson Kanjeevaram silk saree adorned with gold temple jewelry and ja... Overlay banner at top reads: 'You were never just a place. Home was always you.' with Nalkudil Studio signature watermark.",
-      "slide2_alt": "Luxury 4:5 editorial story card for Day 30: 'Home Was You'. Features gold Act header 'ACT IV: THE UNDENIABLE US – MUNICH & HOME WAS YOU', title, and the full 100-word micro-story set in crisp white typography against a deep midnight-teal backdrop with author credit and Book Club link."
+      "slide1_alt": "A magnificent traditional South Indian temple wedding photograph bathed in sacred agni firelight and golden marigolds, showing a radiant bride in a silk saree and a groom in traditional veshti smiling with tears of joy. A text overlay at the top reads \"You were never just a place. Home was always you.\" alongside a circular author portrait badge in the lower right corner.",
+      "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Home Was You\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the grand culmination of Sid and Isha's journey at a South Indian temple wedding, where as sacred nadaswaram pipes soar and the mangalsutra is tied, they realize that home was never a place—it was always each other. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     }
   ],
   "inkling_ig": [
@@ -8773,7 +10327,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "👇 Have you hit Claude Code's rate limits yet? Comment 'ROUTER' if you want the setup guide!\n\nDrop your thoughts below 💬 I read and reply to every comment.\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend01.png",
       "cover_filename": "Shorts_Cover_Trend01.png",
-      "status": "COMPLETED"
+      "status": "PUBLISHED",
+      "youtube_id": "Nk2dD2AaCG0",
+      "youtube_url": "https://www.youtube.com/shorts/Nk2dD2AaCG0"
     },
     {
       "day": "Trend 2",
@@ -8787,7 +10343,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "👇 Stop burning $200/mo on AI wrappers! Comment 'BLUEPRINT' for the full open-source setup guide.\n\nDrop your tech stack below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend02.png",
       "cover_filename": "Shorts_Cover_Trend02.png",
-      "status": "COMPLETED"
+      "status": "READY 🚀"
     },
     {
       "day": "Trend 3",
@@ -8801,7 +10357,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "👇 Tired of ugly AI bootstrap templates? Comment 'SKILLS' and I'll send you the Taste & Motion config files!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend03.png",
       "cover_filename": "Shorts_Cover_Trend03.png",
-      "status": "COMPLETED"
+      "status": "PUBLISHED",
+      "youtube_id": "jmD_9Muyrtk",
+      "youtube_url": "https://www.youtube.com/shorts/jmD_9Muyrtk"
     },
     {
       "day": "Trend 4",
@@ -8809,27 +10367,29 @@ window.PUBLISHING_CATALOG = {
       "concept": "5 MCP Servers Every AI Developer Needs Right Now",
       "category": "Zero-Cost AI Architecture",
       "filename": "TREND_04_5_MCP_Servers_Every_AI_Developer_Needs.mp4",
-      "title": "5 MCP Servers Every AI Developer Needs Right Now (Anthropic Standard) #shorts #ai",
+      "title": "Google DeepMind Just Killed Single-Model Coding! (Gemini 4 Carbon + Hydrogen) #shorts #ai #coding",
       "description": "STOP COPY-PASTING INTO CHAT\n\nIf you're still copy-pasting code back and forth into chat boxes, you're wasting hours. These five Model Context Protocol servers give your AI real hands. First, Playwright MCP gives Claude full control of a headless browser for live clicks and form testing. Second, Filesystem MCP lets it refactor your local code directly. Third, Postgres MCP lets it execute live database queries safely. Fourth, Perplexity MCP allows real-time web research without switching tabs. Fifth is GitHub MCP. Claude reads git blame, reviews open pull requests, and pushes fixes automatically from your command line. Connect all five to Claude Code and Antigravity in two minutes. The config file is linked below.",
       "tags": "Model Context Protocol, MCP Servers, Claude Code, Playwright MCP, Postgres MCP, GitHub MCP, Sarav x AI, Tech Radar",
       "pinned_comment": "👇 Which MCP server are you adding first? Comment 'MCP' for the complete plug-and-play config JSON!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend04.png",
       "cover_filename": "Shorts_Cover_Trend04.png",
-      "status": "QUEUED"
+      "status": "PUBLISHED",
+      "youtube_id": "4H__rUlX1DU",
+      "youtube_url": "https://www.youtube.com/shorts/4H__rUlX1DU"
     },
     {
       "day": "Trend 5",
       "episode": 5,
       "concept": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep",
       "category": "Zero-Cost AI Architecture",
-      "filename": "TREND_05_5_Autonomous_AI_Features_While_You_Sleep.mp4",
-      "title": "5 Autonomous AI Features That Run Your Tech Stack While You Sleep #shorts #ai",
+      "filename": "TREND_05_Break_1K_Views_Wall_Shorts_Algorithm.mp4",
+      "title": "Break the 1,000 Views Wall - Shorts Algorithm Blueprint #shorts #ai",
       "description": "DON'T BABYSIT AI PROMPTS\n\nEnterprise architects don't babysit AI prompts. Here are five autonomous workflows that run and maintain your entire tech stack while you sleep. First, autonomous test runners detect broken unit tests and trigger subagents to patch code overnight. Second, auto-refactoring cleans up technical debt across branches. Third, scheduled scrapers update your live database and analytics automatically. Fourth, 9Router failover silently switches endpoints if rate limits hit. Fifth, zero-cost social dispatches format and publish your builds across Telegram and GitHub without touching third-party SaaS wrappers. This is how you build leverage with zero capital burn. Follow Sarav AI for daily production blueprints.",
       "tags": "Autonomous AI, AI Workflows, Enterprise AI, Google Antigravity, Claude Code, 9Router, Sarav x AI, Tech Radar",
       "pinned_comment": "👇 Want to automate your development stack overnight? Comment 'AUTONOMOUS' for the architecture flow diagram!\n\nDrop your questions below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend05.png",
       "cover_filename": "Shorts_Cover_Trend05.png",
-      "status": "QUEUED"
+      "status": "READY 🚀"
     },
     {
       "day": "Trend 6",
@@ -8863,8 +10423,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க ஏரியாவுலயும் இப்படி ஹை-பீம் போட்டு கண்ணை குருடாக்குற ஆட்கள் இருக்காங்களா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_001.jpg",
-      "status": "READY 🚀",
-      "youtube_url": "https://youtube.com/shorts/XgwwrULEAAw"
+      "status": "PUBLISHED",
+      "youtube_url": "https://www.youtube.com/shorts/4bycWwVhuUs",
+      "youtube_id": "4bycWwVhuUs",
+      "views": "262 views",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 2,
@@ -8882,7 +10446,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "நீங்களும் வண்டில போகும்போது இப்படி ஒரு பக்கமா சாஞ்சு போன் பேசுறவங்கள பாத்திருக்கீங்களா? 😂👇 கமெண்ட் பண்ணுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_002.jpg",
       "cover_filename": "cover_comic_002.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED",
+      "youtube_id": "I8AwMvtTFrQ",
+      "youtube_url": "https://www.youtube.com/shorts/I8AwMvtTFrQ",
+      "views": "393 views (and 98 views on V6)",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 3,
@@ -8900,7 +10469,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "சிக்னல் விழும் முன்னாடியே காது கிழிய ஹார்ன் அடிக்கிறவங்களுக்கு உங்க ரியாக்ஷன் என்ன? 😂👇 சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_003.jpg",
       "cover_filename": "cover_comic_003.jpg",
-      "status": "READY 🚀"
+      "status": "PUBLISHED",
+      "youtube_id": "oXOk4GOh6Aw",
+      "youtube_url": "https://www.youtube.com/shorts/oXOk4GOh6Aw",
+      "views": "218 views",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 4,
@@ -8918,7 +10492,10 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "டிராபிக் சிக்னல்ல நின்னுகிட்டு ரீல்ஸ் பாக்குற ஆட்களை நீங்க பாத்திருக்கீங்களா? 😂👇 Tag that friend!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_004.jpg",
       "cover_filename": "cover_comic_004.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "note": "Master V6 Definitive Release delivered to Telegram @SaravMPBot",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 5,
@@ -8936,7 +10513,10 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "ஒன்-வே பாலத்துல எதிர் திசையில புகுந்து வர்றவங்களுக்கு மேலோக தண்டனை கரெக்டா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_005.jpg",
       "cover_filename": "cover_comic_005.jpg",
-      "status": "READY 🚀"
+      "status": "READY 🚀",
+      "note": "Master V6 Definitive Release delivered to Telegram @SaravMPBot",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 6,
@@ -8954,7 +10534,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_006.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 7,
@@ -8972,7 +10554,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_007.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 8,
@@ -8990,7 +10574,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_008.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 9,
@@ -9008,7 +10594,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_009.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 10,
@@ -9026,7 +10614,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_010.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 11,
@@ -9044,7 +10634,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_011.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 12,
@@ -9062,7 +10654,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_012.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 13,
@@ -9080,7 +10674,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_013.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 14,
@@ -9098,7 +10694,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_014.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 15,
@@ -9116,7 +10714,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_015.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 16,
@@ -9134,7 +10734,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_016.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 17,
@@ -9152,7 +10754,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_017.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 18,
@@ -9170,7 +10774,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_018.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 19,
@@ -9188,7 +10794,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_019.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 20,
@@ -9206,7 +10814,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_020.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 21,
@@ -9224,7 +10834,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_021.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 22,
@@ -9242,7 +10854,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_022.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 23,
@@ -9260,7 +10874,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_023.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 24,
@@ -9278,7 +10894,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_024.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 25,
@@ -9296,7 +10914,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_025.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 26,
@@ -9314,7 +10934,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_026.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 27,
@@ -9332,7 +10954,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_027.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 28,
@@ -9350,7 +10974,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_028.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 29,
@@ -9368,7 +10994,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_029.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 30,
@@ -9386,7 +11014,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_030.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 31,
@@ -9404,7 +11034,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_031.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 32,
@@ -9422,7 +11054,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_032.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 33,
@@ -9440,7 +11074,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_033.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 34,
@@ -9458,7 +11094,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_034.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 35,
@@ -9476,7 +11114,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_035.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 36,
@@ -9494,7 +11134,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_036.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 37,
@@ -9512,7 +11154,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_037.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 38,
@@ -9530,7 +11174,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_038.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 39,
@@ -9548,7 +11194,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_039.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 40,
@@ -9566,7 +11214,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_040.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 41,
@@ -9584,7 +11234,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_041.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 42,
@@ -9602,7 +11254,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_042.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 43,
@@ -9620,7 +11274,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_043.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 44,
@@ -9638,7 +11294,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_044.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 45,
@@ -9656,7 +11314,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_045.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 46,
@@ -9674,7 +11334,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_046.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 47,
@@ -9692,7 +11354,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_047.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 48,
@@ -9710,7 +11374,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_048.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 49,
@@ -9728,7 +11394,9 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_049.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     },
     {
       "episode": 50,
@@ -9746,119 +11414,239 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_050.jpg",
-      "status": "QUEUED ⏳"
+      "status": "QUEUED ⏳",
+      "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
     }
   ],
   "sarav_playlists": [
     {
+      "id": "master_umbrella",
+      "category": "100_days",
+      "cluster_num": 0,
+      "cluster_title": "Master Series: Complete 100-Day Curriculum",
+      "episodes_range": "Ep 01–100",
+      "video_count": "46 Videos",
+      "title": "100 Days of Learning AI | Sigma Byte",
+      "description": "The complete 100-Day roadmap to mastering Artificial Intelligence from the ground up! 🚀\n\nHosted by Enterprise AI Architect Sarav (@iamsaravofficial), this 100-video curriculum demystifies foundational LLM mechanics, advanced prompt engineering, production RAG & vector databases, multi-agent swarms, model fine-tuning, and modern agentic architectures.\n\n📚 CURRICULUM CLUSTERS:\n• Cluster 1 (Days 01–10): LLM Fundamentals & Neural Mechanics\n• Cluster 2 (Days 11–20): Prompt Engineering & Context Windows\n• Cluster 3 (Days 21–30): Production RAG & Vector Search\n• Cluster 4 (Days 31–40): Agentic AI & Autonomous Systems\n• Cluster 5 (Days 41–50): Multimodal AI & Generative Media\n• Cluster 6 (Days 51–60): AI Safety, Ethics & Alignment\n• Cluster 7 (Days 61–70): Enterprise AI & Copilots\n• Cluster 8 (Days 71–80): Model Architectures, Quantization & MoE\n• Cluster 9 (Days 81–90): AI Trends, Frontier Models & Tokenomics\n• Cluster 10 (Days 91–100): Practical AI Skills & 10x Workflows\n\n───────────────\n🔔 SUBSCRIBE to @iamsaravofficial & bookmark this playlist to never miss a daily byte!\n🌐 Architecture Blueprints, Code & 1-on-1 Advisory: https://iamsaravofficial.com\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #machinelearning #promptengineering #rag #agenticai #sigmabyte #saravxai #100daysofai",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #machinelearning #promptengineering #rag #agenticai #sigmabyte #saravxai #100daysofai",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLet1KBv_sfbY"
+    },
+    {
       "id": "cluster_01",
+      "category": "100_days",
       "cluster_num": 1,
       "cluster_title": "Cluster 1: LLM Fundamentals (Ep 01–10)",
       "episodes_range": "Ep 01–10",
+      "video_count": "10 Videos",
       "title": "100 Days of Learning AI 👉 Cluster 1: LLM Fundamentals (Ep 01–10) | Sigma Byte",
-      "description": "Master LLM Fundamentals in 10 bite-sized high-IQ episodes! 💡\n\nStop treating AI like magic. In this 10-part series, Enterprise AI Architect Sarav breaks down the exact internal mechanics of LLMs — from how text turns into tokens and high-dimensional vectors to why models hallucinate and how to control output temperature.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 01: Tokens — Your AI Doesn't Read Words. It Reads THIS.\n• Day 02: Context Window — AI Has a Memory Limit. Here's How Big.\n• Day 03: Embeddings — AI Turns Words Into Numbers. Here's Why.\n• Day 04: Transformers — The One Invention Behind Every AI You Use.\n• Day 05: Attention Mechanism — Why AI Knows Which Words Matter Most.\n• Day 06: Temperature — This Setting Controls If AI Gets Creative or Boring.\n• Day 07: Zero-shot Learning — AI Can Do Tasks It Was NEVER Trained For.\n• Day 08: Few-Shot Prompting — Give AI 2-3 Examples. Watch It Learn Instantly.\n• Day 09: Chain of Thought — Ask AI to 'Think Step by Step.' It Actually Works.\n• Day 10: AI Hallucination — Why AI Confidently Lies to You Sometimes.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #llmfundamentals #sigmabyte #saravxai #100daysofai #techtips",
+      "description": "Master LLM Fundamentals in 10 bite-sized high-IQ episodes! 💡 Stop treating AI like magic. In this 10-part series, Enterprise AI Architect Sarav breaks down tokens, context windows, vector embeddings, transformers, and attention mechanisms.\n\n#shorts #ai #artificialintelligence #learnai #llmfundamentals #sigmabyte #saravxai #100daysofai #techtips",
       "hashtags": "#shorts #ai #artificialintelligence #learnai #llmfundamentals #sigmabyte #saravxai #100daysofai #techtips",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjW_cluster1"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLT6PUK5n-H9U"
     },
     {
       "id": "cluster_02",
+      "category": "100_days",
       "cluster_num": 2,
       "cluster_title": "Cluster 2: Prompt Engineering Mastery (Ep 11–20)",
       "episodes_range": "Ep 11–20",
+      "video_count": "10 Videos",
       "title": "100 Days of Learning AI 👉 Cluster 2: Prompt Engineering Mastery (Ep 11–20) | Sigma Byte",
-      "description": "Master Prompt Engineering Mastery in 10 bite-sized high-IQ episodes! 💡\n\n99% of people prompt AI like an intern. In this masterclass cluster, discover how enterprise architects structure prompts for zero ambiguity, enforce valid JSON schemas for production APIs, and chain multi-step reasoning loops.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 11: System Prompts — The Hidden Instructions Behind Every AI Chat.\n• Day 12: Prompt Chaining — Stop Asking AI One Giant Question.\n• Day 13: Role Prompting — Tell AI 'You Are a Doctor' — Watch What Happens.\n• Day 14: Few-shot Prompting — Show, Don't Tell — AI's Favorite Learning Style.\n• Day 15: Negative Prompting — Tell AI What NOT to Do. It Changes Everything.\n• Day 16: Prompt Injection — The Security Flaw Hiding in AI Chatbots.\n• Day 17: Structured Output — Force AI to Reply in JSON. Here's How.\n• Day 18: Meta Prompting — Ask AI to Write Your Prompt For You.\n• Day 19: Iterative Prompting — The First AI Answer Is Never the Final One.\n• Day 20: Prompt Templates — Reuse This Prompt Structure Forever.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #promptengineeringmastery #sigmabyte #saravxai #100daysofai #techtips",
+      "description": "Master Prompt Engineering Mastery in 10 bite-sized high-IQ episodes! 💡 99% of people prompt AI like an intern. Discover system prompts, prompt chaining, negative prompting, JSON structured output, and meta-prompting.\n\n#shorts #ai #artificialintelligence #learnai #promptengineeringmastery #sigmabyte #saravxai #100daysofai #techtips",
       "hashtags": "#shorts #ai #artificialintelligence #learnai #promptengineeringmastery #sigmabyte #saravxai #100daysofai #techtips",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjW_cluster2"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLePv_aItYtqo"
     },
     {
       "id": "cluster_03",
+      "category": "100_days",
       "cluster_num": 3,
       "cluster_title": "Cluster 3: Production RAG & Vector Search (Ep 21–30)",
       "episodes_range": "Ep 21–30",
+      "video_count": "10 Videos",
       "title": "100 Days of Learning AI 👉 Cluster 3: Production RAG & Vector Search (Ep 21–30) | Sigma Byte",
-      "description": "Master Production RAG & Vector Search in 10 bite-sized high-IQ episodes! 💡\n\nFeeding whole PDFs to AI is broken. This cluster reveals the complete production RAG (Retrieval-Augmented Generation) blueprint — how vector databases index meaning, how recursive chunking preserves context, and how hybrid search eliminates hallucinations.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 21: Vector Database — Where AI Actually Stores 'Memory.'\n• Day 22: Semantic Search — Search Engines That Understand MEANING, Not Just Words.\n• Day 23: RAG — How AI Answers Questions From YOUR Documents.\n• Day 24: Chunking — Feeding AI a Whole PDF? You're Doing It Wrong.\n• Day 25: Embeddings — How AI Measures If Two Ideas Are 'Close.'\n• Day 26: Reranking — AI's Second Opinion on Search Results.\n• Day 27: Knowledge Grounding — Why This Trick Stops AI From Making Things Up.\n• Day 28: Hybrid Search — Why the Best AI Search Uses TWO Methods.\n• Day 29: Context Injection — How Your Chatbot 'Remembers' Your Account Info.\n• Day 30: Retrieval Latency — Why Some AI Chatbots Feel Slow.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #productionragvectorsearch #sigmabyte #saravxai #100daysofai #techtips",
+      "description": "Master Production RAG & Vector Search in 10 bite-sized high-IQ episodes! 💡 Feeding whole PDFs to AI is broken. This cluster reveals how vector databases index meaning, how recursive chunking preserves context, and how hybrid search eliminates hallucinations.\n\n#shorts #ai #artificialintelligence #learnai #productionragvectorsearch #sigmabyte #saravxai #100daysofai #techtips",
       "hashtags": "#shorts #ai #artificialintelligence #learnai #productionragvectorsearch #sigmabyte #saravxai #100daysofai #techtips",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjW_cluster3"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLBFH1sOvs76o"
     },
     {
       "id": "cluster_04",
+      "category": "100_days",
       "cluster_num": 4,
       "cluster_title": "Cluster 4: Agentic AI & Autonomous Systems (Ep 31–40)",
       "episodes_range": "Ep 31–40",
+      "video_count": "10 Videos",
       "title": "100 Days of Learning AI 👉 Cluster 4: Agentic AI & Autonomous Systems (Ep 31–40) | Sigma Byte",
-      "description": "Master Agentic AI & Autonomous Systems in 10 bite-sized high-IQ episodes! 💡\n\nChatbots talk. AI Agents execute. Learn the 2026 systems architecture powering autonomous AI — from function calling and ReAct loops to orchestrating multi-agent squads and connecting models to any database via the Model Context Protocol (MCP).\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 31: AI Agents — AI That Doesn't Just Chat — It ACTS.\n• Day 32: Tool Use — How AI Uses Apps Just Like You Do.\n• Day 33: Multi-Agent Systems — Why One AI Agent Isn't Enough Anymore.\n• Day 34: Agent Memory — Why Some AI Agents Remember You Across Sessions.\n• Day 35: ReAct Framework — The Loop That Makes AI Agents Actually Smart.\n• Day 36: Agent Orchestration — Who's the 'Manager' When AI Agents Work Together?\n• Day 37: Autonomous Planning — AI That Breaks Down YOUR Goal Into Steps.\n• Day 38: Human in the Loop — Why the BEST AI Agents Still Ask Permission.\n• Day 39: Agent Guardrails — The Invisible Fence Keeping AI Agents in Check.\n• Day 40: MCP — The New Standard Letting AI Talk to ANY App.\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #agenticaiautonomoussystems #sigmabyte #saravxai #100daysofai #techtips",
+      "description": "Master Agentic AI & Autonomous Systems in 10 bite-sized high-IQ episodes! 💡 Chatbots talk. AI Agents execute. Learn function calling, ReAct loops, multi-agent squads, and Anthropic's Model Context Protocol (MCP).\n\n#shorts #ai #artificialintelligence #learnai #agenticaiautonomoussystems #sigmabyte #saravxai #100daysofai #techtips",
       "hashtags": "#shorts #ai #artificialintelligence #learnai #agenticaiautonomoussystems #sigmabyte #saravxai #100daysofai #techtips",
       "playlist_url": "https://www.youtube.com/playlist?list=PLKVhcsbIqnjU"
     },
     {
       "id": "cluster_05",
+      "category": "100_days",
       "cluster_num": 5,
       "cluster_title": "Cluster 5: Multimodal & GenAI Creative (Ep 41–50)",
       "episodes_range": "Ep 41–50",
+      "video_count": "6 Videos Live",
       "title": "100 Days of Learning AI 👉 Cluster 5: Multimodal & GenAI Creative (Ep 41–50) | Sigma Byte",
-      "description": "Master Multimodal AI & Generative Media in 10 bite-sized high-IQ episodes! 💡\n\nFrom typing eight words to generating museum-grade 4K art, photorealistic video, and studio vocal clones. In this cluster, Enterprise AI Architect Sarav demystifies the generative media revolution — from CLIP latent embeddings and diffusion denoising to neural vocoders, 3D facial blendshapes, and native multimodal models.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 41: Text to Image — Type a Sentence. Get a Full Image. How?\n• Day 42: Text to Video — AI Now Generates Full Videos From Text\n• Day 43: Text to Speech — How AI Voices Sound So Human Now\n• Day 44: Diffusion Models — The Math Trick Behind Every AI Image\n• Day 45: AI Avatars — This Video Host Isn't Real. Neither Am I (Almost)\n• Day 46: Voice Cloning — AI Can Copy ANY Voice From 30 Seconds of Audio\n• Day 47: AI Music — AI Just Composed a Full Song. From Text\n• Day 48: Image Upscaling — Blurry Old Photo? AI Fixes It Instantly\n• Day 49: Multimodal AI — AI That Sees, Hears, AND Reads at Once\n• Day 50: Style Transfer — Turn Any Photo Into a Painting Instantly\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #genai #multimodal #diffusion #sigmabyte #saravxai #100daysofai #techtips",
-      "hashtags": "#shorts #ai #artificialintelligence #learnai #genai #multimodal #diffusion #sigmabyte #saravxai #100daysofai #techtips",
-      "playlist_url": ""
+      "description": "Master Multimodal AI & Generative Creative Models in 10 bite-sized high-IQ episodes! 💡 Text-to-image synthesis, spatiotemporal video world models, neural vocoders, latent diffusion denoising, and 3D avatar blendshapes.\n\n#shorts #ai #artificialintelligence #learnai #multimodalaudioimage #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #multimodalaudioimage #sigmabyte #saravxai #100daysofai #techtips",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLZJefzvLqrLs"
     },
     {
       "id": "cluster_06",
+      "category": "100_days",
       "cluster_num": 6,
-      "cluster_title": "Cluster 6: AI Safety & Ethics (Ep 51–60)",
+      "cluster_title": "Cluster 6: AI Safety, Ethics & Alignment (Ep 51–60)",
       "episodes_range": "Ep 51–60",
-      "title": "100 Days of Learning AI 👉 Cluster 6: AI Safety & Ethics (Ep 51–60) | Sigma Byte",
-      "description": "Master AI Safety, Ethics & Alignment in 10 bite-sized high-IQ episodes! 💡\n\nBuilding AI is powerful; controlling AI safely is critical. This cluster explores the guardrails of modern machine learning — from addressing algorithmic bias and Reinforcement Learning from Human Feedback (RLHF) to detecting deepfakes, auditing model cards, and navigating global AI regulation.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 51: AI Bias — Why AI Can Be Unfair Without Anyone Coding It That Way\n• Day 52: AI Alignment — Making Sure AI Actually Wants What WE Want\n• Day 53: RLHF — The Secret Training Step That Makes AI 'Nice'\n• Day 54: Deepfakes — Fake Videos That Look 100% Real. Here's the Danger\n• Day 55: AI Regulation — Governments Are Racing to Control AI. Here's Why\n• Day 56: Explainable AI — Why 'AI Said So' Isn't Good Enough Anymore\n• Day 57: AI Privacy — Is Your Data Training the Next AI Model?\n• Day 58: AI Watermarking — How We'll Tell AI Content From Real Content\n• Day 59: Model Cards — The 'Nutrition Label' for AI Models\n• Day 60: Responsible AI — The Framework Every Company Building AI Needs\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #aisafety #rlhf #responsibleai #sigmabyte #saravxai #100daysofai #techtips",
-      "hashtags": "#shorts #ai #artificialintelligence #learnai #aisafety #rlhf #responsibleai #sigmabyte #saravxai #100daysofai #techtips",
+      "video_count": "Curriculum Staged",
+      "title": "100 Days of Learning AI 👉 Cluster 6: AI Safety, Ethics & Alignment (Ep 51–60) | Sigma Byte",
+      "description": "Master AI Safety, Governance & Alignment in 10 bite-sized high-IQ episodes! 💡 Reinforcement Learning from Human Feedback (RLHF), Constitutional AI, guardrails, and adversarial testing.\n\n#shorts #ai #artificialintelligence #learnai #aisafety #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #aisafety #sigmabyte #saravxai #100daysofai #techtips",
       "playlist_url": ""
     },
     {
       "id": "cluster_07",
+      "category": "100_days",
       "cluster_num": 7,
-      "cluster_title": "Cluster 7: Enterprise AI & Tools (Ep 61–70)",
+      "cluster_title": "Cluster 7: Enterprise AI & Copilots (Ep 61–70)",
       "episodes_range": "Ep 61–70",
-      "title": "100 Days of Learning AI 👉 Cluster 7: Enterprise AI & Tools (Ep 61–70) | Sigma Byte",
-      "description": "Master Enterprise AI & Digital Workplace Automation in 10 bite-sized high-IQ episodes! 💡\n\nWhy do 80% of enterprise AI pilots fail? In this cluster, Enterprise AI Architect Sarav unpacks how real companies deploy AI at scale — from AI coding copilots and autonomous background workflows to calculating true AI ROI, mitigating vendor lock-in, and mastering change management.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 61: AI Copilots — Why Every App Is Getting an AI Sidekick\n• Day 62: No Code AI — Build an AI App Without Writing Code\n• Day 63: Enterprise AI — Why Big Companies Are Slower to Use AI Than You Think\n• Day 64: AI Automation — AI Doing Your Repetitive Tasks While You Sleep\n• Day 65: AI Customer Support — Why That Chat Support Might Be AI, Not Human\n• Day 66: AI Code Assistants — How AI Writes Half Your Code Now\n• Day 67: AI Governance — The Rulebook Companies Need Before Using AI\n• Day 68: AI ROI — How Companies Know If AI Is Actually Worth It\n• Day 69: AI Change Management — Why AI Rollouts Fail Even With Great Tech\n• Day 70: Vendor Lock-in — The Hidden Cost of Betting on One AI Provider\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #enterpriseai #aicopilot #automation #sigmabyte #saravxai #100daysofai #techtips",
-      "hashtags": "#shorts #ai #artificialintelligence #learnai #enterpriseai #aicopilot #automation #sigmabyte #saravxai #100daysofai #techtips",
+      "video_count": "Curriculum Staged",
+      "title": "100 Days of Learning AI 👉 Cluster 7: Enterprise AI & Copilots (Ep 61–70) | Sigma Byte",
+      "description": "Master Enterprise AI Implementations & Copilot Architecture in 10 bite-sized episodes! 💡 Role-based access controls, telemetry auditing, cost optimization, and enterprise governance.\n\n#shorts #ai #artificialintelligence #learnai #enterprisegovernance #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #enterprisegovernance #sigmabyte #saravxai #100daysofai #techtips",
       "playlist_url": ""
     },
     {
       "id": "cluster_08",
+      "category": "100_days",
       "cluster_num": 8,
-      "cluster_title": "Cluster 8: Model Architecture & Training (Ep 71–80)",
+      "cluster_title": "Cluster 8: Model Architectures & Quantization (Ep 71–80)",
       "episodes_range": "Ep 71–80",
-      "title": "100 Days of Learning AI 👉 Cluster 8: Model Architecture & Training (Ep 71–80) | Sigma Byte",
-      "description": "Master Model Architecture & High-Performance Training in 10 bite-sized high-IQ episodes! 💡\n\nStep behind the API curtain and discover how state-of-the-art models are trained and compressed. Explore LoRA fine-tuning on a consumer laptop, 4-bit quantization, Mixture of Experts (MoE) routing, knowledge distillation, and synthetic data flywheels.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 71: Fine-tuning — Teaching AI YOUR Specific Knowledge & Tone\n• Day 72: LoRA — Train AI on a Laptop With 1% of the Weights: LoRA\n• Day 73: Quantization — How to Shrink Giant AI Models to Phone Size\n• Day 74: Mixture of Experts — Why Modern AI Uses Multiple Mini-Brains: MoE\n• Day 75: Knowledge Distillation — How Giant AI Models Teach Pocket SLMs\n• Day 76: Scaling Laws — The Secret Equation That Predicts How Smart AI Gets\n• Day 77: Pretraining — The 2 Training Steps Every AI Goes Through\n• Day 78: Synthetic Data — Can AI Train AI Without Human Data? Synthetic Sets\n• Day 79: Model Distillation — Cutting Token Bills by 90% With Distilled Models\n• Day 80: Sparse Models — How Sparse Models Save Massive Computing Power\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #lora #quantization #moe #machinelearning #sigmabyte #saravxai #100daysofai #techtips",
-      "hashtags": "#shorts #ai #artificialintelligence #learnai #lora #quantization #moe #machinelearning #sigmabyte #saravxai #100daysofai #techtips",
+      "video_count": "Curriculum Staged",
+      "title": "100 Days of Learning AI 👉 Cluster 8: Model Architectures & Quantization (Ep 71–80) | Sigma Byte",
+      "description": "Master Model Quantization, Mixture of Experts (MoE) & Edge AI in 10 bite-sized episodes! 💡 GGUF quantization, 4-bit precision, local Ollama NPUs, and hybrid routing.\n\n#shorts #ai #artificialintelligence #learnai #quantization #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #quantization #sigmabyte #saravxai #100daysofai #techtips",
       "playlist_url": ""
     },
     {
       "id": "cluster_09",
+      "category": "100_days",
       "cluster_num": 9,
-      "cluster_title": "Cluster 9: AI Trends & Buzzwords (Ep 81–90)",
+      "cluster_title": "Cluster 9: AI Economics & Frontier Models (Ep 81–90)",
       "episodes_range": "Ep 81–90",
-      "title": "100 Days of Learning AI 👉 Cluster 9: AI Trends & Buzzwords (Ep 81–90) | Sigma Byte",
-      "description": "Master AI Trends, Frontier Systems & Token Economics in 10 bite-sized high-IQ episodes! 💡\n\nCut through the industry hype and understand the real engineering defining frontier AI. From Artificial General Intelligence (AGI) timelines and emergent abilities to on-device edge execution, prompt caching tokenomics, and universal agent standards.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 81: AGI — What Happens When AI Matches Human Intelligence?\n• Day 82: Emergent Abilities — AI Skills That Just... Appear Out of Nowhere\n• Day 83: Frontier Models — The 'Latest and Greatest' AI You Keep Hearing About\n• Day 84: Open Source AI — Should AI Models Be Free for Everyone to See?\n• Day 85: On-device AI — Why Your Phone Might Not Need the Internet for AI Soon\n• Day 86: AI Agents Economy — Are AI Agents About to Get Their Own Jobs?\n• Day 87: Local LLMs — Run a Full AI Model Without the Internet\n• Day 88: Context Caching — How AI Apps Got Cheaper AND Faster\n• Day 89: MCP — Why Every AI Company Is Suddenly Adopting ONE Standard\n• Day 90: AI Model Names — Why AI Models Have Such Weird, Epic Names\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #agi #localai #tokenomics #mcp #sigmabyte #saravxai #100daysofai #techtips",
-      "hashtags": "#shorts #ai #artificialintelligence #learnai #agi #localai #tokenomics #mcp #sigmabyte #saravxai #100daysofai #techtips",
+      "video_count": "Curriculum Staged",
+      "title": "100 Days of Learning AI 👉 Cluster 9: AI Economics & Frontier Models (Ep 81–90) | Sigma Byte",
+      "description": "Master AI Economics, Tokenomics & Frontier Intelligence in 10 bite-sized episodes! 💡 Inference unit economics, prompt caching discounts, and the road to AGI.\n\n#shorts #ai #artificialintelligence #learnai #tokenomics #sigmabyte #saravxai #100daysofai #techtips",
+      "hashtags": "#shorts #ai #artificialintelligence #learnai #tokenomics #sigmabyte #saravxai #100daysofai #techtips",
       "playlist_url": ""
     },
     {
       "id": "cluster_10",
+      "category": "100_days",
       "cluster_num": 10,
       "cluster_title": "Cluster 10: Practical AI Skills (Ep 91–100)",
       "episodes_range": "Ep 91–100",
+      "video_count": "Curriculum Staged",
       "title": "100 Days of Learning AI 👉 Cluster 10: Practical AI Skills (Ep 91–100) | Sigma Byte",
-      "description": "Master Practical 10x AI Workflows in 10 bite-sized high-IQ episodes! 💡\n\nThe grand finale of the 100-Day Curriculum. Transition from conceptual understanding to raw daily productivity superpowers. Learn how to use AI for high-velocity research, automated coding, dynamic spreadsheet analysis, automated email triage, and accelerated self-learning.\n\n🧠 WHAT YOU WILL LEARN IN THIS CLUSTER:\n• Day 91: AI Skills — This Skill Could Be as Valuable as Coding Soon\n• Day 92: AI Note Taking — Turn Messy Notes Into Organized Summaries Instantly\n• Day 93: AI Coding — Write Code 10x Faster With This Workflow\n• Day 94: AI Email — Never Stare at a Blank Email Again\n• Day 95: AI Research — Turn Hours of Research Into Minutes\n• Day 96: AI Data Analysis — Ask Your Spreadsheet Questions in Plain English\n• Day 97: AI Presentations — Turn a Rough Outline Into Full Slides\n• Day 98: AI Learning — Your Personal Tutor Is Now Available 24/7\n• Day 99: AI Productivity — 5 Tasks You're Still Doing Manually (Stop That)\n• Day 100: AI Tools — Stop Using ONE AI for Everything\n\n───────────────\n🎯 ABOUT THIS SERIES:\nWelcome to '100 Days of Learning AI' with Sarav (Enterprise AI Architect & Digital Workplace Technology Head). Every day in under 45 seconds, we break down high-IQ Artificial Intelligence concepts into clear, practical intuition for creators, developers, and enterprise leaders.\n\n🔔 SUBSCRIBE to @iamsaravofficial to master AI one byte at a time!\n🌐 Projects, Architecture Blueprints & Masterclass: https://iamsaravofficial.com\n💬 Connect with Sarav on LinkedIn & explore the zero-cost open-source AI stack.\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #aiproductivity #aicoding #10xengineer #sigmabyte #saravxai #100daysofai #techtips",
+      "description": "Master Practical 10x AI Workflows in 10 bite-sized high-IQ episodes! 💡 High-velocity research, automated coding, dynamic spreadsheet analysis, automated email triage, and accelerated self-learning.\n\n#shorts #ai #artificialintelligence #learnai #aiproductivity #aicoding #10xengineer #sigmabyte #saravxai #100daysofai #techtips",
       "hashtags": "#shorts #ai #artificialintelligence #learnai #aiproductivity #aicoding #10xengineer #sigmabyte #saravxai #100daysofai #techtips",
       "playlist_url": ""
     },
     {
-      "id": "master_umbrella",
-      "cluster_num": 0,
-      "cluster_title": "Master Series: Complete 100-Day Curriculum",
-      "episodes_range": "Ep 01–100",
-      "title": "100 Days of Learning AI | Complete Curriculum (Episodes 01–100) — Sarav × AI",
-      "description": "The complete 100-Day roadmap to mastering Artificial Intelligence from the ground up! 🚀\n\nHosted by Enterprise AI Architect Sarav (@iamsaravofficial), this 100-video curriculum demystifies foundational LLM mechanics, advanced prompt engineering, production RAG & vector databases, multi-agent swarms, model fine-tuning, and modern agentic architectures.\n\n📚 CURRICULUM CLUSTERS:\n• Cluster 1 (Days 01–10): LLM Fundamentals & Neural Mechanics\n• Cluster 2 (Days 11–20): Prompt Engineering & Context Windows\n• Cluster 3 (Days 21–30): Production RAG & Vector Search\n• Cluster 4 (Days 31–40): Agentic AI & Autonomous Systems\n• Cluster 5 (Days 41–50): Multimodal AI & Generative Media\n• Cluster 6 (Days 51–60): AI Safety, Ethics & Alignment\n• Cluster 7 (Days 61–70): Enterprise AI & Copilots\n• Cluster 8 (Days 71–80): Model Architectures, Quantization & MoE\n• Cluster 9 (Days 81–90): AI Trends, Frontier Models & Tokenomics\n• Cluster 10 (Days 91–100): Practical AI Skills & 10x Workflows\n\n───────────────\n🔔 SUBSCRIBE to @iamsaravofficial & bookmark this playlist to never miss a daily byte!\n🌐 Architecture Blueprints, Code & 1-on-1 Advisory: https://iamsaravofficial.com\n───────────────\n\n#shorts #ai #artificialintelligence #learnai #machinelearning #promptengineering #rag #agenticai #sigmabyte #saravxai #100daysofai",
-      "hashtags": "#shorts #ai #artificialintelligence #learnai #machinelearning #promptengineering #rag #agenticai #sigmabyte #saravxai #100daysofai",
-      "playlist_url": ""
+      "id": "tech_radar",
+      "category": "tech_radar",
+      "cluster_num": 99,
+      "cluster_title": "Sarav × AI Tech Radar (Daily AI Trends)",
+      "episodes_range": "Trends 01–06+",
+      "video_count": "3 Videos Live",
+      "title": "Tech Radar | AI Tools, Coding Agents & Enterprise Workflows",
+      "description": "Daily breaking AI tools, open-source utilities, developer setups, and architecture blueprints by Enterprise AI Architect Sarav (@iamsaravofficial). Covering Claude Code, Google Antigravity, 9Router rate-limit failovers, Gemini 4 Carbon + Hydrogen, and zero-cost AI stacks.\n\n#shorts #ai #coding #developer #techradar #saravxai #claudecode #antigravity",
+      "hashtags": "#shorts #ai #coding #developer #techradar #saravxai #claudecode #antigravity",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHN3aMEl-g28"
+    },
+    {
+      "id": "karma_court",
+      "category": "karma_court",
+      "cluster_num": 101,
+      "cluster_title": "Karma Court / Comic Tales (Series 02)",
+      "episodes_range": "Cases 01–50",
+      "video_count": "4 Videos Live",
+      "title": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
+      "description": "Poetic Divine Justice in Melogam (மேலோகம்)! Hilarious & satirical micro-shorts exploring modern human social pet-peeves and everyday hypocrisies — traffic blunders, high-beams, horn blasters, office politics, and social media addictions.\n\n#shorts #TheLoop #KarmaCourt #TamilComedy #SatiricalShorts",
+      "hashtags": "#shorts #TheLoop #KarmaCourt #TamilComedy #SatiricalShorts",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+    },
+    {
+      "id": "inkling_complete",
+      "category": "inkling_tales",
+      "cluster_num": 200,
+      "cluster_title": "Inkling Tales: Master Series",
+      "episodes_range": "Ep 001–300",
+      "video_count": "45 Videos Live",
+      "title": "Inkling Tales: 8-Word Stories | Complete Series",
+      "description": "300 complete micro-stories told in exactly 8 words with seamless 6.00s loops on @theloopvid. A masterclass in high-retention micro-fiction, unexpected twists, and unforgettable emotion.\n\n#shorts #TheLoop #InklingTales #8WordStory #MicroFiction",
+      "hashtags": "#shorts #TheLoop #InklingTales #8WordStory #MicroFiction",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY"
+    },
+    {
+      "id": "inkling_dark_twists",
+      "category": "inkling_tales",
+      "cluster_num": 201,
+      "cluster_title": "Inkling Mood: Dark Twists & Mysteries",
+      "episodes_range": "Curated Tales",
+      "video_count": "15 Videos",
+      "title": "Dark Twists & Mysteries | 8-Word Stories",
+      "description": "Chilling psychological twists, unexpected endings, and mysterious turns that demand a re-watch.\n\n#shorts #TheLoop #DarkTwist #Mystery #8WordStory",
+      "hashtags": "#shorts #TheLoop #DarkTwist #Mystery #8WordStory",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ"
+    },
+    {
+      "id": "inkling_hope_courage",
+      "category": "inkling_tales",
+      "cluster_num": 202,
+      "cluster_title": "Inkling Mood: Hope, Courage & Rebirth",
+      "episodes_range": "Curated Tales",
+      "video_count": "10 Videos",
+      "title": "Hope, Courage & Rebirth | 8-Word Stories",
+      "description": "Uplifting 8-word stories of resilience, triumph, quiet bravery, and second chances.\n\n#shorts #TheLoop #Hope #Courage #8WordStory",
+      "hashtags": "#shorts #TheLoop #Hope #Courage #8WordStory",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4"
+    },
+    {
+      "id": "inkling_heartbreak",
+      "category": "inkling_tales",
+      "cluster_num": 203,
+      "cluster_title": "Inkling Mood: Heartbreaking Loss & Nostalgia",
+      "episodes_range": "Curated Tales",
+      "video_count": "8 Videos",
+      "title": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "description": "Poignant, tender micro-fictions exploring grief, memories of yesterday, and the beauty of what once was.\n\n#shorts #TheLoop #Nostalgia #Heartbreak #8WordStory",
+      "hashtags": "#shorts #TheLoop #Nostalgia #Heartbreak #8WordStory",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0"
+    },
+    {
+      "id": "inkling_scifi",
+      "category": "inkling_tales",
+      "cluster_num": 204,
+      "cluster_title": "Inkling Mood: Mind-Bending Sci-Fi & Paradoxes",
+      "episodes_range": "Curated Tales",
+      "video_count": "6 Videos",
+      "title": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "description": "Time travel loops, alternate dimensions, AI consciousness, and cosmic paradoxes condensed into 8 words.\n\n#shorts #TheLoop #SciFi #Paradox #8WordStory",
+      "hashtags": "#shorts #TheLoop #SciFi #Paradox #8WordStory",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw"
+    },
+    {
+      "id": "inkling_love",
+      "category": "inkling_tales",
+      "cluster_num": 205,
+      "cluster_title": "Inkling Mood: Love & Silent Goodbyes",
+      "episodes_range": "Curated Tales",
+      "video_count": "4 Videos",
+      "title": "Love & Silent Goodbyes | 8-Word Stories",
+      "description": "Whispered romances, unspoken feelings across crowded rooms, and enduring bonds that transcend time.\n\n#shorts #TheLoop #Romance #LoveStory #8WordStory",
+      "hashtags": "#shorts #TheLoop #Romance #LoveStory #8WordStory",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0"
     }
   ]
 };

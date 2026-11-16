@@ -1199,15 +1199,7 @@
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
         );
-      } else if (currentSuite === 'motivation_tales') {
-          const cat = (item.category || '').toLowerCase();
-          if (currentFilter === 'ready' && item.status !== 'READY') return false;
-          if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
-          if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
-          if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
-        } else if (currentSuite === 'motivation_tales') {
-          cardHtml = buildMotivationTalesCard(item, pubSet.has(item.episode));
-        } else if (currentSuite === 'comic_tales') {
+      } else if (currentSuite === 'comic_tales') {
         chips.push(
           { id: 'all', label: 'All (50)' },
           { id: 'ready', label: '🚀 Ready (5)' },
@@ -1282,23 +1274,11 @@
           if (currentFilter === 'cat_scifi' && !cat.includes('sci')) return false;
           if (currentFilter === 'cat_hope' && !cat.includes('hope')) return false;
         } else if (currentSuite === 'motivation_tales') {
-        chips.push(
-          { id: 'all', label: 'All (10)' },
-          { id: 'ready', label: '🚀 Ready (10)' },
-          { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
-          { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
-          { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
-          { id: 'pending', label: '⏳ Pending' },
-          { id: 'published', label: '✅ Published' }
-        );
-      } else if (currentSuite === 'motivation_tales') {
           const cat = (item.category || '').toLowerCase();
           if (currentFilter === 'ready' && item.status !== 'READY') return false;
           if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
           if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
           if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
-        } else if (currentSuite === 'motivation_tales') {
-          cardHtml = buildMotivationTalesCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'comic_tales') {
           const cat = item.category || '';
           if (currentFilter === 'ready' && item.status !== 'READY 🚀') return false;
@@ -1355,22 +1335,6 @@
           cardHtml = buildSidIshaCard(item, pubSet.has(item.day));
         } else if (currentSuite === 'inkling_ig') {
           cardHtml = buildInklingIGCard(item, pubSet.has(item.episode));
-        } else if (currentSuite === 'motivation_tales') {
-        chips.push(
-          { id: 'all', label: 'All (10)' },
-          { id: 'ready', label: '🚀 Ready (10)' },
-          { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
-          { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
-          { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
-          { id: 'pending', label: '⏳ Pending' },
-          { id: 'published', label: '✅ Published' }
-        );
-      } else if (currentSuite === 'motivation_tales') {
-          const cat = (item.category || '').toLowerCase();
-          if (currentFilter === 'ready' && item.status !== 'READY') return false;
-          if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
-          if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
-          if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
         } else if (currentSuite === 'motivation_tales') {
           cardHtml = buildMotivationTalesCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'comic_tales') {

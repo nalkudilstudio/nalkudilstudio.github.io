@@ -941,7 +941,11 @@
         <span>🔁 The Loop</span>
         <span class="tab-count" id="count-loop">300</span>
       </button>
-      <button class="nav-tab-btn" onclick="switchSuite('comic_tales', this)">
+            <button class="nav-tab-btn" onclick="switchSuite('motivation_tales', this)">
+        <span>⚡ Motivation Tales</span>
+        <span class="tab-count" id="count-motivation">10</span>
+      </button>
+<button class="nav-tab-btn" onclick="switchSuite('comic_tales', this)">
         <span>⚖️ Karma Court</span>
         <span class="tab-count" id="count-comic">50</span>
       </button>
@@ -1185,7 +1189,25 @@
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
         );
-      } else if (currentSuite === 'comic_tales') {
+      } else if (currentSuite === 'motivation_tales') {
+        chips.push(
+          { id: 'all', label: 'All (10)' },
+          { id: 'ready', label: '🚀 Ready (10)' },
+          { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
+          { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
+          { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
+          { id: 'pending', label: '⏳ Pending' },
+          { id: 'published', label: '✅ Published' }
+        );
+      } else if (currentSuite === 'motivation_tales') {
+          const cat = (item.category || '').toLowerCase();
+          if (currentFilter === 'ready' && item.status !== 'READY') return false;
+          if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
+          if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
+          if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
+        } else if (currentSuite === 'motivation_tales') {
+          cardHtml = buildMotivationTalesCard(item, pubSet.has(item.episode));
+        } else if (currentSuite === 'comic_tales') {
         chips.push(
           { id: 'all', label: 'All (50)' },
           { id: 'ready', label: '🚀 Ready (5)' },
@@ -1259,6 +1281,24 @@
           if (currentFilter === 'cat_love' && !cat.includes('love')) return false;
           if (currentFilter === 'cat_scifi' && !cat.includes('sci')) return false;
           if (currentFilter === 'cat_hope' && !cat.includes('hope')) return false;
+        } else if (currentSuite === 'motivation_tales') {
+        chips.push(
+          { id: 'all', label: 'All (10)' },
+          { id: 'ready', label: '🚀 Ready (10)' },
+          { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
+          { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
+          { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
+          { id: 'pending', label: '⏳ Pending' },
+          { id: 'published', label: '✅ Published' }
+        );
+      } else if (currentSuite === 'motivation_tales') {
+          const cat = (item.category || '').toLowerCase();
+          if (currentFilter === 'ready' && item.status !== 'READY') return false;
+          if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
+          if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
+          if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
+        } else if (currentSuite === 'motivation_tales') {
+          cardHtml = buildMotivationTalesCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'comic_tales') {
           const cat = item.category || '';
           if (currentFilter === 'ready' && item.status !== 'READY 🚀') return false;
@@ -1315,6 +1355,24 @@
           cardHtml = buildSidIshaCard(item, pubSet.has(item.day));
         } else if (currentSuite === 'inkling_ig') {
           cardHtml = buildInklingIGCard(item, pubSet.has(item.episode));
+        } else if (currentSuite === 'motivation_tales') {
+        chips.push(
+          { id: 'all', label: 'All (10)' },
+          { id: 'ready', label: '🚀 Ready (10)' },
+          { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
+          { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
+          { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
+          { id: 'pending', label: '⏳ Pending' },
+          { id: 'published', label: '✅ Published' }
+        );
+      } else if (currentSuite === 'motivation_tales') {
+          const cat = (item.category || '').toLowerCase();
+          if (currentFilter === 'ready' && item.status !== 'READY') return false;
+          if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
+          if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
+          if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
+        } else if (currentSuite === 'motivation_tales') {
+          cardHtml = buildMotivationTalesCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'comic_tales') {
           cardHtml = buildComicTalesCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'sarav_playlists') {
@@ -1851,6 +1909,63 @@ ${item.description}`;
       copySnippet(text, btn, label);
     }
 
+    
+    // Builder: Motivation Tales (Series 03)
+    function buildMotivationTalesCard(item, isPublished) {
+      const ep = item.episode;
+      const coverUrl = item.cover_url || '';
+      const downloadName = `mcr_verification_motivation_${String(ep).padStart(3, '0')}.jpg`;
+      const isReady = item.status === 'READY';
+
+      return `
+        <article class="pub-card ${isPublished ? 'is-published' : ''}" id="card-motivation_tales-${ep}">
+          <div class="card-top">
+            <div class="card-meta-left">
+              <span class="ep-badge gold" style="background: linear-gradient(135deg, #FFB800, #FF3D00); color: #070B11; font-weight: 800;">EPISODE #${String(ep).padStart(2, '0')}</span>
+              <span class="cat-badge" style="background: rgba(255, 184, 0, 0.12); color: #FFD700; border: 1px solid rgba(255, 184, 0, 0.3);">⚡ ${escapeHtml(item.category)}</span>
+              <span class="cat-badge">🌀 The Loop Minimalist Animation</span>
+              <span class="slot-badge">🕒 22:30 IST Bedtime Reset</span>
+            </div>
+            <label class="status-check-label ${isPublished ? 'checked' : ''}">
+              <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('motivation_tales', ${ep})">
+              <span class="status-text">${isPublished ? 'Published ✅' : (isReady ? 'Ready 🚀' : 'Queued ⏳')}</span>
+            </label>
+          </div>
+
+          <div class="card-grid">
+            <div class="media-box">
+              <div class="preview-thumb-wrap">
+                ${coverUrl ? `<img src="${coverUrl}" alt="Ep ${ep} MCR Sheet" loading="lazy">` : `<div class="thumb-placeholder"><span>⚡</span><span>Motivation Tales Ep ${ep}</span></div>`}
+              </div>
+              ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download MCR Sheet</a>` : ''}
+              <div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ 20.0s NVENC CFR Master Ready</div>
+            </div>
+
+            <div class="content-box">
+              <!-- Moral Truth Spotlight -->
+              <div style="background: rgba(7, 11, 17, 0.85); border: 1px solid rgba(255, 184, 0, 0.2); border-radius: 10px; padding: 10px 12px; margin-bottom: 8px;">
+                <div style="font-size: 12px; color: var(--gold-bright); font-weight: 700; margin-bottom: 4px;">💡 CORE LIFE LESSON:</div>
+                <div style="font-size: 13.5px; color: #FFF; line-height: 1.4; font-weight: 600; font-style: italic;">"${escapeHtml(item.moral || '')}"</div>
+              </div>
+
+              <h2 class="card-title-text">${escapeHtml(item.title)}</h2>
+
+              <div class="actions-grid">
+                <button class="btn-copy gold" onclick="copyCardField('motivation_tales', ${ep}, 'title', this)">📋 Copy Title</button>
+                <button class="btn-copy cyan" onclick="copyCardField('motivation_tales', ${ep}, 'description', this)">📝 Copy Description</button>
+                <button class="btn-copy" onclick="copyCardField('motivation_tales', ${ep}, 'tags', this)">🏷️ Copy Tags</button>
+                <button class="btn-copy magenta" onclick="copyCardField('motivation_tales', ${ep}, 'pinned_comment', this)">💬 Copy Pinned Comment</button>
+              </div>
+
+              <button class="btn-master-packet" onclick="copyCardField('motivation_tales', ${ep}, 'motivation_full_packet', this)" style="margin-top: 10px;">
+                ⚡ 1-Click Copy Master Motivation Packet (Title + Desc + Tags + Comment)
+              </button>
+            </div>
+          </div>
+        </article>
+      `;
+    }
+
     function copyCardField(suite, id, field, btnElement) {
       const items = catalog[suite] || [];
       const item = items.find(x => (suite === 'sid_isha' ? x.day === id : x.episode === id));
@@ -1882,6 +1997,10 @@ ${item.description}`;
         case 'sarav_full_packet':
           text = `TITLE:\n${item.title || ''}\n\nDESCRIPTION:\n${item.description || ''}\n\nTAGS:\n${item.tags || ''}\n\nPINNED COMMENT:\n${item.pinned_comment || ''}`;
           label = 'Full Shorts Packet';
+          break;
+        case 'motivation_full_packet':
+          text = `TITLE:\n${item.title || ''}\n\nDESCRIPTION:\n${item.description || ''}\n\nTAGS:\n${item.tags || ''}\n\nPINNED COMMENT:\n${item.pinned_comment || ''}`;
+          label = 'Full Motivation Packet';
           break;
         case 'loop_full_packet':
           text = `TITLE:\n${item.title || ''}\n\nDESCRIPTION:\n${item.description || ''}\n\nTAGS:\n${item.tags || ''}\n\nPINNED COMMENT:\n${item.pinned_comment || ''}`;
@@ -2146,6 +2265,7 @@ ${item.description}`;
       if (document.getElementById('count-sarav')) document.getElementById('count-sarav').textContent = (catalog.sarav_ai || []).length;
       if (document.getElementById('count-trends')) document.getElementById('count-trends').textContent = (catalog.sarav_trends || []).length;
       if (document.getElementById('count-loop')) document.getElementById('count-loop').textContent = (catalog.the_loop || []).length;
+      if (document.getElementById('count-motivation')) document.getElementById('count-motivation').textContent = (catalog.motivation_tales || []).length;
       if (document.getElementById('count-comic')) document.getElementById('count-comic').textContent = (catalog.comic_tales || []).length;
       if (document.getElementById('count-sidisha')) document.getElementById('count-sidisha').textContent = (catalog.sid_isha || []).length;
       if (document.getElementById('count-inkling')) document.getElementById('count-inkling').textContent = (catalog.inkling_ig || []).length;

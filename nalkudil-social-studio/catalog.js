@@ -9383,7 +9383,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_16_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_16.jpg",
       "slide2_filename": "SidIsha_Day_16_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Dfyi3zgjaeX/",
       "slide1_alt": "A panoramic twilight photograph from the concrete terrace water tank of an Indian home overlooking rooftops bathed in purple and orange dusk, showing two students sitting shoulder to shoulder watching the horizon. A text overlay at the top reads \"Wherever you go, home follows.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Rooftop Vow\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha perched high above town on a rooftop water tank after tuition, watching evening lights flicker awake as they vow that no distance will ever break what they have built. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

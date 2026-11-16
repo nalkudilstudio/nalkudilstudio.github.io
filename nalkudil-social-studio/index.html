@@ -942,7 +942,7 @@
         <span class="tab-count" id="count-loop">300</span>
       </button>
       <button class="nav-tab-btn" onclick="switchSuite('comic_tales', this)">
-        <span>⚖️ Comic Tales</span>
+        <span>⚖️ Karma Court</span>
         <span class="tab-count" id="count-comic">50</span>
       </button>
       <button class="nav-tab-btn" onclick="switchSuite('sid_isha', this)">
@@ -1722,7 +1722,7 @@
         <article class="pub-card ${isPublished ? 'is-published' : ''}" id="card-comic_tales-${ep}">
           <div class="card-top">
             <div class="card-meta-left">
-              <span class="ep-badge gold" style="background: linear-gradient(135deg, #E6C875, #B89230); color: #070B11; font-weight: 800;">EP #${String(ep).padStart(2, '0')}</span>
+              <span class="ep-badge gold" style="background: linear-gradient(135deg, #E6C875, #B89230); color: #070B11; font-weight: 800;">CASE #${String(ep).padStart(2, '0')}</span>
               <span class="cat-badge" style="background: rgba(230, 200, 117, 0.12); color: var(--gold-bright); border: 1px solid rgba(230, 200, 117, 0.3);">${escapeHtml(item.category)}</span>
               <span class="cat-badge">🏛️ Melogam Justice</span>
               <span class="slot-badge">🕒 13:30 IST Lunchtime Drop</span>
@@ -1737,7 +1737,7 @@
           <div class="card-grid">
             <div class="media-box">
               <div class="preview-thumb-wrap">
-                ${coverUrl ? `<img src="${coverUrl}" alt="Ep ${ep} Cover" loading="lazy">` : `<div class="thumb-placeholder"><span>⚖️</span><span>Comic Tale ${ep}</span></div>`}
+                ${coverUrl ? `<img src="${coverUrl}" alt="Case ${ep} Cover" loading="lazy">` : `<div class="thumb-placeholder"><span>⚖️</span><span>Karma Court Case ${ep}</span></div>`}
               </div>
               ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download Shorts Cover</a>` : ''}
               ${isReady ? `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ Master V4 Cut Ready</div>` : `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--amber); font-weight: 600;">⏳ Dialogue Staged</div>`}
@@ -1763,7 +1763,7 @@
               </div>
 
               <button class="btn-master-packet" style="background: linear-gradient(135deg, rgba(230, 200, 117, 0.28), rgba(0, 240, 255, 0.2)); border-color: var(--gold);" onclick="copyCardField('comic_tales', ${ep}, 'comic_full_packet', this)">
-                ⚡ Copy Full Karma Shorts Packet (Title + Desc + Tags + Pinned)
+                ⚖️ Copy Full Karma Court Packet (Title + Desc + Tags + Pinned)
               </button>
 
               <details class="field-drawer">

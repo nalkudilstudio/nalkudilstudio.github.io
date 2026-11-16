@@ -13,16 +13,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep001.png",
       "cover_filename": "cover_ep001.png",
       "poll": {
-        "question": "How does an LLM like ChatGPT actually read your prompt?",
+        "question": "In Day 1 on Tokens, why does an LLM count tokens instead of raw character strings?",
         "options": [
-          "As letters & words like a human",
-          "Through raw audio signals",
-          "As numerical tokens (chunks of text)",
-          "It reads the entire sentence as one pixel"
+          "Tokens represent statistical sub-word chunks optimized via BPE encoding",
+          "LLMs convert whole dictionary words into raw ASCII hex byte streams",
+          "Tokens are fixed 4-character blocks hardcoded for English syntax"
         ],
-        "correct_index": 2,
-        "full_text": "🗳️ COMMUNITY POLL • Day 1/100\n\nHow does an LLM like ChatGPT actually read your prompt?\n\nA) As letters & words like a human\nB) Through raw audio signals\nC) As numerical tokens (chunks of text)\nD) It reads the entire sentence as one pixel\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option C! 🎯 LLMs do not see human words or letters. Text is segmented into sub-word numerical tokens (roughly 4 characters or 0.75 words each). This is why models can write complex code but sometimes miscount the number of 'r's in strawberry.",
-        "explanation": "Spot on if you picked Option C! 🎯 LLMs do not see human words or letters. Text is segmented into sub-word numerical tokens (roughly 4 characters or 0.75 words each). This is why models can write complex code but sometimes miscount the number of 'r's in strawberry."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 LLMs use Byte-Pair Encoding (BPE) or WordPiece algorithms to compress vocabularies into frequent sub-word tokens, balancing sequence length and vocabulary size.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 2 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 1/100\n\nIn Day 1 on Tokens, why does an LLM count tokens instead of raw character strings?\n\nA) Tokens represent statistical sub-word chunks optimized via BPE encoding\nB) LLMs convert whole dictionary words into raw ASCII hex byte streams\nC) Tokens are fixed 4-character blocks hardcoded for English syntax\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 LLMs use Byte-Pair Encoding (BPE) or WordPiece algorithms to compress vocabularies into frequent sub-word tokens, balancing sequence length and vocabulary size.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 2 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "1beFkdxqO-s",
@@ -42,16 +41,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep002.png",
       "cover_filename": "cover_ep002.png",
       "poll": {
-        "question": "Why does an AI begin forgetting things in a long conversation?",
+        "question": "In Day 2 on Context Window, what happens when prompt length exceeds model context capacity?",
         "options": [
-          "The server battery gets low",
-          "It exceeded its token context window limit",
-          "The model gets bored of the topic",
-          "Internet latency caused packet loss"
+          "Early tokens are evicted or truncated, causing loss of initial premises",
+          "The neural network raises a fatal floating-point overflow exception",
+          "The model automatically compresses past tokens into lossless weights"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 2/100\n\nWhy does an AI begin forgetting things in a long conversation?\n\nA) The server battery gets low\nB) It exceeded its token context window limit\nC) The model gets bored of the topic\nD) Internet latency caused packet loss\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Every LLM has a finite context window budget. When conversation tokens exceed this threshold, the model drops early message history to accommodate new inputs, causing it to appear forgetful.",
-        "explanation": "Spot on if you picked Option B! 🎯 Every LLM has a finite context window budget. When conversation tokens exceed this threshold, the model drops early message history to accommodate new inputs, causing it to appear forgetful."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Attention mechanisms compute interactions across tokens inside a fixed window. Exceeding context limits requires sliding-window eviction, retrieval augmentation, or truncation.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 3 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 2/100\n\nIn Day 2 on Context Window, what happens when prompt length exceeds model context capacity?\n\nA) Early tokens are evicted or truncated, causing loss of initial premises\nB) The neural network raises a fatal floating-point overflow exception\nC) The model automatically compresses past tokens into lossless weights\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Attention mechanisms compute interactions across tokens inside a fixed window. Exceeding context limits requires sliding-window eviction, retrieval augmentation, or truncation.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 3 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "mvegAJR9Qdg",
@@ -71,16 +69,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep003.png",
       "cover_filename": "cover_ep003.png",
       "poll": {
-        "question": "How does AI understand that 'Doctor' and 'Hospital' are related?",
+        "question": "In Day 3 on Embeddings, how do vector spaces represent semantic semantic relationships?",
         "options": [
-          "Manual human dictionary tags",
-          "Vector embeddings plot them near each other in geometric space",
-          "Alphabetical indexing",
-          "Simple keyword exact matching"
+          "Mapping concepts to coordinates where proximity denotes semantic meaning",
+          "By indexing exact alphabetical matches into relational database B-trees",
+          "By counting raw keyword frequencies across an inverted document index"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 3/100\n\nHow does AI understand that 'Doctor' and 'Hospital' are related?\n\nA) Manual human dictionary tags\nB) Vector embeddings plot them near each other in geometric space\nC) Alphabetical indexing\nD) Simple keyword exact matching\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 High-dimensional embeddings map conceptual relationships mathematically. Words sharing semantic contexts cluster together geometrically, enabling vector databases to perform similarity search.",
-        "explanation": "Spot on if you picked Option B! 🎯 High-dimensional embeddings map conceptual relationships mathematically. Words sharing semantic contexts cluster together geometrically, enabling vector databases to perform similarity search."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Embeddings convert tokens into multi-dimensional vectors where dot-product or cosine similarity reflects semantic relatedness, placing 'doctor' closer to 'hospital' than 'apple'.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 4 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 3/100\n\nIn Day 3 on Embeddings, how do vector spaces represent semantic semantic relationships?\n\nA) Mapping concepts to coordinates where proximity denotes semantic meaning\nB) By indexing exact alphabetical matches into relational database B-trees\nC) By counting raw keyword frequencies across an inverted document index\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Embeddings convert tokens into multi-dimensional vectors where dot-product or cosine similarity reflects semantic relatedness, placing 'doctor' closer to 'hospital' than 'apple'.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 4 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "ghOUtQoi9x8",
@@ -100,16 +97,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep004.png",
       "cover_filename": "cover_ep004.png",
       "poll": {
-        "question": "What foundational 2017 architecture powers almost all modern LLMs?",
+        "question": "In Day 4 on Transformers, which architectural innovation eliminated sequential recurrence?",
         "options": [
-          "Convolutional Neural Networks (CNN)",
-          "The Transformer (Self-Attention mechanism)",
-          "Recurrent Neural Networks (RNN)",
-          "Linear Regression Arrays"
+          "Multi-head self-attention computing token relationships in parallel",
+          "Recurrent hidden state passing across sequential LSTM memory cells",
+          "Convolutional pooling kernels scanning fixed 3x3 receptive text windows"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 4/100\n\nWhat foundational 2017 architecture powers almost all modern LLMs?\n\nA) Convolutional Neural Networks (CNN)\nB) The Transformer (Self-Attention mechanism)\nC) Recurrent Neural Networks (RNN)\nD) Linear Regression Arrays\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The 2017 Transformer architecture introduced Self-Attention, allowing models to process tokens in parallel while calculating relevance weights across the entire sequence.",
-        "explanation": "Spot on if you picked Option B! 🎯 The 2017 Transformer architecture introduced Self-Attention, allowing models to process tokens in parallel while calculating relevance weights across the entire sequence."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Transformers replaced sequential recurrent passes (RNN/LSTM) with self-attention, allowing all tokens in a prompt to compute pairwise attention scores concurrently.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 5 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 4/100\n\nIn Day 4 on Transformers, which architectural innovation eliminated sequential recurrence?\n\nA) Multi-head self-attention computing token relationships in parallel\nB) Recurrent hidden state passing across sequential LSTM memory cells\nC) Convolutional pooling kernels scanning fixed 3x3 receptive text windows\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Transformers replaced sequential recurrent passes (RNN/LSTM) with self-attention, allowing all tokens in a prompt to compute pairwise attention scores concurrently.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 5 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "kWRB1bpI1QY",
@@ -129,16 +125,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep005.png",
       "cover_filename": "cover_ep005.png",
       "poll": {
-        "question": "What actually happens when you ask AI to generate an answer?",
+        "question": "In Day 5 on Attention Mechanism, what does the query-key-value dot-product operation achieve?",
         "options": [
-          "It searches Google and copies a blog post",
-          "It looks up a pre-written database of human answers",
-          "It predicts the most probable next token sequentially",
-          "It stores your chat in a permanent hard drive first"
+          "Dynamically weights token relevance based on semantic compatibility scores",
+          "Executes deterministic joins between user prompts and training data",
+          "Normalizes activation layers to prevent gradient explosion during inference"
         ],
-        "correct_index": 2,
-        "full_text": "🗳️ COMMUNITY POLL • Day 5/100\n\nWhat actually happens when you ask AI to generate an answer?\n\nA) It searches Google and copies a blog post\nB) It looks up a pre-written database of human answers\nC) It predicts the most probable next token sequentially\nD) It stores your chat in a permanent hard drive first\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option C! 🎯 LLMs are probabilistic autoregressive predictors. At each step, they compute probability distributions over the vocabulary to sample the most likely next token based on context.",
-        "explanation": "Spot on if you picked Option C! 🎯 LLMs are probabilistic autoregressive predictors. At each step, they compute probability distributions over the vocabulary to sample the most likely next token based on context."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Softmax((Q * K^T) / sqrt(d_k)) * V dynamically determines how much attention every token pays to all preceding tokens across multiple representation subspaces.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 6 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 5/100\n\nIn Day 5 on Attention Mechanism, what does the query-key-value dot-product operation achieve?\n\nA) Dynamically weights token relevance based on semantic compatibility scores\nB) Executes deterministic joins between user prompts and training data\nC) Normalizes activation layers to prevent gradient explosion during inference\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Softmax((Q * K^T) / sqrt(d_k)) * V dynamically determines how much attention every token pays to all preceding tokens across multiple representation subspaces.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 6 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "TgiUHtfkWig",
@@ -158,16 +153,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep006.png",
       "cover_filename": "cover_ep006.png",
       "poll": {
-        "question": "What does the 'Temperature' parameter (0.0 to 1.0) control in an LLM?",
+        "question": "In Day 6 on Temperature, how does temperature scaling affect next-token sampling logits?",
         "options": [
-          "The speed of the model's server fan",
-          "Creativity / Randomness vs Deterministic accuracy",
-          "The maximum number of words it can output",
-          "The language translation sensitivity"
+          "Higher temperatures flatten the logit distribution, increasing entropy",
+          "Higher temperatures force greedy argmax selection of the top probability",
+          "Lower temperatures expand sampling entropy across low-probability tokens"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 6/100\n\nWhat does the 'Temperature' parameter (0.0 to 1.0) control in an LLM?\n\nA) The speed of the model's server fan\nB) Creativity / Randomness vs Deterministic accuracy\nC) The maximum number of words it can output\nD) The language translation sensitivity\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Temperature scales the logits before the softmax layer. Temperature 0.0 forces greedy deterministic output, while temperature 0.8+ flattens the distribution for creative variation.",
-        "explanation": "Spot on if you picked Option B! 🎯 Temperature scales the logits before the softmax layer. Temperature 0.0 forces greedy deterministic output, while temperature 0.8+ flattens the distribution for creative variation."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Dividing logits by temperature (T) before softmax flattens probabilities when T > 1 (higher diversity/entropy) and sharpens the top peak when T < 1 (deterministic/greedy).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 7 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 6/100\n\nIn Day 6 on Temperature, how does temperature scaling affect next-token sampling logits?\n\nA) Higher temperatures flatten the logit distribution, increasing entropy\nB) Higher temperatures force greedy argmax selection of the top probability\nC) Lower temperatures expand sampling entropy across low-probability tokens\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Dividing logits by temperature (T) before softmax flattens probabilities when T > 1 (higher diversity/entropy) and sharpens the top peak when T < 1 (deterministic/greedy).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 7 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "-krKiNXAH_Y",
@@ -187,16 +181,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep007.png",
       "cover_filename": "cover_ep007.png",
       "poll": {
-        "question": "What is the primary cause of AI 'Hallucinations'?",
+        "question": "In Day 7 on Zero-shot Learning, why can foundation models solve unseen tasks without training?",
         "options": [
-          "The AI has gained self-awareness and is lying",
-          "The model predicts statistically plausible tokens without factual grounding",
-          "A hardware glitch in the GPU",
-          "The user's Wi-Fi dropped mid-generation"
+          "Massive pretraining teaches generalized task induction and pattern matching",
+          "The model performs real-time gradient descent fine-tuning during inference",
+          "The inference server retrieves hidden labels from a closed web index"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 7/100\n\nWhat is the primary cause of AI 'Hallucinations'?\n\nA) The AI has gained self-awareness and is lying\nB) The model predicts statistically plausible tokens without factual grounding\nC) A hardware glitch in the GPU\nD) The user's Wi-Fi dropped mid-generation\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Hallucinations occur because models optimize for plausible statistical token continuations rather than database truth. Without external grounding (RAG), plausibility overrides factual accuracy.",
-        "explanation": "Spot on if you picked Option B! 🎯 Hallucinations occur because models optimize for plausible statistical token continuations rather than database truth. Without external grounding (RAG), plausibility overrides factual accuracy."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Pretraining on billions of diverse tokens teaches models generalized task induction, enabling zero-shot execution purely by conditioning on instruction semantics.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 8 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 7/100\n\nIn Day 7 on Zero-shot Learning, why can foundation models solve unseen tasks without training?\n\nA) Massive pretraining teaches generalized task induction and pattern matching\nB) The model performs real-time gradient descent fine-tuning during inference\nC) The inference server retrieves hidden labels from a closed web index\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Pretraining on billions of diverse tokens teaches models generalized task induction, enabling zero-shot execution purely by conditioning on instruction semantics.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 8 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "A7p_ETb7V48",
@@ -216,16 +209,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep008.png",
       "cover_filename": "cover_ep008.png",
       "poll": {
-        "question": "Which prompt strategy gives AI the fastest understanding of your desired format?",
+        "question": "In Day 8 on Few-Shot Prompting, how do in-context exemplars steer model response distributions?",
         "options": [
-          "Writing 5 paragraphs explaining the rules",
-          "Few-Shot Prompting (giving 2–3 clear input/output examples)",
-          "Typing in ALL CAPS",
-          "Asking the AI to 'please try your absolute best'"
+          "Condition model activations on demonstrated input-output schema patterns",
+          "Directly modify neural layer weights via backpropagation during execution",
+          "Force deterministic rule evaluation by overriding latent attention heads"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 8/100\n\nWhich prompt strategy gives AI the fastest understanding of your desired format?\n\nA) Writing 5 paragraphs explaining the rules\nB) Few-Shot Prompting (giving 2–3 clear input/output examples)\nC) Typing in ALL CAPS\nD) Asking the AI to 'please try your absolute best'\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Few-Shot Prompting conditions the in-context attention heads with 2–3 input/output exemplars, enabling the model to infer desired formatting and reasoning steps with zero parameter updates.",
-        "explanation": "Spot on if you picked Option B! 🎯 Few-Shot Prompting conditions the in-context attention heads with 2–3 input/output exemplars, enabling the model to infer desired formatting and reasoning steps with zero parameter updates."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Few-shot examples provide in-context calibration, showing formatting, reasoning depth, and edge-case handling without altering underlying network weights.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 9 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 8/100\n\nIn Day 8 on Few-Shot Prompting, how do in-context exemplars steer model response distributions?\n\nA) Condition model activations on demonstrated input-output schema patterns\nB) Directly modify neural layer weights via backpropagation during execution\nC) Force deterministic rule evaluation by overriding latent attention heads\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Few-shot examples provide in-context calibration, showing formatting, reasoning depth, and edge-case handling without altering underlying network weights.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 9 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "EM7Ue3j2u1c",
@@ -245,16 +237,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep009.png",
       "cover_filename": "cover_ep009.png",
       "poll": {
-        "question": "Why does adding 'Think step-by-step' dramatically improve AI math & logic?",
+        "question": "In Day 9 on Chain of Thought, why does generating intermediate reasoning steps improve accuracy?",
         "options": [
-          "It unlocks hidden supercomputer cores",
-          "It forces Chain-of-Thought reasoning across intermediate tokens",
-          "It bypasses OpenAI safety filters",
-          "It forces the AI to check Wikipedia first"
+          "Allocates transformer compute tokens before final answer decoding",
+          "Forces the model to query an external symbolic calculator tool API",
+          "Permanently caches verified facts in the transformer hidden memory layers"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 9/100\n\nWhy does adding 'Think step-by-step' dramatically improve AI math & logic?\n\nA) It unlocks hidden supercomputer cores\nB) It forces Chain-of-Thought reasoning across intermediate tokens\nC) It bypasses OpenAI safety filters\nD) It forces the AI to check Wikipedia first\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 'Think step by step' triggers Chain-of-Thought reasoning. By allocating dedicated tokens to intermediate reasoning steps, the transformer avoids compressing complex logic into a single forward pass.",
-        "explanation": "Spot on if you picked Option B! 🎯 'Think step by step' triggers Chain-of-Thought reasoning. By allocating dedicated tokens to intermediate reasoning steps, the transformer avoids compressing complex logic into a single forward pass."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Chain of Thought allocates more forward passes and autoregressive compute tokens to break complex logic into sequential, verifiable inference steps.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 10 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 9/100\n\nIn Day 9 on Chain of Thought, why does generating intermediate reasoning steps improve accuracy?\n\nA) Allocates transformer compute tokens before final answer decoding\nB) Forces the model to query an external symbolic calculator tool API\nC) Permanently caches verified facts in the transformer hidden memory layers\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Chain of Thought allocates more forward passes and autoregressive compute tokens to break complex logic into sequential, verifiable inference steps.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 10 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "dI-iFQ1j_SY",
@@ -274,16 +265,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep010.png",
       "cover_filename": "cover_ep010.png",
       "poll": {
-        "question": "What does 'System Prompt' mean in LLM architecture?",
+        "question": "In Day 10 on AI Hallucination, what architectural reality creates confident false assertions?",
         "options": [
-          "The operating system version (Windows/Linux)",
-          "The hidden root instruction that defines the AI's persona & strict behavioral...",
-          "The computer processor clock speed",
-          "The prompt entered by end users in chat"
+          "Autoregressive next-token prediction prioritizes fluency over factual truth",
+          "A faulty hardware cache line in GPU tensor memory misplaces retrieved data",
+          "The neural network intentionally invents citations to bypass safety checks"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 10/100\n\nWhat does 'System Prompt' mean in LLM architecture?\n\nA) The operating system version (Windows/Linux)\nB) The hidden root instruction that defines the AI's persona & strict behavioral boundaries\nC) The computer processor clock speed\nD) The prompt entered by end users in chat\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The System Prompt sits at the root of the context window with highest conversational priority, defining persona boundaries, safety guardrails, and deterministic rules before user input is evaluated.",
-        "explanation": "Spot on if you picked Option B! 🎯 The System Prompt sits at the root of the context window with highest conversational priority, defining persona boundaries, safety guardrails, and deterministic rules before user input is evaluated."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 LLMs maximize likelihood of plausible token sequences. Without grounding in authoritative retrieval, high semantic probability does not guarantee factual ground truth.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 11 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 10/100\n\nIn Day 10 on AI Hallucination, what architectural reality creates confident false assertions?\n\nA) Autoregressive next-token prediction prioritizes fluency over factual truth\nB) A faulty hardware cache line in GPU tensor memory misplaces retrieved data\nC) The neural network intentionally invents citations to bypass safety checks\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 LLMs maximize likelihood of plausible token sequences. Without grounding in authoritative retrieval, high semantic probability does not guarantee factual ground truth.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 11 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "xnhOWpL_P0E",
@@ -303,16 +293,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep011.png",
       "cover_filename": "cover_ep011.png",
       "poll": {
-        "question": "Why should you structure complex AI outputs as JSON schemas?",
+        "question": "In Day 11 on System Prompts, how do system messages differ from standard user turn inputs?",
         "options": [
-          "It looks cooler in presentation slides",
-          "It guarantees machine-parsable, deterministic data for software APIs",
-          "It cuts the cost of ChatGPT Plus in half",
-          "It prevents the AI from using English"
+          "Establish persistent behavioral guardrails and high-priority steerability",
+          "Permanently alter the base model parameter weights in cold storage",
+          "Bypass tokenization directly into raw floating-point tensor matrices"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 11/100\n\nWhy should you structure complex AI outputs as JSON schemas?\n\nA) It looks cooler in presentation slides\nB) It guarantees machine-parsable, deterministic data for software APIs\nC) It cuts the cost of ChatGPT Plus in half\nD) It prevents the AI from using English\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Enforcing structured JSON schemas turns freeform natural language into machine-parsable, deterministic data suitable for database ingestion and downstream API workflows.",
-        "explanation": "Spot on if you picked Option B! 🎯 Enforcing structured JSON schemas turns freeform natural language into machine-parsable, deterministic data suitable for database ingestion and downstream API workflows."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 System instructions provide persistent contextual steering, setting persona, output constraints, and ethical guardrails across multi-turn interactions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 12 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 11/100\n\nIn Day 11 on System Prompts, how do system messages differ from standard user turn inputs?\n\nA) Establish persistent behavioral guardrails and high-priority steerability\nB) Permanently alter the base model parameter weights in cold storage\nC) Bypass tokenization directly into raw floating-point tensor matrices\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 System instructions provide persistent contextual steering, setting persona, output constraints, and ethical guardrails across multi-turn interactions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 12 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "os_bDL3rLKM",
@@ -332,16 +321,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep012.png",
       "cover_filename": "cover_ep012.png",
       "poll": {
-        "question": "What is 'Prompt Chaining'?",
+        "question": "In Day 12 on Prompt Chaining, why decompose a complex workflow into multiple chained calls?",
         "options": [
-          "Sending 50 questions in one huge prompt",
-          "Breaking a complex workflow into sequential prompts where Output A feeds Prom...",
-          "Linking multiple ChatGPT accounts together",
-          "Repeating the same prompt 10 times until it works"
+          "Reduces cognitive token load and isolates reasoning failures per subtask",
+          "Increases model inference temperature to maximize creative reasoning leaps",
+          "Combines disparate model architectures into a single GPU compute cluster"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 12/100\n\nWhat is 'Prompt Chaining'?\n\nA) Sending 50 questions in one huge prompt\nB) Breaking a complex workflow into sequential prompts where Output A feeds Prompt B\nC) Linking multiple ChatGPT accounts together\nD) Repeating the same prompt 10 times until it works\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Prompt Chaining decomposes multi-step goals into sequential sub-prompts where the validated output of Step A becomes the input of Step B, drastically reducing compounding hallucinations.",
-        "explanation": "Spot on if you picked Option B! 🎯 Prompt Chaining decomposes multi-step goals into sequential sub-prompts where the validated output of Step A becomes the input of Step B, drastically reducing compounding hallucinations."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Prompt chaining transforms monolithic prompts into verifiable pipelines: extracting data in step 1, evaluating in step 2, and formatting in step 3.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 13 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 12/100\n\nIn Day 12 on Prompt Chaining, why decompose a complex workflow into multiple chained calls?\n\nA) Reduces cognitive token load and isolates reasoning failures per subtask\nB) Increases model inference temperature to maximize creative reasoning leaps\nC) Combines disparate model architectures into a single GPU compute cluster\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Prompt chaining transforms monolithic prompts into verifiable pipelines: extracting data in step 1, evaluating in step 2, and formatting in step 3.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 13 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "tZ_ka5zOvz0",
@@ -361,16 +349,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep013.png",
       "cover_filename": "cover_ep013.png",
       "poll": {
-        "question": "What is the RCTF prompt formula developed for production engineering?",
+        "question": "In Day 13 on Role Prompting, why does assigning an expert persona improve technical outputs?",
         "options": [
-          "Read, Calculate, Test, Finalize",
-          "Role, Context, Task, Format",
-          "Run, Cache, Trace, Flush",
-          "Retrieve, Chunk, Transform, Filter"
+          "Prunes activation space toward specialized vocabulary and structured rigor",
+          "Unlocks restricted proprietary knowledge vectors locked in model weights",
+          "Forces the transformer to search academic arXiv repositories in real time"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 13/100\n\nWhat is the RCTF prompt formula developed for production engineering?\n\nA) Read, Calculate, Test, Finalize\nB) Role, Context, Task, Format\nC) Run, Cache, Trace, Flush\nD) Retrieve, Chunk, Transform, Filter\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The RCTF framework (Role, Context, Task, Format) grounds every prompt with explicit persona steering, environmental context, core task objective, and strict output schema.",
-        "explanation": "Spot on if you picked Option B! 🎯 The RCTF framework (Role, Context, Task, Format) grounds every prompt with explicit persona steering, environmental context, core task objective, and strict output schema."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Role prompting conditions prior token distributions, guiding attention heads toward domain-specific syntax, professional methodologies, and rigorous criteria.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 14 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 13/100\n\nIn Day 13 on Role Prompting, why does assigning an expert persona improve technical outputs?\n\nA) Prunes activation space toward specialized vocabulary and structured rigor\nB) Unlocks restricted proprietary knowledge vectors locked in model weights\nC) Forces the transformer to search academic arXiv repositories in real time\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Role prompting conditions prior token distributions, guiding attention heads toward domain-specific syntax, professional methodologies, and rigorous criteria.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 14 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "xjEeQ-YiteU",
@@ -390,16 +377,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep014.png",
       "cover_filename": "cover_ep014.png",
       "poll": {
-        "question": "What is 'Meta-Prompting'?",
+        "question": "In Day 14 on Few-shot Prompting, what is the primary failure mode of poorly chosen few-shot examples?",
         "options": [
-          "Asking Mark Zuckerberg for permission",
-          "Using an advanced LLM to write, refine, and optimize your prompts for you",
-          "Writing prompts only inside Facebook Messenger",
-          "Prompting AI using raw binary code"
+          "Models overfit to irrelevant superficial biases or label distribution skew",
+          "The GPU compiler crashes due to mismatched tensor input dimensions",
+          "The transformer permanently writes example errors into global parameters"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 14/100\n\nWhat is 'Meta-Prompting'?\n\nA) Asking Mark Zuckerberg for permission\nB) Using an advanced LLM to write, refine, and optimize your prompts for you\nC) Writing prompts only inside Facebook Messenger\nD) Prompting AI using raw binary code\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Meta-Prompting uses an advanced reasoning model to draft, critique, and optimize prompt specifications for smaller target models, eliminating trial-and-error manual phrasing.",
-        "explanation": "Spot on if you picked Option B! 🎯 Meta-Prompting uses an advanced reasoning model to draft, critique, and optimize prompt specifications for smaller target models, eliminating trial-and-error manual phrasing."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Models are highly sensitive to majority label bias, recency bias, and formatting noise in few-shot exemplars, requiring balanced, clean demonstrations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 15 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 14/100\n\nIn Day 14 on Few-shot Prompting, what is the primary failure mode of poorly chosen few-shot examples?\n\nA) Models overfit to irrelevant superficial biases or label distribution skew\nB) The GPU compiler crashes due to mismatched tensor input dimensions\nC) The transformer permanently writes example errors into global parameters\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Models are highly sensitive to majority label bias, recency bias, and formatting noise in few-shot exemplars, requiring balanced, clean demonstrations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 15 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "i9KuTmULUfs",
@@ -419,16 +405,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep015.png",
       "cover_filename": "cover_ep015.png",
       "poll": {
-        "question": "What is the most effective way to eliminate generic corporate fluff in AI drafts?",
+        "question": "In Day 15 on Negative Prompting, what is the most reliable way to prevent unwanted output formats?",
         "options": [
-          "Invert the instruction: explicitly forbid clichés and specify what NOT to say",
-          "Add more exclamation marks",
-          "Tell the AI you will tip it $200",
-          "Use older AI models like GPT-2"
+          "Explicit positive boundary constraints paired with negative rule exclusions",
+          "Repeating 'do not ever' 10 times in all-capital letters in user prompts",
+          "Lowering temperature to absolute zero and disabling sampling completely"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 15/100\n\nWhat is the most effective way to eliminate generic corporate fluff in AI drafts?\n\nA) Invert the instruction: explicitly forbid clichés and specify what NOT to say\nB) Add more exclamation marks\nC) Tell the AI you will tip it $200\nD) Use older AI models like GPT-2\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option A! 🎯 Negative Prompting explicitly defines what the AI must NOT say or do. Banning corporate clichés and filler adjectives forces the model to focus on substantive, high-density facts.",
-        "explanation": "Spot on if you picked Option A! 🎯 Negative Prompting explicitly defines what the AI must NOT say or do. Banning corporate clichés and filler adjectives forces the model to focus on substantive, high-density facts."
+        "explanation": "Spot on if you picked Option 1! 🎯 Clear structural constraints and positive demonstrations ('Respond strictly in JSON') are far more reliable than ambiguous negative prohibitions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 16 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 15/100\n\nIn Day 15 on Negative Prompting, what is the most reliable way to prevent unwanted output formats?\n\nA) Explicit positive boundary constraints paired with negative rule exclusions\nB) Repeating 'do not ever' 10 times in all-capital letters in user prompts\nC) Lowering temperature to absolute zero and disabling sampling completely\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Clear structural constraints and positive demonstrations ('Respond strictly in JSON') are far more reliable than ambiguous negative prohibitions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 16 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "KFLDBvjufkA",
@@ -448,16 +433,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep016.png",
       "cover_filename": "cover_ep016.png",
       "poll": {
-        "question": "What is 'Prompt Injection' in AI security?",
+        "question": "In Day 16 on Prompt Injection, how do indirect prompt injection attacks exploit LLM design?",
         "options": [
-          "Injecting Python code into the computer BIOS",
-          "An adversary tricking the LLM into ignoring its system prompt via malicious u...",
-          "Adding too many tokens into a prompt",
-          "Upgrading the model via a software patch"
+          "Untrusted external data hijacks model instruction flow as system commands",
+          "Attackers corrupt model weight tensors stored in cloud model registries",
+          "Malicious inputs trigger physical hardware side-channel memory leaks"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 16/100\n\nWhat is 'Prompt Injection' in AI security?\n\nA) Injecting Python code into the computer BIOS\nB) An adversary tricking the LLM into ignoring its system prompt via malicious user input\nC) Adding too many tokens into a prompt\nD) Upgrading the model via a software patch\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Prompt Injection exploits the boundary ambiguity between instructions and data in LLMs, allowing untrusted user text to override system-level safety rules.",
-        "explanation": "Spot on if you picked Option B! 🎯 Prompt Injection exploits the boundary ambiguity between instructions and data in LLMs, allowing untrusted user text to override system-level safety rules."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Indirect injection occurs when untrusted retrieved content (emails, web pages) contains adversarial instructions that the model mistakes for system directives.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 17 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 16/100\n\nIn Day 16 on Prompt Injection, how do indirect prompt injection attacks exploit LLM design?\n\nA) Untrusted external data hijacks model instruction flow as system commands\nB) Attackers corrupt model weight tensors stored in cloud model registries\nC) Malicious inputs trigger physical hardware side-channel memory leaks\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Indirect injection occurs when untrusted retrieved content (emails, web pages) contains adversarial instructions that the model mistakes for system directives.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 17 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "_yAo-Ej18eg",
@@ -477,16 +461,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep017.png",
       "cover_filename": "cover_ep017.png",
       "poll": {
-        "question": "What is the main advantage of Markdown formatting in prompt design?",
+        "question": "In Day 17 on Structured Output, how do constrained decoding engines (like JSON mode) guarantee schema?",
         "options": [
-          "It allows bold text in terminal outputs",
-          "Clear visual delimitation (`###`, `---`, `\\`\\`\\``) helps attention heads isol...",
-          "It reduces network bandwidth by 80%",
-          "It prevents copyright infringement"
+          "Mask invalid token logits at each step based on context-free grammars",
+          "Repeatedly retry generation in a loop until standard text passes regex",
+          "Fine-tune the model parameters dynamically on the schema definition"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 17/100\n\nWhat is the main advantage of Markdown formatting in prompt design?\n\nA) It allows bold text in terminal outputs\nB) Clear visual delimitation (`###`, `---`, `\\`\\`\\``) helps attention heads isolate sections\nC) It reduces network bandwidth by 80%\nD) It prevents copyright infringement\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Markdown delimiters (`###`, `---`, ````) create distinct syntactic boundaries, helping transformer attention heads segment instructions from variable data payloads.",
-        "explanation": "Spot on if you picked Option B! 🎯 Markdown delimiters (`###`, `---`, ````) create distinct syntactic boundaries, helping transformer attention heads segment instructions from variable data payloads."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Engines like Outlines and Guidance enforce JSON schemas by applying logit masks during autoregressive decoding, mathematically preventing invalid syntax.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 18 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 17/100\n\nIn Day 17 on Structured Output, how do constrained decoding engines (like JSON mode) guarantee schema?\n\nA) Mask invalid token logits at each step based on context-free grammars\nB) Repeatedly retry generation in a loop until standard text passes regex\nC) Fine-tune the model parameters dynamically on the schema definition\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Engines like Outlines and Guidance enforce JSON schemas by applying logit masks during autoregressive decoding, mathematically preventing invalid syntax.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 18 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "LXaadvIMv6s",
@@ -506,16 +489,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep018.png",
       "cover_filename": "cover_ep018.png",
       "poll": {
-        "question": "What is 'Directional Stimulus Prompting'?",
+        "question": "In Day 18 on Meta Prompting, what is the core technique of recursive meta-prompting?",
         "options": [
-          "Pointing your antenna toward the cloud server",
-          "Providing small hint tokens or keywords that steer the LLM toward key concepts",
-          "Prompting only in directional arrows",
-          "Asking AI to navigate GPS maps"
+          "Using an LLM to iteratively critique, refine, and optimize prompt schemas",
+          "Injecting raw Python bytecode into the transformer activation buffers",
+          "Hardcoding thousands of static prompt rules into relational databases"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 18/100\n\nWhat is 'Directional Stimulus Prompting'?\n\nA) Pointing your antenna toward the cloud server\nB) Providing small hint tokens or keywords that steer the LLM toward key concepts\nC) Prompting only in directional arrows\nD) Asking AI to navigate GPS maps\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Directional Stimulus Prompting injects lightweight keyword hints into the prompt to steer the reasoning trajectory toward key concepts without hardcoding full answers.",
-        "explanation": "Spot on if you picked Option B! 🎯 Directional Stimulus Prompting injects lightweight keyword hints into the prompt to steer the reasoning trajectory toward key concepts without hardcoding full answers."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Meta-prompting leverages an LLM as an expert prompt engineer, analyzing failure cases and generating optimized system instructions tailored to target models.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 19 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 18/100\n\nIn Day 18 on Meta Prompting, what is the core technique of recursive meta-prompting?\n\nA) Using an LLM to iteratively critique, refine, and optimize prompt schemas\nB) Injecting raw Python bytecode into the transformer activation buffers\nC) Hardcoding thousands of static prompt rules into relational databases\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Meta-prompting leverages an LLM as an expert prompt engineer, analyzing failure cases and generating optimized system instructions tailored to target models.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 19 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "8lG7o0zeCLA",
@@ -535,16 +517,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep019.png",
       "cover_filename": "cover_ep019.png",
       "poll": {
-        "question": "What should you always do before accepting an AI's first draft?",
+        "question": "In Day 19 on Iterative Prompting, how should production engineers debug degraded model responses?",
         "options": [
-          "Copy-paste it directly to production",
-          "Run a Self-Refinement / Critique pass ('Review your answer for flaws and fix ...",
-          "Turn off your computer",
-          "Re-read it 10 times in silence"
+          "Isolate variables via automated test suites against versioned prompt evals",
+          "Randomly tweak adjectives in the prompt until one benchmark passes",
+          "Immediately fine-tune a 70B parameter model from raw conversational logs"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 19/100\n\nWhat should you always do before accepting an AI's first draft?\n\nA) Copy-paste it directly to production\nB) Run a Self-Refinement / Critique pass ('Review your answer for flaws and fix them')\nC) Turn off your computer\nD) Re-read it 10 times in silence\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Self-Refinement loops prompt the model to critique its own draft against predefined criteria, fixing subtle logical errors before delivering the final output.",
-        "explanation": "Spot on if you picked Option B! 🎯 Self-Refinement loops prompt the model to critique its own draft against predefined criteria, fixing subtle logical errors before delivering the final output."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Systematic prompt optimization requires version control, synthetic eval datasets, rubric scoring, and isolating single modifications across test splits.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 20 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 19/100\n\nIn Day 19 on Iterative Prompting, how should production engineers debug degraded model responses?\n\nA) Isolate variables via automated test suites against versioned prompt evals\nB) Randomly tweak adjectives in the prompt until one benchmark passes\nC) Immediately fine-tune a 70B parameter model from raw conversational logs\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Systematic prompt optimization requires version control, synthetic eval datasets, rubric scoring, and isolating single modifications across test splits.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 20 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "c-DmZdCa7W0",
@@ -564,16 +545,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep020.png",
       "cover_filename": "cover_ep020.png",
       "poll": {
-        "question": "Why do LLMs struggle with counting letters (e.g. 'how many r's in strawberry')?",
+        "question": "In Day 20 on Prompt Templates, why do parameterized prompt templates require strict sanitization?",
         "options": [
-          "They are terrible at basic math",
-          "They process text as multi-letter tokens, not individual character arrays",
-          "They don't know what strawberries are",
-          "Their training data excluded fruits"
+          "Unsanitized user variables can break schema syntax or trigger injections",
+          "Template engines increase GPU tensor latency by several hundred percent",
+          "Parameter interpolation permanently alters the underlying system prompt"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 20/100\n\nWhy do LLMs struggle with counting letters (e.g. 'how many r's in strawberry')?\n\nA) They are terrible at basic math\nB) They process text as multi-letter tokens, not individual character arrays\nC) They don't know what strawberries are\nD) Their training data excluded fruits\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Because tokenizers group character sequences into token IDs, models lack direct byte-level awareness unless prompts explicitly force character-level decomposition.",
-        "explanation": "Spot on if you picked Option B! 🎯 Because tokenizers group character sequences into token IDs, models lack direct byte-level awareness unless prompts explicitly force character-level decomposition."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 User variables injected into templates without validation can corrupt delimiters, break JSON schemas, or alter instruction boundaries.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 21 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 20/100\n\nIn Day 20 on Prompt Templates, why do parameterized prompt templates require strict sanitization?\n\nA) Unsanitized user variables can break schema syntax or trigger injections\nB) Template engines increase GPU tensor latency by several hundred percent\nC) Parameter interpolation permanently alters the underlying system prompt\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 User variables injected into templates without validation can corrupt delimiters, break JSON schemas, or alter instruction boundaries.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 21 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "-XcuPBDl2aM",
@@ -593,16 +573,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep021.png",
       "cover_filename": "cover_ep021.png",
       "poll": {
-        "question": "What is RAG (Retrieval-Augmented Generation)?",
+        "question": "In Day 21 on Vector Database, why use approximate nearest neighbor (ANN) instead of exact k-NN?",
         "options": [
-          "A new video game rendering engine",
-          "Injecting external private documents into the prompt at runtime so AI answers...",
-          "A method to delete old chat histories",
-          "Training a brand new foundation model from scratch"
+          "ANN scales sub-linearly across millions of vectors with 95%+ recall",
+          "Exact k-NN produces lower precision embeddings than hierarchical graphs",
+          "ANN eliminates the need for vector embeddings by indexing raw text strings"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 21/100\n\nWhat is RAG (Retrieval-Augmented Generation)?\n\nA) A new video game rendering engine\nB) Injecting external private documents into the prompt at runtime so AI answers factually\nC) A method to delete old chat histories\nD) Training a brand new foundation model from scratch\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 RAG (Retrieval-Augmented Generation) injects external private data into prompt context at runtime, providing factual accuracy without costly fine-tuning.",
-        "explanation": "Spot on if you picked Option B! 🎯 RAG (Retrieval-Augmented Generation) injects external private data into prompt context at runtime, providing factual accuracy without costly fine-tuning.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Exact k-NN requires brute-force O(N) distance checks across all vectors. ANN algorithms (HNSW, IVF-PQ) search clustered graphs in logarithmic time.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 22 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 21/100\n\nIn Day 21 on Vector Database, why use approximate nearest neighbor (ANN) instead of exact k-NN?\n\nA) ANN scales sub-linearly across millions of vectors with 95%+ recall\nB) Exact k-NN produces lower precision embeddings than hierarchical graphs\nC) ANN eliminates the need for vector embeddings by indexing raw text strings\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Exact k-NN requires brute-force O(N) distance checks across all vectors. ANN algorithms (HNSW, IVF-PQ) search clustered graphs in logarithmic time.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 22 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxD5FtAgBKpTYGm1F8NxEmOUIba24D59OG"
       },
       "status": "PUBLISHED",
@@ -624,16 +603,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep022.png",
       "cover_filename": "cover_ep022.png",
       "poll": {
-        "question": "Why are Vector Databases better than SQL for semantic search?",
+        "question": "In Day 22 on Semantic Search, why does vector search outperform traditional BM25 keyword search?",
         "options": [
-          "They store numbers faster than words",
-          "They find meaning and semantic similarity, not just exact keyword matches",
-          "They are 100% free forever",
-          "They replace the need for an operating system"
+          "Captures conceptual synonyms and intent across varied vocabularies",
+          "Eliminates the computational overhead of generating neural text embeddings",
+          "Guarantees 100% exact keyword matches regardless of spelling mistakes"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 22/100\n\nWhy are Vector Databases better than SQL for semantic search?\n\nA) They store numbers faster than words\nB) They find meaning and semantic similarity, not just exact keyword matches\nC) They are 100% free forever\nD) They replace the need for an operating system\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Vector databases perform nearest-neighbor searches in semantic embedding space, finding conceptual relevance even when queries share zero keywords with documents.",
-        "explanation": "Spot on if you picked Option B! 🎯 Vector databases perform nearest-neighbor searches in semantic embedding space, finding conceptual relevance even when queries share zero keywords with documents."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Semantic search maps meanings into dense embedding space, matching queries like 'cardiac arrest' to documents discussing 'heart attacks' without shared keywords.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 23 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 22/100\n\nIn Day 22 on Semantic Search, why does vector search outperform traditional BM25 keyword search?\n\nA) Captures conceptual synonyms and intent across varied vocabularies\nB) Eliminates the computational overhead of generating neural text embeddings\nC) Guarantees 100% exact keyword matches regardless of spelling mistakes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Semantic search maps meanings into dense embedding space, matching queries like 'cardiac arrest' to documents discussing 'heart attacks' without shared keywords.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 23 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "-AaLQMEHZAU",
@@ -653,16 +631,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep023.png",
       "cover_filename": "cover_ep023.png",
       "poll": {
-        "question": "What is 'Chunking' in a RAG pipeline?",
+        "question": "In Day 23 on RAG, what is the primary architectural purpose of a RAG pipeline?",
         "options": [
-          "Deleting duplicate files from the hard drive",
-          "Splitting large documents into smaller, semantically coherent passages for em...",
-          "Compressing images to 8-bit color",
-          "Combining 10 PDFs into one giant zip file"
+          "Ground generation in dynamic, authoritative external knowledge bases",
+          "Permanently update LLM weights with enterprise proprietary documentation",
+          "Compress long user queries into compact 16-bit floating-point tokens"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 23/100\n\nWhat is 'Chunking' in a RAG pipeline?\n\nA) Deleting duplicate files from the hard drive\nB) Splitting large documents into smaller, semantically coherent passages for embedding\nC) Compressing images to 8-bit color\nD) Combining 10 PDFs into one giant zip file\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Chunking splits large documents into semantically coherent passages. Recursive splitting preserves paragraph context while keeping passages within optimal embedding sizes.",
-        "explanation": "Spot on if you picked Option B! 🎯 Chunking splits large documents into semantically coherent passages. Recursive splitting preserves paragraph context while keeping passages within optimal embedding sizes.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 RAG decouples memory from parameter weights, retrieving verified external documents to provide context-grounded, citation-backed answers without retraining.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 24 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 23/100\n\nIn Day 23 on RAG, what is the primary architectural purpose of a RAG pipeline?\n\nA) Ground generation in dynamic, authoritative external knowledge bases\nB) Permanently update LLM weights with enterprise proprietary documentation\nC) Compress long user queries into compact 16-bit floating-point tokens\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 RAG decouples memory from parameter weights, retrieving verified external documents to provide context-grounded, citation-backed answers without retraining.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 24 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxS5uxlv44TgUwxuKHRst9KrmkojHgIFfv"
       },
       "status": "PUBLISHED",
@@ -684,16 +661,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep024.png",
       "cover_filename": "cover_ep024.png",
       "poll": {
-        "question": "What happens if you dump a 500-page PDF directly into a 1M context window?",
+        "question": "In Day 24 on Chunking, why is recursive document chunking superior to naive character splitting?",
         "options": [
-          "The AI answers with 100% accuracy instantly",
-          "'Lost in the Middle' phenomenon: precision drops and latency/cost skyrocket",
-          "The AI server permanently crashes",
-          "The PDF gets automatically deleted"
+          "Respects grammatical boundaries and keeps complete semantic ideas intact",
+          "Guarantees that every chunk fits into exactly 128 raw byte boundaries",
+          "Eliminates duplicate words across documents before vector embedding passes"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 24/100\n\nWhat happens if you dump a 500-page PDF directly into a 1M context window?\n\nA) The AI answers with 100% accuracy instantly\nB) 'Lost in the Middle' phenomenon: precision drops and latency/cost skyrocket\nC) The AI server permanently crashes\nD) The PDF gets automatically deleted\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The 'Lost in the Middle' effect shows that LLM attention heads recall information at the extreme edges of huge context windows far better than information buried in the middle.",
-        "explanation": "Spot on if you picked Option B! 🎯 The 'Lost in the Middle' effect shows that LLM attention heads recall information at the extreme edges of huge context windows far better than information buried in the middle."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Recursive chunking splits on paragraphs, markdown headings, and sentence ends, ensuring complete conceptual units are captured without mid-sentence cuts.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 25 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 24/100\n\nIn Day 24 on Chunking, why is recursive document chunking superior to naive character splitting?\n\nA) Respects grammatical boundaries and keeps complete semantic ideas intact\nB) Guarantees that every chunk fits into exactly 128 raw byte boundaries\nC) Eliminates duplicate words across documents before vector embedding passes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Recursive chunking splits on paragraphs, markdown headings, and sentence ends, ensuring complete conceptual units are captured without mid-sentence cuts.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 25 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "8cc_WGDMOBU",
@@ -713,16 +689,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep025.png",
       "cover_filename": "cover_ep025.png",
       "poll": {
-        "question": "What metric is commonly used to measure distance between two vector embeddings?",
+        "question": "In Day 25 on Embeddings, which distance metric is standard for normalized dense text vectors?",
         "options": [
-          "Miles / Kilometers",
-          "Cosine Similarity / Dot Product",
-          "Decibels (dB)",
-          "Pixels per inch (PPI)"
+          "Cosine similarity, equivalent to dot product on unit-normalized vectors",
+          "Manhattan distance (L1 norm) measuring orthogonal grid coordinate offsets",
+          "Hamming distance counting bitwise mismatches in uncompressed byte streams"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 25/100\n\nWhat metric is commonly used to measure distance between two vector embeddings?\n\nA) Miles / Kilometers\nB) Cosine Similarity / Dot Product\nC) Decibels (dB)\nD) Pixels per inch (PPI)\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Cosine similarity measures the cosine of the angle between two normalized vectors in multi-dimensional space, capturing orientation and semantic alignment regardless of magnitude.",
-        "explanation": "Spot on if you picked Option B! 🎯 Cosine similarity measures the cosine of the angle between two normalized vectors in multi-dimensional space, capturing orientation and semantic alignment regardless of magnitude.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 For unit-normalized vectors, cosine similarity simplifies to the dot product, measuring angular alignment rather than magnitude in multi-dimensional space.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 26 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 25/100\n\nIn Day 25 on Embeddings, which distance metric is standard for normalized dense text vectors?\n\nA) Cosine similarity, equivalent to dot product on unit-normalized vectors\nB) Manhattan distance (L1 norm) measuring orthogonal grid coordinate offsets\nC) Hamming distance counting bitwise mismatches in uncompressed byte streams\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 For unit-normalized vectors, cosine similarity simplifies to the dot product, measuring angular alignment rather than magnitude in multi-dimensional space.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 26 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxHUZe6cZe0y_iZjx8CVm0xOnrVoEFfJoU"
       },
       "status": "PUBLISHED",
@@ -744,16 +719,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep026.png",
       "cover_filename": "cover_ep026.png",
       "poll": {
-        "question": "What is the role of a 'Reranker' in enterprise search?",
+        "question": "In Day 26 on Reranking, why pair bi-encoder vector search with a cross-encoder reranker?",
         "options": [
-          "To rank employees by performance",
-          "A cross-encoder that re-scores top vector candidates for true semantic relevance",
-          "To sort database files alphabetically",
-          "To filter out spam emails"
+          "Bi-encoders retrieve candidates; cross-encoders assess deep relevance",
+          "Cross-encoders index billions of documents in sub-millisecond vector spaces",
+          "Bi-encoders perform multi-turn conversational reasoning during search"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 26/100\n\nWhat is the role of a 'Reranker' in enterprise search?\n\nA) To rank employees by performance\nB) A cross-encoder that re-scores top vector candidates for true semantic relevance\nC) To sort database files alphabetically\nD) To filter out spam emails\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Cross-encoder rerankers jointly evaluate query-document pairs, providing high-precision scoring on top vector search candidates to eliminate false positives.",
-        "explanation": "Spot on if you picked Option B! 🎯 Cross-encoder rerankers jointly evaluate query-document pairs, providing high-precision scoring on top vector search candidates to eliminate false positives.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Bi-encoders retrieve top 50 candidates in milliseconds. Cross-encoders then compute all-to-all cross-attention between query and documents for optimal relevance.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 27 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 26/100\n\nIn Day 26 on Reranking, why pair bi-encoder vector search with a cross-encoder reranker?\n\nA) Bi-encoders retrieve candidates; cross-encoders assess deep relevance\nB) Cross-encoders index billions of documents in sub-millisecond vector spaces\nC) Bi-encoders perform multi-turn conversational reasoning during search\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Bi-encoders retrieve top 50 candidates in milliseconds. Cross-encoders then compute all-to-all cross-attention between query and documents for optimal relevance.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 27 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxFanbj79Kv6DWJbjYQIi2ktAjQdyHu1O9"
       },
       "status": "PUBLISHED",
@@ -775,16 +749,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep027.png",
       "cover_filename": "cover_ep027.png",
       "poll": {
-        "question": "How does Knowledge Grounding eliminate hallucinations?",
+        "question": "In Day 27 on Knowledge Grounding, how does strict citation attribution reduce enterprise AI risk?",
         "options": [
-          "By threatening to cancel the AI subscription",
-          "By constraining the LLM to answer ONLY from retrieved context citations",
-          "By setting temperature to 2.0",
-          "By using edge-tts voices"
+          "Forces model outputs to cite verifiable passage chunks from retrieved docs",
+          "Guarantees that the underlying model weights cannot produce harmful speech",
+          "Encrypts all retrieved documents using enterprise AES-256 key registries"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 27/100\n\nHow does Knowledge Grounding eliminate hallucinations?\n\nA) By threatening to cancel the AI subscription\nB) By constraining the LLM to answer ONLY from retrieved context citations\nC) By setting temperature to 2.0\nD) By using edge-tts voices\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Knowledge grounding constrains the LLM to answer strictly from retrieved context passages and supply verifiable citations, preventing ungrounded speculation.",
-        "explanation": "Spot on if you picked Option B! 🎯 Knowledge grounding constrains the LLM to answer strictly from retrieved context passages and supply verifiable citations, preventing ungrounded speculation."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Attribution requires statements to trace back to specific retrieved chunks, allowing automated validators to flag assertions lacking source ground truth.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 28 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 27/100\n\nIn Day 27 on Knowledge Grounding, how does strict citation attribution reduce enterprise AI risk?\n\nA) Forces model outputs to cite verifiable passage chunks from retrieved docs\nB) Guarantees that the underlying model weights cannot produce harmful speech\nC) Encrypts all retrieved documents using enterprise AES-256 key registries\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Attribution requires statements to trace back to specific retrieved chunks, allowing automated validators to flag assertions lacking source ground truth.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 28 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "KSSWj-5mPus",
@@ -804,16 +777,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep028.png",
       "cover_filename": "cover_ep028.png",
       "poll": {
-        "question": "What is 'Hybrid Search' in modern enterprise retrieval?",
+        "question": "In Day 28 on Hybrid Search, why combine dense vector retrieval with sparse lexical BM25 search?",
         "options": [
-          "Searching on both Google and Bing simultaneously",
-          "Combining dense semantic vector search with sparse keyword search (BM25)",
-          "Using both Wi-Fi and Ethernet",
-          "Searching text and video at the exact same millisecond"
+          "Merges semantic understanding with exact acronym and part-number matching",
+          "Doubles the context window size of the downstream generative LLM model",
+          "Replaces external vector databases with client-side cache stores"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 28/100\n\nWhat is 'Hybrid Search' in modern enterprise retrieval?\n\nA) Searching on both Google and Bing simultaneously\nB) Combining dense semantic vector search with sparse keyword search (BM25)\nC) Using both Wi-Fi and Ethernet\nD) Searching text and video at the exact same millisecond\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Hybrid search combines dense vector retrieval (semantic understanding) with sparse BM25 keyword matching (exact codes, SKUs, and names) for maximum retrieval recall.",
-        "explanation": "Spot on if you picked Option B! 🎯 Hybrid search combines dense vector retrieval (semantic understanding) with sparse BM25 keyword matching (exact codes, SKUs, and names) for maximum retrieval recall."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Dense embeddings excel at conceptual nuance but miss exact IDs or rare acronyms. Reciprocal Rank Fusion (RRF) combines dense + BM25 scores for optimal recall.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 29 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 28/100\n\nIn Day 28 on Hybrid Search, why combine dense vector retrieval with sparse lexical BM25 search?\n\nA) Merges semantic understanding with exact acronym and part-number matching\nB) Doubles the context window size of the downstream generative LLM model\nC) Replaces external vector databases with client-side cache stores\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Dense embeddings excel at conceptual nuance but miss exact IDs or rare acronyms. Reciprocal Rank Fusion (RRF) combines dense + BM25 scores for optimal recall.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 29 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "O6R4vPadEgk",
@@ -833,16 +805,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep029.png",
       "cover_filename": "cover_ep029.png",
       "poll": {
-        "question": "How do production chatbots remember user state without bloating context?",
+        "question": "In Day 29 on Context Injection, how should retrieved context chunks be structured in the prompt?",
         "options": [
-          "They don't, they forget everything immediately",
-          "Dynamic Context Injection from a lightweight external session store",
-          "They save the entire conversation history into every prompt",
-          "They run constantly in the background"
+          "Clear XML/Markdown delimiters with explicit instructions to prioritize cont",
+          "Dump raw unformatted text blocks at the very end of the user prompt turn",
+          "Encode retrieved passages into hexadecimal strings to save prompt tokens"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 29/100\n\nHow do production chatbots remember user state without bloating context?\n\nA) They don't, they forget everything immediately\nB) Dynamic Context Injection from a lightweight external session store\nC) They save the entire conversation history into every prompt\nD) They run constantly in the background\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Dynamic Context Injection pulls real-time session state from a lightweight cache (like Redis) into prompt context on demand without storing bulky chat histories.",
-        "explanation": "Spot on if you picked Option B! 🎯 Dynamic Context Injection pulls real-time session state from a lightweight cache (like Redis) into prompt context on demand without storing bulky chat histories."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Structuring retrieved passages in `<context>` blocks with numbered sources and clear instructions helps models separate user instructions from reference data.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 30 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 29/100\n\nIn Day 29 on Context Injection, how should retrieved context chunks be structured in the prompt?\n\nA) Clear XML/Markdown delimiters with explicit instructions to prioritize cont\nB) Dump raw unformatted text blocks at the very end of the user prompt turn\nC) Encode retrieved passages into hexadecimal strings to save prompt tokens\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Structuring retrieved passages in `<context>` blocks with numbered sources and clear instructions helps models separate user instructions from reference data.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 30 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "fwShBL1tWvo",
@@ -862,16 +833,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep030.png",
       "cover_filename": "cover_ep030.png",
       "poll": {
-        "question": "What is 'Semantic Caching'?",
+        "question": "In Day 30 on Retrieval Latency, what is the most effective optimization for reducing RAG query latency?",
         "options": [
-          "Clearing your browser cookies every 24 hours",
-          "Storing prior query embeddings and returning cached answers for similar quest...",
-          "Caching only images and CSS files",
-          "Saving chat logs to a thumb drive"
+          "Semantic caching of frequent query embeddings and hybrid ANN quantization",
+          "Increasing embedding dimension size from 1536 to 8192 floating-point values",
+          "Running full brute-force exact Euclidean distance scans on every user query"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 30/100\n\nWhat is 'Semantic Caching'?\n\nA) Clearing your browser cookies every 24 hours\nB) Storing prior query embeddings and returning cached answers for similar questions\nC) Caching only images and CSS files\nD) Saving chat logs to a thumb drive\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Semantic caching stores previous query embeddings and pre-generated responses, returning instant answers for semantically equivalent queries and cutting token costs.",
-        "explanation": "Spot on if you picked Option B! 🎯 Semantic caching stores previous query embeddings and pre-generated responses, returning instant answers for semantically equivalent queries and cutting token costs."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Semantic query caching avoids redundant vector lookups, while Product Quantization (PQ) and HNSW indexing accelerate vector search by 10x with minimal recall loss.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 31 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 30/100\n\nIn Day 30 on Retrieval Latency, what is the most effective optimization for reducing RAG query latency?\n\nA) Semantic caching of frequent query embeddings and hybrid ANN quantization\nB) Increasing embedding dimension size from 1536 to 8192 floating-point values\nC) Running full brute-force exact Euclidean distance scans on every user query\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Semantic query caching avoids redundant vector lookups, while Product Quantization (PQ) and HNSW indexing accelerate vector search by 10x with minimal recall loss.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 31 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "L61U79mMTLY",
@@ -891,16 +861,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep031.png",
       "cover_filename": "cover_ep031.png",
       "poll": {
-        "question": "What differentiates an 'AI Agent' from a standard chatbot?",
+        "question": "In Day 31 on AI Agents, what fundamentally separates an autonomous AI agent from a standard chatbot?",
         "options": [
-          "Agents have colorful 3D avatars",
-          "Agents can plan, use external tools, call APIs, and execute autonomous multi-...",
-          "Agents cost $50 per month",
-          "Agents only speak in audio"
+          "Looping reasoning, environmental observation, and dynamic tool execution",
+          "Higher parameter count and larger pretraining dataset for conversation",
+          "The ability to generate responses without using any underlying LLM compute"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 31/100\n\nWhat differentiates an 'AI Agent' from a standard chatbot?\n\nA) Agents have colorful 3D avatars\nB) Agents can plan, use external tools, call APIs, and execute autonomous multi-step tasks\nC) Agents cost $50 per month\nD) Agents only speak in audio\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Unlike conversational chatbots, AI agents can plan multi-step workflows, call external tools/APIs, observe environment feedback, and persist until tasks are solved.",
-        "explanation": "Spot on if you picked Option B! 🎯 Unlike conversational chatbots, AI agents can plan multi-step workflows, call external tools/APIs, observe environment feedback, and persist until tasks are solved.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Chatbots generate single-pass text. AI Agents evaluate objectives, plan actions, invoke external APIs, observe results, and iterate autonomously until completion.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 32 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 31/100\n\nIn Day 31 on AI Agents, what fundamentally separates an autonomous AI agent from a standard chatbot?\n\nA) Looping reasoning, environmental observation, and dynamic tool execution\nB) Higher parameter count and larger pretraining dataset for conversation\nC) The ability to generate responses without using any underlying LLM compute\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Chatbots generate single-pass text. AI Agents evaluate objectives, plan actions, invoke external APIs, observe results, and iterate autonomously until completion.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 32 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/Ugkx2NxO8_IbEQK-i7Xanyh7YunTlHQ6iRBi"
       },
       "status": "PUBLISHED",
@@ -922,16 +891,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep032.png",
       "cover_filename": "cover_ep032.png",
       "poll": {
-        "question": "What is 'Tool Calling' / 'Function Calling' in LLMs?",
+        "question": "In Day 32 on Tool Use, how does an LLM invoke external APIs during tool calling?",
         "options": [
-          "Asking the AI to recommend software apps",
-          "The model outputting structured arguments to trigger real external APIs and code",
-          "Calling customer support on the telephone",
-          "Installing a Python package on Windows"
+          "Generates structured function arguments conforming to an OpenAPI schema",
+          "Directly compiles and executes machine assembly code inside the GPU core",
+          "Injects raw HTTP packets directly into the host operating system kernel"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 32/100\n\nWhat is 'Tool Calling' / 'Function Calling' in LLMs?\n\nA) Asking the AI to recommend software apps\nB) The model outputting structured arguments to trigger real external APIs and code\nC) Calling customer support on the telephone\nD) Installing a Python package on Windows\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Function calling enables models to output valid JSON arguments to trigger external tools, database queries, and code execution environments reliably.",
-        "explanation": "Spot on if you picked Option B! 🎯 Function calling enables models to output valid JSON arguments to trigger external tools, database queries, and code execution environments reliably.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Models do not execute APIs directly; they output structured JSON representing function calls and arguments, which the host environment executes before returning results.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 33 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 32/100\n\nIn Day 32 on Tool Use, how does an LLM invoke external APIs during tool calling?\n\nA) Generates structured function arguments conforming to an OpenAPI schema\nB) Directly compiles and executes machine assembly code inside the GPU core\nC) Injects raw HTTP packets directly into the host operating system kernel\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Models do not execute APIs directly; they output structured JSON representing function calls and arguments, which the host environment executes before returning results.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 33 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/Ugkxs8eMUMZFmtBp8N_IQmXkwu74fi1NU5Ml"
       },
       "status": "PUBLISHED",
@@ -953,16 +921,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep033.png",
       "cover_filename": "cover_ep033.png",
       "poll": {
-        "question": "Why is a Multi-Agent Specialist Squad superior to a single giant prompt?",
+        "question": "In Day 33 on Multi-Agent Systems, why deploy specialized multi-agent squads instead of one general prompt?",
         "options": [
-          "It uses more electricity",
-          "Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce...",
-          "It takes 10x longer to run",
-          "Single agents refuse to work overtime"
+          "Role isolation reduces hallucination and allows specialized tool sandboxing",
+          "Running multiple agents concurrently eliminates all cloud API token costs",
+          "Single agents are mathematically unable to process more than one API tool"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 33/100\n\nWhy is a Multi-Agent Specialist Squad superior to a single giant prompt?\n\nA) It uses more electricity\nB) Separation of concerns: specialized agents (Coder, Critic, Researcher) reduce cognitive error\nC) It takes 10x longer to run\nD) Single agents refuse to work overtime\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Multi-agent squads divide complex objectives among specialist agents (e.g. Researcher, Coder, Reviewer), reducing context bloat and compounding reasoning errors.",
-        "explanation": "Spot on if you picked Option B! 🎯 Multi-agent squads divide complex objectives among specialist agents (e.g. Researcher, Coder, Reviewer), reducing context bloat and compounding reasoning errors.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Modular agent teams (Researcher, Coder, Reviewer) keep context windows clean, enforce distinct system roles, and enable granular guardrails and tool access per role.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 34 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 33/100\n\nIn Day 33 on Multi-Agent Systems, why deploy specialized multi-agent squads instead of one general prompt?\n\nA) Role isolation reduces hallucination and allows specialized tool sandboxing\nB) Running multiple agents concurrently eliminates all cloud API token costs\nC) Single agents are mathematically unable to process more than one API tool\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Modular agent teams (Researcher, Coder, Reviewer) keep context windows clean, enforce distinct system roles, and enable granular guardrails and tool access per role.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 34 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxMOHJKomKUsrOmPh19e5MJC-bGxEOo8bf"
       },
       "status": "PUBLISHED",
@@ -984,16 +951,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep034.png",
       "cover_filename": "cover_ep034.png",
       "poll": {
-        "question": "What is 'Persistent Memory' for AI agents?",
+        "question": "In Day 34 on Agent Memory, how do long-running agents persist state across multi-step execution?",
         "options": [
-          "Upgrading the computer's physical RAM to 64 GB",
-          "Cross-session state storage allowing agents to remember user preferences & pa...",
-          "Keeping the browser tab open forever",
-          "Hardcoding answers into the Python script"
+          "Episodic memory in external vector stores with working scratchpads",
+          "Permanently modifying neural weight matrices after every completed task",
+          "Relying entirely on infinite transformer context windows without pruning"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 34/100\n\nWhat is 'Persistent Memory' for AI agents?\n\nA) Upgrading the computer's physical RAM to 64 GB\nB) Cross-session state storage allowing agents to remember user preferences & past decisions\nC) Keeping the browser tab open forever\nD) Hardcoding answers into the Python script\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Persistent agent memory stores facts, user preferences, and intermediate state across sessions, allowing agents to maintain long-term context indefinitely.",
-        "explanation": "Spot on if you picked Option B! 🎯 Persistent agent memory stores facts, user preferences, and intermediate state across sessions, allowing agents to maintain long-term context indefinitely.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Agents maintain short-term state in a working scratchpad and long-term episodic experience in indexed databases, retrieving relevant context as tasks unfold.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 35 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 34/100\n\nIn Day 34 on Agent Memory, how do long-running agents persist state across multi-step execution?\n\nA) Episodic memory in external vector stores with working scratchpads\nB) Permanently modifying neural weight matrices after every completed task\nC) Relying entirely on infinite transformer context windows without pruning\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Agents maintain short-term state in a working scratchpad and long-term episodic experience in indexed databases, retrieving relevant context as tasks unfold.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 35 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxTKrW4y4_UKPOFt_74HaBYc0nU4Y9zTI9"
       },
       "status": "PUBLISHED",
@@ -1015,16 +981,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep035.png",
       "cover_filename": "cover_ep035.png",
       "poll": {
-        "question": "What is the ReAct loop in agentic architecture?",
+        "question": "In Day 35 on ReAct Framework, what is the sequence of the ReAct (Reason + Act) operational loop?",
         "options": [
-          "A JavaScript frontend UI framework",
-          "Reason + Act + Observe iterative cycle until a goal is accomplished",
-          "Reacting emotionally to user insults",
-          "A video recording software"
+          "Thought -> Action -> Observation -> Thought, iterating to resolution",
+          "Action -> Observation -> Feedback -> Retraining, updating base parameters",
+          "Prompt -> Inference -> Decoding -> Output, in a single forward pass"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 35/100\n\nWhat is the ReAct loop in agentic architecture?\n\nA) A JavaScript frontend UI framework\nB) Reason + Act + Observe iterative cycle until a goal is accomplished\nC) Reacting emotionally to user insults\nD) A video recording software\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 The ReAct framework alternates between Thought (reasoning), Action (tool calling), and Observation (environment feedback) until a termination condition is reached.",
-        "explanation": "Spot on if you picked Option B! 🎯 The ReAct framework alternates between Thought (reasoning), Action (tool calling), and Observation (environment feedback) until a termination condition is reached.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 ReAct interleaves explicit reasoning traces ('Thought') with external tool calls ('Action') and tool outputs ('Observation'), creating verifiable decision chains.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 36 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 35/100\n\nIn Day 35 on ReAct Framework, what is the sequence of the ReAct (Reason + Act) operational loop?\n\nA) Thought -> Action -> Observation -> Thought, iterating to resolution\nB) Action -> Observation -> Feedback -> Retraining, updating base parameters\nC) Prompt -> Inference -> Decoding -> Output, in a single forward pass\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 ReAct interleaves explicit reasoning traces ('Thought') with external tool calls ('Action') and tool outputs ('Observation'), creating verifiable decision chains.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 36 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxIlHals7soIhcWL72P_ltkFVXP1-MuLFd"
       },
       "status": "PUBLISHED",
@@ -1046,16 +1011,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep036.png",
       "cover_filename": "cover_ep036.png",
       "poll": {
-        "question": "What is the role of an 'Agent Orchestrator' / Supervisor?",
+        "question": "In Day 36 on Agent Orchestration, what is the responsibility of a centralized Agent Supervisor?",
         "options": [
-          "To pay the cloud server bills",
-          "To decompose goals, assign sub-tasks to specialized worker agents, and synthe...",
-          "To monitor employee chat logs",
-          "To schedule calendar meetings"
+          "Routes subtasks, synthesizes specialist outputs, and evaluates termination",
+          "Directly executes all low-level bash commands across agent worker nodes",
+          "Hardcodes token sampling limits to prevent agents from writing long text"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 36/100\n\nWhat is the role of an 'Agent Orchestrator' / Supervisor?\n\nA) To pay the cloud server bills\nB) To decompose goals, assign sub-tasks to specialized worker agents, and synthesize results\nC) To monitor employee chat logs\nD) To schedule calendar meetings\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 An Agent Orchestrator acts as the central supervisor, decomposing high-level tasks into sub-tasks, routing them to specialist workers, and synthesizing the final output.",
-        "explanation": "Spot on if you picked Option B! 🎯 An Agent Orchestrator acts as the central supervisor, decomposing high-level tasks into sub-tasks, routing them to specialist workers, and synthesizing the final output.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 The supervisor functions as an orchestrator, breaking the main user goal into subtasks, delegating to domain agents, resolving deadlocks, and reviewing results.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 37 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 36/100\n\nIn Day 36 on Agent Orchestration, what is the responsibility of a centralized Agent Supervisor?\n\nA) Routes subtasks, synthesizes specialist outputs, and evaluates termination\nB) Directly executes all low-level bash commands across agent worker nodes\nC) Hardcodes token sampling limits to prevent agents from writing long text\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 The supervisor functions as an orchestrator, breaking the main user goal into subtasks, delegating to domain agents, resolving deadlocks, and reviewing results.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 37 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxLtW5Y2jWcIvsTaXUO-zBW4MA-XoMHbQI"
       },
       "status": "PUBLISHED",
@@ -1077,16 +1041,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep037.png",
       "cover_filename": "cover_ep037.png",
       "poll": {
-        "question": "What is 'Autonomous Planning' in agentic systems?",
+        "question": "In Day 37 on Autonomous Planning, how do agents avoid dead ends when executing complex multi-step plans?",
         "options": [
-          "Writing 50 individual prompts manually",
-          "Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic ...",
-          "Asking ChatGPT to browse the web",
-          "Using multiple screens simultaneously"
+          "Dynamic plan validation with backtrack replanning upon tool errors",
+          "Executing all plan steps simultaneously in parallel without error checking",
+          "Hardcoding step sequences so the agent cannot deviate under any failure"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 37/100\n\nWhat is 'Autonomous Planning' in agentic systems?\n\nA) Writing 50 individual prompts manually\nB) Decomposing high-level goals into directed acyclic graphs (DAGs) and dynamic dependency execution\nC) Asking ChatGPT to browse the web\nD) Using multiple screens simultaneously\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Autonomous planning constructs dynamic task graphs (DAGs) with dependency ordering, allowing agents to execute prerequisites before triggering subsequent actions.",
-        "explanation": "Spot on if you picked Option B! 🎯 Autonomous planning constructs dynamic task graphs (DAGs) with dependency ordering, allowing agents to execute prerequisites before triggering subsequent actions."
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Robust agents evaluate tool return codes; if an execution branch fails, the replanning module updates the remaining task DAG to explore alternative solution paths.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 38 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 37/100\n\nIn Day 37 on Autonomous Planning, how do agents avoid dead ends when executing complex multi-step plans?\n\nA) Dynamic plan validation with backtrack replanning upon tool errors\nB) Executing all plan steps simultaneously in parallel without error checking\nC) Hardcoding step sequences so the agent cannot deviate under any failure\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Robust agents evaluate tool return codes; if an execution branch fails, the replanning module updates the remaining task DAG to explore alternative solution paths.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 38 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "youtube_id": "fav-pse9DUs",
@@ -1106,16 +1069,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep038.png",
       "cover_filename": "cover_ep038.png",
       "poll": {
-        "question": "What is the primary purpose of Anthropic's Model Context Protocol (MCP)?",
+        "question": "In Day 38 on Model Context Protocol (MCP), why is Anthropic's MCP becoming the universal standard for tools?",
         "options": [
-          "A Minecraft gaming server mod",
-          "An open universal standard (like USB-C) letting any AI model connect to any t...",
-          "A cloud subscription billing mechanism",
-          "A method to speed up graphic rendering"
+          "Provides an open, unified protocol connecting LLMs to diverse data sources",
+          "Replaces GPU CUDA kernels with standardized WebAssembly compiler runtimes",
+          "Eliminates the requirement for API authentication tokens across cloud tools"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nWhat is the primary purpose of Anthropic's Model Context Protocol (MCP)?\n\nA) A Minecraft gaming server mod\nB) An open universal standard (like USB-C) letting any AI model connect to any tool, database, or API\nC) A cloud subscription billing mechanism\nD) A method to speed up graphic rendering\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 Anthropic's Model Context Protocol (MCP) acts as the universal USB-C standard for AI. Instead of custom integrations for every model, one MCP server connects any client (Claude, Cursor, Antigravity) to your tools and databases.",
-        "explanation": "Spot on if you picked Option B! 🎯 Anthropic's Model Context Protocol (MCP) acts as the universal USB-C standard for AI. Instead of custom integrations for every model, one MCP server connects any client (Claude, Cursor, Antigravity) to your tools and databases.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 MCP replaces fragmented custom tool integrations with a standardized client-server protocol, allowing any LLM to discover and call tools across diverse systems.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 39 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 38/100\n\nIn Day 38 on Model Context Protocol (MCP), why is Anthropic's MCP becoming the universal standard for tools?\n\nA) Provides an open, unified protocol connecting LLMs to diverse data sources\nB) Replaces GPU CUDA kernels with standardized WebAssembly compiler runtimes\nC) Eliminates the requirement for API authentication tokens across cloud tools\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 MCP replaces fragmented custom tool integrations with a standardized client-server protocol, allowing any LLM to discover and call tools across diverse systems.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 39 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh"
       },
       "status": "PUBLISHED",
@@ -1137,16 +1099,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep039.png",
       "cover_filename": "cover_ep039.png",
       "poll": {
-        "question": "Why are 'Vibe Checks' insufficient for production AI engineering?",
+        "question": "In Day 39 on Automated Evals & CI, why are automated evaluation suites essential before shipping agents?",
         "options": [
-          "Vibes don't have enough colorful charts",
-          "Prompt edits often fix one case while silently breaking twenty others; automa...",
-          "Cloud APIs refuse prompts containing the word vibe",
-          "They consume 10x more GPU electricity"
+          "Measure deterministic accuracy, tool compliance, and regression prevention",
+          "Ensure that model inference latency never exceeds 10 milliseconds globally",
+          "Eliminate the need for human engineering reviews in enterprise code bases"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nWhy are 'Vibe Checks' insufficient for production AI engineering?\n\nA) Vibes don't have enough colorful charts\nB) Prompt edits often fix one case while silently breaking twenty others; automated evaluations prevent regressions\nC) Cloud APIs refuse prompts containing the word vibe\nD) They consume 10x more GPU electricity\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option B! 🎯 'Vibe checks' fail in production because prompt changes often fix one edge case while silently breaking twenty others. Automated evaluations in CI/CD track benchmark metrics and prevent regressions.",
-        "explanation": "Spot on if you picked Option B! 🎯 'Vibe checks' fail in production because prompt changes often fix one edge case while silently breaking twenty others. Automated evaluations in CI/CD track benchmark metrics and prevent regressions.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Agentic workflows can drift or hallucinate tool calls. Automated CI evals test task completion rates, cost ceilings, and boundary constraints on every change.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 40 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 39/100\n\nIn Day 39 on Automated Evals & CI, why are automated evaluation suites essential before shipping agents?\n\nA) Measure deterministic accuracy, tool compliance, and regression prevention\nB) Ensure that model inference latency never exceeds 10 milliseconds globally\nC) Eliminate the need for human engineering reviews in enterprise code bases\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Agentic workflows can drift or hallucinate tool calls. Automated CI evals test task completion rates, cost ceilings, and boundary constraints on every change.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 40 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM"
       },
       "status": "PUBLISHED",
@@ -1168,16 +1129,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep040.png",
       "cover_filename": "cover_ep040.png",
       "poll": {
-        "question": "What is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?",
+        "question": "In Day 40 on Local SLMs on NPUs, what is the primary operational advantage of running SLMs on device?",
         "options": [
-          "They require paying $20/month per user",
-          "Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy",
-          "They only run on massive cloud server clusters",
-          "They require an active internet connection for every single token"
+          "Zero cloud API cost, complete data privacy, and ultra-low edge latency",
+          "Outperforming frontier 1T cloud models on broad math benchmarks",
+          "Infinite context windows capable of storing petabytes of raw video files"
         ],
-        "correct_index": 1,
-        "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nWhat is the main operational advantage of running local SLMs (e.g. Phi-4 or Qwen 3B)?\n\nA) They require paying $20/month per user\nB) Zero cloud API subscription burn, sub-10ms latency, and 100% on-device privacy\nC) They only run on massive cloud server clusters\nD) They require an active internet connection for every single token\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 2! 🎯 Pinging frontier cloud models for basic classification, data formatting, or embeddings adds network latency and high API costs. Quantized SLMs (like Phi-4-mini or Qwen 3B) running on local NPUs deliver sub-10ms response times with zero token bills and complete on-device privacy.",
-        "explanation": "Spot on if you picked Option 2! 🎯 Pinging frontier cloud models for basic classification, data formatting, or embeddings adds network latency and high API costs. Quantized SLMs (like Phi-4-mini or Qwen 3B) running on local NPUs deliver sub-10ms response times with zero token bills and complete on-device privacy.",
+        "correct_index": 0,
+        "explanation": "Spot on if you picked Option 1! 🎯 Small Language Models (SLMs) running locally on modern NPUs/GPUs guarantee strict privacy (data never leaves device), zero cloud egress bills, and offline availability.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 41 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 40/100\n\nIn Day 40 on Local SLMs on NPUs, what is the primary operational advantage of running SLMs on device?\n\nA) Zero cloud API cost, complete data privacy, and ultra-low edge latency\nB) Outperforming frontier 1T cloud models on broad math benchmarks\nC) Infinite context windows capable of storing petabytes of raw video files\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Small Language Models (SLMs) running locally on modern NPUs/GPUs guarantee strict privacy (data never leaves device), zero cloud egress bills, and offline availability.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 41 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp"
       },
       "status": "PUBLISHED",
@@ -1199,16 +1159,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep041.png",
       "cover_filename": "cover_ep041.png",
       "poll": {
-        "question": "When you prompt AI to generate an image, which model connects text to visuals?",
+        "question": "In Day 41 on Text to Image, what is the role of text encoders (like CLIP or T5) in image models?",
         "options": [
-          "CLIP (Contrastive Language-Image Pretraining)",
-          "Pure ChatGPT text tokenizer",
-          "Standard SQL database index",
-          "Edge-TTS speech synthesizer"
+          "Translates natural language prompts into semantic guidance embeddings",
+          "Directly generate the final 2D pixel array without any diffusion steps",
+          "Scan the internet for stock photography matching prompt keyword tokens"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nWhen you prompt AI to generate an image, which model connects text to visuals?\n\nA) CLIP (Contrastive Language-Image Pretraining)\nB) Pure ChatGPT text tokenizer\nC) Standard SQL database index\nD) Edge-TTS speech synthesizer\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked CLIP! 🎯 CLIP (Contrastive Language-Image Pretraining) projects text prompts and images into a shared semantic latent space, providing the mathematical coordinates that guide diffusion models to synthesize matching pixels.",
-        "explanation": "Spot on if you picked CLIP! 🎯 CLIP (Contrastive Language-Image Pretraining) projects text prompts and images into a shared semantic latent space, providing the mathematical coordinates that guide diffusion models to synthesize matching pixels.",
+        "explanation": "Spot on if you picked Option 1! 🎯 Text encoders project natural language into a joint multimodal embedding space, providing spatial cross-attention conditioning that guides latent diffusion steps.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 42 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 41/100\n\nIn Day 41 on Text to Image, what is the role of text encoders (like CLIP or T5) in image models?\n\nA) Translates natural language prompts into semantic guidance embeddings\nB) Directly generate the final 2D pixel array without any diffusion steps\nC) Scan the internet for stock photography matching prompt keyword tokens\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Text encoders project natural language into a joint multimodal embedding space, providing spatial cross-attention conditioning that guides latent diffusion steps.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 42 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxQAiP5H-jVjR95EwvlJXXNHgb0MI7kkcP"
       },
       "status": "PUBLISHED",
@@ -1230,16 +1189,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep042.png",
       "cover_filename": "cover_ep042.png",
       "poll": {
-        "question": "What allows modern AI video models (like Sora) to keep objects consistent in time?",
+        "question": "In Day 42 on Text to Video, how do modern world models (like Sora and Veo) maintain temporal consistency?",
         "options": [
-          "Spatiotemporal latent patches (Space + Time)",
-          "Generating 30 separate PNG images every second",
-          "Using traditional Adobe Premiere filters",
-          "Storing every single raw video frame in RAM"
+          "Treat video as 4D spacetime volumes using spatiotemporal latent patches",
+          "Generate isolated 2D image frames sequentially with post-processing filters",
+          "Store every raw uncompressed video frame directly in high-speed GPU VRAM"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nWhat allows modern AI video models (like Sora) to keep objects consistent in time?\n\nA) Spatiotemporal latent patches (Space + Time)\nB) Generating 30 separate PNG images every second\nC) Using traditional Adobe Premiere filters\nD) Storing every single raw video frame in RAM\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Spatiotemporal latent patches! 🎬 Modern AI video world models (like Sora and Veo) treat video as a 4D spacetime volume, maintaining physical continuity, lighting, and object permanence across consecutive frames.",
-        "explanation": "Spot on if you picked Spatiotemporal latent patches! 🎬 Modern AI video world models (like Sora and Veo) treat video as a 4D spacetime volume, maintaining physical continuity, lighting, and object permanence across consecutive frames.",
+        "explanation": "Spot on if you picked Option 1! 🎯 State-of-the-art video world models represent spacetime as 3D/4D latent patches, computing cross-frame attention to enforce object permanence, physics, and lighting.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 43 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 42/100\n\nIn Day 42 on Text to Video, how do modern world models (like Sora and Veo) maintain temporal consistency?\n\nA) Treat video as 4D spacetime volumes using spatiotemporal latent patches\nB) Generate isolated 2D image frames sequentially with post-processing filters\nC) Store every raw uncompressed video frame directly in high-speed GPU VRAM\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 State-of-the-art video world models represent spacetime as 3D/4D latent patches, computing cross-frame attention to enforce object permanence, physics, and lighting.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 43 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/UgkxPsgsDVzZ4OEjEuEpH1AiPwFpJlYaIHFx"
       },
       "status": "PUBLISHED",
@@ -1261,16 +1219,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep043.png",
       "cover_filename": "cover_ep043.png",
       "poll": {
-        "question": "What is the primary role of a neural vocoder (like Vocos) in modern AI voice?",
+        "question": "In Day 43 on Text to Speech, what is the primary architectural function of a neural vocoder?",
         "options": [
-          "Converts acoustic spectrograms into sound waves",
-          "Translates English text into French audio",
-          "Records human voice from a physical microphone",
-          "Checks prompt grammar and spelling errors"
+          "Synthesizes raw continuous audio waveforms from acoustic mel-spectrograms",
+          "Translates textual language phonemes from English syntax to target idioms",
+          "Filters background microphone ambient noise during user audio recording"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nWhat is the primary role of a neural vocoder (like Vocos) in modern AI voice?\n\nA) Converts acoustic spectrograms into sound waves\nB) Translates English text into French audio\nC) Records human voice from a physical microphone\nD) Checks prompt grammar and spelling errors\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked converting spectrograms into sound waves! 🎙️ Modern zero-shot TTS models use flow matching to generate intermediate acoustic mel-spectrograms. The neural vocoder (like Vocos or HiFi-GAN) is the high-speed engine that decodes those latents into continuous 24kHz studio audio waves.",
-        "explanation": "Spot on if you picked converting spectrograms into sound waves! 🎙️ Modern zero-shot TTS models use flow matching to generate intermediate acoustic mel-spectrograms. The neural vocoder (like Vocos or HiFi-GAN) is the high-speed engine that decodes those latents into continuous 24kHz studio audio waves.",
+        "explanation": "Spot on if you picked Option 1! 🎯 Acoustic models predict intermediate frequency-time spectrograms. The neural vocoder (e.g. HiFi-GAN, Vocos) synthesizes raw, high-fidelity 24kHz audio waves.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 44 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 43/100\n\nIn Day 43 on Text to Speech, what is the primary architectural function of a neural vocoder?\n\nA) Synthesizes raw continuous audio waveforms from acoustic mel-spectrograms\nB) Translates textual language phonemes from English syntax to target idioms\nC) Filters background microphone ambient noise during user audio recording\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Acoustic models predict intermediate frequency-time spectrograms. The neural vocoder (e.g. HiFi-GAN, Vocos) synthesizes raw, high-fidelity 24kHz audio waves.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 44 drops tomorrow at 6 PM! 🚀",
         "poll_url": "https://youtube.com/post/Ugkx2zCIe3Xdt9RNc10VPMSfi_csFXjjpesE"
       },
       "status": "PUBLISHED",
@@ -1292,16 +1249,16 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep044.png",
       "cover_filename": "cover_ep044.png",
       "poll": {
-        "question": "During the image generation process in diffusion models like Flux or Stable Diffusion, what occurs during the 30-step iterative denoising phase?",
+        "question": "In Day 44 on Diffusion Models, what occurs during the 30-step iterative denoising phase?",
         "options": [
           "The model adds more random Gaussian noise to obscure the image",
-          "The neural network progressively subtracts noise to reveal clean data",
-          "The prompt is converted directly into a hardcoded vector with no visual math"
+          "The neural network progressively subtracts noise guided by the prompt",
+          "The prompt is converted into a hardcoded vector without visual math"
         ],
         "correct_index": 1,
-        "explanation": "Spot on if you picked Option 2! 🎯 Diffusion models start with pure random static. Over dozens of denoising steps, the neural network learns to reverse the chaos, gradually subtracting noise to reveal a hyper-detailed, prompt-aligned masterpiece from pure randomness.\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-        "poll_url": "https://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS",
-        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nDuring the image generation process in diffusion models like Flux or Stable Diffusion, what occurs during the 30-step iterative denoising phase?\n\nA) The model adds more random Gaussian noise to obscure the image\nB) The neural network progressively subtracts noise to reveal clean data\nC) The prompt is converted directly into a hardcoded vector with no visual math\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 2! 🎯 Diffusion models start with pure random static. Over dozens of denoising steps, the neural network learns to reverse the chaos, gradually subtracting noise to reveal a hyper-detailed, prompt-aligned masterpiece from pure randomness.\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+        "explanation": "Spot on if you picked Option 2! 🎯 Diffusion models start with pure random static. Over iterative denoising steps, the network predicts and subtracts noise, revealing crisp, prompt-aligned imagery.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 45 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 44/100\n\nIn Day 44 on Diffusion Models, what occurs during the 30-step iterative denoising phase?\n\nA) The model adds more random Gaussian noise to obscure the image\nB) The neural network progressively subtracts noise guided by the prompt\nC) The prompt is converted into a hardcoded vector without visual math\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 2! 🎯 Diffusion models start with pure random static. Over iterative denoising steps, the network predicts and subtracts noise, revealing crisp, prompt-aligned imagery.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 45 drops tomorrow at 6 PM! 🚀",
+        "poll_url": "https://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS"
       },
       "status": "PUBLISHED",
       "youtube_id": "AtzKJda8-3c",
@@ -1330,8 +1287,8 @@ window.PUBLISHING_CATALOG = {
         ],
         "correct_index": 2,
         "explanation": "Spot on if you picked Option 3! 🎯 Modern digital presenters require zero cameras or studio lighting. By pairing neural TTS with 52 distinct 3D facial blendshapes and micro-blinks, pipelines like LivePortrait + F5-TTS map audio phonemes directly onto photorealistic lip movements across 40+ languages in real time.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 46 drops tomorrow at 6 PM! 🚀",
-        "poll_url": "https://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG",
-        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nIn Day 45 on AI Avatars, how do digital presenters synchronize realistic lip movements and expressions with a text script?\n\nA) By recording a live human actor separately for all 40 languages\nB) By manually animating every video frame by hand in 3D software\nC) By mapping audio phonemes to 52 distinct 3D facial blendshapes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 3! 🎯 Modern digital presenters require zero cameras or studio lighting. By pairing neural TTS with 52 distinct 3D facial blendshapes and micro-blinks, pipelines like LivePortrait + F5-TTS map audio phonemes directly onto photorealistic lip movements across 40+ languages in real time.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 46 drops tomorrow at 6 PM! 🚀"
+        "full_text": "🗳️ COMMUNITY POLL • Day 45/100\n\nIn Day 45 on AI Avatars, how do digital presenters synchronize realistic lip movements and expressions with a text script?\n\nA) By recording a live human actor separately for all 40 languages\nB) By manually animating every video frame by hand in 3D software\nC) By mapping audio phonemes to 52 distinct 3D facial blendshapes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 3! 🎯 Modern digital presenters require zero cameras or studio lighting. By pairing neural TTS with 52 distinct 3D facial blendshapes and micro-blinks, pipelines like LivePortrait + F5-TTS map audio phonemes directly onto photorealistic lip movements across 40+ languages in real time.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 46 drops tomorrow at 6 PM! 🚀",
+        "poll_url": "https://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG"
       },
       "status": "PUBLISHED",
       "whatsapp_post": "Day 45 / 100: Digital Humans—AI Avatars & 3D Blendshapes!\n\nThis video host isn't real. Neither am I (almost).\n\nHow do digital presenters synchronize realistic lip movements and expressions with any text script across 40+ languages?\n\nHere is the architectural stack:\n• Neural Phoneme Alignment: Speech models slice spoken audio into millisecond phonetic tokens.\n• 3D Blendshapes (FACS): 52 muscle motion coefficients map phonemes directly to facial mesh deformations and micro-blinks.\n• Zero-Shot Motion Warping: Neural rendering pipelines animate a single still photo with zero 3D rigging or studio cameras.\n\nDigital presenters now talk, teach, and pitch without a camera or studio lighting.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/10PA16pK0-4\n\n🗳️ Test your knowledge (Day 45 Quiz):\nhttps://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
@@ -1352,16 +1309,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep046.png",
       "cover_filename": "cover_ep046.png",
       "poll": {
-        "question": "How can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?",
+        "question": "In Day 46 on Voice Cloning, how do zero-shot voice cloning models replicate timbre from 10s of audio?",
         "options": [
-          "Matching speaker timbre in acoustic latent space",
-          "Retraining the entire neural network from zero",
-          "Applying an aggressive robotic pitch shifter",
-          "Downloading your private WhatsApp voice notes"
+          "Extract speaker embeddings into a latent condition space for flow matching",
+          "Retrain all transformer attention weights from scratch for the new speaker",
+          "Apply aggressive robotic pitch modulation over a generic synthetic voice"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nHow can zero-shot models (like F5-TTS) clone your voice in just 10 seconds?\n\nA) Matching speaker timbre in acoustic latent space\nB) Retraining the entire neural network from zero\nC) Applying an aggressive robotic pitch shifter\nD) Downloading your private WhatsApp voice notes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked matching acoustic latent embeddings! 🎙️ Zero-shot models like F5-TTS extract vocal timbre, pitch distribution, and breath prosody into a compressed speaker embedding vector, synthesizing speech in that vocal signature without retraining weights.",
-        "explanation": "Spot on if you picked matching acoustic latent embeddings! 🎙️ Zero-shot models like F5-TTS extract vocal timbre, pitch distribution, and breath prosody into a compressed speaker embedding vector, synthesizing speech in that vocal signature without retraining weights."
+        "explanation": "Spot on if you picked Option 1! 🎯 Zero-shot engines (like F5-TTS or CosyVoice) extract speaker pitch, formant, and cadence into a compact conditioning embedding, synthesizing speech in that vocal profile.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 47 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 46/100\n\nIn Day 46 on Voice Cloning, how do zero-shot voice cloning models replicate timbre from 10s of audio?\n\nA) Extract speaker embeddings into a latent condition space for flow matching\nB) Retrain all transformer attention weights from scratch for the new speaker\nC) Apply aggressive robotic pitch modulation over a generic synthetic voice\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Zero-shot engines (like F5-TTS or CosyVoice) extract speaker pitch, formant, and cadence into a compact conditioning embedding, synthesizing speech in that vocal profile.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 47 drops tomorrow at 6 PM! 🚀"
       },
       "status": "PUBLISHED",
       "whatsapp_post": "Day 46 / 100: Voice Cloning & Acoustic Biometrics—30 Seconds to Clone ANY Voice!\n\nIn 2020, voice cloning required 50 hours of soundproof studio recordings and days of GPU retraining.\n\nIn 2026, zero-shot models (like F5-TTS) clone your exact voice timbre from just 30 seconds of audio.\n\nHere is what powers the leap:\n• Speaker Latent Embeddings: A continuous flow-matching transformer maps speaker acoustic characteristics into high-dimensional latent space.\n• Mel Duration Scaling: Infers native speaking cadence, pitch inflection, and vocal fry without retraining weights.\n• Real-Time Inference: Runs entirely on consumer GPUs at 100% zero cloud cost.\n\nOne short clip. Now AI can speak in that exact voice forever.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/IHC7t0wtvDc\n\n🗳️ Test your knowledge (Day 46 Quiz):\n[Community Post staged & dropping on channel]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
@@ -1381,16 +1337,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep047.png",
       "cover_filename": "cover_ep047.png",
       "poll": {
-        "question": "How do generative audio models (Suno/Udio) compose full multi-track songs?",
+        "question": "In Day 47 on AI Music, how do generative music architectures represent polyphonic harmonic structure?",
         "options": [
-          "Dual-stream diffusion of melody, rhythm & vocal",
-          "Splicing copyrighted MP3 tracks from Spotify",
-          "Playing MIDI files using 90s soundcard fonts",
-          "Auto-tuning a human singer's hum"
+          "Tokenize audio into multi-codebook discrete neural acoustic representations",
+          "Stitch together thousands of royalty-free MP3 sample clips from hard drive",
+          "Convert musical sheet notation directly into raw MIDI synthesizer tracks"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nHow do generative audio models (Suno/Udio) compose full multi-track songs?\n\nA) Dual-stream diffusion of melody, rhythm & vocal\nB) Splicing copyrighted MP3 tracks from Spotify\nC) Playing MIDI files using 90s soundcard fonts\nD) Auto-tuning a human singer's hum\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked dual-stream diffusion! 🎵 Frontier AI music models run multi-stream diffusion across time-frequency representations, concurrently modeling harmonic progressions, percussion transients, and vocal phonemes.",
-        "explanation": "Spot on if you picked dual-stream diffusion! 🎵 Frontier AI music models run multi-stream diffusion across time-frequency representations, concurrently modeling harmonic progressions, percussion transients, and vocal phonemes."
+        "explanation": "Spot on if you picked Option 1! 🎯 Modern music models (like Suno, Udio) use hierarchical neural audio codecs (like EnCodec) that quantize audio into parallel token codebooks representing harmony and vocals.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 48 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 47/100\n\nIn Day 47 on AI Music, how do generative music architectures represent polyphonic harmonic structure?\n\nA) Tokenize audio into multi-codebook discrete neural acoustic representations\nB) Stitch together thousands of royalty-free MP3 sample clips from hard drive\nC) Convert musical sheet notation directly into raw MIDI synthesizer tracks\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Modern music models (like Suno, Udio) use hierarchical neural audio codecs (like EnCodec) that quantize audio into parallel token codebooks representing harmony and vocals.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 48 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 47 / 100: AI Music — (Day 47/100) AI Just Composed a Full Song. From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Music with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 47 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1408,16 +1363,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep048.png",
       "cover_filename": "cover_ep048.png",
       "poll": {
-        "question": "How does Generative AI upscale blurry, low-res photos without smudging?",
+        "question": "In Day 48 on Image Upscaling, why do latent diffusion upscalers produce sharper details than bicubic resizing?",
         "options": [
-          "Hallucinates sharp realistic texture priors",
-          "Basic bilinear pixel stretching",
-          "Increasing monitor brightness and contrast",
-          "Applying heavy Gaussian blur to edges"
+          "Hallucinates high-frequency textures conditioned on prompt semantics",
+          "Interpolate mathematical color averages between neighboring low-res pixels",
+          "Download matching high-resolution stock photography assets from web caches"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nHow does Generative AI upscale blurry, low-res photos without smudging?\n\nA) Hallucinates sharp realistic texture priors\nB) Basic bilinear pixel stretching\nC) Increasing monitor brightness and contrast\nD) Applying heavy Gaussian blur to edges\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked hallucinating texture priors! 🖼️ Unlike basic bilinear stretching which blurs edges, Generative Super-Resolution predicts plausible high-frequency textures (skin pores, fabric weaves, iris details) consistent with the real-world semantics of the scene.",
-        "explanation": "Spot on if you picked hallucinating texture priors! 🖼️ Unlike basic bilinear stretching which blurs edges, Generative Super-Resolution predicts plausible high-frequency textures (skin pores, fabric weaves, iris details) consistent with the real-world semantics of the scene."
+        "explanation": "Spot on if you picked Option 1! 🎯 Traditional resizing blurs pixels via interpolation. Diffusion-based super-resolution models synthesize realistic microscopic textures (pores, fabric, foliage).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 49 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 48/100\n\nIn Day 48 on Image Upscaling, why do latent diffusion upscalers produce sharper details than bicubic resizing?\n\nA) Hallucinates high-frequency textures conditioned on prompt semantics\nB) Interpolate mathematical color averages between neighboring low-res pixels\nC) Download matching high-resolution stock photography assets from web caches\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Traditional resizing blurs pixels via interpolation. Diffusion-based super-resolution models synthesize realistic microscopic textures (pores, fabric, foliage).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 49 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 48 / 100: Image Upscaling — (Day 48/100) Blurry Old Photo? AI Fixes It Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Image Upscaling with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 48 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1435,16 +1389,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep049.png",
       "cover_filename": "cover_ep049.png",
       "poll": {
-        "question": "What makes native multimodal AI (like Gemini) smarter than tool-stitched apps?",
+        "question": "In Day 49 on Multimodal AI, how do unified multimodal LLMs ingest both images and text simultaneously?",
         "options": [
-          "Early fusion: pixels, audio & text share one space",
-          "Chaining 5 separate external SaaS API calls",
-          "Running 3 separate models on different laptops",
-          "Converting all photos into plain text OCR first"
+          "Project patch embeddings via projection layers into LLM token space",
+          "Run OCR to convert all image pixels into raw text strings",
+          "Switch between two completely separate models hosted on separate servers"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nWhat makes native multimodal AI (like Gemini) smarter than tool-stitched apps?\n\nA) Early fusion: pixels, audio & text share one space\nB) Chaining 5 separate external SaaS API calls\nC) Running 3 separate models on different laptops\nD) Converting all photos into plain text OCR first\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked early fusion in a shared token space! 🧠 Native multimodal models (like Gemini) process text, audio, and pixel patches within one unified transformer architecture, eliminating the translation lag and context loss of tool-stitched pipelines.",
-        "explanation": "Spot on if you picked early fusion in a shared token space! 🧠 Native multimodal models (like Gemini) process text, audio, and pixel patches within one unified transformer architecture, eliminating the translation lag and context loss of tool-stitched pipelines."
+        "explanation": "Spot on if you picked Option 1! 🎯 Vision transformers encode images into spatial patch tokens, which a multimodal projector maps into the text embedding space, allowing unified cross-attention.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 50 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nIn Day 49 on Multimodal AI, how do unified multimodal LLMs ingest both images and text simultaneously?\n\nA) Project patch embeddings via projection layers into LLM token space\nB) Run OCR to convert all image pixels into raw text strings\nC) Switch between two completely separate models hosted on separate servers\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Vision transformers encode images into spatial patch tokens, which a multimodal projector maps into the text embedding space, allowing unified cross-attention.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 50 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1462,16 +1415,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_ai/cover_ep050.png",
       "cover_filename": "cover_ep050.png",
       "poll": {
-        "question": "How does Neural Style Transfer paint your photo in the exact style of Van Gogh?",
+        "question": "In Day 50 on Style Transfer, how do ControlNet and IP-Adapter preserve structural composition while altering style?",
         "options": [
-          "Separates content and style via CNN feature maps",
-          "Overlays a translucent 50% opacity photo filter",
-          "Converts all image pixels to black and white",
-          "Pastes the artist's signature onto your photo"
+          "Inject zero-convolution structural locks into diffusion UNet blocks",
+          "Apply traditional Photoshop blending filters on completed generations",
+          "Train a dedicated 50GB foundation model from scratch per style"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nHow does Neural Style Transfer paint your photo in the exact style of Van Gogh?\n\nA) Separates content and style via CNN feature maps\nB) Overlays a translucent 50% opacity photo filter\nC) Converts all image pixels to black and white\nD) Pastes the artist's signature onto your photo\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked CNN feature map separation! 🎨 Deep Convolutional Neural Networks separate content representations (high-level feature maps) from artistic style representations (Gram matrices of spatial correlations), allowing style transfer without altering object geometry.",
-        "explanation": "Spot on if you picked CNN feature map separation! 🎨 Deep Convolutional Neural Networks separate content representations (high-level feature maps) from artistic style representations (Gram matrices of spatial correlations), allowing style transfer without altering object geometry."
+        "explanation": "Spot on if you picked Option 1! 🎯 ControlNet locks original model weights and trains lightweight trainable copies with zero-convolutions, injecting edge maps, depth, or poses without degrading base quality.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 51 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nIn Day 50 on Style Transfer, how do ControlNet and IP-Adapter preserve structural composition while altering style?\n\nA) Inject zero-convolution structural locks into diffusion UNet blocks\nB) Apply traditional Photoshop blending filters on completed generations\nC) Train a dedicated 50GB foundation model from scratch per style\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 ControlNet locks original model weights and trains lightweight trainable copies with zero-convolutions, injecting edge maps, depth, or poses without degrading base quality.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 51 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1489,16 +1441,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep051_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Bias', what is the core architectural principle?",
+        "question": "In Day 51 on AI Bias, how does demographic representation imbalance manifest in model outputs?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Skewed training distributions produce stereotypical output priors",
+          "A software bug in floating-point GPU rounding favor specific text strings",
+          "Hardware thermal throttling degrades precision on specific dialects"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 51/100\n\n🧠 AI Architecture Quiz: In 'AI Bias', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Bias', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Bias', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Foundation models mirror historical correlation patterns in their training corpora; uncurated data biases generation towards dominant demographic representations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 52 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 51/100\n\nIn Day 51 on AI Bias, how does demographic representation imbalance manifest in model outputs?\n\nA) Skewed training distributions produce stereotypical output priors\nB) A software bug in floating-point GPU rounding favor specific text strings\nC) Hardware thermal throttling degrades precision on specific dialects\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Foundation models mirror historical correlation patterns in their training corpora; uncurated data biases generation towards dominant demographic representations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 52 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1516,16 +1467,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep052_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Alignment', what is the core architectural principle?",
+        "question": "In Day 52 on AI Alignment, what is the core goal of aligning frontier foundation models?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Ensuring model behaviors adhere to human values, safety, and helpful intent",
+          "Maximizing token throughput speed of the GPU inference cluster",
+          "Preventing open-source developers from inspecting underlying model weights"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 52/100\n\n🧠 AI Architecture Quiz: In 'AI Alignment', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Alignment', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Alignment', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Alignment steers raw next-token predictors into helpful, harmless, and honest assistants via techniques like RLHF, DPO, and constitutional AI principles.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 53 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 52/100\n\nIn Day 52 on AI Alignment, what is the core goal of aligning frontier foundation models?\n\nA) Ensuring model behaviors adhere to human values, safety, and helpful intent\nB) Maximizing token throughput speed of the GPU inference cluster\nC) Preventing open-source developers from inspecting underlying model weights\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Alignment steers raw next-token predictors into helpful, harmless, and honest assistants via techniques like RLHF, DPO, and constitutional AI principles.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 53 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1543,16 +1493,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep053_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'RLHF', what is the core architectural principle?",
+        "question": "In Day 53 on RLHF, how does Reinforcement Learning from Human Feedback guide model behavior?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Trains a reward model on human preferences to optimize policy via PPO/DPO",
+          "Forces human annotators to write synthetic training tokens manually",
+          "Directly edits transformer neural weights using symbolic debuggers"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 53/100\n\n🧠 AI Architecture Quiz: In 'RLHF', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'RLHF', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'RLHF', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 RLHF uses human comparison rankings to train a reward model, which then guides policy optimization (via PPO or direct preference optimization DPO).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 54 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 53/100\n\nIn Day 53 on RLHF, how does Reinforcement Learning from Human Feedback guide model behavior?\n\nA) Trains a reward model on human preferences to optimize policy via PPO/DPO\nB) Forces human annotators to write synthetic training tokens manually\nC) Directly edits transformer neural weights using symbolic debuggers\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 RLHF uses human comparison rankings to train a reward model, which then guides policy optimization (via PPO or direct preference optimization DPO).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 54 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 53 / 100: RLHF — (Day 53/100) The Secret Training Step That Makes AI 'Nice.'\n\nDive into today's bite-sized AI architecture breakdown! We unpack RLHF with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 53 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1570,16 +1519,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep054_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Deepfakes', what is the core architectural principle?",
+        "question": "In Day 54 on Deepfakes, which cryptographic method provides tamper-proof media authenticity?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "C2PA cryptographic provenance metadata signed by camera hardware keys",
+          "Hiding invisible high-frequency watermarks that survive file compression",
+          "Relying on manual visual inspection by professional forensic video editors"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 54/100\n\n🧠 AI Architecture Quiz: In 'Deepfakes', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Deepfakes', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Deepfakes', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 The C2PA standard embeds verifiable public-key cryptographic provenance signatures into media headers, establishing author, device, and modification history.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 55 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 54/100\n\nIn Day 54 on Deepfakes, which cryptographic method provides tamper-proof media authenticity?\n\nA) C2PA cryptographic provenance metadata signed by camera hardware keys\nB) Hiding invisible high-frequency watermarks that survive file compression\nC) Relying on manual visual inspection by professional forensic video editors\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 The C2PA standard embeds verifiable public-key cryptographic provenance signatures into media headers, establishing author, device, and modification history.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 55 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 54 / 100: Deepfakes — (Day 54/100) Fake Videos That Look 100% Real. Here's the Danger\n\nDive into today's bite-sized AI architecture breakdown! We unpack Deepfakes with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 54 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1597,16 +1545,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep055_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Regulation', what is the core architectural principle?",
+        "question": "In Day 55 on AI Regulation, how does the EU AI Act classify risk categories for software systems?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Four tiers: Unacceptable risk (banned), High, Limited, and Minimal",
+          "Counting total parameters, banning any model exceeding 10B weights",
+          "By categorizing models based on whether they use Python or C++ runtime code"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 55/100\n\n🧠 AI Architecture Quiz: In 'AI Regulation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Regulation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Regulation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 The EU AI Act classifies AI by systemic impact: unacceptable systems (social scoring) are banned, high-risk systems face strict audits, and minimal risk systems are unregulated.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 56 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 55/100\n\nIn Day 55 on AI Regulation, how does the EU AI Act classify risk categories for software systems?\n\nA) Four tiers: Unacceptable risk (banned), High, Limited, and Minimal\nB) Counting total parameters, banning any model exceeding 10B weights\nC) By categorizing models based on whether they use Python or C++ runtime code\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 The EU AI Act classifies AI by systemic impact: unacceptable systems (social scoring) are banned, high-risk systems face strict audits, and minimal risk systems are unregulated.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 56 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 55 / 100: AI Regulation — (Day 55/100) Governments Are Racing to Control AI. Here's Why\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Regulation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 55 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1624,16 +1571,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep056_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Explainable AI', what is the core architectural principle?",
+        "question": "In Day 56 on Explainable AI, why is interpreting deep neural network decision paths challenging?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Billions of non-linear activations create distributed latent states",
+          "Developers deliberately obfuscate matrix weights behind proprietary DRM",
+          "Attention mechanisms completely erase intermediate token representations"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 56/100\n\n🧠 AI Architecture Quiz: In 'Explainable AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Explainable AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Explainable AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Knowledge in deep transformers is distributed across millions of overlapping polysemantic neurons and non-linear layers, making single-cause attribution difficult.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 57 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 56/100\n\nIn Day 56 on Explainable AI, why is interpreting deep neural network decision paths challenging?\n\nA) Billions of non-linear activations create distributed latent states\nB) Developers deliberately obfuscate matrix weights behind proprietary DRM\nC) Attention mechanisms completely erase intermediate token representations\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Knowledge in deep transformers is distributed across millions of overlapping polysemantic neurons and non-linear layers, making single-cause attribution difficult.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 57 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 56 / 100: Explainable AI — (Day 56/100) Why 'AI Said So' Isn't Good Enough Anymore\n\nDive into today's bite-sized AI architecture breakdown! We unpack Explainable AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 56 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1651,16 +1597,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep057_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Privacy', what is the core architectural principle?",
+        "question": "In Day 57 on AI Privacy, how does differential privacy protect individual records during training?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Injects calibrated noise to prevent extraction of specific rows",
+          "Deletes all punctuation marks and vowel characters from the training set",
+          "Encrypts training data with private keys that the neural network decrypts"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 57/100\n\n🧠 AI Architecture Quiz: In 'AI Privacy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Privacy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Privacy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Differential privacy adds bounded mathematical noise during gradient descent, ensuring the inclusion of any individual record cannot be reverse-engineered.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 58 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 57/100\n\nIn Day 57 on AI Privacy, how does differential privacy protect individual records during training?\n\nA) Injects calibrated noise to prevent extraction of specific rows\nB) Deletes all punctuation marks and vowel characters from the training set\nC) Encrypts training data with private keys that the neural network decrypts\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Differential privacy adds bounded mathematical noise during gradient descent, ensuring the inclusion of any individual record cannot be reverse-engineered.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 58 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 57 / 100: AI Privacy — (Day 57/100) Is Your Data Training the Next AI Model?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Privacy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 57 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1678,16 +1623,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep058_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Watermarking', what is the core architectural principle?",
+        "question": "In Day 58 on AI Watermarking, how does SynthID embed undetectable watermarks in generated media?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Alters probability of sub-perceptual tokens without quality loss",
+          "Burns visible semi-transparent logo overlays across the bottom of the video",
+          "Appends a static plain-text metadata tag at the end of the raw binary file"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 58/100\n\n🧠 AI Architecture Quiz: In 'AI Watermarking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Watermarking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Watermarking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Google DeepMind's SynthID modifies sub-perceptual generation distributions during sampling, leaving a persistent statistical signature detectable only by verification keys.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 59 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 58/100\n\nIn Day 58 on AI Watermarking, how does SynthID embed undetectable watermarks in generated media?\n\nA) Alters probability of sub-perceptual tokens without quality loss\nB) Burns visible semi-transparent logo overlays across the bottom of the video\nC) Appends a static plain-text metadata tag at the end of the raw binary file\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Google DeepMind's SynthID modifies sub-perceptual generation distributions during sampling, leaving a persistent statistical signature detectable only by verification keys.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 59 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 58 / 100: AI Watermarking — (Day 58/100) How We'll Tell AI Content From Real Content\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Watermarking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 58 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1705,16 +1649,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep059_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Model Cards', what is the core architectural principle?",
+        "question": "In Day 59 on Model Cards, what is the primary industry function of an open Model Card?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Document architecture, intended use cases, datasets, and limitations",
+          "Serve as a commercial copyright license restricting competing companies",
+          "List personal telephone numbers of software engineering leads"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 59/100\n\n🧠 AI Architecture Quiz: In 'Model Cards', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Model Cards', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Model Cards', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Model cards provide standardized transparency, outlining intended use, benchmark evals, demographic performance variances, and known failure modes.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 60 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 59/100\n\nIn Day 59 on Model Cards, what is the primary industry function of an open Model Card?\n\nA) Document architecture, intended use cases, datasets, and limitations\nB) Serve as a commercial copyright license restricting competing companies\nC) List personal telephone numbers of software engineering leads\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Model cards provide standardized transparency, outlining intended use, benchmark evals, demographic performance variances, and known failure modes.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 60 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 59 / 100: Model Cards — (Day 59/100) The 'Nutrition Label' for AI Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Cards with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 59 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1732,16 +1675,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep060_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Responsible AI', what is the core architectural principle?",
+        "question": "In Day 60 on Responsible AI, what is the purpose of red-teaming frontier AI models before release?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Adversarial stress-testing to surface failure modes and jailbreaks",
+          "Measuring maximum hardware cooling efficiency in enterprise datacenters",
+          "Automating the marketing launch cycle to maximize social media impressions"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 60/100\n\n🧠 AI Architecture Quiz: In 'Responsible AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Responsible AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Responsible AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Red-teaming involves adversarial security experts attempting to jailbreak guardrails, trigger toxic outputs, or exploit model vulnerabilities before deployment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 61 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 60/100\n\nIn Day 60 on Responsible AI, what is the purpose of red-teaming frontier AI models before release?\n\nA) Adversarial stress-testing to surface failure modes and jailbreaks\nB) Measuring maximum hardware cooling efficiency in enterprise datacenters\nC) Automating the marketing launch cycle to maximize social media impressions\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Red-teaming involves adversarial security experts attempting to jailbreak guardrails, trigger toxic outputs, or exploit model vulnerabilities before deployment.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 61 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 60 / 100: Responsible AI — (Day 60/100) The Framework Every Company Building AI Needs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Responsible AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 60 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1759,16 +1701,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep061_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Copilots', what is the core architectural principle?",
+        "question": "In Day 61 on AI Copilots, what is the core pattern for building enterprise domain copilots?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "RAG integration combined with scoped role-based access control (RBAC)",
+          "Fine-tuning a monolithic foundation model on uncurated corporate databases",
+          "Replacing existing user interface software with a single raw terminal shell"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 61/100\n\n🧠 AI Architecture Quiz: In 'AI Copilots', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Copilots', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Copilots', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Enterprise copilots require grounded context retrieval constrained by user access tokens, ensuring employees only see information they are permitted to view.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 62 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 61/100\n\nIn Day 61 on AI Copilots, what is the core pattern for building enterprise domain copilots?\n\nA) RAG integration combined with scoped role-based access control (RBAC)\nB) Fine-tuning a monolithic foundation model on uncurated corporate databases\nC) Replacing existing user interface software with a single raw terminal shell\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Enterprise copilots require grounded context retrieval constrained by user access tokens, ensuring employees only see information they are permitted to view.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 62 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 61 / 100: AI Copilots — (Day 61/100) Why Every App Is Getting an AI Sidekick\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Copilots with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 61 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1786,16 +1727,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep062_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'No Code AI', what is the core architectural principle?",
+        "question": "In Day 62 on No Code AI, what is the architectural limitation of pure no-code AI builder tools?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Limited state management, opaque latency tracing, and vendor tool lock-in",
+          "Inability to connect to standard REST APIs or cloud database endpoints",
+          "Mathematical incompatibility with transformer attention mechanisms"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 62/100\n\n🧠 AI Architecture Quiz: In 'No Code AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'No Code AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'No Code AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 While rapid for prototypes, no-code platforms obscure error tracing, limit custom token optimization, and create vendor lock-in for complex enterprise flows.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 63 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 62/100\n\nIn Day 62 on No Code AI, what is the architectural limitation of pure no-code AI builder tools?\n\nA) Limited state management, opaque latency tracing, and vendor tool lock-in\nB) Inability to connect to standard REST APIs or cloud database endpoints\nC) Mathematical incompatibility with transformer attention mechanisms\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 While rapid for prototypes, no-code platforms obscure error tracing, limit custom token optimization, and create vendor lock-in for complex enterprise flows.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 63 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 62 / 100: No Code AI — (Day 62/100) Build an AI App Without Writing Code\n\nDive into today's bite-sized AI architecture breakdown! We unpack No Code AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 62 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1813,16 +1753,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep063_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Enterprise AI', what is the core architectural principle?",
+        "question": "In Day 63 on Enterprise AI, what is the key metric for measuring enterprise AI business value?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Deflection rate and cycle-time compression balanced against inference costs",
+          "Total number of raw prompt queries submitted by non-technical employees",
+          "The size in gigabytes of the fine-tuned checkpoint weights file on disk"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 63/100\n\n🧠 AI Architecture Quiz: In 'Enterprise AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Enterprise AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Enterprise AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Enterprise AI success is measured by high-quality automated ticket deflection, human-in-the-loop task acceleration, and maintaining positive unit economics.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 64 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 63/100\n\nIn Day 63 on Enterprise AI, what is the key metric for measuring enterprise AI business value?\n\nA) Deflection rate and cycle-time compression balanced against inference costs\nB) Total number of raw prompt queries submitted by non-technical employees\nC) The size in gigabytes of the fine-tuned checkpoint weights file on disk\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Enterprise AI success is measured by high-quality automated ticket deflection, human-in-the-loop task acceleration, and maintaining positive unit economics.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 64 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 63 / 100: Enterprise AI — (Day 63/100) Why Big Companies Are Slower to Use AI Than You Think\n\nDive into today's bite-sized AI architecture breakdown! We unpack Enterprise AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 63 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1840,16 +1779,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep064_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Automation', what is the core architectural principle?",
+        "question": "In Day 64 on AI Automation, how should automated workflows handle edge cases and high-risk decisions?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Implement human-in-the-loop escalation based on model confidence",
+          "Force the model to make its best guess regardless of certainty metrics",
+          "Silently drop failed transactions without notifying systems administrators"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 64/100\n\n🧠 AI Architecture Quiz: In 'AI Automation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Automation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Automation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Mission-critical architectures use confidence score thresholds, routing borderline or high-liability decisions to human specialists for verification.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 65 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 64/100\n\nIn Day 64 on AI Automation, how should automated workflows handle edge cases and high-risk decisions?\n\nA) Implement human-in-the-loop escalation based on model confidence\nB) Force the model to make its best guess regardless of certainty metrics\nC) Silently drop failed transactions without notifying systems administrators\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Mission-critical architectures use confidence score thresholds, routing borderline or high-liability decisions to human specialists for verification.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 65 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 64 / 100: AI Automation — (Day 64/100) AI Doing Your Repetitive Tasks While You Sleep\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Automation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 64 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1867,16 +1805,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep065_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Customer Support', what is the core architectural principle?",
+        "question": "In Day 65 on AI Customer Support, what prevents enterprise customer support bots from hallucinating terms?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Strict retrieval grounding with constraints and citation verification",
+          "Training the model to always answer yes to every incoming customer question",
+          "Disabling tokenization and streaming raw text files directly to the user"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 65/100\n\n🧠 AI Architecture Quiz: In 'AI Customer Support', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Customer Support', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Customer Support', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Support bots require deterministic knowledge grounding: answering strictly from verified policy documents and declining to speculate when answers are missing.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 66 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 65/100\n\nIn Day 65 on AI Customer Support, what prevents enterprise customer support bots from hallucinating terms?\n\nA) Strict retrieval grounding with constraints and citation verification\nB) Training the model to always answer yes to every incoming customer question\nC) Disabling tokenization and streaming raw text files directly to the user\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Support bots require deterministic knowledge grounding: answering strictly from verified policy documents and declining to speculate when answers are missing.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 66 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 65 / 100: AI Customer Support — (Day 65/100) Why That Chat Support Might Be AI, Not Human\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Customer Support with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 65 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1894,16 +1831,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep066_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Code Assistants', what is the core architectural principle?",
+        "question": "In Day 66 on AI Code Assistants, why do modern code assistants index repository AST syntax trees?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Understand class hierarchies, symbol references, and dependencies",
+          "Compress the entire codebase into a single 16-bit integer token stream",
+          "Permanently prevent developers from writing invalid syntax in their editors"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 66/100\n\n🧠 AI Architecture Quiz: In 'AI Code Assistants', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Code Assistants', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Code Assistants', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Abstract Syntax Trees (AST) allow code copilots to resolve exact variable types, function calls, and import chains across large multi-file repositories.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 67 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 66/100\n\nIn Day 66 on AI Code Assistants, why do modern code assistants index repository AST syntax trees?\n\nA) Understand class hierarchies, symbol references, and dependencies\nB) Compress the entire codebase into a single 16-bit integer token stream\nC) Permanently prevent developers from writing invalid syntax in their editors\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Abstract Syntax Trees (AST) allow code copilots to resolve exact variable types, function calls, and import chains across large multi-file repositories.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 67 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 66 / 100: AI Code Assistants — (Day 66/100) How AI Writes Half Your Code Now\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Code Assistants with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 66 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1921,16 +1857,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep067_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Governance', what is the core architectural principle?",
+        "question": "In Day 67 on AI Governance, what constitutes a robust enterprise AI governance framework?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Model registries, automated eval gates, telemetry, and compliance",
+          "A single legal document signed by developers promising not to misuse models",
+          "Blocking corporate internet access to external cloud providers"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 67/100\n\n🧠 AI Architecture Quiz: In 'AI Governance', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Governance', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Governance', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Enterprise governance requires end-to-end auditability: tracking model versions, data provenance, red-team benchmarks, and user data privacy enforcement.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 68 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 67/100\n\nIn Day 67 on AI Governance, what constitutes a robust enterprise AI governance framework?\n\nA) Model registries, automated eval gates, telemetry, and compliance\nB) A single legal document signed by developers promising not to misuse models\nC) Blocking corporate internet access to external cloud providers\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Enterprise governance requires end-to-end auditability: tracking model versions, data provenance, red-team benchmarks, and user data privacy enforcement.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 68 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 67 / 100: AI Governance — (Day 67/100) The Rulebook Companies Need Before Using AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Governance with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 67 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1948,16 +1883,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep068_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI ROI', what is the core architectural principle?",
+        "question": "In Day 68 on AI ROI, why do many generative AI proof-of-concepts fail to achieve positive ROI?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Unanticipated token inference costs, high latency, and lack of integration",
+          "Open-source models requiring millions of dollars in monthly license fees",
+          "Modern GPUs consuming more power than electrical grids can supply"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 68/100\n\n🧠 AI Architecture Quiz: In 'AI ROI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI ROI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI ROI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 POCs often neglect operational realities: recurring token costs, maintenance of vector DB pipelines, and friction when integrating into legacy enterprise tools.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 69 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 68/100\n\nIn Day 68 on AI ROI, why do many generative AI proof-of-concepts fail to achieve positive ROI?\n\nA) Unanticipated token inference costs, high latency, and lack of integration\nB) Open-source models requiring millions of dollars in monthly license fees\nC) Modern GPUs consuming more power than electrical grids can supply\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 POCs often neglect operational realities: recurring token costs, maintenance of vector DB pipelines, and friction when integrating into legacy enterprise tools.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 69 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 68 / 100: AI ROI — (Day 68/100) How Companies Know If AI Is Actually Worth It\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI ROI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 68 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -1975,16 +1909,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep069_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Change Management', what is the core architectural principle?",
+        "question": "In Day 69 on AI Change Management, what is the primary cultural barrier to organizational AI adoption?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Employee fear of obsolescence and lack of continuous workflow training",
+          "Hardware limitations preventing modern laptops from accessing web browsers",
+          "Enterprise databases being fundamentally unable to store textual records"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 69/100\n\n🧠 AI Architecture Quiz: In 'AI Change Management', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Change Management', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Change Management', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Technology is rarely the sole blocker; successful transformation requires reskilling employees, transparent communication, and redesigning roles around AI leverage.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 70 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 69/100\n\nIn Day 69 on AI Change Management, what is the primary cultural barrier to organizational AI adoption?\n\nA) Employee fear of obsolescence and lack of continuous workflow training\nB) Hardware limitations preventing modern laptops from accessing web browsers\nC) Enterprise databases being fundamentally unable to store textual records\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Technology is rarely the sole blocker; successful transformation requires reskilling employees, transparent communication, and redesigning roles around AI leverage.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 70 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 69 / 100: AI Change Management — (Day 69/100) Why AI Rollouts Fail Even With Great Tech\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Change Management with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 69 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2002,16 +1935,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep070_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Vendor Lock-in', what is the core architectural principle?",
+        "question": "In Day 70 on Vendor Lock-in, how can organizations protect against proprietary model vendor lock-in?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Abstract model calls behind standardized gateways (LiteLLM, MCP)",
+          "Rewrite every internal software application from scratch every six months",
+          "Never use any artificial intelligence tools or cloud computing services"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 70/100\n\n🧠 AI Architecture Quiz: In 'Vendor Lock-in', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Vendor Lock-in', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Vendor Lock-in', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Model abstraction gateways standardize API interfaces, allowing seamless routing and failover across OpenAI, Anthropic, Google, and open-source models.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 71 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 70/100\n\nIn Day 70 on Vendor Lock-in, how can organizations protect against proprietary model vendor lock-in?\n\nA) Abstract model calls behind standardized gateways (LiteLLM, MCP)\nB) Rewrite every internal software application from scratch every six months\nC) Never use any artificial intelligence tools or cloud computing services\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Model abstraction gateways standardize API interfaces, allowing seamless routing and failover across OpenAI, Anthropic, Google, and open-source models.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 71 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 70 / 100: Vendor Lock-in — (Day 70/100) The Hidden Cost of Betting on One AI Provider\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vendor Lock-in with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 70 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2029,16 +1961,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep071_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Fine-tuning', what is the core architectural principle?",
+        "question": "In Day 71 on Fine-tuning, when should you choose fine-tuning over Retrieval-Augmented Generation?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "To adapt model style, specialized syntax, or domain tone rather than facts",
+          "Whenever you need to add dynamic, frequently changing product catalogs",
+          "To reduce initial engineering setup time from weeks down to a few minutes"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 71/100\n\n🧠 AI Architecture Quiz: In 'Fine-tuning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Fine-tuning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Fine-tuning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 RAG is ideal for dynamic knowledge retrieval. Fine-tuning is used to instill specialized formatting, dialect, domain jargon, or classification patterns.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 72 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 71/100\n\nIn Day 71 on Fine-tuning, when should you choose fine-tuning over Retrieval-Augmented Generation?\n\nA) To adapt model style, specialized syntax, or domain tone rather than facts\nB) Whenever you need to add dynamic, frequently changing product catalogs\nC) To reduce initial engineering setup time from weeks down to a few minutes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 RAG is ideal for dynamic knowledge retrieval. Fine-tuning is used to instill specialized formatting, dialect, domain jargon, or classification patterns.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 72 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 71 / 100: Fine-tuning — (Day 71/100) Teaching AI YOUR Specific Knowledge & Tone\n\nDive into today's bite-sized AI architecture breakdown! We unpack Fine-tuning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 71 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2056,16 +1987,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep072_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'LoRA', what is the core architectural principle?",
+        "question": "In Day 72 on LoRA, why is Low-Rank Adaptation (LoRA) dramatically cheaper than full fine-tuning?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Freezes base weights and trains small low-rank adapter matrices",
+          "Deletes 90% of model layers to run training on low-power smartphone chips",
+          "Replaces neural backpropagation with simple linear regression calculations"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 72/100\n\n🧠 AI Architecture Quiz: In 'LoRA', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'LoRA', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'LoRA', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 LoRA decomposes weight updates into two small low-rank matrices (A and B), updating less than 1% of parameters while preserving the pre-trained foundation.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 73 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 72/100\n\nIn Day 72 on LoRA, why is Low-Rank Adaptation (LoRA) dramatically cheaper than full fine-tuning?\n\nA) Freezes base weights and trains small low-rank adapter matrices\nB) Deletes 90% of model layers to run training on low-power smartphone chips\nC) Replaces neural backpropagation with simple linear regression calculations\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 LoRA decomposes weight updates into two small low-rank matrices (A and B), updating less than 1% of parameters while preserving the pre-trained foundation.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 73 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 72 / 100: LoRA — (Day 72/100) Train AI on a Laptop With 1% of the Weights: LoRA\n\nDive into today's bite-sized AI architecture breakdown! We unpack LoRA with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 72 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2083,16 +2013,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep073_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Quantization', what is the core architectural principle?",
+        "question": "In Day 73 on Quantization, what is the trade-off when quantizing a model from FP16 to 4-bit INT4?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Dramatically reduced VRAM and faster inference with minimal loss",
+          "Increased memory consumption but higher numerical floating-point precision",
+          "Complete elimination of all attention mechanisms in favor of lookup tables"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 73/100\n\n🧠 AI Architecture Quiz: In 'Quantization', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Quantization', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Quantization', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Quantization compresses weights from 16-bit floats to 4-bit integers, cutting VRAM requirements by 70%+ so large models fit on consumer GPUs with negligible quality loss.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 74 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 73/100\n\nIn Day 73 on Quantization, what is the trade-off when quantizing a model from FP16 to 4-bit INT4?\n\nA) Dramatically reduced VRAM and faster inference with minimal loss\nB) Increased memory consumption but higher numerical floating-point precision\nC) Complete elimination of all attention mechanisms in favor of lookup tables\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Quantization compresses weights from 16-bit floats to 4-bit integers, cutting VRAM requirements by 70%+ so large models fit on consumer GPUs with negligible quality loss.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 74 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 73 / 100: Quantization — (Day 73/100) How to Shrink Giant AI Models to Phone Size: Quantization\n\nDive into today's bite-sized AI architecture breakdown! We unpack Quantization with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 73 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2110,16 +2039,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep074_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Mixture of Experts', what is the core architectural principle?",
+        "question": "In Day 74 on Mixture of Experts, how does a Mixture of Experts (MoE) model achieve high capacity with low compute?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "A router dynamically activates a subset of specialist experts per token",
+          "Every expert processes every single token simultaneously in parallel",
+          "Model merges all expert layers into a single small dense checkpoint"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 74/100\n\n🧠 AI Architecture Quiz: In 'Mixture of Experts', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Mixture of Experts', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Mixture of Experts', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 MoE architectures (like Mixtral or Grok) route each token to top-K experts, giving the model massive parameter capacity while computing only a fraction per forward pass.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 75 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 74/100\n\nIn Day 74 on Mixture of Experts, how does a Mixture of Experts (MoE) model achieve high capacity with low compute?\n\nA) A router dynamically activates a subset of specialist experts per token\nB) Every expert processes every single token simultaneously in parallel\nC) Model merges all expert layers into a single small dense checkpoint\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 MoE architectures (like Mixtral or Grok) route each token to top-K experts, giving the model massive parameter capacity while computing only a fraction per forward pass.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 75 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 74 / 100: Mixture of Experts — (Day 74/100) Why Modern AI Uses Multiple Mini-Brains: MoE\n\nDive into today's bite-sized AI architecture breakdown! We unpack Mixture of Experts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 74 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2137,16 +2065,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep075_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Knowledge Distillation', what is the core architectural principle?",
+        "question": "In Day 75 on Knowledge Distillation, how does a small student model learn from a large teacher model?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Trained to match soft probability distribution logits from teacher",
+          "Directly copies top 10% of GPU silicon cores from the teacher cluster",
+          "Compresses teacher weights into a zip archive and decompresses into memory"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 75/100\n\n🧠 AI Architecture Quiz: In 'Knowledge Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Knowledge Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Knowledge Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Distillation trains a lightweight student model to replicate the rich output probability distribution (dark knowledge) of a massive teacher, retaining high reasoning in a compact size.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 76 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 75/100\n\nIn Day 75 on Knowledge Distillation, how does a small student model learn from a large teacher model?\n\nA) Trained to match soft probability distribution logits from teacher\nB) Directly copies top 10% of GPU silicon cores from the teacher cluster\nC) Compresses teacher weights into a zip archive and decompresses into memory\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Distillation trains a lightweight student model to replicate the rich output probability distribution (dark knowledge) of a massive teacher, retaining high reasoning in a compact size.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 76 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 75 / 100: Knowledge Distillation — (Day 75/100) How Giant AI Models Teach Pocket SLMs: Distillation\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 75 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2164,16 +2091,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep076_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Scaling Laws', what is the core architectural principle?",
+        "question": "In Day 76 on Scaling Laws, what do Chinchilla scaling laws state regarding optimal compute allocation?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Model parameter count and token volume must scale in equal proportion",
+          "Model parameter size should always scale 10x faster than tokens",
+          "Compute should be allocated entirely to increasing attention layer count"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 76/100\n\n🧠 AI Architecture Quiz: In 'Scaling Laws', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Scaling Laws', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Scaling Laws', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 DeepMind's Chinchilla demonstrated that for compute-optimal training, parameter count and training token volume should double equally, proving earlier models were undertrained.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 77 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 76/100\n\nIn Day 76 on Scaling Laws, what do Chinchilla scaling laws state regarding optimal compute allocation?\n\nA) Model parameter count and token volume must scale in equal proportion\nB) Model parameter size should always scale 10x faster than tokens\nC) Compute should be allocated entirely to increasing attention layer count\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 DeepMind's Chinchilla demonstrated that for compute-optimal training, parameter count and training token volume should double equally, proving earlier models were undertrained.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 77 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 76 / 100: Scaling Laws — (Day 76/100) The Secret Equation That Predicts How Smart AI Gets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Scaling Laws with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 76 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2191,16 +2117,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep077_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Pretraining', what is the core architectural principle?",
+        "question": "In Day 77 on Pretraining, what objective function drives self-supervised pretraining for causal LLMs?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Autoregressive cross-entropy loss predicting the next token in a sequence",
+          "Supervised classification matching input sentences to human-assigned labels",
+          "Reinforcement learning maximizing engagement metrics on platforms"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 77/100\n\n🧠 AI Architecture Quiz: In 'Pretraining', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Pretraining', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Pretraining', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Causal language models are trained on massive text corpora via self-supervised next-token prediction, minimizing cross-entropy loss without human manual labels.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 78 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 77/100\n\nIn Day 77 on Pretraining, what objective function drives self-supervised pretraining for causal LLMs?\n\nA) Autoregressive cross-entropy loss predicting the next token in a sequence\nB) Supervised classification matching input sentences to human-assigned labels\nC) Reinforcement learning maximizing engagement metrics on platforms\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Causal language models are trained on massive text corpora via self-supervised next-token prediction, minimizing cross-entropy loss without human manual labels.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 78 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 77 / 100: Pretraining — (Day 77/100) The 2 Training Steps Every AI Goes Through\n\nDive into today's bite-sized AI architecture breakdown! We unpack Pretraining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 77 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2218,16 +2143,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep078_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Synthetic Data', what is the core architectural principle?",
+        "question": "In Day 78 on Synthetic Data, what danger arises from recursively training models purely on AI-generated text?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Model collapse: variance shrinks, causing degenerative hallucination loops",
+          "The GPU compiler memory corrupts due to synthetic token syntax formatting",
+          "Training speeds drop to zero because AI text lacks information entropy"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 78/100\n\n🧠 AI Architecture Quiz: In 'Synthetic Data', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Synthetic Data', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Synthetic Data', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Model collapse occurs when successive generations of models train on synthetic data without fresh human ground truth, eroding the tails of probability distributions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 79 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 78/100\n\nIn Day 78 on Synthetic Data, what danger arises from recursively training models purely on AI-generated text?\n\nA) Model collapse: variance shrinks, causing degenerative hallucination loops\nB) The GPU compiler memory corrupts due to synthetic token syntax formatting\nC) Training speeds drop to zero because AI text lacks information entropy\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Model collapse occurs when successive generations of models train on synthetic data without fresh human ground truth, eroding the tails of probability distributions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 79 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 78 / 100: Synthetic Data — (Day 78/100) Can AI Train AI Without Human Data? Synthetic Sets\n\nDive into today's bite-sized AI architecture breakdown! We unpack Synthetic Data with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 78 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2245,16 +2169,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep079_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Model Distillation', what is the core architectural principle?",
+        "question": "In Day 79 on Model Distillation, why are distilled reasoning models (like DeepSeek-R1-Distill) disruptive?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Pack frontier chain-of-thought reasoning into small consumer checkpoints",
+          "Require zero GPU compute and run directly on 1990s microcontrollers",
+          "Eliminate need for training data by generating answers from pure logic"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 79/100\n\n🧠 AI Architecture Quiz: In 'Model Distillation', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Model Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Model Distillation', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Distilling reasoning paths from large frontier reasoners into 7B or 14B models democratizes high-IQ problem-solving, making deep logic runnable on local laptops.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 80 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 79/100\n\nIn Day 79 on Model Distillation, why are distilled reasoning models (like DeepSeek-R1-Distill) disruptive?\n\nA) Pack frontier chain-of-thought reasoning into small consumer checkpoints\nB) Require zero GPU compute and run directly on 1990s microcontrollers\nC) Eliminate need for training data by generating answers from pure logic\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Distilling reasoning paths from large frontier reasoners into 7B or 14B models democratizes high-IQ problem-solving, making deep logic runnable on local laptops.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 80 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 79 / 100: Model Distillation — (Day 79/100) Cutting Token Bills by 90% With Distilled Models\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Distillation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 79 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2272,16 +2195,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep080_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Sparse Models', what is the core architectural principle?",
+        "question": "In Day 80 on Sparse Models, how does activation sparsity improve modern transformer efficiency?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Only a small fraction of neurons fire for any given token, saving FLOPs",
+          "Deletes zero-value weights permanently from the hard disk storage volume",
+          "Limits the dictionary vocabulary to only common everyday English words"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 80/100\n\n🧠 AI Architecture Quiz: In 'Sparse Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Sparse Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Sparse Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 By employing sparse activations (such as ReLU thresholding or MoE routing), only relevant pathways compute for each token, cutting power and computational cycles.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 81 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 80/100\n\nIn Day 80 on Sparse Models, how does activation sparsity improve modern transformer efficiency?\n\nA) Only a small fraction of neurons fire for any given token, saving FLOPs\nB) Deletes zero-value weights permanently from the hard disk storage volume\nC) Limits the dictionary vocabulary to only common everyday English words\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 By employing sparse activations (such as ReLU thresholding or MoE routing), only relevant pathways compute for each token, cutting power and computational cycles.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 81 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 80 / 100: Sparse Models — (Day 80/100) How Sparse Models Save Massive Computing Power\n\nDive into today's bite-sized AI architecture breakdown! We unpack Sparse Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 80 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2299,16 +2221,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep081_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AGI', what is the core architectural principle?",
+        "question": "In Day 81 on AGI, what is the consensus benchmark definition of Artificial General Intelligence?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Autonomous system outperforming humans across economically valuable work",
+          "Any program passing a 5-minute text-based Turing test",
+          "A robot physically capable of performing complex human household chores"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 81/100\n\n🧠 AI Architecture Quiz: In 'AGI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AGI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AGI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 AGI is widely defined by research institutions as highly autonomous software that surpasses human cognitive capabilities across the vast majority of economically valuable tasks.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 82 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 81/100\n\nIn Day 81 on AGI, what is the consensus benchmark definition of Artificial General Intelligence?\n\nA) Autonomous system outperforming humans across economically valuable work\nB) Any program passing a 5-minute text-based Turing test\nC) A robot physically capable of performing complex human household chores\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 AGI is widely defined by research institutions as highly autonomous software that surpasses human cognitive capabilities across the vast majority of economically valuable tasks.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 82 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 81 / 100: AGI — (Day 81/100) What Happens When AI Matches Human Intelligence?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AGI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 81 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2326,16 +2247,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep082_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Emergent Abilities', what is the core architectural principle?",
+        "question": "In Day 82 on Emergent Abilities, what characterizes an emergent ability in large foundation models?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Capabilities that appear suddenly at scale but are absent in smaller models",
+          "Features programmed directly by software engineers into model source code",
+          "Hardware improvements that allow graphics cards to run at higher voltages"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 82/100\n\n🧠 AI Architecture Quiz: In 'Emergent Abilities', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Emergent Abilities', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Emergent Abilities', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Emergent abilities are behaviors (like multi-step translation, arithmetic, or symbolic reasoning) that show near-zero accuracy until models reach critical parameter thresholds.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 83 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 82/100\n\nIn Day 82 on Emergent Abilities, what characterizes an emergent ability in large foundation models?\n\nA) Capabilities that appear suddenly at scale but are absent in smaller models\nB) Features programmed directly by software engineers into model source code\nC) Hardware improvements that allow graphics cards to run at higher voltages\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Emergent abilities are behaviors (like multi-step translation, arithmetic, or symbolic reasoning) that show near-zero accuracy until models reach critical parameter thresholds.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 83 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 82 / 100: Emergent Abilities — (Day 82/100) AI Skills That Just... Appear Out of Nowhere\n\nDive into today's bite-sized AI architecture breakdown! We unpack Emergent Abilities with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 82 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2353,16 +2273,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep083_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Frontier Models', what is the core architectural principle?",
+        "question": "In Day 83 on Frontier Models, what defines a frontier AI model in contemporary AI engineering?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "State-of-the-art models pushing compute boundaries beyond 10^26 FLOPs",
+          "Any open-source model available for download on public repositories",
+          "Software designed specifically for aerospace and space exploration"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 83/100\n\n🧠 AI Architecture Quiz: In 'Frontier Models', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Frontier Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Frontier Models', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Frontier models refer to leading-edge systems at the technological boundary, trained with unprecedented compute, multi-modal reasoning, and autonomous problem-solving capabilities.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 84 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 83/100\n\nIn Day 83 on Frontier Models, what defines a frontier AI model in contemporary AI engineering?\n\nA) State-of-the-art models pushing compute boundaries beyond 10^26 FLOPs\nB) Any open-source model available for download on public repositories\nC) Software designed specifically for aerospace and space exploration\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Frontier models refer to leading-edge systems at the technological boundary, trained with unprecedented compute, multi-modal reasoning, and autonomous problem-solving capabilities.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 84 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 83 / 100: Frontier Models — (Day 83/100) The 'Latest and Greatest' AI You Keep Hearing About\n\nDive into today's bite-sized AI architecture breakdown! We unpack Frontier Models with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 83 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2380,16 +2299,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep084_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Open Source AI', what is the core architectural principle?",
+        "question": "In Day 84 on Open Source AI, why is the rise of open-weight models (like LLaMA and DeepSeek) crucial?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Prevents monopoly control, ensures auditability, and lowers cost",
+          "Guarantees that models can never produce incorrect or hallucinated answers",
+          "Allows models to bypass physical laws of semiconductor power consumption"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 84/100\n\n🧠 AI Architecture Quiz: In 'Open Source AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Open Source AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Open Source AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Open-weight models democratize frontier capabilities, enabling private on-prem deployment, custom architecture modifications, and transparent safety audits.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 85 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 84/100\n\nIn Day 84 on Open Source AI, why is the rise of open-weight models (like LLaMA and DeepSeek) crucial?\n\nA) Prevents monopoly control, ensures auditability, and lowers cost\nB) Guarantees that models can never produce incorrect or hallucinated answers\nC) Allows models to bypass physical laws of semiconductor power consumption\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Open-weight models democratize frontier capabilities, enabling private on-prem deployment, custom architecture modifications, and transparent safety audits.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 85 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 84 / 100: Open Source AI — (Day 84/100) Should AI Models Be Free for Everyone to See?\n\nDive into today's bite-sized AI architecture breakdown! We unpack Open Source AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 84 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2407,16 +2325,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep085_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'On-device AI', what is the core architectural principle?",
+        "question": "In Day 85 on On-device AI, what hardware accelerator enables real-time LLM inference on modern laptops?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Neural Processing Units (NPUs) and unified high-bandwidth memory",
+          "Standard spinning mechanical hard drives with high-speed read/write heads",
+          "External cloud server arrays connected via 5G cellular wireless modems"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 85/100\n\n🧠 AI Architecture Quiz: In 'On-device AI', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'On-device AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'On-device AI', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Dedicated NPUs paired with high-bandwidth unified memory allow modern devices to run quantized models locally at 30+ tokens/second without draining battery.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 86 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 85/100\n\nIn Day 85 on On-device AI, what hardware accelerator enables real-time LLM inference on modern laptops?\n\nA) Neural Processing Units (NPUs) and unified high-bandwidth memory\nB) Standard spinning mechanical hard drives with high-speed read/write heads\nC) External cloud server arrays connected via 5G cellular wireless modems\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Dedicated NPUs paired with high-bandwidth unified memory allow modern devices to run quantized models locally at 30+ tokens/second without draining battery.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 86 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 85 / 100: On-device AI — (Day 85/100) Why Your Phone Might Not Need the Internet for AI Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack On-device AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 85 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2434,16 +2351,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep086_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Agents Economy', what is the core architectural principle?",
+        "question": "In Day 86 on AI Agents Economy, what infrastructure will power autonomous economic transactions between agents?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Cryptographic micropayments and programmatic API service contracts",
+          "Physical plastic credit cards handed between robotic mechanical actuators",
+          "Human accountants manually approving every single 10-cent API transaction"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 86/100\n\n🧠 AI Architecture Quiz: In 'AI Agents Economy', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Agents Economy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Agents Economy', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Autonomous agent economies will rely on programmatic micropayments, zero-knowledge identity proofs, and automated smart service contracts executing at machine speed.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 87 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 86/100\n\nIn Day 86 on AI Agents Economy, what infrastructure will power autonomous economic transactions between agents?\n\nA) Cryptographic micropayments and programmatic API service contracts\nB) Physical plastic credit cards handed between robotic mechanical actuators\nC) Human accountants manually approving every single 10-cent API transaction\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Autonomous agent economies will rely on programmatic micropayments, zero-knowledge identity proofs, and automated smart service contracts executing at machine speed.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 87 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 86 / 100: AI Agents Economy — (Day 86/100) Are AI Agents About to Get Their Own Jobs?\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents Economy with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 86 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2461,16 +2377,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep087_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Local LLMs', what is the core architectural principle?",
+        "question": "In Day 87 on Local LLMs, what open-source framework is the standard for running local models on desktop?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Ollama and llama.cpp compiling optimized GGUF quantization runtimes",
+          "Proprietary cloud containers streaming responses from remote datacenters",
+          "Raw text editors interpreting Python code scripts line-by-line in real time"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 87/100\n\n🧠 AI Architecture Quiz: In 'Local LLMs', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Local LLMs', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Local LLMs', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Ollama and llama.cpp leverage optimized C++ and Metal/CUDA kernels to run GGUF-quantized models effortlessly across consumer macOS, Windows, and Linux hardware.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 88 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 87/100\n\nIn Day 87 on Local LLMs, what open-source framework is the standard for running local models on desktop?\n\nA) Ollama and llama.cpp compiling optimized GGUF quantization runtimes\nB) Proprietary cloud containers streaming responses from remote datacenters\nC) Raw text editors interpreting Python code scripts line-by-line in real time\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Ollama and llama.cpp leverage optimized C++ and Metal/CUDA kernels to run GGUF-quantized models effortlessly across consumer macOS, Windows, and Linux hardware.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 88 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 87 / 100: Local LLMs — (Day 87/100) Run a Full AI Model Without the Internet\n\nDive into today's bite-sized AI architecture breakdown! We unpack Local LLMs with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 87 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2488,16 +2403,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep088_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'Context Caching', what is the core architectural principle?",
+        "question": "In Day 88 on Context Caching, how does prompt context caching slash enterprise API costs by up to 90%?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Reuses computed key-value (KV) attention states across prompt prefixes",
+          "Deletes previous user conversation history from memory after every turn",
+          "Translates prompts into compressed abbreviations before sending"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 88/100\n\n🧠 AI Architecture Quiz: In 'Context Caching', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'Context Caching', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'Context Caching', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 KV caching saves the computed attention matrices of long static documents (like system prompts or codebases), charging only discounted read prices on subsequent requests.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 89 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 88/100\n\nIn Day 88 on Context Caching, how does prompt context caching slash enterprise API costs by up to 90%?\n\nA) Reuses computed key-value (KV) attention states across prompt prefixes\nB) Deletes previous user conversation history from memory after every turn\nC) Translates prompts into compressed abbreviations before sending\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 KV caching saves the computed attention matrices of long static documents (like system prompts or codebases), charging only discounted read prices on subsequent requests.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 89 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 88 / 100: Context Caching — (Day 88/100) How AI Apps Got Cheaper AND Faster\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Caching with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 88 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2515,16 +2429,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep089_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'MCP', what is the core architectural principle?",
+        "question": "In Day 89 on MCP, how does Model Context Protocol protect servers from unauthorized tool calls?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Defines JSON-RPC schema contracts, permissions, and approved scopes",
+          "Encrypts all network cables with proprietary hardware scrambling devices",
+          "Requires human admins to manually type 'ALLOW' for each tool call"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 89/100\n\n🧠 AI Architecture Quiz: In 'MCP', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'MCP', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'MCP', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 MCP establishes structured client-server boundaries, requiring explicit user authorization for tool scopes, resource access, and external data mutations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 90 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 89/100\n\nIn Day 89 on MCP, how does Model Context Protocol protect servers from unauthorized tool calls?\n\nA) Defines JSON-RPC schema contracts, permissions, and approved scopes\nB) Encrypts all network cables with proprietary hardware scrambling devices\nC) Requires human admins to manually type 'ALLOW' for each tool call\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 MCP establishes structured client-server boundaries, requiring explicit user authorization for tool scopes, resource access, and external data mutations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 90 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 89 / 100: MCP — (Day 89/100) Why Every AI Company Is Suddenly Adopting ONE Standard\n\nDive into today's bite-sized AI architecture breakdown! We unpack MCP with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 89 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2542,16 +2455,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep090_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Model Names', what is the core architectural principle?",
+        "question": "In Day 90 on AI Model Names, what do model naming suffixes like 'Q4_K_M' or '70B-Instruct' denote?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Quantization scheme (4-bit) and parameter count with instruction tuning",
+          "The manufacturing batch serial number assigned during factory assembly",
+          "The pricing tier in dollars charged per one million processed output tokens"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 90/100\n\n🧠 AI Architecture Quiz: In 'AI Model Names', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Model Names', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Model Names', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Model designations codify architecture specs: parameter size ('70B'), training mode ('Instruct'), and numerical quantization format ('Q4_K_M' = 4-bit medium k-quant).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 91 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 90/100\n\nIn Day 90 on AI Model Names, what do model naming suffixes like 'Q4_K_M' or '70B-Instruct' denote?\n\nA) Quantization scheme (4-bit) and parameter count with instruction tuning\nB) The manufacturing batch serial number assigned during factory assembly\nC) The pricing tier in dollars charged per one million processed output tokens\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Model designations codify architecture specs: parameter size ('70B'), training mode ('Instruct'), and numerical quantization format ('Q4_K_M' = 4-bit medium k-quant).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 91 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 90 / 100: AI Model Names — (Day 90/100) Why AI Models Have Such Weird, Epic Names\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Model Names with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 90 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2569,16 +2481,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep091_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Skills', what is the core architectural principle?",
+        "question": "In Day 91 on AI Skills, what is the highest-leverage skill for modern software engineers in 2026?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Architecting multi-agent systems, writing evals, and prompt engineering",
+          "Memorizing raw assembly code syntax and manual pointer arithmetic",
+          "Typing boilerplate CRUD boilerplate code faster than generative AI models"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 91/100\n\n🧠 AI Architecture Quiz: In 'AI Skills', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Skills', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Skills', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 The frontier engineer's role shifts from manual syntax typing to system architecture: defining agent specifications, building automated evals, and designing cognitive loops.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 92 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 91/100\n\nIn Day 91 on AI Skills, what is the highest-leverage skill for modern software engineers in 2026?\n\nA) Architecting multi-agent systems, writing evals, and prompt engineering\nB) Memorizing raw assembly code syntax and manual pointer arithmetic\nC) Typing boilerplate CRUD boilerplate code faster than generative AI models\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 The frontier engineer's role shifts from manual syntax typing to system architecture: defining agent specifications, building automated evals, and designing cognitive loops.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 92 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 91 / 100: AI Skills — (Day 91/100) This Skill Could Be as Valuable as Coding Soon\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Skills with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 91 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2596,16 +2507,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep092_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Note Taking', what is the core architectural principle?",
+        "question": "In Day 92 on AI Note Taking, how do semantic vector notes outperform traditional keyword search systems?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Surface conceptual connections across notes without matching keywords",
+          "Automatically delete duplicate thoughts from notebooks every midnight",
+          "Format all written paragraphs into formal academic Latin prose style"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 92/100\n\n🧠 AI Architecture Quiz: In 'AI Note Taking', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Note Taking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Note Taking', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Vector-embedded personal knowledge graphs retrieve related ideas across disparate projects, revealing non-obvious connections between meetings, books, and code.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 93 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 92/100\n\nIn Day 92 on AI Note Taking, how do semantic vector notes outperform traditional keyword search systems?\n\nA) Surface conceptual connections across notes without matching keywords\nB) Automatically delete duplicate thoughts from notebooks every midnight\nC) Format all written paragraphs into formal academic Latin prose style\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Vector-embedded personal knowledge graphs retrieve related ideas across disparate projects, revealing non-obvious connections between meetings, books, and code.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 93 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 92 / 100: AI Note Taking — (Day 92/100) Turn Messy Notes Into Organized Summaries Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Note Taking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 92 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2623,16 +2533,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep093_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Coding', what is the core architectural principle?",
+        "question": "In Day 93 on AI Coding, what differentiates frontier coding tools (like Cursor or Claude Code)?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Full codebase indexing, terminal tool execution, and multi-file editing",
+          "Generating single-line code completions inside a single isolated text file",
+          "Compiling code directly without any operating system compiler"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 93/100\n\n🧠 AI Architecture Quiz: In 'AI Coding', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Coding', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Coding', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Modern coding agents navigate entire repositories, inspect git diffs, execute terminal tests, observe compiler errors, and iterate autonomously until builds pass.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 94 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 93/100\n\nIn Day 93 on AI Coding, what differentiates frontier coding tools (like Cursor or Claude Code)?\n\nA) Full codebase indexing, terminal tool execution, and multi-file editing\nB) Generating single-line code completions inside a single isolated text file\nC) Compiling code directly without any operating system compiler\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Modern coding agents navigate entire repositories, inspect git diffs, execute terminal tests, observe compiler errors, and iterate autonomously until builds pass.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 94 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 93 / 100: AI Coding — (Day 93/100) Write Code 10x Faster With This Workflow\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Coding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 93 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2650,16 +2559,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep094_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Email', what is the core architectural principle?",
+        "question": "In Day 94 on AI Email, how should automated AI triage prioritize high-stakes incoming messages?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Semantic categorization, urgency scoring, and drafting approved replies",
+          "Automatically replying to every email with a generic canned AI confirmation",
+          "Deleting any incoming email message that contains more than 100 characters"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 94/100\n\n🧠 AI Architecture Quiz: In 'AI Email', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Email', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Email', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Effective triage uses structured LLM classification to extract action items, score urgency against user priorities, and generate drafts for one-click human approval.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 95 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 94/100\n\nIn Day 94 on AI Email, how should automated AI triage prioritize high-stakes incoming messages?\n\nA) Semantic categorization, urgency scoring, and drafting approved replies\nB) Automatically replying to every email with a generic canned AI confirmation\nC) Deleting any incoming email message that contains more than 100 characters\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Effective triage uses structured LLM classification to extract action items, score urgency against user priorities, and generate drafts for one-click human approval.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 95 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 94 / 100: AI Email — (Day 94/100) Never Stare at a Blank Email Again\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Email with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 94 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2677,16 +2585,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep095_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Research', what is the core architectural principle?",
+        "question": "In Day 95 on AI Research, how do iterative deep-research agents synthesize comprehensive reports?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Recursively search, read pages, extract citations, and refine queries",
+          "Summarize only top single Wikipedia article returned for topic query",
+          "Generate 20-page papers from imagination without consulting web sources"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 95/100\n\n🧠 AI Architecture Quiz: In 'AI Research', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Research', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Research', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Deep research systems execute dozens of recursive search queries, reading source documents, cross-referencing claims, and compiling multi-page reports with verifiable citations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 96 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 95/100\n\nIn Day 95 on AI Research, how do iterative deep-research agents synthesize comprehensive reports?\n\nA) Recursively search, read pages, extract citations, and refine queries\nB) Summarize only top single Wikipedia article returned for topic query\nC) Generate 20-page papers from imagination without consulting web sources\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Deep research systems execute dozens of recursive search queries, reading source documents, cross-referencing claims, and compiling multi-page reports with verifiable citations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 96 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 95 / 100: AI Research — (Day 95/100) Turn Hours of Research Into Minutes\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Research with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 95 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2704,16 +2611,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep096_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Data Analysis', what is the core architectural principle?",
+        "question": "In Day 96 on AI Data Analysis, why is the Code Interpreter sandbox pattern the gold standard for data analysis?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "The LLM writes Python to execute precise mathematical math on verified data",
+          "The LLM guesses statistical formulas from imagination without running code",
+          "It replaces database SQL queries with fuzzy next-token prediction guesses"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 96/100\n\n🧠 AI Architecture Quiz: In 'AI Data Analysis', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Data Analysis', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Data Analysis', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 LLMs struggle with raw mental math. Code Interpreter allows models to write and run Python scripts (pandas, numpy), returning exact calculations and verified charts.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 97 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 96/100\n\nIn Day 96 on AI Data Analysis, why is the Code Interpreter sandbox pattern the gold standard for data analysis?\n\nA) The LLM writes Python to execute precise mathematical math on verified data\nB) The LLM guesses statistical formulas from imagination without running code\nC) It replaces database SQL queries with fuzzy next-token prediction guesses\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 LLMs struggle with raw mental math. Code Interpreter allows models to write and run Python scripts (pandas, numpy), returning exact calculations and verified charts.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 97 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 96 / 100: AI Data Analysis — (Day 96/100) Ask Your Spreadsheet Questions in Plain English\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Data Analysis with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 96 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2731,16 +2637,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep097_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Presentations', what is the core architectural principle?",
+        "question": "In Day 97 on AI Presentations, what is the best pattern for generating presentation slide decks with AI?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Generate clean structured Markdown/HTML slides, then render with Marp",
+          "Ask an image model to generate one giant image containing all slide text",
+          "Have LLM manually position each letter on screen using pixel coordinates"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 97/100\n\n🧠 AI Architecture Quiz: In 'AI Presentations', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Presentations', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Presentations', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Separating content from presentation via structured formats (like Marp Markdown or Reveal.js) guarantees readable typography, consistent layouts, and effortless editing.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 98 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 97/100\n\nIn Day 97 on AI Presentations, what is the best pattern for generating presentation slide decks with AI?\n\nA) Generate clean structured Markdown/HTML slides, then render with Marp\nB) Ask an image model to generate one giant image containing all slide text\nC) Have LLM manually position each letter on screen using pixel coordinates\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Separating content from presentation via structured formats (like Marp Markdown or Reveal.js) guarantees readable typography, consistent layouts, and effortless editing.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 98 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 97 / 100: AI Presentations — (Day 97/100) Turn a Rough Outline Into Full Slides\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Presentations with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 97 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2758,16 +2663,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep098_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Learning', what is the core architectural principle?",
+        "question": "In Day 98 on AI Learning, how can you use an LLM as an optimal personalized Socratic tutor?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Prompt it to question your assumptions and guide you step-by-step",
+          "Ask it to give you the direct answer immediately so you can copy and paste",
+          "Have it generate 1,000 pages of unformatted technical jargon to memorize"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 98/100\n\n🧠 AI Architecture Quiz: In 'AI Learning', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Learning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Learning', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Socratic prompting instructs the model to act as an encouraging professor: testing comprehension, offering hints, and challenging edge cases rather than spoon-feeding solutions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 99 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 98/100\n\nIn Day 98 on AI Learning, how can you use an LLM as an optimal personalized Socratic tutor?\n\nA) Prompt it to question your assumptions and guide you step-by-step\nB) Ask it to give you the direct answer immediately so you can copy and paste\nC) Have it generate 1,000 pages of unformatted technical jargon to memorize\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Socratic prompting instructs the model to act as an encouraging professor: testing comprehension, offering hints, and challenging edge cases rather than spoon-feeding solutions.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 99 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 98 / 100: AI Learning — (Day 98/100) Your Personal Tutor Is Now Available 24/7\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 98 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2785,16 +2689,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep099_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Productivity', what is the core architectural principle?",
+        "question": "In Day 99 on AI Productivity, what is the 'sandwich method' of human-AI collaborative productivity?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Human sets intent -> AI generates rough draft -> Human curates and refines",
+          "AI sets goals -> Human writes draft -> AI delivers presentation",
+          "Human works in morning and AI works exclusively in the evening"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 99/100\n\n🧠 AI Architecture Quiz: In 'AI Productivity', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Productivity', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Productivity', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 The sandwich workflow pairs human judgment for creative framing, AI speed for rapid first-draft synthesis, and human taste for final polish, ethics, and fact-checking.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 100 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 99/100\n\nIn Day 99 on AI Productivity, what is the 'sandwich method' of human-AI collaborative productivity?\n\nA) Human sets intent -> AI generates rough draft -> Human curates and refines\nB) AI sets goals -> Human writes draft -> AI delivers presentation\nC) Human works in morning and AI works exclusively in the evening\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 The sandwich workflow pairs human judgment for creative framing, AI speed for rapid first-draft synthesis, and human taste for final polish, ethics, and fact-checking.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 100 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 99 / 100: AI Productivity — (Day 99/100) 5 Tasks You're Still Doing Manually (Stop That)\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Productivity with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 99 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -2812,16 +2715,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": null,
       "cover_filename": "Sarav_AI_Shorts_Ep100_Cover.jpg",
       "poll": {
-        "question": "🧠 AI Architecture Quiz: In 'AI Tools', what is the core architectural principle?",
+        "question": "In Day 100 on AI Tools, what is the single most durable principle for staying ahead in the AI era?",
         "options": [
-          "Always prioritize zero-cost custom architecture over paid SaaS wrappers",
-          "Rely solely on default commercial web chatbots without optimization",
-          "Increase compute budget without measuring token consumption",
-          "Ignore memory boundaries and prompt constraints"
+          "Master foundational architectures; tools change, fundamentals endure",
+          "Switch your entire tech stack every week whenever a new tool launches",
+          "Refuse to adopt any new software until the industry completely stabilizes"
         ],
         "correct_index": 0,
-        "full_text": "🗳️ COMMUNITY POLL • Day 100/100\n\n🧠 AI Architecture Quiz: In 'AI Tools', what is the core architectural principle?\n\nA) Always prioritize zero-cost custom architecture over paid SaaS wrappers\nB) Rely solely on default commercial web chatbots without optimization\nC) Increase compute budget without measuring token consumption\nD) Ignore memory boundaries and prompt constraints\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on! In 'AI Tools', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk.",
-        "explanation": "Spot on! In 'AI Tools', mastering this architectural mechanic ensures high efficiency, minimal latency, and zero hallucination risk."
+        "explanation": "Spot on if you picked Option 1! 🎯 Frameworks, models, and wrapper apps churn constantly. Deep understanding of tokens, context windows, vector embeddings, and agentic loops remains permanently valuable.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 1 drops tomorrow at 6 PM! 🚀",
+        "full_text": "🗳️ COMMUNITY POLL • Day 100/100\n\nIn Day 100 on AI Tools, what is the single most durable principle for staying ahead in the AI era?\n\nA) Master foundational architectures; tools change, fundamentals endure\nB) Switch your entire tech stack every week whenever a new tool launches\nC) Refuse to adopt any new software until the industry completely stabilizes\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Frameworks, models, and wrapper apps churn constantly. Deep understanding of tokens, context windows, vector embeddings, and agentic loops remains permanently valuable.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 1 drops tomorrow at 6 PM! 🚀"
       },
       "status": "QUEUED",
       "whatsapp_post": "Day 100 / 100: AI Tools — (Day 100/100) Stop Using ONE AI for Everything\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Tools with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 100 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
@@ -10321,12 +10223,12 @@ window.PUBLISHING_CATALOG = {
       "concept": "Run Claude Code Unlimited Free (9Router)",
       "category": "Zero-Cost AI Architecture",
       "filename": "TREND_01_Run_Claude_Code_Unlimited_Free_9Router.mp4",
-      "title": "Run Claude Code With UNLIMITED Usage for Free - 9Router #shorts #ai",
+      "title": "Hit Claude’s Rate Limit? Never Pay $20 Again with 9Router #shorts #developer #tech",
       "description": "STOP PAYING FOR CLAUDE LIMITS\n\nStop paying for Claude Code rate limits. An open-source middleware called 9Router lets you run unlimited coding sessions completely free. It sits silently between Claude Code and free endpoints like Gemini 2.0 Flash, Kimi, and GLM. The second your Claude rate limit hits, 9Router automatically switches to the next free model without interrupting your terminal session or losing context. It works out of the box with Claude Code, Cursor, Google Antigravity, and OpenAI Codex. Zero subscription fees, zero downtime. Follow Sarav AI for daily enterprise blueprints. Grab the 9Router setup guide below.",
       "tags": "9Router, Claude Code, Free Claude Code, Cursor AI, Google Antigravity, AI Coding Agents, Gemini 2.0 Flash, Sarav x AI, Tech Radar",
       "pinned_comment": "👇 Have you hit Claude Code's rate limits yet? Comment 'ROUTER' if you want the setup guide!\n\nDrop your thoughts below 💬 I read and reply to every comment.\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend01.png",
-      "cover_filename": "Shorts_Cover_Trend01.png",
+      "cover_filename": "Shorts_Cover_Trend01_9Router.png",
       "status": "PUBLISHED",
       "youtube_id": "Nk2dD2AaCG0",
       "youtube_url": "https://www.youtube.com/shorts/Nk2dD2AaCG0"
@@ -10342,7 +10244,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "Google Antigravity, Claude Code, AI Subscriptions, Free AI Stack, Model Context Protocol, Open Source AI, Sarav x AI, Tech Radar",
       "pinned_comment": "👇 Stop burning $200/mo on AI wrappers! Comment 'BLUEPRINT' for the full open-source setup guide.\n\nDrop your tech stack below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend02.png",
-      "cover_filename": "Shorts_Cover_Trend02.png",
+      "cover_filename": "Shorts_Cover_Trend02_Free_Setup.png",
       "status": "READY 🚀"
     },
     {
@@ -10351,12 +10253,12 @@ window.PUBLISHING_CATALOG = {
       "concept": "Top 3 AI Coding Skills for Non-Designers",
       "category": "Zero-Cost AI Architecture",
       "filename": "TREND_03_Top_3_AI_Coding_Skills_Non_Designers.mp4",
-      "title": "Top 3 AI Skills for Non-Designers: Make AI Apps Look Human Designed #shorts #ai",
+      "title": "Make AI Apps Look 100% Human Designed! (3 Essential Skills) #shorts #ai #coding",
       "description": "KILL AI SLOP IN YOUR UI\n\nIf your AI-generated app looks like generic bootstrap from 2012, you're missing the top three skills that make interfaces look completely human-designed. First is the Taste skill. It strips away generic purple gradients and robotic borders, forcing Claude Code to use intentional typography and refined spacing. Second is the Emil Kowalski motion skill. It injects fluid spring physics and staggered layout animations instead of stiff robotic transitions. Third is the Impeccable standard. It mounts pre-audited accessible components so every button, modal, and card feels like a million-dollar SaaS product. Mount all three skills into Google Antigravity for free. Grab the setup blueprint below.",
       "tags": "Claude Code Skills, AI Web Design, Google Antigravity, Frontend AI, Emil Kowalski Motion, UI UX Design, Sarav x AI, Tech Radar",
       "pinned_comment": "👇 Tired of ugly AI bootstrap templates? Comment 'SKILLS' and I'll send you the Taste & Motion config files!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend03.png",
-      "cover_filename": "Shorts_Cover_Trend03.png",
+      "cover_filename": "Shorts_Cover_Trend03_Skills.png",
       "status": "PUBLISHED",
       "youtube_id": "jmD_9Muyrtk",
       "youtube_url": "https://www.youtube.com/shorts/jmD_9Muyrtk"
@@ -10372,7 +10274,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "Model Context Protocol, MCP Servers, Claude Code, Playwright MCP, Postgres MCP, GitHub MCP, Sarav x AI, Tech Radar",
       "pinned_comment": "👇 Which MCP server are you adding first? Comment 'MCP' for the complete plug-and-play config JSON!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend04.png",
-      "cover_filename": "Shorts_Cover_Trend04.png",
+      "cover_filename": "Shorts_Cover_Trend04_Gemini_Carbon_Hydrogen.png",
       "status": "PUBLISHED",
       "youtube_id": "4H__rUlX1DU",
       "youtube_url": "https://www.youtube.com/shorts/4H__rUlX1DU"
@@ -10388,7 +10290,7 @@ window.PUBLISHING_CATALOG = {
       "tags": "Autonomous AI, AI Workflows, Enterprise AI, Google Antigravity, Claude Code, 9Router, Sarav x AI, Tech Radar",
       "pinned_comment": "👇 Want to automate your development stack overnight? Comment 'AUTONOMOUS' for the architecture flow diagram!\n\nDrop your questions below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend05.png",
-      "cover_filename": "Shorts_Cover_Trend05.png",
+      "cover_filename": "Shorts_Cover_Trend05_Break_1K_Views_Wall.png",
       "status": "READY 🚀"
     },
     {
@@ -10409,18 +10311,18 @@ window.PUBLISHING_CATALOG = {
   "comic_tales": [
     {
       "episode": 1,
-      "day": "Episode 1",
+      "day": "Case 1",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "High Beam Blinder",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Blinding oncoming traffic on narrow city roads with high beams.",
       "human_complaint": "கடவுளே! குறுகலான தெருவுல கூட ஆப்போசிட்ல வர்றவன் கண்ணு போற மாதிரி ஹை-பீம் போட்டுட்டு வர்றானுங்களே... இவங்கள எல்லாம் என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவங்களுக்கு எல்லாம்... மேலோகத்துல ஒரு 10,000 வாட்ஸ் ஸ்பாட்லைட்டை மூஞ்சிலயே மாட்டிவிட்டு, ஒரு 50 வருஷத்துக்கு கண்ணை இமைக்கவே கூடாத தண்டனை கொடுக்கணும்பா!",
       "video_filename": "comic_tale_001_high_beam_blinder.mp4",
-      "title": "ஹை-பீம் போட்டு கண்ணை குருடாக்குற கும்பல்! 😂 | Karma Strikes: Ep. 1 #Shorts #TheLoop",
-      "description": "\"கடவுளே! குறுகலான தெருவுல கூட ஆப்போசிட்ல வர்றவன் கண்ணு போற மாதிரி ஹை-பீம் போட்டுட்டு வர்றானுங்களே... இவங்கள எல்லாம் என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு எல்லாம்... மேலோகத்துல ஒரு 10,000 வாட்ஸ் ஸ்பாட்லைட்டை மூஞ்சிலயே மாட்டிவிட்டு, ஒரு 50 வருஷத்துக்கு கண்ணை இமைக்கவே கூடாத தண்டனை கொடுக்கணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க ஏரியாவுலயும் இப்படி ஹை-பீம் போட்டு கண்ணை குருடாக்குற ஆட்கள் இருக்காங்களா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 1 | ஹை-பீம் போட்டு கண்ணை குருடாக்குற கும்பல்! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! குறுகலான தெருவுல கூட ஆப்போசிட்ல வர்றவன் கண்ணு போற மாதிரி ஹை-பீம் போட்டுட்டு வர்றானுங்களே... இவங்கள எல்லாம் என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு எல்லாம்... மேலோகத்துல ஒரு 10,000 வாட்ஸ் ஸ்பாட்லைட்டை மூஞ்சிலயே மாட்டிவிட்டு, ஒரு 50 வருஷத்துக்கு கண்ணை இமைக்கவே கூடாத தண்டனை கொடுக்கணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க ஏரியாவுலயும் இப்படி ஹை-பீம் போட்டு கண்ணை குருடாக்குற ஆட்கள் இருக்காங்களா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_001.jpg",
       "status": "PUBLISHED",
@@ -10428,22 +10330,23 @@ window.PUBLISHING_CATALOG = {
       "youtube_id": "4bycWwVhuUs",
       "views": "262 views",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 1
     },
     {
       "episode": 2,
-      "day": "Episode 2",
+      "day": "Case 2",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Shoulder Phone Rider",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Riding bike with phone wedged between neck and shoulder while wobbling.",
       "human_complaint": "கடவுளே! ஹெல்மெட்டும் போடாம, கழுத்துக்கும் தோள்பட்டைக்கும் நடுவுல போன இடுக்கிட்டு தாறுமாறா வண்டி ஓட்டுறானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்களுக்கு... கழுத்து அப்படியே 90 டிகிரில நிரந்தரமா சுளுக்கி நிக்கணும்! காதுல 24 மணி நேரமும் கட் ஆகவே ஆகாத லோன் கஸ்டமர் கேர் வாய்ஸ் கால்கள அலற விடணும்!",
       "video_filename": "comic_tale_002_shoulder_phone_rider.mp4",
-      "title": "கழுத்தை சாச்சு வண்டில போன் பேசுறது! 😂 | Karma Strikes: Ep. 2 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஹெல்மெட்டும் போடாம, கழுத்துக்கும் தோள்பட்டைக்கும் நடுவுல போன இடுக்கிட்டு தாறுமாறா வண்டி ஓட்டுறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... கழுத்து அப்படியே 90 டிகிரில நிரந்தரமா சுளுக்கி நிக்கணும்! காதுல 24 மணி நேரமும் கட் ஆகவே ஆகாத லோன் கஸ்டமர் கேர் வாய்ஸ் கால்கள அலற விடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "நீங்களும் வண்டில போகும்போது இப்படி ஒரு பக்கமா சாஞ்சு போன் பேசுறவங்கள பாத்திருக்கீங்களா? 😂👇 கமெண்ட் பண்ணுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 2 | கழுத்தை சாச்சு வண்டில போன் பேசுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஹெல்மெட்டும் போடாம, கழுத்துக்கும் தோள்பட்டைக்கும் நடுவுல போன இடுக்கிட்டு தாறுமாறா வண்டி ஓட்டுறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... கழுத்து அப்படியே 90 டிகிரில நிரந்தரமா சுளுக்கி நிக்கணும்! காதுல 24 மணி நேரமும் கட் ஆகவே ஆகாத லோன் கஸ்டமர் கேர் வாய்ஸ் கால்கள அலற விடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "நீங்களும் வண்டில போகும்போது இப்படி ஒரு பக்கமா சாஞ்சு போன் பேசுறவங்கள பாத்திருக்கீங்களா? 😂👇 கமெண்ட் பண்ணுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_002.jpg",
       "cover_filename": "cover_comic_002.jpg",
       "status": "PUBLISHED",
@@ -10451,22 +10354,23 @@ window.PUBLISHING_CATALOG = {
       "youtube_url": "https://www.youtube.com/shorts/I8AwMvtTFrQ",
       "views": "393 views (and 98 views on V6)",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 2
     },
     {
       "episode": 3,
-      "day": "Episode 3",
+      "day": "Case 3",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Signal Avathara Horn Guy",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Honking 0.1s before green light.",
       "human_complaint": "கடவுளே! ரெட் சிக்னல் பச்சையா மாறுறதுக்கு அரை நொடி முன்னாடியே பின்னால இருந்து காது கிழிய ஹார்ன் அடிக்கிறானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்கள... காதுக்கு ரெண்டு பக்கமும் லாரி ஏர்-ஹார்னை கட்டி வச்சிட்டு, கடவுள் ஒரு சின்ன பட்டனை அமுக்கி விட்டுரணும்... பத்துப் பிறவிக்கு காதுல ரீங்காரம் கேட்டுட்டே இருக்கணும்!",
       "video_filename": "comic_tale_003_signal_avathara_horn_guy.mp4",
-      "title": "சிக்னல் விழும் முன்னாடியே அலறுற ஹார்ன்! 😂 | Karma Strikes: Ep. 3 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ரெட் சிக்னல் பச்சையா மாறுறதுக்கு அரை நொடி முன்னாடியே பின்னால இருந்து காது கிழிய ஹார்ன் அடிக்கிறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... காதுக்கு ரெண்டு பக்கமும் லாரி ஏர்-ஹார்னை கட்டி வச்சிட்டு, கடவுள் ஒரு சின்ன பட்டனை அமுக்கி விட்டுரணும்... பத்துப் பிறவிக்கு காதுல ரீங்காரம் கேட்டுட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "சிக்னல் விழும் முன்னாடியே காது கிழிய ஹார்ன் அடிக்கிறவங்களுக்கு உங்க ரியாக்ஷன் என்ன? 😂👇 சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 3 | Signal Red-ல இருக்கும்போதே Horn அடிக்கிற கும்பல்! 📢😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ரெட் சிக்னல் பச்சையா மாறுறதுக்கு அரை நொடி முன்னாடியே பின்னால இருந்து காது கிழிய ஹார்ன் அடிக்கிறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... காதுக்கு ரெண்டு பக்கமும் லாரி ஏர்-ஹார்னை கட்டி வச்சிட்டு, கடவுள் ஒரு சின்ன பட்டனை அமுக்கி விட்டுரணும்... பத்துப் பிறவிக்கு காதுல ரீங்காரம் கேட்டுட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "சிக்னல் விழும் முன்னாடியே காது கிழிய ஹார்ன் அடிக்கிறவங்களுக்கு உங்க ரியாக்ஷன் என்ன? 😂👇 சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_003.jpg",
       "cover_filename": "cover_comic_003.jpg",
       "status": "PUBLISHED",
@@ -10474,949 +10378,997 @@ window.PUBLISHING_CATALOG = {
       "youtube_url": "https://www.youtube.com/shorts/oXOk4GOh6Aw",
       "views": "218 views",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 3
     },
     {
       "episode": 4,
-      "day": "Episode 4",
+      "day": "Case 4",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Traffic Reels Addict",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Scrolling Instagram Reels while riding bike in bumper-to-bumper traffic.",
       "human_complaint": "கடவுளே! பம்பர்-டு-பம்பர் டிராபிக்ல கூட ஒரு கையில ரீல்ஸ் ஸ்க்ரோல் பண்ணிட்டு முன்னாடி போற வண்டி மேல முட்டுறானுங்களே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவங்களுக்கு... கண்ணை சுத்தி 360 டிகிரில ஒரே அற்பமான ரீல்ஸ் பாட்டு லூப்லயே ஓடணும்! ஸ்கிப் பட்டனும் இருக்காது, சார்ஜரும் கிடைக்காது!",
       "video_filename": "comic_tale_004_traffic_reels_addict.mp4",
-      "title": "டிராபிக் சிக்னல்ல ரீல்ஸ் ஸ்க்ரோல் பண்றது! 😂 | Karma Strikes: Ep. 4 #Shorts #TheLoop",
-      "description": "\"கடவுளே! பம்பர்-டு-பம்பர் டிராபிக்ல கூட ஒரு கையில ரீல்ஸ் ஸ்க்ரோல் பண்ணிட்டு முன்னாடி போற வண்டி மேல முட்டுறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... கண்ணை சுத்தி 360 டிகிரில ஒரே அற்பமான ரீல்ஸ் பாட்டு லூப்லயே ஓடணும்! ஸ்கிப் பட்டனும் இருக்காது, சார்ஜரும் கிடைக்காது!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "டிராபிக் சிக்னல்ல நின்னுகிட்டு ரீல்ஸ் பாக்குற ஆட்களை நீங்க பாத்திருக்கீங்களா? 😂👇 Tag that friend!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 4 | டிராபிக் சிக்னல்ல ரீல்ஸ் ஸ்க்ரோல் பண்றது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! பம்பர்-டு-பம்பர் டிராபிக்ல கூட ஒரு கையில ரீல்ஸ் ஸ்க்ரோல் பண்ணிட்டு முன்னாடி போற வண்டி மேல முட்டுறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... கண்ணை சுத்தி 360 டிகிரில ஒரே அற்பமான ரீல்ஸ் பாட்டு லூப்லயே ஓடணும்! ஸ்கிப் பட்டனும் இருக்காது, சார்ஜரும் கிடைக்காது!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "டிராபிக் சிக்னல்ல நின்னுகிட்டு ரீல்ஸ் பாக்குற ஆட்களை நீங்க பாத்திருக்கீங்களா? 😂👇 Tag that friend!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_004.jpg",
       "cover_filename": "cover_comic_004.jpg",
       "status": "READY 🚀",
       "note": "Master V6 Definitive Release delivered to Telegram @SaravMPBot",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 4
     },
     {
       "episode": 5,
-      "day": "Episode 5",
+      "day": "Case 5",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Wrong-Side Shortcuts",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Driving wrong side on one-way flyovers.",
       "human_complaint": "கடவுளே! ரெண்டே நிமிஷத்தை மிச்சப்படுத்த ஒன்-வே மேம்பாலத்துல எதிர் திசையில அசுர வேகத்துல புகுந்து உயிரை வாங்குறானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்கள... மேலோகத்துல ஒரு குறுகலான பாலத்துல இறக்கிவிட்டு, எதிர்ல இடைவிடாம நூறு மேலோக வாகனங்களை ஃபுல் ஸ்பீட்ல விட்டு மிரட்டணும்பா!",
       "video_filename": "comic_tale_005_wrong_side_shortcuts.mp4",
-      "title": "ஒன்-வே பாலத்துல ராங் ரூட்ல வர்றது! 😂 | Karma Strikes: Ep. 5 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ரெண்டே நிமிஷத்தை மிச்சப்படுத்த ஒன்-வே மேம்பாலத்துல எதிர் திசையில அசுர வேகத்துல புகுந்து உயிரை வாங்குறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... மேலோகத்துல ஒரு குறுகலான பாலத்துல இறக்கிவிட்டு, எதிர்ல இடைவிடாம நூறு மேலோக வாகனங்களை ஃபுல் ஸ்பீட்ல விட்டு மிரட்டணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "ஒன்-வே பாலத்துல எதிர் திசையில புகுந்து வர்றவங்களுக்கு மேலோக தண்டனை கரெக்டா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 5 | ஒன்-வே பாலத்துல ராங் ரூட்ல வர்றது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ரெண்டே நிமிஷத்தை மிச்சப்படுத்த ஒன்-வே மேம்பாலத்துல எதிர் திசையில அசுர வேகத்துல புகுந்து உயிரை வாங்குறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... மேலோகத்துல ஒரு குறுகலான பாலத்துல இறக்கிவிட்டு, எதிர்ல இடைவிடாம நூறு மேலோக வாகனங்களை ஃபுல் ஸ்பீட்ல விட்டு மிரட்டணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "ஒன்-வே பாலத்துல எதிர் திசையில புகுந்து வர்றவங்களுக்கு மேலோக தண்டனை கரெக்டா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_005.jpg",
       "cover_filename": "cover_comic_005.jpg",
       "status": "READY 🚀",
       "note": "Master V6 Definitive Release delivered to Telegram @SaravMPBot",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 5
     },
     {
       "episode": 6,
-      "day": "Episode 6",
+      "day": "Case 6",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Blocking the Free Left Turn",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Parking across free-left lane stopping everyone.",
       "human_complaint": "கடவுளே! ஃப்ரீ லெஃப்ட் திரும்புற வழியில காரை குறுக்க நிறுத்திட்டு, பின்னால நூறு வண்டி கெஞ்சினாலும் நகர மாட்டேங்குறானுங்களே... என்ன பண்றது?",
       "divine_verdict": "இவங்களுக்கு அவசரமா வெளிய போகும்போது, வாசல்ல ஒரு பெரிய கருங்கல்லை நட்டு வச்சிடணும்! 'நகர்த்திட்டே இரு, ஆனா கதவு திறக்காது'ன்னு எழுதி ஒட்டிரணும்!",
       "video_filename": "comic_tale_006_blocking_the_free_left_turn.mp4",
-      "title": "ஃப்ரீ லெஃப்ட் வழியில காரை குறுக்க நிறுத்துறது! 😂 | Karma Strikes: Ep. 6 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஃப்ரீ லெஃப்ட் திரும்புற வழியில காரை குறுக்க நிறுத்திட்டு, பின்னால நூறு வண்டி கெஞ்சினாலும் நகர மாட்டேங்குறானுங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு அவசரமா வெளிய போகும்போது, வாசல்ல ஒரு பெரிய கருங்கல்லை நட்டு வச்சிடணும்! 'நகர்த்திட்டே இரு, ஆனா கதவு திறக்காது'ன்னு எழுதி ஒட்டிரணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 6 | ஃப்ரீ லெஃப்ட் வழியில காரை குறுக்க நிறுத்துறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஃப்ரீ லெஃப்ட் திரும்புற வழியில காரை குறுக்க நிறுத்திட்டு, பின்னால நூறு வண்டி கெஞ்சினாலும் நகர மாட்டேங்குறானுங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு அவசரமா வெளிய போகும்போது, வாசல்ல ஒரு பெரிய கருங்கல்லை நட்டு வச்சிடணும்! 'நகர்த்திட்டே இரு, ஆனா கதவு திறக்காது'ன்னு எழுதி ஒட்டிரணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_006.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 6
     },
     {
       "episode": 7,
-      "day": "Episode 7",
+      "day": "Case 7",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Triple Riding Speedster",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Triple riding recklessly in market lanes.",
       "human_complaint": "கடவுளே! ஒரே பைக்ல மூணு பேரா ஏறி, ஹெல்மெட்டும் இல்லாம மார்க்கெட் தெருவுல மக்களை அலற வச்சிட்டு போறாங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்கள... மூணு பேரையும் ஒரே முள்ளு நாற்காலில கட்டிப்போட்டு, 100 கிமீ வேகத்துல தலைகீழா சுத்துற ரோலர் கோஸ்டர்ல காலாகாலத்துக்கும் சுத்த விடணும்!",
       "video_filename": "comic_tale_007_triple_riding_speedster.mp4",
-      "title": "சந்து பொந்துல ட்ரிபிள்ஸ் பறக்குறது! 😂 | Karma Strikes: Ep. 7 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஒரே பைக்ல மூணு பேரா ஏறி, ஹெல்மெட்டும் இல்லாம மார்க்கெட் தெருவுல மக்களை அலற வச்சிட்டு போறாங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... மூணு பேரையும் ஒரே முள்ளு நாற்காலில கட்டிப்போட்டு, 100 கிமீ வேகத்துல தலைகீழா சுத்துற ரோலர் கோஸ்டர்ல காலாகாலத்துக்கும் சுத்த விடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 7 | சந்து பொந்துல ட்ரிபிள்ஸ் பறக்குறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஒரே பைக்ல மூணு பேரா ஏறி, ஹெல்மெட்டும் இல்லாம மார்க்கெட் தெருவுல மக்களை அலற வச்சிட்டு போறாங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... மூணு பேரையும் ஒரே முள்ளு நாற்காலில கட்டிப்போட்டு, 100 கிமீ வேகத்துல தலைகீழா சுத்துற ரோலர் கோஸ்டர்ல காலாகாலத்துக்கும் சுத்த விடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_007.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 7
     },
     {
       "episode": 8,
-      "day": "Episode 8",
+      "day": "Case 8",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Pavement Rider",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Riding on pedestrian sidewalks.",
       "human_complaint": "கடவுளே! ரோடு டிராபிக்னு நடைபாதையில பைக்கை ஏத்திட்டு, நடந்து போற பெரியவங்களையே 'விலகி போ'ன்னு ஹார்ன் அடிச்சு மிரட்டுறானுங்களே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவங்களுக்கு... பைக் சாவியை பிடுங்கிட்டு, முள்ளு நிறைஞ்ச குறுகிய சந்துல முட்டி போட்டு மட்டுமே ஊர்ந்து போகிற ரூல்ஸ் போடணும்பா!",
       "video_filename": "comic_tale_008_pavement_rider.mp4",
-      "title": "இன்டிகேட்டர் ஒன்னு... திரும்புறது இன்னொன்னு! 😂 | Karma Strikes: Ep. 8 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ரோடு டிராபிக்னு நடைபாதையில பைக்கை ஏத்திட்டு, நடந்து போற பெரியவங்களையே 'விலகி போ'ன்னு ஹார்ன் அடிச்சு மிரட்டுறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... பைக் சாவியை பிடுங்கிட்டு, முள்ளு நிறைஞ்ச குறுகிய சந்துல முட்டி போட்டு மட்டுமே ஊர்ந்து போகிற ரூல்ஸ் போடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 8 | இன்டிகேட்டர் ஒன்னு... திரும்புறது இன்னொன்னு! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ரோடு டிராபிக்னு நடைபாதையில பைக்கை ஏத்திட்டு, நடந்து போற பெரியவங்களையே 'விலகி போ'ன்னு ஹார்ன் அடிச்சு மிரட்டுறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... பைக் சாவியை பிடுங்கிட்டு, முள்ளு நிறைஞ்ச குறுகிய சந்துல முட்டி போட்டு மட்டுமே ஊர்ந்து போகிற ரூல்ஸ் போடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_008.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 8
     },
     {
       "episode": 9,
-      "day": "Episode 9",
+      "day": "Case 9",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Double Parking Gate Blocker",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Parking in front of house gates and disappearing.",
       "human_complaint": "கடவுளே! மத்தவங்க வீட்டு வாசல்ல 'நோ பார்க்கிங்' போர்டு மேலயே காரை நிறுத்தி, ஹேண்ட்பிரேக் போட்டு போனை ஆஃப் பண்ணிட்டு போறானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவருக்கு அவசரமா ஒண்ணுக்கு போகும்போது, பாத்ரூம் கதவுக்கு முன்னாடி நூறு துருப்பிடிச்ச கார்களை அடுக்க வச்சு, சாவிய பூமிக்கு அடியில புதைச்சிடணும்!",
       "video_filename": "comic_tale_009_double_parking_gate_blocker.mp4",
-      "title": "ரோட்டோட நடுவுலயே வண்டிய நிறுத்தி அரட்டை! 😂 | Karma Strikes: Ep. 9 #Shorts #TheLoop",
-      "description": "\"கடவுளே! மத்தவங்க வீட்டு வாசல்ல 'நோ பார்க்கிங்' போர்டு மேலயே காரை நிறுத்தி, ஹேண்ட்பிரேக் போட்டு போனை ஆஃப் பண்ணிட்டு போறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு அவசரமா ஒண்ணுக்கு போகும்போது, பாத்ரூம் கதவுக்கு முன்னாடி நூறு துருப்பிடிச்ச கார்களை அடுக்க வச்சு, சாவிய பூமிக்கு அடியில புதைச்சிடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 9 | ரோட்டோட நடுவுலயே வண்டிய நிறுத்தி அரட்டை! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! மத்தவங்க வீட்டு வாசல்ல 'நோ பார்க்கிங்' போர்டு மேலயே காரை நிறுத்தி, ஹேண்ட்பிரேக் போட்டு போனை ஆஃப் பண்ணிட்டு போறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு அவசரமா ஒண்ணுக்கு போகும்போது, பாத்ரூம் கதவுக்கு முன்னாடி நூறு துருப்பிடிச்ச கார்களை அடுக்க வச்சு, சாவிய பூமிக்கு அடியில புதைச்சிடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_009.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 9
     },
     {
       "episode": 10,
-      "day": "Episode 10",
+      "day": "Case 10",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Muddy Water Splasher",
-      "category": "போக்குவரத்து & சாலை ஒழுங்கு",
+      "category": "Karma Court ⚖️",
       "situation": "Splashing muddy rainwater on school children.",
       "human_complaint": "கடவுளே! மழைத்தண்ணி தேங்கி நிக்கிற குட்டையில காரை வேகமா விட்டு, ஸ்கூல் பசங்க மேல சேற்றை வாரி தெளிச்சுட்டு சிரிக்கிறானுங்களே... என்ன பண்றது?",
       "divine_verdict": "இவங்களுக்கு புதுசா பளபளன்னு வெள்ளுடை மாட்டிவிட்டு, தலைக்கு மேல இருந்து 24 மணி நேரமும் சேற்று அருவியை சொட்ட சொட்ட கொட்ட வச்சிடணும்!",
       "video_filename": "comic_tale_010_muddy_water_splasher.mp4",
-      "title": "சைலன்சரை கழட்டிட்டு ஊரையே அலற விடுறது! 😂 | Karma Strikes: Ep. 10 #Shorts #TheLoop",
-      "description": "\"கடவுளே! மழைத்தண்ணி தேங்கி நிக்கிற குட்டையில காரை வேகமா விட்டு, ஸ்கூல் பசங்க மேல சேற்றை வாரி தெளிச்சுட்டு சிரிக்கிறானுங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு புதுசா பளபளன்னு வெள்ளுடை மாட்டிவிட்டு, தலைக்கு மேல இருந்து 24 மணி நேரமும் சேற்று அருவியை சொட்ட சொட்ட கொட்ட வச்சிடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 10 | சைலன்சரை கழட்டிட்டு ஊரையே அலற விடுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! மழைத்தண்ணி தேங்கி நிக்கிற குட்டையில காரை வேகமா விட்டு, ஸ்கூல் பசங்க மேல சேற்றை வாரி தெளிச்சுட்டு சிரிக்கிறானுங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு புதுசா பளபளன்னு வெள்ளுடை மாட்டிவிட்டு, தலைக்கு மேல இருந்து 24 மணி நேரமும் சேற்று அருவியை சொட்ட சொட்ட கொட்ட வச்சிடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_010.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 10
     },
     {
       "episode": 11,
-      "day": "Episode 11",
+      "day": "Case 11",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "River and Lake Polluter",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Dumping trash into sacred rivers from bridges.",
       "human_complaint": "கடவுளே! பாலத்து மேல இருந்து ஆத்தோரத்துலயும் குளத்துலயும் மூட்டை மூட்டையா பிளாஸ்டிக் குப்பையை தூக்கி வீசுறானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்கள... நாற்றமடிக்குற கழிவுநீர் ஆத்துல இறக்கிவிட்டு, 'ஒவ்வொரு கவரா கையாலயே அள்ளி அள்ளி கரை சேர்க்கணும், ஒரு பிளாஸ்டிக் பாக்கி இருந்தாலும் மேல வர முடியாது'ன்னு சொல்லிப்புடணும்!",
       "video_filename": "comic_tale_011_river_and_lake_polluter.mp4",
-      "title": "மொபைல் போன்ல 5 நிமிஷத்துக்கு ஒருமுறை ஸ்க்ரோல்! 😂 | Karma Strikes: Ep. 11 #Shorts #TheLoop",
-      "description": "\"கடவுளே! பாலத்து மேல இருந்து ஆத்தோரத்துலயும் குளத்துலயும் மூட்டை மூட்டையா பிளாஸ்டிக் குப்பையை தூக்கி வீசுறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... நாற்றமடிக்குற கழிவுநீர் ஆத்துல இறக்கிவிட்டு, 'ஒவ்வொரு கவரா கையாலயே அள்ளி அள்ளி கரை சேர்க்கணும், ஒரு பிளாஸ்டிக் பாக்கி இருந்தாலும் மேல வர முடியாது'ன்னு சொல்லிப்புடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 11 | மொபைல் போன்ல 5 நிமிஷத்துக்கு ஒருமுறை ஸ்க்ரோல்! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! பாலத்து மேல இருந்து ஆத்தோரத்துலயும் குளத்துலயும் மூட்டை மூட்டையா பிளாஸ்டிக் குப்பையை தூக்கி வீசுறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... நாற்றமடிக்குற கழிவுநீர் ஆத்துல இறக்கிவிட்டு, 'ஒவ்வொரு கவரா கையாலயே அள்ளி அள்ளி கரை சேர்க்கணும், ஒரு பிளாஸ்டிக் பாக்கி இருந்தாலும் மேல வர முடியாது'ன்னு சொல்லிப்புடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_011.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 11
     },
     {
       "episode": 12,
-      "day": "Episode 12",
+      "day": "Case 12",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Queue Jumper",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Sneaking into ticket counters pretending to ask a doubt.",
       "human_complaint": "கடவுளே! வரிசையில ஐம்பது பேர் நிக்கும்போது, 'சும்மா ஒரு டவுட் கேட்கிறேன்'னு நைசா நடுவுல புகுந்து டிக்கெட் வாங்குறானுங்களே... இவங்கள என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவங்கள... மேலோகத்துல ஒரு நீண்ட வரிசையில கடைசி ஆளா நிக்க வச்சிடணும்! ஆனா அந்த வரிசை யுகம் மாறினாலும் ஒரு மில்லிமீட்டர் கூட முன்னாடி நகராது!",
       "video_filename": "comic_tale_012_queue_jumper.mp4",
-      "title": "வாட்ஸ்அப்ல விடியற்காலை பார்வர்டு மெசேஜ் தொல்லை! 😂 | Karma Strikes: Ep. 12 #Shorts #TheLoop",
-      "description": "\"கடவுளே! வரிசையில ஐம்பது பேர் நிக்கும்போது, 'சும்மா ஒரு டவுட் கேட்கிறேன்'னு நைசா நடுவுல புகுந்து டிக்கெட் வாங்குறானுங்களே... இவங்கள என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... மேலோகத்துல ஒரு நீண்ட வரிசையில கடைசி ஆளா நிக்க வச்சிடணும்! ஆனா அந்த வரிசை யுகம் மாறினாலும் ஒரு மில்லிமீட்டர் கூட முன்னாடி நகராது!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 12 | வாட்ஸ்அப்ல விடியற்காலை பார்வர்டு மெசேஜ் தொல்லை! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! வரிசையில ஐம்பது பேர் நிக்கும்போது, 'சும்மா ஒரு டவுட் கேட்கிறேன்'னு நைசா நடுவுல புகுந்து டிக்கெட் வாங்குறானுங்களே... இவங்கள என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... மேலோகத்துல ஒரு நீண்ட வரிசையில கடைசி ஆளா நிக்க வச்சிடணும்! ஆனா அந்த வரிசை யுகம் மாறினாலும் ஒரு மில்லிமீட்டர் கூட முன்னாடி நகராது!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_012.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 12
     },
     {
       "episode": 13,
-      "day": "Episode 13",
+      "day": "Case 13",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Chewing and Spitting Artist",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Spitting betel paan all over clean white stairs.",
       "human_complaint": "கடவுளே! வெள்ளையடிச்ச புது சுவர்லயும் படிக்கட்டு மூலைலயும் பான் பராக் எச்சிலை சிகப்பா துப்பி டிசைன் பண்றானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்களுக்கு... ஆயிரம் சதுர அடி ரத்தக்கறை படிஞ்ச வெள்ளைச் சுவரை தன் சொந்த நாக்காலயே நக்கி நக்கி வெள்ளையாக்குற வரைக்கும் விடக்கூடாது!",
       "video_filename": "comic_tale_013_chewing_and_spitting_artist.mp4",
-      "title": "பப்ளிக்ல ஸ்பீக்கர் போட்டு ரீல்ஸ் பாக்குறது! 😂 | Karma Strikes: Ep. 13 #Shorts #TheLoop",
-      "description": "\"கடவுளே! வெள்ளையடிச்ச புது சுவர்லயும் படிக்கட்டு மூலைலயும் பான் பராக் எச்சிலை சிகப்பா துப்பி டிசைன் பண்றானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... ஆயிரம் சதுர அடி ரத்தக்கறை படிஞ்ச வெள்ளைச் சுவரை தன் சொந்த நாக்காலயே நக்கி நக்கி வெள்ளையாக்குற வரைக்கும் விடக்கூடாது!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 13 | பப்ளிக்ல ஸ்பீக்கர் போட்டு ரீல்ஸ் பாக்குறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! வெள்ளையடிச்ச புது சுவர்லயும் படிக்கட்டு மூலைலயும் பான் பராக் எச்சிலை சிகப்பா துப்பி டிசைன் பண்றானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... ஆயிரம் சதுர அடி ரத்தக்கறை படிஞ்ச வெள்ளைச் சுவரை தன் சொந்த நாக்காலயே நக்கி நக்கி வெள்ளையாக்குற வரைக்கும் விடக்கூடாது!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_013.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 13
     },
     {
       "episode": 14,
-      "day": "Episode 14",
+      "day": "Case 14",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Metro Loudspeaker Screamer",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Blasting videos on loudspeaker in metro trains.",
       "human_complaint": "கடவுளே! அமைதியான மெட்ரோ ரயிலுல இயர்போன் போடாம, ஃபுல் சவுண்ட்ல ரீல்ஸையும் வீட்டு சண்டையையும் ஊருக்கே கேட்க வைக்கிறாங்களே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவங்கள ஒரு கண்ணாடி ரூம்ல அடைச்சு, காதுக்குள்ள பத்து ரேடியோக்களை வெவ்வேறு எஃப்.எம்ல வச்சு அலற விட்டு 'மியூட் பண்ணவே முடியாது'ன்னு சாவியை தூக்கி போட்டுறணும்!",
       "video_filename": "comic_tale_014_metro_loudspeaker_screamer.mp4",
-      "title": "சாப்பாடு வந்ததும் சாப்பிடாம போட்டோ எடுக்குறது! 😂 | Karma Strikes: Ep. 14 #Shorts #TheLoop",
-      "description": "\"கடவுளே! அமைதியான மெட்ரோ ரயிலுல இயர்போன் போடாம, ஃபுல் சவுண்ட்ல ரீல்ஸையும் வீட்டு சண்டையையும் ஊருக்கே கேட்க வைக்கிறாங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள ஒரு கண்ணாடி ரூம்ல அடைச்சு, காதுக்குள்ள பத்து ரேடியோக்களை வெவ்வேறு எஃப்.எம்ல வச்சு அலற விட்டு 'மியூட் பண்ணவே முடியாது'ன்னு சாவியை தூக்கி போட்டுறணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 14 | சாப்பாடு வந்ததும் சாப்பிடாம போட்டோ எடுக்குறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! அமைதியான மெட்ரோ ரயிலுல இயர்போன் போடாம, ஃபுல் சவுண்ட்ல ரீல்ஸையும் வீட்டு சண்டையையும் ஊருக்கே கேட்க வைக்கிறாங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள ஒரு கண்ணாடி ரூம்ல அடைச்சு, காதுக்குள்ள பத்து ரேடியோக்களை வெவ்வேறு எஃப்.எம்ல வச்சு அலற விட்டு 'மியூட் பண்ணவே முடியாது'ன்னு சாவியை தூக்கி போட்டுறணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_014.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 14
     },
     {
       "episode": 15,
-      "day": "Episode 15",
+      "day": "Case 15",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Elevator Button Spammer",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Pressing all elevator floor buttons for fun.",
       "human_complaint": "கடவுளே! லிஃப்ட்ல ஏறி எல்லா ஃப்ளோர் பட்டனையும் அமுக்கிட்டு ஜாலியா எஸ்கேப் ஆகுறானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்கள... ஒவ்வொரு ஃப்ளோர்லயும் நின்னு நின்னு கதவு திறக்குற லிஃப்ட்ல மாட்டிவிடணும்! ஆனா இவங்க போக வேண்டிய தளம் மட்டும் பிறவி எடுத்தாலும் வரவே வராது!",
       "video_filename": "comic_tale_015_elevator_button_spammer.mp4",
-      "title": "மெசேஜை பாத்துட்டு ரிப்ளை பண்ணாம சீன் போடுறது! 😂 | Karma Strikes: Ep. 15 #Shorts #TheLoop",
-      "description": "\"கடவுளே! லிஃப்ட்ல ஏறி எல்லா ஃப்ளோர் பட்டனையும் அமுக்கிட்டு ஜாலியா எஸ்கேப் ஆகுறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... ஒவ்வொரு ஃப்ளோர்லயும் நின்னு நின்னு கதவு திறக்குற லிஃப்ட்ல மாட்டிவிடணும்! ஆனா இவங்க போக வேண்டிய தளம் மட்டும் பிறவி எடுத்தாலும் வரவே வராது!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 15 | மெசேஜை பாத்துட்டு ரிப்ளை பண்ணாம சீன் போடுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! லிஃப்ட்ல ஏறி எல்லா ஃப்ளோர் பட்டனையும் அமுக்கிட்டு ஜாலியா எஸ்கேப் ஆகுறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... ஒவ்வொரு ஃப்ளோர்லயும் நின்னு நின்னு கதவு திறக்குற லிஃப்ட்ல மாட்டிவிடணும்! ஆனா இவங்க போக வேண்டிய தளம் மட்டும் பிறவி எடுத்தாலும் வரவே வராது!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_015.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 15
     },
     {
       "episode": 16,
-      "day": "Episode 16",
+      "day": "Case 16",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Cinema Seat Kicker",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Kicking front seat backrest in theater.",
       "human_complaint": "கடவுளே! தியேட்டர்ல படம் ஓடும்போது முன்னாடி சீட்ல காலை நீட்டி சீட்டை உதைச்சிட்டே இருக்கானுங்களே... என்ன பண்றது?",
       "divine_verdict": "இவங்களுக்கு தியேட்டர்ல சீட் போட்டு, முகத்துக்கு ஒரு இன்ச் முன்னாடி நூறு ஜோடி அழுக்கு சாக்ஸ் கால்களை தொங்க விட்டு ஆட்டிக்கிட்டே இருக்கணும்!",
       "video_filename": "comic_tale_016_cinema_seat_kicker.mp4",
-      "title": "மொபைல் சார்ஜரை எடுத்துட்டு தராம எஸ்கேப்! 😂 | Karma Strikes: Ep. 16 #Shorts #TheLoop",
-      "description": "\"கடவுளே! தியேட்டர்ல படம் ஓடும்போது முன்னாடி சீட்ல காலை நீட்டி சீட்டை உதைச்சிட்டே இருக்கானுங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு தியேட்டர்ல சீட் போட்டு, முகத்துக்கு ஒரு இன்ச் முன்னாடி நூறு ஜோடி அழுக்கு சாக்ஸ் கால்களை தொங்க விட்டு ஆட்டிக்கிட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 16 | மொபைல் சார்ஜரை எடுத்துட்டு தராம எஸ்கேப்! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! தியேட்டர்ல படம் ஓடும்போது முன்னாடி சீட்ல காலை நீட்டி சீட்டை உதைச்சிட்டே இருக்கானுங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு தியேட்டர்ல சீட் போட்டு, முகத்துக்கு ஒரு இன்ச் முன்னாடி நூறு ஜோடி அழுக்கு சாக்ஸ் கால்களை தொங்க விட்டு ஆட்டிக்கிட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_016.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 16
     },
     {
       "episode": 17,
-      "day": "Episode 17",
+      "day": "Case 17",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Movie Spoiler Blabbermouth",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Shouting twists in intermission line.",
       "human_complaint": "கடவுளே! இன்டர்வெல்ல வெளிய வந்து, அடுத்த ஷோவுக்கு காத்துட்டு இருக்கிறவங்க முன்னாடி 'ஹீரோ தான் வில்லன்'னு சஸ்பென்ஸை கத்தி கெடுக்குறானுங்களே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவருக்குப் பிடிச்ச படம், வெப் சீரிஸ் எதுவா இருந்தாலும், பார்க்க ஆரம்பிக்கும் போதே ஒரு பூதம் வந்து க்ளைமாக்ஸை காதுல கத்தி சொல்லிவிட்டு போயிட்டே இருக்கணும்!",
       "video_filename": "comic_tale_017_movie_spoiler_blabbermouth.mp4",
-      "title": "தியேட்டர்ல படம் பார்க்கும்போது போன் டார்ச்சர்! 😂 | Karma Strikes: Ep. 17 #Shorts #TheLoop",
-      "description": "\"கடவுளே! இன்டர்வெல்ல வெளிய வந்து, அடுத்த ஷோவுக்கு காத்துட்டு இருக்கிறவங்க முன்னாடி 'ஹீரோ தான் வில்லன்'னு சஸ்பென்ஸை கத்தி கெடுக்குறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்குப் பிடிச்ச படம், வெப் சீரிஸ் எதுவா இருந்தாலும், பார்க்க ஆரம்பிக்கும் போதே ஒரு பூதம் வந்து க்ளைமாக்ஸை காதுல கத்தி சொல்லிவிட்டு போயிட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 17 | தியேட்டர்ல படம் பார்க்கும்போது போன் டார்ச்சர்! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! இன்டர்வெல்ல வெளிய வந்து, அடுத்த ஷோவுக்கு காத்துட்டு இருக்கிறவங்க முன்னாடி 'ஹீரோ தான் வில்லன்'னு சஸ்பென்ஸை கத்தி கெடுக்குறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்குப் பிடிச்ச படம், வெப் சீரிஸ் எதுவா இருந்தாலும், பார்க்க ஆரம்பிக்கும் போதே ஒரு பூதம் வந்து க்ளைமாக்ஸை காதுல கத்தி சொல்லிவிட்டு போயிட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_017.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 17
     },
     {
       "episode": 18,
-      "day": "Episode 18",
+      "day": "Case 18",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Public Urination Next to Wall",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Urinating on street walls despite deity tiles.",
       "human_complaint": "கடவுளே! சுவர்ல சாமி படமே ஒட்டியிருந்தாலும் போர்டை பார்த்துட்டே அங்கேயே போய் மூத்திரம் போறானுங்களே... இவங்கள என்ன பண்றது?",
       "divine_verdict": "இவங்கள... நகரவே முடியாதபடி சாக்கடை வெள்ளத்துல நிக்க வச்சு, தலைமேல சொட்டு சொட்டா சாக்கடை விழுந்துட்டே இருக்கிற மாதிரி ஒரு ஏற்பாடு பண்ணனும்பா!",
       "video_filename": "comic_tale_018_public_urination_next_to_wall.mp4",
-      "title": "குரூப்ல தேவையில்லாம ஆட்களை ஆட் பண்றது! 😂 | Karma Strikes: Ep. 18 #Shorts #TheLoop",
-      "description": "\"கடவுளே! சுவர்ல சாமி படமே ஒட்டியிருந்தாலும் போர்டை பார்த்துட்டே அங்கேயே போய் மூத்திரம் போறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... நகரவே முடியாதபடி சாக்கடை வெள்ளத்துல நிக்க வச்சு, தலைமேல சொட்டு சொட்டா சாக்கடை விழுந்துட்டே இருக்கிற மாதிரி ஒரு ஏற்பாடு பண்ணனும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 18 | குரூப்ல தேவையில்லாம ஆட்களை ஆட் பண்றது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! சுவர்ல சாமி படமே ஒட்டியிருந்தாலும் போர்டை பார்த்துட்டே அங்கேயே போய் மூத்திரம் போறானுங்களே... இவங்கள என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்கள... நகரவே முடியாதபடி சாக்கடை வெள்ளத்துல நிக்க வச்சு, தலைமேல சொட்டு சொட்டா சாக்கடை விழுந்துட்டே இருக்கிற மாதிரி ஒரு ஏற்பாடு பண்ணனும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_018.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 18
     },
     {
       "episode": 19,
-      "day": "Episode 19",
+      "day": "Case 19",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Pet Owner Poop Dodger",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Letting dog poop on neighbor doorsteps and walking away.",
       "human_complaint": "கடவுளே! நாயை வாக்கிங் கூட்டி வந்து அடுத்தவன் வீட்டு வாசல்லயே மலம் கழிக்க வச்சிட்டு ஒண்ணுமே தெரியாத மாதிரி நழுவுறாங்களே... என்ன பண்றது?",
       "divine_verdict": "இவங்க கால் வைக்கிற ஒவ்வொரு அடியிலயும் கண்ணுக்குத் தெரியாத நாய் மலம் தோன்றி மிதிபட்டு வழுக்கி விழணும்... அப்பிடி ஒரு வாக்கிங் டிராக் போடணும்!",
       "video_filename": "comic_tale_019_pet_owner_poop_dodger.mp4",
-      "title": "வீடியோ கால்ல மூஞ்சிய காட்டாம சீன்! 😂 | Karma Strikes: Ep. 19 #Shorts #TheLoop",
-      "description": "\"கடவுளே! நாயை வாக்கிங் கூட்டி வந்து அடுத்தவன் வீட்டு வாசல்லயே மலம் கழிக்க வச்சிட்டு ஒண்ணுமே தெரியாத மாதிரி நழுவுறாங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்க கால் வைக்கிற ஒவ்வொரு அடியிலயும் கண்ணுக்குத் தெரியாத நாய் மலம் தோன்றி மிதிபட்டு வழுக்கி விழணும்... அப்பிடி ஒரு வாக்கிங் டிராக் போடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 19 | வீடியோ கால்ல மூஞ்சிய காட்டாம சீன்! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! நாயை வாக்கிங் கூட்டி வந்து அடுத்தவன் வீட்டு வாசல்லயே மலம் கழிக்க வச்சிட்டு ஒண்ணுமே தெரியாத மாதிரி நழுவுறாங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்க கால் வைக்கிற ஒவ்வொரு அடியிலயும் கண்ணுக்குத் தெரியாத நாய் மலம் தோன்றி மிதிபட்டு வழுக்கி விழணும்... அப்பிடி ஒரு வாக்கிங் டிராக் போடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_019.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 19
     },
     {
       "episode": 20,
-      "day": "Episode 20",
+      "day": "Case 20",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Car Window Litterer",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல்",
+      "category": "Karma Court ⚖️",
       "situation": "Throwing empty bottles out of moving car windows.",
       "human_complaint": "கடவுளே! ஏசி காரோட கண்ணாடியை இறக்கி, காலி பாட்டிலையும் பிளாஸ்டிக் கவரையும் ரோட்டுல வீசி எறியும் பணக்கார திமிரை என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவங்க தூக்கி போட்ட ஒவ்வொரு பிளாஸ்டிக் பாட்டிலும் பத்தாயிரம் மடங்காகி, இவங்க பெட்ரூம் முழுக்க நிரம்பி மூச்சு முட்ட நசுக்கணும்!",
       "video_filename": "comic_tale_020_car_window_litterer.mp4",
-      "title": "போன் பேட்டரி 2% வச்சிட்டு ஊரெல்லாம் சுத்துறது! 😂 | Karma Strikes: Ep. 20 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஏசி காரோட கண்ணாடியை இறக்கி, காலி பாட்டிலையும் பிளாஸ்டிக் கவரையும் ரோட்டுல வீசி எறியும் பணக்கார திமிரை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்க தூக்கி போட்ட ஒவ்வொரு பிளாஸ்டிக் பாட்டிலும் பத்தாயிரம் மடங்காகி, இவங்க பெட்ரூம் முழுக்க நிரம்பி மூச்சு முட்ட நசுக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 20 | போன் பேட்டரி 2% வச்சிட்டு ஊரெல்லாம் சுத்துறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஏசி காரோட கண்ணாடியை இறக்கி, காலி பாட்டிலையும் பிளாஸ்டிக் கவரையும் ரோட்டுல வீசி எறியும் பணக்கார திமிரை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்க தூக்கி போட்ட ஒவ்வொரு பிளாஸ்டிக் பாட்டிலும் பத்தாயிரம் மடங்காகி, இவங்க பெட்ரூம் முழுக்க நிரம்பி மூச்சு முட்ட நசுக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_020.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 20
     },
     {
       "episode": 21,
-      "day": "Episode 21",
+      "day": "Case 21",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Credit Stealing Colleague",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Claiming ownership of team's hard work in front of leadership.",
       "human_complaint": "கடவுளே! பிராஜெக்ட்ல ஒரு வேலையும் செய்யாம, லீடர்ஷிப் மீட்டிங்ல மட்டும் முன்னாடி வந்து 'இது என்னோட யோசனை சார்'னு கிரெடிட் அடிக்கிற நரியை என்ன பண்றது?",
       "divine_verdict": "இவரு மேலோகத்துல என்ன நல்ல காரியம் செஞ்சாலும், பக்கத்துல நிக்கிற பொம்மைக்கு பாராட்டு கொடுத்து, இவருக்கு மட்டும் வாய் பேச முடியாத மியூட் மோட் ஆன் பண்ணிடணும்!",
       "video_filename": "comic_tale_021_credit_stealing_colleague.mp4",
-      "title": "மீட்டிங்ல மைக் ஆன் பண்ணிட்டு குறட்டை விடுறது! 😂 | Karma Strikes: Ep. 21 #Shorts #TheLoop",
-      "description": "\"கடவுளே! பிராஜெக்ட்ல ஒரு வேலையும் செய்யாம, லீடர்ஷிப் மீட்டிங்ல மட்டும் முன்னாடி வந்து 'இது என்னோட யோசனை சார்'னு கிரெடிட் அடிக்கிற நரியை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரு மேலோகத்துல என்ன நல்ல காரியம் செஞ்சாலும், பக்கத்துல நிக்கிற பொம்மைக்கு பாராட்டு கொடுத்து, இவருக்கு மட்டும் வாய் பேச முடியாத மியூட் மோட் ஆன் பண்ணிடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 21 | மீட்டிங்ல மைக் ஆன் பண்ணிட்டு குறட்டை விடுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! பிராஜெக்ட்ல ஒரு வேலையும் செய்யாம, லீடர்ஷிப் மீட்டிங்ல மட்டும் முன்னாடி வந்து 'இது என்னோட யோசனை சார்'னு கிரெடிட் அடிக்கிற நரியை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரு மேலோகத்துல என்ன நல்ல காரியம் செஞ்சாலும், பக்கத்துல நிக்கிற பொம்மைக்கு பாராட்டு கொடுத்து, இவருக்கு மட்டும் வாய் பேச முடியாத மியூட் மோட் ஆன் பண்ணிடணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_021.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 21
     },
     {
       "episode": 22,
-      "day": "Episode 22",
+      "day": "Case 22",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Friday 4:59 PM Meeting Organizer",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Sending urgent invites at Friday 4:59 PM ruining weekends.",
       "human_complaint": "கடவுளே! வெள்ளிக்கிழமை சாயங்காலம் 4:59-க்கு 'அர்ஜென்ட் சின்க்'னு மீட்டிங் போட்டு மொத்த டீமோட வீக்கெண்ட்டையும் காலி பண்ற சைக்கோவை என்ன பண்றது?",
       "divine_verdict": "இவருக்கு கடிகார முள் எப்போதும் 4:59-லேயே நிக்கிற ஒரு நரக வீடியோ கால் மீட்டிங் போடணும்! 'நான் பேசுறது கேக்குதா?'ன்னு மட்டும் கேட்டுட்டே காலத்தை கழிக்கட்டும்!",
       "video_filename": "comic_tale_022_friday_4_59_pm_meeting_organizer.mp4",
-      "title": "ஈமெயிலுக்கு ரிப்ளை பண்ணாம ஓபி அடிக்கிறது! 😂 | Karma Strikes: Ep. 22 #Shorts #TheLoop",
-      "description": "\"கடவுளே! வெள்ளிக்கிழமை சாயங்காலம் 4:59-க்கு 'அர்ஜென்ட் சின்க்'னு மீட்டிங் போட்டு மொத்த டீமோட வீக்கெண்ட்டையும் காலி பண்ற சைக்கோவை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு கடிகார முள் எப்போதும் 4:59-லேயே நிக்கிற ஒரு நரக வீடியோ கால் மீட்டிங் போடணும்! 'நான் பேசுறது கேக்குதா?'ன்னு மட்டும் கேட்டுட்டே காலத்தை கழிக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 22 | ஈமெயிலுக்கு ரிப்ளை பண்ணாம ஓபி அடிக்கிறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! வெள்ளிக்கிழமை சாயங்காலம் 4:59-க்கு 'அர்ஜென்ட் சின்க்'னு மீட்டிங் போட்டு மொத்த டீமோட வீக்கெண்ட்டையும் காலி பண்ற சைக்கோவை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு கடிகார முள் எப்போதும் 4:59-லேயே நிக்கிற ஒரு நரக வீடியோ கால் மீட்டிங் போடணும்! 'நான் பேசுறது கேக்குதா?'ன்னு மட்டும் கேட்டுட்டே காலத்தை கழிக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_022.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 22
     },
     {
       "episode": 23,
-      "day": "Episode 23",
+      "day": "Case 23",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Microwave Fish Reheater",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Heating pungent fish curry in shared office microwave.",
       "human_complaint": "கடவுளே! ஆபீஸ் மைக்ரோவேவ்ல காரசாரமான கருவாட்டுக் குழம்பை அஞ்சு நிமிஷம் வச்சு, ஃப்ளோர் முழுக்க வாடை கிளப்பிட்டு போறாரே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவரை ஒரு காற்று புகாத கண்ணாடி ரூம்ல அடைச்சு, பழைய கருவாட்டுப் புகையை 24 மணி நேரமும் உள்ளே அனுப்பி மூச்சுக்கு மூச்சு நுகர வைக்கணும்!",
       "video_filename": "comic_tale_023_microwave_fish_reheater.mp4",
-      "title": "டெட்லைன் அன்னைக்கு லீவு போடுற புண்ணியவான்! 😂 | Karma Strikes: Ep. 23 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஆபீஸ் மைக்ரோவேவ்ல காரசாரமான கருவாட்டுக் குழம்பை அஞ்சு நிமிஷம் வச்சு, ஃப்ளோர் முழுக்க வாடை கிளப்பிட்டு போறாரே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரை ஒரு காற்று புகாத கண்ணாடி ரூம்ல அடைச்சு, பழைய கருவாட்டுப் புகையை 24 மணி நேரமும் உள்ளே அனுப்பி மூச்சுக்கு மூச்சு நுகர வைக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 23 | டெட்லைன் அன்னைக்கு லீவு போடுற புண்ணியவான்! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஆபீஸ் மைக்ரோவேவ்ல காரசாரமான கருவாட்டுக் குழம்பை அஞ்சு நிமிஷம் வச்சு, ஃப்ளோர் முழுக்க வாடை கிளப்பிட்டு போறாரே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரை ஒரு காற்று புகாத கண்ணாடி ரூம்ல அடைச்சு, பழைய கருவாட்டுப் புகையை 24 மணி நேரமும் உள்ளே அனுப்பி மூச்சுக்கு மூச்சு நுகர வைக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_023.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 23
     },
     {
       "episode": 24,
-      "day": "Episode 24",
+      "day": "Case 24",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Phantom Tea Cup Abandoner",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Leaving wet soggy paper cups on printers.",
       "human_complaint": "கடவுளே! டீ குடிச்சிட்டு எச்சில் நனைஞ்ச பேப்பர் கப்ப மத்தவங்க டெஸ்க்லயும் பிரிண்டர் மெஷின் மேலயும் வச்சிட்டு போற அசுத்த ஆத்மாவை என்ன பண்றது?",
       "divine_verdict": "இவரு தூங்கும்போது தலைமேல பத்தாயிரம் நனைஞ்ச எச்சில் டீ கப்புகள் மலையா கொட்டி அமுக்கிற மாதிரி சித்ரகுப்தன் எழுதி வைக்கட்டும்!",
       "video_filename": "comic_tale_024_phantom_tea_cup_abandoner.mp4",
-      "title": "வேலை பாக்காம மேனேஜர் கிட்ட ஐஸ் வைக்கிறது! 😂 | Karma Strikes: Ep. 24 #Shorts #TheLoop",
-      "description": "\"கடவுளே! டீ குடிச்சிட்டு எச்சில் நனைஞ்ச பேப்பர் கப்ப மத்தவங்க டெஸ்க்லயும் பிரிண்டர் மெஷின் மேலயும் வச்சிட்டு போற அசுத்த ஆத்மாவை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரு தூங்கும்போது தலைமேல பத்தாயிரம் நனைஞ்ச எச்சில் டீ கப்புகள் மலையா கொட்டி அமுக்கிற மாதிரி சித்ரகுப்தன் எழுதி வைக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 24 | வேலை பாக்காம மேனேஜர் கிட்ட ஐஸ் வைக்கிறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! டீ குடிச்சிட்டு எச்சில் நனைஞ்ச பேப்பர் கப்ப மத்தவங்க டெஸ்க்லயும் பிரிண்டர் மெஷின் மேலயும் வச்சிட்டு போற அசுத்த ஆத்மாவை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரு தூங்கும்போது தலைமேல பத்தாயிரம் நனைஞ்ச எச்சில் டீ கப்புகள் மலையா கொட்டி அமுக்கிற மாதிரி சித்ரகுப்தன் எழுதி வைக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_024.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 24
     },
     {
       "episode": 25,
-      "day": "Episode 25",
+      "day": "Case 25",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Take This Offline Evader",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Dodging decisions with 'Let's take this offline'.",
       "human_complaint": "கடவுளே! எந்த முக்கியமான முடிவு கேட்டாலும் 'இதை அப்புறம் ஆஃப்லைன்ல பேசலாம்'னு சொல்லி நழுவி காரியத்தை கெடுக்குற எக்ஸ்பர்ட்டை என்ன பண்றது?",
       "divine_verdict": "இவரை எந்த ஒரு நெட்வொர்க்கும் மனித நடமாட்டமும் இல்லாத ஆஃப்லைன் பாலைவனத்துல தனியா விட்டுறணும்! பேச ஒரு பூதம் கூட இருக்காது!",
       "video_filename": "comic_tale_025_take_this_offline_evader.mp4",
-      "title": "ஃப்ரிட்ஜ்ல வச்ச மத்தவங்க சாப்பாட்டை திருடுறது! 😂 | Karma Strikes: Ep. 25 #Shorts #TheLoop",
-      "description": "\"கடவுளே! எந்த முக்கியமான முடிவு கேட்டாலும் 'இதை அப்புறம் ஆஃப்லைன்ல பேசலாம்'னு சொல்லி நழுவி காரியத்தை கெடுக்குற எக்ஸ்பர்ட்டை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரை எந்த ஒரு நெட்வொர்க்கும் மனித நடமாட்டமும் இல்லாத ஆஃப்லைன் பாலைவனத்துல தனியா விட்டுறணும்! பேச ஒரு பூதம் கூட இருக்காது!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 25 | ஃப்ரிட்ஜ்ல வச்ச மத்தவங்க சாப்பாட்டை திருடுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! எந்த முக்கியமான முடிவு கேட்டாலும் 'இதை அப்புறம் ஆஃப்லைன்ல பேசலாம்'னு சொல்லி நழுவி காரியத்தை கெடுக்குற எக்ஸ்பர்ட்டை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரை எந்த ஒரு நெட்வொர்க்கும் மனித நடமாட்டமும் இல்லாத ஆஃப்லைன் பாலைவனத்துல தனியா விட்டுறணும்! பேச ஒரு பூதம் கூட இருக்காது!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_025.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 25
     },
     {
       "episode": 26,
-      "day": "Episode 26",
+      "day": "Case 26",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Sorry I Was on Mute Guy",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Disappearing from meetings and faking audio issues.",
       "human_complaint": "கடவுளே! மீட்டிங் ஆன் பண்ணி போட்டுட்டு ஊர் சுத்த போயிட்டு, பேரு கூப்பிட்டதும் 'ஸாரி சார், மியூட்ல பேசிட்டேன்'னு கதை வுடுறவனை என்ன பண்றது?",
       "divine_verdict": "எமதர்மன் முன்னாடி வந்து இவர் உண்மை பேசும்போது குரல் நிரந்தர மியூட்டுக்கு போயிடணும்! சைகையில கதறி அழ வேண்டியதுதான்!",
       "video_filename": "comic_tale_026_sorry_i_was_on_mute_guy.mp4",
-      "title": "லஞ்ச் முடிஞ்சு 2 மணி நேரம் அரட்டை அடிக்கிறது! 😂 | Karma Strikes: Ep. 26 #Shorts #TheLoop",
-      "description": "\"கடவுளே! மீட்டிங் ஆன் பண்ணி போட்டுட்டு ஊர் சுத்த போயிட்டு, பேரு கூப்பிட்டதும் 'ஸாரி சார், மியூட்ல பேசிட்டேன்'னு கதை வுடுறவனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"எமதர்மன் முன்னாடி வந்து இவர் உண்மை பேசும்போது குரல் நிரந்தர மியூட்டுக்கு போயிடணும்! சைகையில கதறி அழ வேண்டியதுதான்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 26 | லஞ்ச் முடிஞ்சு 2 மணி நேரம் அரட்டை அடிக்கிறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! மீட்டிங் ஆன் பண்ணி போட்டுட்டு ஊர் சுத்த போயிட்டு, பேரு கூப்பிட்டதும் 'ஸாரி சார், மியூட்ல பேசிட்டேன்'னு கதை வுடுறவனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"எமதர்மன் முன்னாடி வந்து இவர் உண்மை பேசும்போது குரல் நிரந்தர மியூட்டுக்கு போயிடணும்! சைகையில கதறி அழ வேண்டியதுதான்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_026.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 26
     },
     {
       "episode": 27,
-      "day": "Episode 27",
+      "day": "Case 27",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Speakerphone Desk Screamer",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Loud family fights on speakerphone in quiet workspace.",
       "human_complaint": "கடவுளே! சைலண்ட் ஆபீஸ்ல உட்கார்ந்து குடும்ப சண்டையை ஸ்பீக்கர்ஃபோன்ல போட்டு கத்தி ஊரையே நடுங்க வைக்கிறாரே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவரை ஆயிரம் ஸ்பீக்கர்களுக்கு நடுவுல நிக்க வச்சு, இவரோட சொந்தக் கத்தலையே 100 மடங்கு சத்தத்துல எதிரொலிக்க விட்டு அலற விடணும்பா!",
       "video_filename": "comic_tale_027_speakerphone_desk_screamer.mp4",
-      "title": "பிரசன்டேஷன் அன்னைக்கு நெட்வொர்க் பிரச்சனை டிராமா! 😂 | Karma Strikes: Ep. 27 #Shorts #TheLoop",
-      "description": "\"கடவுளே! சைலண்ட் ஆபீஸ்ல உட்கார்ந்து குடும்ப சண்டையை ஸ்பீக்கர்ஃபோன்ல போட்டு கத்தி ஊரையே நடுங்க வைக்கிறாரே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரை ஆயிரம் ஸ்பீக்கர்களுக்கு நடுவுல நிக்க வச்சு, இவரோட சொந்தக் கத்தலையே 100 மடங்கு சத்தத்துல எதிரொலிக்க விட்டு அலற விடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 27 | பிரசன்டேஷன் அன்னைக்கு நெட்வொர்க் பிரச்சனை டிராமா! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! சைலண்ட் ஆபீஸ்ல உட்கார்ந்து குடும்ப சண்டையை ஸ்பீக்கர்ஃபோன்ல போட்டு கத்தி ஊரையே நடுங்க வைக்கிறாரே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரை ஆயிரம் ஸ்பீக்கர்களுக்கு நடுவுல நிக்க வச்சு, இவரோட சொந்தக் கத்தலையே 100 மடங்கு சத்தத்துல எதிரொலிக்க விட்டு அலற விடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_027.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 27
     },
     {
       "episode": 28,
-      "day": "Episode 28",
+      "day": "Case 28",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Sneaky Pen Thief",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Borrowing pens and pocketing them forever.",
       "human_complaint": "கடவுளே! 'ஒரே ஒரு கையெழுத்து போட்டு தரேன்பா'னு அன்பா வாங்கிட்டு அப்படியே பாக்கெட்ல போட்டு எஸ்கேப் ஆகுற பேனா திருடனை என்ன பண்றது?",
       "divine_verdict": "இவருக்கு முன்னாடி கோடி பேனாக்கள் இருக்கும், ஆனா எதை தொட்டாலும் மையே இருக்காது! பேப்பர் கிழியுற சத்தம் மட்டும் தான் கேட்கும்!",
       "video_filename": "comic_tale_028_sneaky_pen_thief.mp4",
-      "title": "வேலை செய்யாம கிரெடிட் மட்டும் அபேஸ் பண்றது! 😂 | Karma Strikes: Ep. 28 #Shorts #TheLoop",
-      "description": "\"கடவுளே! 'ஒரே ஒரு கையெழுத்து போட்டு தரேன்பா'னு அன்பா வாங்கிட்டு அப்படியே பாக்கெட்ல போட்டு எஸ்கேப் ஆகுற பேனா திருடனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு முன்னாடி கோடி பேனாக்கள் இருக்கும், ஆனா எதை தொட்டாலும் மையே இருக்காது! பேப்பர் கிழியுற சத்தம் மட்டும் தான் கேட்கும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 28 | வேலை செய்யாம கிரெடிட் மட்டும் அபேஸ் பண்றது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! 'ஒரே ஒரு கையெழுத்து போட்டு தரேன்பா'னு அன்பா வாங்கிட்டு அப்படியே பாக்கெட்ல போட்டு எஸ்கேப் ஆகுற பேனா திருடனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு முன்னாடி கோடி பேனாக்கள் இருக்கும், ஆனா எதை தொட்டாலும் மையே இருக்காது! பேப்பர் கிழியுற சத்தம் மட்டும் தான் கேட்கும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_028.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 28
     },
     {
       "episode": 29,
-      "day": "Episode 29",
+      "day": "Case 29",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Lunch Box Snatcher",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Stealing marked lunch boxes from office fridge.",
       "human_complaint": "கடவுளே! ஆபீஸ் ஃப்ரிட்ஜ்ல பேரு எழுதி வச்சிருக்கிற மத்தவன் லஞ்ச் பாக்ஸை திருட்டுத்தனமா தின்னுட்டு ஏப்பம் விடுற ஆளை என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவருக்கு பசியில இருக்கும்போது கண்ணு முன்னாடி சுடச்சுட பிரியாணி இருக்கும், ஆனா கைய வச்ச உடனே அது கரித்துண்டா மாறிப் போகணும்!",
       "video_filename": "comic_tale_029_lunch_box_snatcher.mp4",
-      "title": "ஆபீஸ் பிரின்டர்ல பர்சனல் புக் பிரிண்ட் எடுக்குறது! 😂 | Karma Strikes: Ep. 29 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஆபீஸ் ஃப்ரிட்ஜ்ல பேரு எழுதி வச்சிருக்கிற மத்தவன் லஞ்ச் பாக்ஸை திருட்டுத்தனமா தின்னுட்டு ஏப்பம் விடுற ஆளை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு பசியில இருக்கும்போது கண்ணு முன்னாடி சுடச்சுட பிரியாணி இருக்கும், ஆனா கைய வச்ச உடனே அது கரித்துண்டா மாறிப் போகணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 29 | ஆபீஸ் பிரின்டர்ல பர்சனல் புக் பிரிண்ட் எடுக்குறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஆபீஸ் ஃப்ரிட்ஜ்ல பேரு எழுதி வச்சிருக்கிற மத்தவன் லஞ்ச் பாக்ஸை திருட்டுத்தனமா தின்னுட்டு ஏப்பம் விடுற ஆளை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு பசியில இருக்கும்போது கண்ணு முன்னாடி சுடச்சுட பிரியாணி இருக்கும், ஆனா கைய வச்ச உடனே அது கரித்துண்டா மாறிப் போகணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_029.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 29
     },
     {
       "episode": 30,
-      "day": "Episode 30",
+      "day": "Case 30",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "By EOD Procrastinator",
-      "category": "அலுவலக & கார்ப்பரேட் வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Promising 'By EOD today' every day for 6 months.",
       "human_complaint": "கடவுளே! ஆறு மாசமா 'இன்னிக்கு சாயங்காலம் இ-ஓ-டி-க்குள்ள அனுப்பிடுறேன்'னு பொய் சொல்லி ஏமாத்தி தூங்குற சோம்பேறியை என்ன பண்றது?",
       "divine_verdict": "இவருக்கு தலைக்கு மேல ஒரு பெரிய கவுண்ட்டவுன் டைமர் ஓடும்! '00:00:01' வரும்போதெல்லாம் நாற்காலில இருந்து கரண்ட் ஷாக் அடிக்கணும்!",
       "video_filename": "comic_tale_030_by_eod_procrastinator.mp4",
-      "title": "திங்கள் கிழமை காலையில மீட்டிங் போடுற கொடுமை! 😂 | Karma Strikes: Ep. 30 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஆறு மாசமா 'இன்னிக்கு சாயங்காலம் இ-ஓ-டி-க்குள்ள அனுப்பிடுறேன்'னு பொய் சொல்லி ஏமாத்தி தூங்குற சோம்பேறியை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு தலைக்கு மேல ஒரு பெரிய கவுண்ட்டவுன் டைமர் ஓடும்! '00:00:01' வரும்போதெல்லாம் நாற்காலில இருந்து கரண்ட் ஷாக் அடிக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 30 | திங்கள் கிழமை காலையில மீட்டிங் போடுற கொடுமை! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஆறு மாசமா 'இன்னிக்கு சாயங்காலம் இ-ஓ-டி-க்குள்ள அனுப்பிடுறேன்'னு பொய் சொல்லி ஏமாத்தி தூங்குற சோம்பேறியை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு தலைக்கு மேல ஒரு பெரிய கவுண்ட்டவுன் டைமர் ஓடும்! '00:00:01' வரும்போதெல்லாம் நாற்காலில இருந்து கரண்ட் ஷாக் அடிக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_030.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 30
     },
     {
       "episode": 31,
-      "day": "Episode 31",
+      "day": "Case 31",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Fake News Forwarder",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Forwarding dangerous WhatsApp medical and panic rumors.",
       "human_complaint": "கடவுளே! 'இதை 10 பேருக்கு அனுப்பலைன்னா ஆபத்து'னு சொல்லி வாட்ஸ்அப்ல இல்லாத பொல்லாத வதந்தியை பரப்புற ஃபார்வர்ட் மன்னனை என்ன பண்றது?",
       "divine_verdict": "இவருக்கு நூறு குட்டி தேவ கணங்கள் வந்து ஒவ்வொரு விநாடியும் பயங்கரமான பொய்க் கதைகளை காதுக்குள்ள சொல்லி பயமுறுத்திட்டே இருக்கட்டும்!",
       "video_filename": "comic_tale_031_fake_news_forwarder.mp4",
-      "title": "ரோட்டுல சும்மா எச்சில் துப்பிட்டு போறது! 😂 | Karma Strikes: Ep. 31 #Shorts #TheLoop",
-      "description": "\"கடவுளே! 'இதை 10 பேருக்கு அனுப்பலைன்னா ஆபத்து'னு சொல்லி வாட்ஸ்அப்ல இல்லாத பொல்லாத வதந்தியை பரப்புற ஃபார்வர்ட் மன்னனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு நூறு குட்டி தேவ கணங்கள் வந்து ஒவ்வொரு விநாடியும் பயங்கரமான பொய்க் கதைகளை காதுக்குள்ள சொல்லி பயமுறுத்திட்டே இருக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 31 | ரோட்டுல சும்மா எச்சில் துப்பிட்டு போறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! 'இதை 10 பேருக்கு அனுப்பலைன்னா ஆபத்து'னு சொல்லி வாட்ஸ்அப்ல இல்லாத பொல்லாத வதந்தியை பரப்புற ஃபார்வர்ட் மன்னனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு நூறு குட்டி தேவ கணங்கள் வந்து ஒவ்வொரு விநாடியும் பயங்கரமான பொய்க் கதைகளை காதுக்குள்ள சொல்லி பயமுறுத்திட்டே இருக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_031.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 31
     },
     {
       "episode": 32,
-      "day": "Episode 32",
+      "day": "Case 32",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Theater Flashlight Searcher",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Blasting phone flashlight in pitch dark cinema.",
       "human_complaint": "கடவுளே! தியேட்டர்ல சீரியஸான சீன் ஓடும்போது, கீழே விழுந்த பாப்கார்னை தேட ஃபோன் டார்ச் லைட்டை போட்டு சுத்தி இருக்கிறவங்க கண்ணை கூச வைக்கிறானே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இருட்டு குகையில இவரை உட்கார வச்சு, முகத்துக்கு நேரா ஒரு லேசர் டார்ச் ஒளி சுழன்று சுழன்று அடிச்சிட்டே இருக்கணும்!",
       "video_filename": "comic_tale_032_theater_flashlight_searcher.mp4",
-      "title": "குப்பையை கொண்டு வந்து அண்டை வீட்டு வாசல்ல போடுறது! 😂 | Karma Strikes: Ep. 32 #Shorts #TheLoop",
-      "description": "\"கடவுளே! தியேட்டர்ல சீரியஸான சீன் ஓடும்போது, கீழே விழுந்த பாப்கார்னை தேட ஃபோன் டார்ச் லைட்டை போட்டு சுத்தி இருக்கிறவங்க கண்ணை கூச வைக்கிறானே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இருட்டு குகையில இவரை உட்கார வச்சு, முகத்துக்கு நேரா ஒரு லேசர் டார்ச் ஒளி சுழன்று சுழன்று அடிச்சிட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 32 | குப்பையை கொண்டு வந்து அண்டை வீட்டு வாசல்ல போடுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! தியேட்டர்ல சீரியஸான சீன் ஓடும்போது, கீழே விழுந்த பாப்கார்னை தேட ஃபோன் டார்ச் லைட்டை போட்டு சுத்தி இருக்கிறவங்க கண்ணை கூச வைக்கிறானே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இருட்டு குகையில இவரை உட்கார வச்சு, முகத்துக்கு நேரா ஒரு லேசர் டார்ச் ஒளி சுழன்று சுழன்று அடிச்சிட்டே இருக்கணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_032.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 32
     },
     {
       "episode": 33,
-      "day": "Episode 33",
+      "day": "Case 33",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Food Photography Staller",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Stopping hungry family from eating hot food for 15 mins for photos.",
       "human_complaint": "கடவுளே! பசியில பிரியாணி சாப்பிட விடாம தடுத்து, 15 நிமிஷம் விதவிதமா போட்டோ எடுத்து சாப்பாட்டை ஆறிப்போக வைக்கிற இன்ஸ்டா பைத்தியத்தை என்ன பண்றது?",
       "divine_verdict": "சுடச்சுட பிரியாணி முன்னாடி இருக்கும், ஆனா போட்டோவுக்கு போஸ் கொடுக்க மட்டுமே அனுமதி... வாயில ஒரு பருக்கை கூட வைக்க முடியாது!",
       "video_filename": "comic_tale_033_food_photography_staller.mp4",
-      "title": "பொது சுவத்துல போஸ்டர் ஒட்டி நாசம் பண்றது! 😂 | Karma Strikes: Ep. 33 #Shorts #TheLoop",
-      "description": "\"கடவுளே! பசியில பிரியாணி சாப்பிட விடாம தடுத்து, 15 நிமிஷம் விதவிதமா போட்டோ எடுத்து சாப்பாட்டை ஆறிப்போக வைக்கிற இன்ஸ்டா பைத்தியத்தை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"சுடச்சுட பிரியாணி முன்னாடி இருக்கும், ஆனா போட்டோவுக்கு போஸ் கொடுக்க மட்டுமே அனுமதி... வாயில ஒரு பருக்கை கூட வைக்க முடியாது!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 33 | பொது சுவத்துல போஸ்டர் ஒட்டி நாசம் பண்றது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! பசியில பிரியாணி சாப்பிட விடாம தடுத்து, 15 நிமிஷம் விதவிதமா போட்டோ எடுத்து சாப்பாட்டை ஆறிப்போக வைக்கிற இன்ஸ்டா பைத்தியத்தை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"சுடச்சுட பிரியாணி முன்னாடி இருக்கும், ஆனா போட்டோவுக்கு போஸ் கொடுக்க மட்டுமே அனுமதி... வாயில ஒரு பருக்கை கூட வைக்க முடியாது!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_033.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 33
     },
     {
       "episode": 34,
-      "day": "Episode 34",
+      "day": "Case 34",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Blue Tick Ghosting Champion",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Seeing urgent emergency messages and ghosting.",
       "human_complaint": "கடவுளே! அவசர உதவி கேட்டு அனுப்பின மெசேஜை உடனே படிச்சுட்டு ப்ளூ டிக் காட்டிட்டு, மூணு வாரமா பதில் சொல்லாம பந்தா பண்ற கல்நெஞ்சக்காரனை என்ன பண்றது?",
       "divine_verdict": "மேலோகத்துல இவர் உதவி கேட்டு அலறும்போது, வானத்துல ரெண்டே ரெண்டு நீல நிற கண்கள் மட்டும் தோன்றி முறைச்சுப் பார்த்துட்டு போய்டும்!",
       "video_filename": "comic_tale_034_blue_tick_ghosting_champion.mp4",
-      "title": "பஸ் ஸ்டாப்ல வரிசையில நிக்காம முட்டி மோதுறது! 😂 | Karma Strikes: Ep. 34 #Shorts #TheLoop",
-      "description": "\"கடவுளே! அவசர உதவி கேட்டு அனுப்பின மெசேஜை உடனே படிச்சுட்டு ப்ளூ டிக் காட்டிட்டு, மூணு வாரமா பதில் சொல்லாம பந்தா பண்ற கல்நெஞ்சக்காரனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"மேலோகத்துல இவர் உதவி கேட்டு அலறும்போது, வானத்துல ரெண்டே ரெண்டு நீல நிற கண்கள் மட்டும் தோன்றி முறைச்சுப் பார்த்துட்டு போய்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 34 | பஸ் ஸ்டாப்ல வரிசையில நிக்காம முட்டி மோதுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! அவசர உதவி கேட்டு அனுப்பின மெசேஜை உடனே படிச்சுட்டு ப்ளூ டிக் காட்டிட்டு, மூணு வாரமா பதில் சொல்லாம பந்தா பண்ற கல்நெஞ்சக்காரனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"மேலோகத்துல இவர் உதவி கேட்டு அலறும்போது, வானத்துல ரெண்டே ரெண்டு நீல நிற கண்கள் மட்டும் தோன்றி முறைச்சுப் பார்த்துட்டு போய்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_034.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 34
     },
     {
       "episode": 35,
-      "day": "Episode 35",
+      "day": "Case 35",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "No Headset Video Caller",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Loud video calling in hospitals and sanctums.",
       "human_complaint": "கடவுளே! ஹாஸ்பிட்டல் வெயிட்டிங் ரூம்லயும் கோவில் சன்னதிலயும் ஸ்பீக்கர்ல வீடியோ கால் பேசி ஊரையே அலற வைக்கிறானே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவரோட ஒவ்வொரு அந்தரங்க ரகசியமும் வானத்துல ஒரு பிரம்மாண்ட டிஜிட்டல் திரையில ஊருக்கே தெரிய ஒளிபரப்பாகணும்!",
       "video_filename": "comic_tale_035_no_headset_video_caller.mp4",
-      "title": "லிஃப்ட்ல உள்ள இருக்கவங்க இறங்கும் முன்னாடியே முட்டுறது! 😂 | Karma Strikes: Ep. 35 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஹாஸ்பிட்டல் வெயிட்டிங் ரூம்லயும் கோவில் சன்னதிலயும் ஸ்பீக்கர்ல வீடியோ கால் பேசி ஊரையே அலற வைக்கிறானே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரோட ஒவ்வொரு அந்தரங்க ரகசியமும் வானத்துல ஒரு பிரம்மாண்ட டிஜிட்டல் திரையில ஊருக்கே தெரிய ஒளிபரப்பாகணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 35 | லிஃப்ட்ல உள்ள இருக்கவங்க இறங்கும் முன்னாடியே முட்டுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஹாஸ்பிட்டல் வெயிட்டிங் ரூம்லயும் கோவில் சன்னதிலயும் ஸ்பீக்கர்ல வீடியோ கால் பேசி ஊரையே அலற வைக்கிறானே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவரோட ஒவ்வொரு அந்தரங்க ரகசியமும் வானத்துல ஒரு பிரம்மாண்ட டிஜிட்டல் திரையில ஊருக்கே தெரிய ஒளிபரப்பாகணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_035.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 35
     },
     {
       "episode": 36,
-      "day": "Episode 36",
+      "day": "Case 36",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "10-Minute Voice Note Sender",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Sending rambling 11 minute voice notes for yes/no.",
       "human_complaint": "கடவுளே! 'ஆமா' அல்லது 'இல்லை'னு சொல்ல வேண்டியதுக்கு, 12 நிமிஷம் தொண்டையை செருமிகிட்டே வாய்ஸ் நோட் அனுப்பி ரம்பம் போடுறவனை என்ன பண்றது?",
       "divine_verdict": "0.25x வேகத்துல ஓடுற அவனோட சொந்த குரல் பதிவுகளையே வாழ்நாள் முழுக்க அவன் காதுல மாட்டி விடணும்பா!",
       "video_filename": "comic_tale_036_10_minute_voice_note_sender.mp4",
-      "title": "மழை தண்ணி போகாம கால்வாயில பிளாஸ்டிக் போடுறது! 😂 | Karma Strikes: Ep. 36 #Shorts #TheLoop",
-      "description": "\"கடவுளே! 'ஆமா' அல்லது 'இல்லை'னு சொல்ல வேண்டியதுக்கு, 12 நிமிஷம் தொண்டையை செருமிகிட்டே வாய்ஸ் நோட் அனுப்பி ரம்பம் போடுறவனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"0.25x வேகத்துல ஓடுற அவனோட சொந்த குரல் பதிவுகளையே வாழ்நாள் முழுக்க அவன் காதுல மாட்டி விடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 36 | மழை தண்ணி போகாம கால்வாயில பிளாஸ்டிக் போடுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! 'ஆமா' அல்லது 'இல்லை'னு சொல்ல வேண்டியதுக்கு, 12 நிமிஷம் தொண்டையை செருமிகிட்டே வாய்ஸ் நோட் அனுப்பி ரம்பம் போடுறவனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"0.25x வேகத்துல ஓடுற அவனோட சொந்த குரல் பதிவுகளையே வாழ்நாள் முழுக்க அவன் காதுல மாட்டி விடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_036.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 36
     },
     {
       "episode": 37,
-      "day": "Episode 37",
+      "day": "Case 37",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Public WiFi Leecher",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Downloading 4K movies on free cafe WiFi.",
       "human_complaint": "கடவுளே! காபி ஷாப்ல ஒரு சின்ன டீயை வாங்கிட்டு, அங்கிருக்கிற ஃப்ரீ வைஃபைல நாலு 4K படம் டவுன்லோட் போட்டு மத்தவன் வேலைய கெடுக்கிறானே... என்ன பண்றது?",
       "divine_verdict": "இவனுக்கு ஃபைல் டவுன்லோட் 99.9%-லேயே உறைஞ்சு நிக்கணும்! 2G வேகத்துல சுத்துற பஃபரிங் சக்கரத்தை பார்த்தே காலத்தை ஓட்டட்டும்!",
       "video_filename": "comic_tale_037_public_wifi_leecher.mp4",
-      "title": "பப்ளிக் பார்க்ல பூக்களை பறிச்சு நாசம் பண்றது! 😂 | Karma Strikes: Ep. 37 #Shorts #TheLoop",
-      "description": "\"கடவுளே! காபி ஷாப்ல ஒரு சின்ன டீயை வாங்கிட்டு, அங்கிருக்கிற ஃப்ரீ வைஃபைல நாலு 4K படம் டவுன்லோட் போட்டு மத்தவன் வேலைய கெடுக்கிறானே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவனுக்கு ஃபைல் டவுன்லோட் 99.9%-லேயே உறைஞ்சு நிக்கணும்! 2G வேகத்துல சுத்துற பஃபரிங் சக்கரத்தை பார்த்தே காலத்தை ஓட்டட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 37 | பப்ளிக் பார்க்ல பூக்களை பறிச்சு நாசம் பண்றது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! காபி ஷாப்ல ஒரு சின்ன டீயை வாங்கிட்டு, அங்கிருக்கிற ஃப்ரீ வைஃபைல நாலு 4K படம் டவுன்லோட் போட்டு மத்தவன் வேலைய கெடுக்கிறானே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவனுக்கு ஃபைல் டவுன்லோட் 99.9%-லேயே உறைஞ்சு நிக்கணும்! 2G வேகத்துல சுத்துற பஃபரிங் சக்கரத்தை பார்த்தே காலத்தை ஓட்டட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_037.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 37
     },
     {
       "episode": 38,
-      "day": "Episode 38",
+      "day": "Case 38",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Gym Machine Selfie Faker",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Hogging gym machine for 25 mins doing zero workout.",
       "human_complaint": "கடவுளே! ஜிம்முக்கு வந்து ஒரு எக்சர்சைஸும் பண்ணாம, மெஷினை அடைச்சுக்கிட்டு செல்ஃபி எடுத்து இன்ஸ்டாவுல போட்டு பந்தா பண்ற போலி பாடிபில்டரை என்ன பண்றது?",
       "divine_verdict": "ஆயிரம் கிலோ இரும்பு பார் இவன் நெஞ்சு மேல இருக்கும், செல்ஃபி எடுக்க போன் இருக்கும்... ஆனா போன்ல 0% பேட்டரி ஆயிடும்!",
       "video_filename": "comic_tale_038_gym_machine_selfie_faker.mp4",
-      "title": "தண்ணி குழாயை திறந்து வச்சிட்டு போறது! 😂 | Karma Strikes: Ep. 38 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஜிம்முக்கு வந்து ஒரு எக்சர்சைஸும் பண்ணாம, மெஷினை அடைச்சுக்கிட்டு செல்ஃபி எடுத்து இன்ஸ்டாவுல போட்டு பந்தா பண்ற போலி பாடிபில்டரை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"ஆயிரம் கிலோ இரும்பு பார் இவன் நெஞ்சு மேல இருக்கும், செல்ஃபி எடுக்க போன் இருக்கும்... ஆனா போன்ல 0% பேட்டரி ஆயிடும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 38 | தண்ணி குழாயை திறந்து வச்சிட்டு போறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஜிம்முக்கு வந்து ஒரு எக்சர்சைஸும் பண்ணாம, மெஷினை அடைச்சுக்கிட்டு செல்ஃபி எடுத்து இன்ஸ்டாவுல போட்டு பந்தா பண்ற போலி பாடிபில்டரை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"ஆயிரம் கிலோ இரும்பு பார் இவன் நெஞ்சு மேல இருக்கும், செல்ஃபி எடுக்க போன் இருக்கும்... ஆனா போன்ல 0% பேட்டரி ஆயிடும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_038.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 38
     },
     {
       "episode": 39,
-      "day": "Episode 39",
+      "day": "Case 39",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Birthday Surprise Spoiler",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Accidentally spoiling surprise plan in birthday boy's face.",
       "human_complaint": "கடவுளே! சர்ப்ரைஸ் பார்ட்டிக்காக ஆரம்பிச்ச ரகசிய குரூப்ல, பர்த்டே காரனையே டேக் பண்ணி 'கேக் ரெடியா மச்சான்'னு பிளானை ஊத்தி மூடுற அப்பாவி வில்லனை என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவனுக்கு வாழ்க்கையில நடக்கப்போற எந்த ஒரு நல்ல விஷயத்தையும் முன்னாடியே ஒரு பூதம் வந்து சொல்லி சுவாரஸ்யமே இல்லாம பண்ணிரணும்!",
       "video_filename": "comic_tale_039_birthday_surprise_spoiler.mp4",
-      "title": "நடபாதை முழுக்க கடையை விரிச்சு ஆக்கிரமிக்கிறது! 😂 | Karma Strikes: Ep. 39 #Shorts #TheLoop",
-      "description": "\"கடவுளே! சர்ப்ரைஸ் பார்ட்டிக்காக ஆரம்பிச்ச ரகசிய குரூப்ல, பர்த்டே காரனையே டேக் பண்ணி 'கேக் ரெடியா மச்சான்'னு பிளானை ஊத்தி மூடுற அப்பாவி வில்லனை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவனுக்கு வாழ்க்கையில நடக்கப்போற எந்த ஒரு நல்ல விஷயத்தையும் முன்னாடியே ஒரு பூதம் வந்து சொல்லி சுவாரஸ்யமே இல்லாம பண்ணிரணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 39 | நடபாதை முழுக்க கடையை விரிச்சு ஆக்கிரமிக்கிறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! சர்ப்ரைஸ் பார்ட்டிக்காக ஆரம்பிச்ச ரகசிய குரூப்ல, பர்த்டே காரனையே டேக் பண்ணி 'கேக் ரெடியா மச்சான்'னு பிளானை ஊத்தி மூடுற அப்பாவி வில்லனை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவனுக்கு வாழ்க்கையில நடக்கப்போற எந்த ஒரு நல்ல விஷயத்தையும் முன்னாடியே ஒரு பூதம் வந்து சொல்லி சுவாரஸ்யமே இல்லாம பண்ணிரணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_039.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 39
     },
     {
       "episode": 40,
-      "day": "Episode 40",
+      "day": "Case 40",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Sunday Loan Spammer",
-      "category": "டிஜிட்டல் பழக்கவழக்கங்கள் & சமூக வலைதளம்",
+      "category": "Karma Court ⚖️",
       "situation": "Calling for personal loan at Sunday 2 PM nap time.",
       "human_complaint": "கடவுளே! ஞாயிற்றுக்கிழமை மதிய தூக்கத்துல இருக்கும்போது போன் போட்டு, 'சார் பர்சனல் லோன் வேணுமா சார்'னு உயிரை வாங்குற டெலிகாலரை என்ன பண்றது?",
       "divine_verdict": "இவனுக்கு மேலோகத்துல மேலோகத்துல கடன் கொடுப்பார்! வட்டி வசூல் பண்ண லட்சக்கணக்கான தேவ கணங்கள் தூங்க விடாம போன் போட்டுட்டே இருக்கும்!",
       "video_filename": "comic_tale_040_sunday_loan_spammer.mp4",
-      "title": "பொது இடத்துல புகையை ஊதி தள்ளுறது! 😂 | Karma Strikes: Ep. 40 #Shorts #TheLoop",
-      "description": "\"கடவுளே! ஞாயிற்றுக்கிழமை மதிய தூக்கத்துல இருக்கும்போது போன் போட்டு, 'சார் பர்சனல் லோன் வேணுமா சார்'னு உயிரை வாங்குற டெலிகாலரை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவனுக்கு மேலோகத்துல மேலோகத்துல கடன் கொடுப்பார்! வட்டி வசூல் பண்ண லட்சக்கணக்கான தேவ கணங்கள் தூங்க விடாம போன் போட்டுட்டே இருக்கும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 40 | பொது இடத்துல புகையை ஊதி தள்ளுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! ஞாயிற்றுக்கிழமை மதிய தூக்கத்துல இருக்கும்போது போன் போட்டு, 'சார் பர்சனல் லோன் வேணுமா சார்'னு உயிரை வாங்குற டெலிகாலரை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவனுக்கு மேலோகத்துல மேலோகத்துல கடன் கொடுப்பார்! வட்டி வசூல் பண்ண லட்சக்கணக்கான தேவ கணங்கள் தூங்க விடாம போன் போட்டுட்டே இருக்கும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_040.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 40
     },
     {
       "episode": 41,
-      "day": "Episode 41",
+      "day": "Case 41",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Midnight Drilling Maestro",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Drilling walls at 12 midnight in apartment.",
       "human_complaint": "கடவுளே! அப்பார்ட்மெண்ட்ல நள்ளிரவு 12 மணிக்கு சுவரை ட்ரில்லிங் மெஷின் வச்சு ஓட்டை போட்டு ஒட்டுமொத்த பில்டிங்கையும் அலற வைக்கிறாரே... என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவருக்கு தலைக்கு மேல ஆயிரம் ராட்சத சுத்தியல்கள் இடைவிடாம அடிச்சிட்டே இருக்கும் சத்தமிக்க மேலோக அறை ஒதுக்கணும்பா!",
       "video_filename": "comic_tale_041_midnight_drilling_maestro.mp4",
-      "title": "ராத்திரி 12 மணிக்கு பாட்டு போட்டு அலற விடுறது! 😂 | Karma Strikes: Ep. 41 #Shorts #TheLoop",
-      "description": "\"கடவுளே! அப்பார்ட்மெண்ட்ல நள்ளிரவு 12 மணிக்கு சுவரை ட்ரில்லிங் மெஷின் வச்சு ஓட்டை போட்டு ஒட்டுமொத்த பில்டிங்கையும் அலற வைக்கிறாரே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு தலைக்கு மேல ஆயிரம் ராட்சத சுத்தியல்கள் இடைவிடாம அடிச்சிட்டே இருக்கும் சத்தமிக்க மேலோக அறை ஒதுக்கணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 41 | ராத்திரி 12 மணிக்கு பாட்டு போட்டு அலற விடுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! அப்பார்ட்மெண்ட்ல நள்ளிரவு 12 மணிக்கு சுவரை ட்ரில்லிங் மெஷின் வச்சு ஓட்டை போட்டு ஒட்டுமொத்த பில்டிங்கையும் அலற வைக்கிறாரே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு தலைக்கு மேல ஆயிரம் ராட்சத சுத்தியல்கள் இடைவிடாம அடிச்சிட்டே இருக்கும் சத்தமிக்க மேலோக அறை ஒதுக்கணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_041.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 41
     },
     {
       "episode": 42,
-      "day": "Episode 42",
+      "day": "Case 42",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Wet Clothes Balcony Dripper",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Dripping wet laundry onto neighbor below.",
       "human_complaint": "கடவுளே! மேல் மாடி பால்கனியில துணியை பிழியாம காயப்போட்டு, கீழே காயிற மத்தவங்க நல்ல துணி மேல சோப்பு தண்ணியை சொட்ட வைக்கிறாங்களே... என்ன பண்றது?",
       "divine_verdict": "எப்போதுமே காயாத ஈர்க்குச்சி ஈரத் துணியை கட்டிக்கிட்டு, தலைமேல சோப்புத் தண்ணி சொட்டு சொட்டா விழும் மண்டபத்துல நிக்கட்டும்!",
       "video_filename": "comic_tale_042_wet_clothes_balcony_dripper.mp4",
-      "title": "மத்தவங்க வீட்டு முன்னாடி வண்டிய பார்க் பண்றது! 😂 | Karma Strikes: Ep. 42 #Shorts #TheLoop",
-      "description": "\"கடவுளே! மேல் மாடி பால்கனியில துணியை பிழியாம காயப்போட்டு, கீழே காயிற மத்தவங்க நல்ல துணி மேல சோப்பு தண்ணியை சொட்ட வைக்கிறாங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"எப்போதுமே காயாத ஈர்க்குச்சி ஈரத் துணியை கட்டிக்கிட்டு, தலைமேல சோப்புத் தண்ணி சொட்டு சொட்டா விழும் மண்டபத்துல நிக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 42 | மத்தவங்க வீட்டு முன்னாடி வண்டிய பார்க் பண்றது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! மேல் மாடி பால்கனியில துணியை பிழியாம காயப்போட்டு, கீழே காயிற மத்தவங்க நல்ல துணி மேல சோப்பு தண்ணியை சொட்ட வைக்கிறாங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"எப்போதுமே காயாத ஈர்க்குச்சி ஈரத் துணியை கட்டிக்கிட்டு, தலைமேல சோப்புத் தண்ணி சொட்டு சொட்டா விழும் மண்டபத்துல நிக்கட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_042.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 42
     },
     {
       "episode": 43,
-      "day": "Episode 43",
+      "day": "Case 43",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Borrow-and-Forget Neighbor",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Borrowing mixer and tools, then claiming amnesia.",
       "human_complaint": "கடவுளே! மிக்ஸி ஜார், ஏணி எல்லாம் இரவல் வாங்கிட்டு, திருப்பி கேட்கும்போது 'நீங்க எப்போ குடுத்தீங்க?'ன்னு சாதிக்கிற பக்கத்து வீட்டுக்காரரை என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவருக்கு சொந்தமான எல்லா பொருட்களும் கண்ணெதிரே காத்துல பறந்து போய் அடுத்தவன் வீட்டுக்குள்ள செட்டில் ஆகணும்!",
       "video_filename": "comic_tale_043_borrow_and_forget_neighbor.mp4",
-      "title": "வாங்குன கடனை திருப்பி தராம எஸ்கேப் ஆகுறது! 😂 | Karma Strikes: Ep. 43 #Shorts #TheLoop",
-      "description": "\"கடவுளே! மிக்ஸி ஜார், ஏணி எல்லாம் இரவல் வாங்கிட்டு, திருப்பி கேட்கும்போது 'நீங்க எப்போ குடுத்தீங்க?'ன்னு சாதிக்கிற பக்கத்து வீட்டுக்காரரை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு சொந்தமான எல்லா பொருட்களும் கண்ணெதிரே காத்துல பறந்து போய் அடுத்தவன் வீட்டுக்குள்ள செட்டில் ஆகணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 43 | வாங்குன கடனை திருப்பி தராம எஸ்கேப் ஆகுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! மிக்ஸி ஜார், ஏணி எல்லாம் இரவல் வாங்கிட்டு, திருப்பி கேட்கும்போது 'நீங்க எப்போ குடுத்தீங்க?'ன்னு சாதிக்கிற பக்கத்து வீட்டுக்காரரை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவருக்கு சொந்தமான எல்லா பொருட்களும் கண்ணெதிரே காத்துல பறந்து போய் அடுத்தவன் வீட்டுக்குள்ள செட்டில் ஆகணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_043.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 43
     },
     {
       "episode": 44,
-      "day": "Episode 44",
+      "day": "Case 44",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Grocery Fruit Squeezer",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Bruising mangoes with fingernails and walking away.",
       "human_complaint": "கடவுளே! பழக்கடைக்கு போய் நூறு மாம்பழத்தையும் நகத்தால கிள்ளி, நசுக்கி அழுக வச்சிட்டு ஒண்ணுமே வாங்காம போற ஆளை என்ன பண்றது?",
       "divine_verdict": "ராட்சத அழுகிய மாம்பழங்கள் பாறைகளா உருண்டு வந்து இவரை நசுக்கணும்! பழச்சாறுல மூச்சு முட்டி ஓடட்டும்!",
       "video_filename": "comic_tale_044_grocery_fruit_squeezer.mp4",
-      "title": "அடுத்தவங்க வீட்டு விஷயத்துல மூக்கை நுழைக்கிறது! 😂 | Karma Strikes: Ep. 44 #Shorts #TheLoop",
-      "description": "\"கடவுளே! பழக்கடைக்கு போய் நூறு மாம்பழத்தையும் நகத்தால கிள்ளி, நசுக்கி அழுக வச்சிட்டு ஒண்ணுமே வாங்காம போற ஆளை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"ராட்சத அழுகிய மாம்பழங்கள் பாறைகளா உருண்டு வந்து இவரை நசுக்கணும்! பழச்சாறுல மூச்சு முட்டி ஓடட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 44 | அடுத்தவங்க வீட்டு விஷயத்துல மூக்கை நுழைக்கிறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! பழக்கடைக்கு போய் நூறு மாம்பழத்தையும் நகத்தால கிள்ளி, நசுக்கி அழுக வச்சிட்டு ஒண்ணுமே வாங்காம போற ஆளை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"ராட்சத அழுகிய மாம்பழங்கள் பாறைகளா உருண்டு வந்து இவரை நசுக்கணும்! பழச்சாறுல மூச்சு முட்டி ஓடட்டும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_044.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 44
     },
     {
       "episode": 45,
-      "day": "Episode 45",
+      "day": "Case 45",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Corridor Shoe Mountain Maker",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Stacking 20 pairs of stinking shoes in common apartment walkway.",
       "human_complaint": "கடவுளே! வீட்டுக்குள்ள வைக்காம, பொதுவான அப்பார்ட்மெண்ட் நடைபாதையில இருபது ஜோடி நாற்றமடிக்கும் செருப்புகளை மலை போல குவித்து வழி மறைக்கிறாங்களே... என்ன பண்றது?",
       "divine_verdict": "பல்லாயிரக்கணக்கான பழைய வாடை வீசும் செருப்பு மலைக்குள்ள இவரை புதைச்சு வச்சு 'வாசம் பிடி'ன்னு சொல்லிடணும்பா!",
       "video_filename": "comic_tale_045_corridor_shoe_mountain_maker.mp4",
-      "title": "விருந்தாளி வந்து 10 நாளா கிளம்பாம இருக்கிறது! 😂 | Karma Strikes: Ep. 45 #Shorts #TheLoop",
-      "description": "\"கடவுளே! வீட்டுக்குள்ள வைக்காம, பொதுவான அப்பார்ட்மெண்ட் நடைபாதையில இருபது ஜோடி நாற்றமடிக்கும் செருப்புகளை மலை போல குவித்து வழி மறைக்கிறாங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"பல்லாயிரக்கணக்கான பழைய வாடை வீசும் செருப்பு மலைக்குள்ள இவரை புதைச்சு வச்சு 'வாசம் பிடி'ன்னு சொல்லிடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 45 | விருந்தாளி வந்து 10 நாளா கிளம்பாம இருக்கிறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! வீட்டுக்குள்ள வைக்காம, பொதுவான அப்பார்ட்மெண்ட் நடைபாதையில இருபது ஜோடி நாற்றமடிக்கும் செருப்புகளை மலை போல குவித்து வழி மறைக்கிறாங்களே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"பல்லாயிரக்கணக்கான பழைய வாடை வீசும் செருப்பு மலைக்குள்ள இவரை புதைச்சு வச்சு 'வாசம் பிடி'ன்னு சொல்லிடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_045.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 45
     },
     {
       "episode": 46,
-      "day": "Episode 46",
+      "day": "Case 46",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "5-Mins Away Fake Latecomer",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Lounging in towel while saying '5 mins away' for 90 mins.",
       "human_complaint": "கடவுளே! வீட்ல துண்டை கட்டிகிட்டு படுத்துட்டே, 'அஞ்சு நிமிஷத்துல வந்துட்டேன் மச்சான், டிராபிக்ல மாட்டிட்டேன்'னு சொல்லி எல்லாரையும் 2 மணி நேரம் காக்க வைக்கிறானே... என்ன பண்றது?",
       "divine_verdict": "மேலோகத்துல இவர் ஆசைப்பட்டு போற எந்த இடமா இருந்தாலும், இவர் கால் வைக்கிறதுக்கு சரியா ஒரு நொடி முன்னாடி கதவு படார்னு மூடிரும்!",
       "video_filename": "comic_tale_046_5_mins_away_fake_latecomer.mp4",
-      "title": "டிவி சத்தத்தை ஊரே கேக்குற அளவுக்கு வைக்கிறது! 😂 | Karma Strikes: Ep. 46 #Shorts #TheLoop",
-      "description": "\"கடவுளே! வீட்ல துண்டை கட்டிகிட்டு படுத்துட்டே, 'அஞ்சு நிமிஷத்துல வந்துட்டேன் மச்சான், டிராபிக்ல மாட்டிட்டேன்'னு சொல்லி எல்லாரையும் 2 மணி நேரம் காக்க வைக்கிறானே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"மேலோகத்துல இவர் ஆசைப்பட்டு போற எந்த இடமா இருந்தாலும், இவர் கால் வைக்கிறதுக்கு சரியா ஒரு நொடி முன்னாடி கதவு படார்னு மூடிரும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 46 | டிவி சத்தத்தை ஊரே கேக்குற அளவுக்கு வைக்கிறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! வீட்ல துண்டை கட்டிகிட்டு படுத்துட்டே, 'அஞ்சு நிமிஷத்துல வந்துட்டேன் மச்சான், டிராபிக்ல மாட்டிட்டேன்'னு சொல்லி எல்லாரையும் 2 மணி நேரம் காக்க வைக்கிறானே... என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"மேலோகத்துல இவர் ஆசைப்பட்டு போற எந்த இடமா இருந்தாலும், இவர் கால் வைக்கிறதுக்கு சரியா ஒரு நொடி முன்னாடி கதவு படார்னு மூடிரும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_046.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 46
     },
     {
       "episode": 47,
-      "day": "Episode 47",
+      "day": "Case 47",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Street Vendor Haggler",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Haggling ₹2 with poor granny after spending thousands at malls.",
       "human_complaint": "கடவுளே! பெரிய மால்ல ஆயிரக்கணக்குல செலவு பண்ணிட்டு, ரோட்டோரத்துல பாட்டி விக்கிற கீரைக்கட்டுல ரெண்டு ரூபாய்க்காக அரை மணி நேரம் சண்டை போடுற கஞ்சனை என்ன கடவுளே பண்றது?",
       "divine_verdict": "தங்கக் காசுகள் நிறைந்த குகையில இவரை உட்கார வச்சு, குடிக்க ஒரு வாய் தண்ணியோட விலை ஆயிரம் கோடி நவரத்தினம்னு போர்டு போட்டுறணும்!",
       "video_filename": "comic_tale_047_street_vendor_haggler.mp4",
-      "title": "மத்தவங்க துவைச்சு போட்ட துணியில அழுக்கு தண்ணி ஊத்துறது! 😂 | Karma Strikes: Ep. 47 #Shorts #TheLoop",
-      "description": "\"கடவுளே! பெரிய மால்ல ஆயிரக்கணக்குல செலவு பண்ணிட்டு, ரோட்டோரத்துல பாட்டி விக்கிற கீரைக்கட்டுல ரெண்டு ரூபாய்க்காக அரை மணி நேரம் சண்டை போடுற கஞ்சனை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"தங்கக் காசுகள் நிறைந்த குகையில இவரை உட்கார வச்சு, குடிக்க ஒரு வாய் தண்ணியோட விலை ஆயிரம் கோடி நவரத்தினம்னு போர்டு போட்டுறணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 47 | மத்தவங்க துவைச்சு போட்ட துணியில அழுக்கு தண்ணி ஊத்துறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! பெரிய மால்ல ஆயிரக்கணக்குல செலவு பண்ணிட்டு, ரோட்டோரத்துல பாட்டி விக்கிற கீரைக்கட்டுல ரெண்டு ரூபாய்க்காக அரை மணி நேரம் சண்டை போடுற கஞ்சனை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"தங்கக் காசுகள் நிறைந்த குகையில இவரை உட்கார வச்சு, குடிக்க ஒரு வாய் தண்ணியோட விலை ஆயிரம் கோடி நவரத்தினம்னு போர்டு போட்டுறணும்!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_047.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 47
     },
     {
       "episode": 48,
-      "day": "Episode 48",
+      "day": "Case 48",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Wedding Gossip Auntie",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Interrogating young people on salary and marriage at weddings.",
       "human_complaint": "கடவுளே! கல்யாண விசேஷத்துல வர்ற இளைஞர்களை பிடிச்சு, 'சம்பளம் எவ்வளோ? எப்போ கல்யாணம்? ஏன் உடம்பு பெருத்துடுச்சு?'ன்னு பொதுவுல வச்சு அவமானப்படுத்தும் நச்சரிப்பை என்ன பண்றது?",
       "divine_verdict": "இவங்களை விட நூறு மடங்கு கேள்வி கேட்குற நாரத முனிவர் கூட்டத்துக்கு நடுவுல உட்கார வச்சு, விடை தெரியாம அலற விடணும்பா!",
       "video_filename": "comic_tale_048_wedding_gossip_auntie.mp4",
-      "title": "பக்கத்து வீட்டு வைஃபையை திருடி படம் பாக்குறது! 😂 | Karma Strikes: Ep. 48 #Shorts #TheLoop",
-      "description": "\"கடவுளே! கல்யாண விசேஷத்துல வர்ற இளைஞர்களை பிடிச்சு, 'சம்பளம் எவ்வளோ? எப்போ கல்யாணம்? ஏன் உடம்பு பெருத்துடுச்சு?'ன்னு பொதுவுல வச்சு அவமானப்படுத்தும் நச்சரிப்பை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களை விட நூறு மடங்கு கேள்வி கேட்குற நாரத முனிவர் கூட்டத்துக்கு நடுவுல உட்கார வச்சு, விடை தெரியாம அலற விடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 48 | பக்கத்து வீட்டு வைஃபையை திருடி படம் பாக்குறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! கல்யாண விசேஷத்துல வர்ற இளைஞர்களை பிடிச்சு, 'சம்பளம் எவ்வளோ? எப்போ கல்யாணம்? ஏன் உடம்பு பெருத்துடுச்சு?'ன்னு பொதுவுல வச்சு அவமானப்படுத்தும் நச்சரிப்பை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களை விட நூறு மடங்கு கேள்வி கேட்குற நாரத முனிவர் கூட்டத்துக்கு நடுவுல உட்கார வச்சு, விடை தெரியாம அலற விடணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_048.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 48
     },
     {
       "episode": 49,
-      "day": "Episode 49",
+      "day": "Case 49",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "2 AM Cracker Blaster",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Bursting 10,000 wala at 2 AM waking patients and babies.",
       "human_complaint": "கடவுளே! தீபாவளி அன்னிக்கு நள்ளிரவு 2 மணிக்கு வயசானவங்களும் பச்சைக் குழந்தைகளும் தூங்குற இடத்துல பத்தாயிரம் வாலா வெடியை வெடிச்சு அலற வைக்கிற வெறியனை என்ன கடவுளே பண்றது?",
       "divine_verdict": "இவன் எப்போ கண்ணை மூடி தூங்க நினைச்சாலும், தலைக்குள்ளயே சரவெடி டமால் டுமீல்னு வெடிச்சு அதிர வைக்கிற தீபாவளி நரகத்தை கொடுக்கணும்பா!",
       "video_filename": "comic_tale_049_2_am_cracker_blaster.mp4",
-      "title": "கேட்காமலே இலவச அட்வைஸ் அள்ளி கொடுக்குறது! 😂 | Karma Strikes: Ep. 49 #Shorts #TheLoop",
-      "description": "\"கடவுளே! தீபாவளி அன்னிக்கு நள்ளிரவு 2 மணிக்கு வயசானவங்களும் பச்சைக் குழந்தைகளும் தூங்குற இடத்துல பத்தாயிரம் வாலா வெடியை வெடிச்சு அலற வைக்கிற வெறியனை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவன் எப்போ கண்ணை மூடி தூங்க நினைச்சாலும், தலைக்குள்ளயே சரவெடி டமால் டுமீல்னு வெடிச்சு அதிர வைக்கிற தீபாவளி நரகத்தை கொடுக்கணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 49 | கேட்காமலே இலவச அட்வைஸ் அள்ளி கொடுக்குறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! தீபாவளி அன்னிக்கு நள்ளிரவு 2 மணிக்கு வயசானவங்களும் பச்சைக் குழந்தைகளும் தூங்குற இடத்துல பத்தாயிரம் வாலா வெடியை வெடிச்சு அலற வைக்கிற வெறியனை என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவன் எப்போ கண்ணை மூடி தூங்க நினைச்சாலும், தலைக்குள்ளயே சரவெடி டமால் டுமீல்னு வெடிச்சு அதிர வைக்கிற தீபாவளி நரகத்தை கொடுக்கணும்பா!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_049.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 49
     },
     {
       "episode": 50,
-      "day": "Episode 50",
+      "day": "Case 50",
       "slot": "13:30 IST (Lunchtime Comedy)",
       "title_en": "Chronic Complainer Who Fixes Nothing",
-      "category": "அண்டைவீட்டார் & அன்றாட வாழ்க்கை",
+      "category": "Karma Court ⚖️",
       "situation": "Complaining all day about society without doing anything.",
       "human_complaint": "கடவுளே! காலையில இருந்து ராத்திரி வரைக்கும் நாடு, உலகம்னு எல்லாத்துலயும் குறை மட்டுமே சொல்லி புலம்பிட்டு, தான் ஒரு துரும்பைக் கூட எடுத்துப் போடாத சலிப்பு மனிதனை என்ன பண்றது?",
       "divine_verdict": "எந்தக் குறையுமே இல்லாத சொர்க்கத்துல இவரை கொண்டு போய் விடணும்! குறை சொல்ல எதுவுமே கிடைக்காம கதறி அழறதுதான் இவருக்கு சரியான தண்டனை!",
       "video_filename": "comic_tale_050_chronic_complainer_who_fixes_nothing.mp4",
-      "title": "விசேஷத்துல மொய் வைக்காம ஃபுல் கட்டு கட்டுறது! 😂 | Karma Strikes: Ep. 50 #Shorts #TheLoop",
-      "description": "\"கடவுளே! காலையில இருந்து ராத்திரி வரைக்கும் நாடு, உலகம்னு எல்லாத்துலயும் குறை மட்டுமே சொல்லி புலம்பிட்டு, தான் ஒரு துரும்பைக் கூட எடுத்துப் போடாத சலிப்பு மனிதனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"எந்தக் குறையுமே இல்லாத சொர்க்கத்துல இவரை கொண்டு போய் விடணும்! குறை சொல்ல எதுவுமே கிடைக்காம கதறி அழறதுதான் இவருக்கு சரியான தண்டனை!\"\n\n───────────────\n⚖️ SERIES: Karma Strikes (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaStrikes #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
-      "tags": "karma strikes, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
-      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Strikes at 1:30 PM IST! 🚀",
+      "title": "Karma Court: Case 50 | விசேஷத்துல மொய் வைக்காம ஃபுல் கட்டு கட்டுறது! 😂 #Shorts #TheLoop",
+      "description": "\"கடவுளே! காலையில இருந்து ராத்திரி வரைக்கும் நாடு, உலகம்னு எல்லாத்துலயும் குறை மட்டுமே சொல்லி புலம்பிட்டு, தான் ஒரு துரும்பைக் கூட எடுத்துப் போடாத சலிப்பு மனிதனை என்ன பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"எந்தக் குறையுமே இல்லாத சொர்க்கத்துல இவரை கொண்டு போய் விடணும்! குறை சொல்ல எதுவுமே கிடைக்காம கதறி அழறதுதான் இவருக்கு சரியான தண்டனை!\"\n\n───────────────\n⚖️ SERIES: Karma Court ⚖️😂 | கர்மா கோர்ட் (Poetic Divine Justice in Melogam)\n🏛️ SETTING: Melogam (மேலோகம் — Celestial Cosmic Courtroom)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 1:30 PM IST (Lunchtime Comedy)\n───────────────\n\nRelatable everyday civic habits and modern frustrations meet witty, poetic divine justice in Melogam!\n\n🔔 SUBSCRIBE to @theloopvid for daily micro-shorts & cosmic justice!\n📌 Share this with that one friend who does this! 😂\n\n#KarmaCourt #ComicTales #TheLoop #TamilComedy #Shorts #TamilShorts #DivineJustice #Melogam #RelatableComedy",
+      "tags": "karma court, karma court case, comic tales, comic tales, the loop, the loop vid, tamil shorts, tamil comedy, relatable comedy, divine justice, melogam, poetic justice, everyday frustrations, funny tamil shorts, shorts, viral shorts, trending shorts",
+      "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_050.jpg",
       "status": "QUEUED ⏳",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 50
     }
   ],
   "sarav_playlists": [

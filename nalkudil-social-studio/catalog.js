@@ -9400,7 +9400,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_17_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_17.jpg",
       "slide2_filename": "SidIsha_Day_17_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Df2Eyd5Dlyo/",
       "slide1_alt": "A vintage classroom photograph during intense board exam preparation season, showing a chalkboard marked \"42 Days to Finals\" and two desks stacked with thick guidebooks and open notebooks under ceiling fans. A text overlay at the top reads \"Formula: lim(x→∞) of my love = infinite.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Countdown\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the ticking pressure of twelfth-grade board exams, as Sid writes calculus limit formulas on Isha's rough sheet that playfully prove his love is mathematically infinite. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

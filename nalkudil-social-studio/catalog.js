@@ -9417,7 +9417,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_18_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_18.jpg",
       "slide2_filename": "SidIsha_Day_18_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Df3yKcijQSl/",
       "slide1_alt": "A split-frame late-night photograph of two quiet study bedrooms under table lamps, showing a teenage boy and girl each resting a telephone receiver against their ears while looking at identical open physics problem sets. A text overlay at the top reads \"Everything in my universe tumbles toward you.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Two A.M. Frequencies\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha studying across the telephone line at two in the morning, their whispered problem-solving turning into quiet reflections on gravity and love. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

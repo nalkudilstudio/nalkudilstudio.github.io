@@ -1816,6 +1816,7 @@
       if (item.category === 'tech_radar') { badgeTheme = 'cyan'; catTag = 'TECH RADAR'; }
       else if (item.category === 'karma_court') { badgeTheme = 'magenta'; catTag = 'KARMA COURT'; }
       else if (item.category === 'inkling_tales') { badgeTheme = 'cyan'; catTag = 'INKLING TALES'; }
+      else if (item.category === 'motivation_tales') { badgeTheme = 'gold'; catTag = 'MOTIVATION TALES'; }
       else if (isMaster) { badgeTheme = 'magenta'; catTag = 'MASTER SERIES'; }
 
       return `
@@ -1889,6 +1890,7 @@ ${item.description}`;
               <span class="cat-badge" style="background: rgba(255, 184, 0, 0.12); color: #FFD700; border: 1px solid rgba(255, 184, 0, 0.3);">⚡ ${escapeHtml(item.category)}</span>
               <span class="cat-badge">🌀 The Loop Minimalist Animation</span>
               <span class="slot-badge">🕒 22:30 IST Bedtime Reset</span>
+              <a href="${item.playlist_url || 'https://www.youtube.com/playlist?list=PLePHexsR8nF4'}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(255, 184, 0, 0.15); color: #FFD700; border: 1px solid rgba(255, 184, 0, 0.4); text-decoration: none; font-weight: 700;">📑 Motivation Playlist</a>
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('motivation_tales', ${ep})">

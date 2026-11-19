@@ -9434,7 +9434,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_19_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_19.jpg",
       "slide2_filename": "SidIsha_Day_19_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Df6RwK9ibh_/",
       "slide1_alt": "A poignant afternoon photograph of an empty high school classroom after final examinations, showing a tearful Indian girl in uniform seated at a desk while a boy gently hands her a clean handkerchief. A text overlay at the top reads \"You still outshine the entire school.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Five Marks and a Glow\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Isha weeping over losing five marks on the chemistry paper due to traffic delays, while Sid comforts her by affirming that numbers will never measure her brilliance or his love. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

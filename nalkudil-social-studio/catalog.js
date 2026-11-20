@@ -9451,7 +9451,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_20_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_20.jpg",
       "slide2_filename": "SidIsha_Day_20_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Df81BR3DR9q/",
       "slide1_alt": "A bright, triumphant photograph of two high school students walking together out through the grand arched gates of their school into brilliant afternoon sunlight, holding rolled question papers as exam bells echo. A text overlay at the top reads \"We conquered. Two hearts into the unfolding future.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Into the Sunlight\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the ringing of the final school exam bell, as Sid and Isha walk out of the school gates together into an uncertain yet hopeful future. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

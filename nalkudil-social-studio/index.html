@@ -959,7 +959,11 @@
       </button>
       <button class="nav-tab-btn" onclick="switchSuite('sarav_playlists', this)">
         <span>📺 Playlists Hub</span>
-        <span class="tab-count" id="count-playlists">19</span>
+        <span class="tab-count" id="count-playlists">20</span>
+      </button>
+      <button class="nav-tab-btn" onclick="switchSuite('studio_apps', this)">
+        <span>📱 Studio Apps</span>
+        <span class="tab-count" id="count-apps">12</span>
       </button>
     </div>
   </nav>
@@ -1026,7 +1030,9 @@
       sid_isha: 'nss_published_sid_isha',
       inkling_ig: 'nss_published_inkling_ig',
       sarav_trends: 'nss_published_sarav_trends',
-      comic_tales: 'nss_published_comic_tales'
+      comic_tales: 'nss_published_comic_tales',
+      motivation_tales: 'nss_published_motivation_tales',
+      studio_apps: 'nss_published_studio_apps'
     };
 
     function getPublishedSet(suite) {
@@ -1037,7 +1043,7 @@
       const items = catalog[suite] || [];
       const seed = items
         .filter(x => x.status === 'PUBLISHED')
-        .map(x => (suite === 'sid_isha' ? x.day : x.episode));
+        .map(x => (suite === 'sid_isha' ? x.day : (suite === 'studio_apps' ? x.id : x.episode)));
       return new Set(seed);
     }
 
@@ -1084,8 +1090,14 @@
       const set = getPublishedSet(currentSuite);
       const countEl = document.getElementById('stat-published-count');
       const labelEl = document.getElementById('stat-suite-label');
-      if (countEl) countEl.textContent = `${set.size} / ${items.length}`;
-      if (labelEl) labelEl.textContent = 'Published';
+      if (currentSuite === 'studio_apps') {
+        const liveCount = items.filter(x => x.status === 'PUBLISHED' || (x.status && (x.status.includes('LIVE') || x.status.includes('REVIEW')))).length;
+        if (countEl) countEl.textContent = `${liveCount} / ${items.length}`;
+        if (labelEl) labelEl.textContent = 'Live / In Review';
+      } else {
+        if (countEl) countEl.textContent = `${set.size} / ${items.length}`;
+        if (labelEl) labelEl.textContent = 'Published';
+      }
     }
 
     // Suite Switching
@@ -1212,6 +1224,15 @@
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
         );
+      } else if (currentSuite === 'studio_apps') {
+        chips.push(
+          { id: 'all', label: 'All Apps (12)' },
+          { id: 'live', label: '✅ Live / In Review' },
+          { id: 'ready', label: '🚀 Ready / Built' },
+          { id: 'cat_finance', label: '🪙 Finance & Bullion' },
+          { id: 'cat_family', label: '🏠 Family & Relationships' },
+          { id: 'cat_kids', label: '♚ Kids & Habits' }
+        );
       }
 
       chips.forEach((c, idx) => {
@@ -1289,6 +1310,14 @@
           if (currentFilter === 'cat_office' && !cat.includes('அலுவலக')) return false;
           if (currentFilter === 'cat_civic' && !cat.includes('சமூக விழிப்புணர்வு')) return false;
           if (currentFilter === 'cat_daily' && !cat.includes('அண்டைவீட்டார்')) return false;
+        } else if (currentSuite === 'studio_apps') {
+          const status = item.status || '';
+          const cat = item.category || '';
+          if (currentFilter === 'live' && !(status === 'PUBLISHED' || status.includes('LIVE') || status.includes('REVIEW'))) return false;
+          if (currentFilter === 'ready' && !(status.includes('READY') || status.includes('BUILT') || status.includes('PROTOTYPE') || status.includes('FEATURE-DONE'))) return false;
+          if (currentFilter === 'cat_finance' && !cat.includes('Finance')) return false;
+          if (currentFilter === 'cat_family' && !(cat.includes('Family') || cat.includes('Relationships'))) return false;
+          if (currentFilter === 'cat_kids' && !(cat.includes('Kids') || cat.includes('Habits') || cat.includes('Music'))) return false;
         }
 
         // Text Search query
@@ -1296,6 +1325,10 @@
           const q = currentSearchQuery;
           const searchCorpus = [
             item.title,
+            item.name,
+            item.package_id,
+            item.tagline,
+            item.role,
             item.concept,
             item.description,
             item.caption,
@@ -1306,7 +1339,9 @@
             `day ${item.day}`,
             `ep ${item.episode}`,
             `${item.episode}`,
-            `${item.day}`
+            `${item.day}`,
+            `app ${item.id}`,
+            `${item.id}`
           ].filter(Boolean).join(' ').toLowerCase();
 
           if (!searchCorpus.includes(q)) return false;
@@ -1343,6 +1378,8 @@
           cardHtml = buildComicTalesCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'sarav_playlists') {
           cardHtml = buildPlaylistsCard(item);
+        } else if (currentSuite === 'studio_apps') {
+          cardHtml = buildStudioAppCard(item, pubSet.has(item.id));
         }
         container.insertAdjacentHTML('beforeend', cardHtml);
       });
@@ -1934,9 +1971,76 @@ ${item.description}`;
       `;
     }
 
+    // Builder: Studio Apps Portfolio
+    function buildStudioAppCard(item, isPublished) {
+      const id = item.id;
+      const status = item.status || 'READY';
+      const isLive = status === 'PUBLISHED' || status.includes('LIVE') || status.includes('REVIEW');
+      const badgeColor = isLive ? 'linear-gradient(135deg, #10B981, #059669)' : 'linear-gradient(135deg, #3B82F6, #1D4ED8)';
+
+      return `
+        <article class="pub-card ${isPublished ? 'is-published' : ''}" id="card-studio_apps-${id}">
+          <div class="card-top">
+            <div class="card-meta-left">
+              <span class="ep-badge" style="background: ${badgeColor}; color: #FFF; font-weight: 800;">APP #${String(id).padStart(2, '0')}</span>
+              <span class="cat-badge" style="background: rgba(0, 240, 255, 0.12); color: var(--cyan); border: 1px solid rgba(0, 240, 255, 0.3); font-weight: 700;">${item.icon || '📱'} ${escapeHtml(item.name)}</span>
+              <span class="cat-badge">${escapeHtml(item.version || 'v1.0.0')}</span>
+              <span class="cat-badge">${escapeHtml(item.target_sdk || 'API 35')}</span>
+              <span class="slot-badge">${escapeHtml(item.role || 'Production App')}</span>
+            </div>
+            <label class="status-check-label ${isPublished ? 'checked' : ''}">
+              <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('studio_apps', ${id})">
+              <span class="status-text">${isPublished ? 'Live ✅' : escapeHtml(status)}</span>
+            </label>
+          </div>
+
+          <div class="card-grid">
+            <div class="media-box" style="align-items: center; justify-content: center; background: rgba(255,255,255,0.02); border-radius: 12px; border: 1px solid rgba(255,255,255,0.06); padding: 16px; text-align: center;">
+              <div style="font-size: 54px; line-height: 1; margin-bottom: 8px;">${item.icon || '📱'}</div>
+              <div style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 800; color: #FFF; margin-bottom: 4px;">${escapeHtml(item.name)}</div>
+              <div style="font-size: 11.5px; color: var(--teal); font-weight: 600; margin-bottom: 8px;">${escapeHtml(item.category || 'Android App')}</div>
+              <div style="font-size: 11px; padding: 3px 8px; border-radius: 6px; background: rgba(16, 185, 129, 0.12); color: #6EE7B7; border: 1px solid rgba(16, 185, 129, 0.25); font-weight: 700;">
+                ${escapeHtml(item.rating_note || status)}
+              </div>
+            </div>
+
+            <div class="content-box">
+              <div style="background: rgba(7, 11, 17, 0.85); border: 1px solid rgba(0, 240, 255, 0.2); border-radius: 10px; padding: 10px 12px; margin-bottom: 8px;">
+                <div style="font-size: 11px; color: var(--cyan); font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">Tagline &amp; Value Proposition</div>
+                <div style="font-size: 13.5px; color: #FFF; font-weight: 600;">${escapeHtml(item.tagline || '')}</div>
+              </div>
+
+              <div style="font-size: 13px; color: var(--text-muted); line-height: 1.5; margin-bottom: 12px;">
+                ${escapeHtml(item.description || '')}
+              </div>
+
+              <div class="actions-grid">
+                <button class="btn-copy gold" onclick="copyCardField('studio_apps', ${id}, 'package_id', this)">📦 Copy Package ID</button>
+                <button class="btn-copy cyan" onclick="copyCardField('studio_apps', ${id}, 'name', this)">🏷️ Copy App Name</button>
+                ${item.repo_url ? `<button class="btn-copy" onclick="copySnippet('${item.repo_url}', this, 'Repo URL')">🐙 Copy GitHub URL</button>` : ''}
+                ${item.play_url ? `<a href="${item.play_url}" target="_blank" rel="noopener" class="btn-copy" style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; background: rgba(16, 185, 129, 0.15); border-color: rgba(16, 185, 129, 0.35); color: #6EE7B7; font-weight: 700;">▶️ Open Google Play</a>` : ''}
+              </div>
+
+              <button class="btn-master-packet" onclick="copyCardField('studio_apps', ${id}, 'app_full_packet', this)" style="margin-top: 10px; background: linear-gradient(135deg, #059669, #0D9488);">
+                📱 1-Click Copy Master App Specification
+              </button>
+
+              <details class="field-drawer" style="margin-top: 10px;">
+                <summary>
+                  <span>Technical Stack &amp; Release Specifications</span>
+                  <span>▾</span>
+                </summary>
+                <div class="field-drawer-body"><b>Package ID:</b> ${escapeHtml(item.package_id || 'N/A')}<br><b>Tech Stack:</b> ${escapeHtml(item.tech_stack || 'N/A')}<br><b>Version:</b> ${escapeHtml(item.version || 'N/A')} (${escapeHtml(item.target_sdk || 'N/A')})<br><b>Role:</b> ${escapeHtml(item.role || 'N/A')}<br><b>GitHub Repository:</b> ${escapeHtml(item.repo_url || 'N/A')}<br><b>Google Play Store:</b> ${escapeHtml(item.play_url || 'N/A')}</div>
+              </details>
+            </div>
+          </div>
+        </article>
+      `;
+    }
+
     function copyCardField(suite, id, field, btnElement) {
       const items = catalog[suite] || [];
-      const item = items.find(x => (suite === 'sid_isha' ? x.day === id : x.episode === id));
+      const item = items.find(x => (suite === 'sid_isha' ? x.day === id : (suite === 'studio_apps' ? x.id === id : x.episode === id)));
       if (!item) {
         showToast('⚠️ Item not found in catalog.');
         return;
@@ -2041,6 +2145,14 @@ ${item.description}`;
         case 'tamil_dialogue':
           text = `🗣️ பூலோகம் / மனிதன்:\n"${item.human_complaint || ''}"\n\n⚡ மேலோகம் / கடவுளின் தீர்ப்பு:\n"${item.divine_verdict || ''}"`;
           label = 'Tamil Dialogue';
+          break;
+        case 'package_id':
+          text = item.package_id || '';
+          label = 'Package ID';
+          break;
+        case 'app_full_packet':
+          text = `APP: ${item.name || ''} (${item.package_id || ''})\nVERSION: ${item.version || ''} (${item.target_sdk || ''})\nROLE: ${item.role || ''}\nSTATUS: ${item.status || ''}\n\nTAGLINE:\n${item.tagline || ''}\n\nDESCRIPTION:\n${item.description || ''}\n\nTECH STACK:\n${item.tech_stack || ''}\n\nSTORE / REPO:\n${item.play_url || item.repo_url || ''}`;
+          label = 'Full App Specification';
           break;
         default:
           text = item[field] || '';
@@ -2237,6 +2349,7 @@ ${item.description}`;
       if (document.getElementById('count-comic')) document.getElementById('count-comic').textContent = (catalog.comic_tales || []).length;
       if (document.getElementById('count-sidisha')) document.getElementById('count-sidisha').textContent = (catalog.sid_isha || []).length;
       if (document.getElementById('count-inkling')) document.getElementById('count-inkling').textContent = (catalog.inkling_ig || []).length;
+      if (document.getElementById('count-apps')) document.getElementById('count-apps').textContent = (catalog.studio_apps || []).length;
 
       renderFilterChips();
       renderCards();

@@ -80,6 +80,11 @@
       font-family:'Chakra Petch',sans-serif; letter-spacing:1.5px; padding:4px 10px;
       border-radius:4px; border:1px solid rgba(232,168,58,.4); font-weight:700; }
 
+    .app-card.ready::before { content:'PRODUCTION READY (v1.0)'; position:absolute; top:16px; right:16px;
+      background:rgba(29,191,176,.18); color:var(--teal); font-size:10px;
+      font-family:'Chakra Petch',sans-serif; letter-spacing:1.5px; padding:4px 10px;
+      border-radius:4px; border:1px solid rgba(29,191,176,.4); font-weight:700; }
+
     .app-card.ideation::before { content:'IDEATION'; position:absolute; top:16px; right:16px;
       background:rgba(167,139,250,.12); color:var(--ideation); font-size:10px;
       font-family:'Chakra Petch',sans-serif; letter-spacing:1.5px; padding:4px 10px;
@@ -162,25 +167,40 @@
       <div class="app-action">Getting Started &amp; Docs →</div>
     </a>
 
-    <!-- 3. SAHI (CLOSED TESTING LIVE) -->
-    <a href="https://nalkudilstudio.github.io/sahi-docs" class="app-card testing" style="text-decoration:none;display:block;">
+    <!-- 3. SAHI (PRODUCTION REVIEW) -->
+    <a href="https://nalkudilstudio.github.io/sahi-docs" class="app-card review" style="text-decoration:none;display:block;">
       <div class="app-icon">🛡️</div>
-      <div class="app-name">Sahi</div>
+      <div class="app-name">Sahi Financial Suite</div>
       <p class="app-desc">100% sovereign, air-gapped financial suite. 9 precision calculators, salary &amp; 50/30/20 envelopes, EPF/NPS retirement, and precious metals vault.</p>
       <div style="margin-top:12px;display:flex;align-items:center;gap:6px;font-size:12px;color:var(--teal);">
-        <span style="font-weight:700;">● Google Play Closed Beta:</span>
-        <span style="color:var(--muted);">Testing open for whitelisted testers</span>
+        <span style="font-weight:700;">● Google Play Production Track:</span>
+        <span style="color:var(--muted);">Applied Nov 11, 2026 · In Review</span>
       </div>
-      <div class="app-action">Join Testing &amp; Explore Engines →</div>
+      <div class="app-action">View Documentation &amp; Calculators →</div>
     </a>
 
-    <!-- 4. METAL PRICE ESTIMATOR (OCTOBER 2026 LAUNCH) -->
-    <a href="https://nalkudilstudio.github.io/mpe-docs" class="app-card oct" style="text-decoration:none;display:block;">
+    <!-- 4. METAL PRICE ESTIMATOR (PRODUCTION READY) -->
+    <a href="https://nalkudilstudio.github.io/mpe-docs" class="app-card ready" style="text-decoration:none;display:block;">
       <div class="app-icon">🪙</div>
       <div class="app-name">Metal Price Estimator</div>
       <p class="app-desc">Real-world Indian jewellery billing counter. Gross vs net stone deductions, live VA % and wastage in grams, Pavan &amp; Tola regional units.</p>
+      <div style="margin-top:12px;display:flex;align-items:center;gap:6px;font-size:12px;color:var(--teal);">
+        <span style="font-weight:700;">● Signed Production Release (v1.0):</span>
+        <span style="color:var(--muted);">AAB Build Verified</span>
+      </div>
       <div class="app-action">View Jewellery Calculator →</div>
     </a>
+
+    <!-- 5. PIN MANAGER (MONTH 3 HERO APP) -->
+    <div class="app-card ready">
+      <div class="app-icon">🔒</div>
+      <div class="app-name">PIN Manager</div>
+      <p class="app-desc">Zero-telemetry sovereign PIN vault. Hardware KeyStore AES-256-GCM encryption, mandatory biometrics, and 30s auto-hide hygiene.</p>
+      <div style="margin-top:12px;display:flex;align-items:center;gap:6px;font-size:12px;color:var(--teal);">
+        <span style="font-weight:700;">● Target: Dec 2026 Launch:</span>
+        <span style="color:var(--muted);">Month 3 Hero App</span>
+      </div>
+    </div>
 
     <!-- 5. CHESS MASTER FOR KIDS (RELEASING SOON) -->
     <a href="https://nalkudilstudio.github.io/chessforkidz-docs" class="app-card soon" style="text-decoration:none;display:block;">

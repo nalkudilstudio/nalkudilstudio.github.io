@@ -181,7 +181,7 @@ try {
     vm.runInContext(appJs, sandbox);
 
     const catalog = sandbox.window.PUBLISHING_CATALOG;
-    const suites = ['sarav_ai', 'sarav_trends', 'the_loop', 'sid_isha', 'inkling_ig'];
+    const suites = ['sarav_ai', 'sarav_trends', 'the_loop', 'sid_isha', 'inkling_ig', 'comic_tales', 'motivation_tales', 'studio_apps'];
 
     let totalCards = 0;
     let totalCopyButtons = 0;
@@ -197,6 +197,9 @@ try {
             else if (suite === 'the_loop') cardHtml = sandbox.buildTheLoopCard(item, false);
             else if (suite === 'sid_isha') cardHtml = sandbox.buildSidIshaCard(item, false);
             else if (suite === 'inkling_ig') cardHtml = sandbox.buildInklingIGCard(item, false);
+            else if (suite === 'comic_tales') cardHtml = sandbox.buildComicTalesCard(item, false);
+            else if (suite === 'motivation_tales') cardHtml = sandbox.buildMotivationTalesCard(item, false);
+            else if (suite === 'studio_apps') cardHtml = sandbox.buildStudioAppCard(item, false);
 
             // Extract all onclick attributes
             const onclickMatches = [...cardHtml.matchAll(/onclick="([^"]+)"/g)];

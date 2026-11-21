@@ -1403,8 +1403,10 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 Vision transformers encode images into spatial patch tokens, which a multimodal projector maps into the text embedding space, allowing unified cross-attention.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 50 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 49/100\n\nIn Day 49 on Multimodal AI, how do unified multimodal LLMs ingest both images and text simultaneously?\n\nA) Project patch embeddings via projection layers into LLM token space\nB) Run OCR to convert all image pixels into raw text strings\nC) Switch between two completely separate models hosted on separate servers\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Vision transformers encode images into spatial patch tokens, which a multimodal projector maps into the text embedding space, allowing unified cross-attention.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 50 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "T0CGTB5g1_4",
+      "youtube_url": "https://www.youtube.com/shorts/T0CGTB5g1_4"
     },
     {
       "day": "Day 50",
@@ -1429,8 +1431,10 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 ControlNet locks original model weights and trains lightweight trainable copies with zero-convolutions, injecting edge maps, depth, or poses without degrading base quality.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 51 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 50/100\n\nIn Day 50 on Style Transfer, how do ControlNet and IP-Adapter preserve structural composition while altering style?\n\nA) Inject zero-convolution structural locks into diffusion UNet blocks\nB) Apply traditional Photoshop blending filters on completed generations\nC) Train a dedicated 50GB foundation model from scratch per style\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 ControlNet locks original model weights and trains lightweight trainable copies with zero-convolutions, injecting edge maps, depth, or poses without degrading base quality.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 51 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "Fl8-G7aC0T4",
+      "youtube_url": "https://www.youtube.com/shorts/Fl8-G7aC0T4"
     },
     {
       "day": "Day 51",
@@ -1455,8 +1459,10 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 Foundation models mirror historical correlation patterns in their training corpora; uncurated data biases generation towards dominant demographic representations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 52 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 51/100\n\nIn Day 51 on AI Bias, how does demographic representation imbalance manifest in model outputs?\n\nA) Skewed training distributions produce stereotypical output priors\nB) A software bug in floating-point GPU rounding favor specific text strings\nC) Hardware thermal throttling degrades precision on specific dialects\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Foundation models mirror historical correlation patterns in their training corpora; uncurated data biases generation towards dominant demographic representations.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 52 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "1MXxKKUIpCc",
+      "youtube_url": "https://www.youtube.com/shorts/1MXxKKUIpCc"
     },
     {
       "day": "Day 52",
@@ -1481,8 +1487,10 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 Alignment steers raw next-token predictors into helpful, harmless, and honest assistants via techniques like RLHF, DPO, and constitutional AI principles.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 53 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 52/100\n\nIn Day 52 on AI Alignment, what is the core goal of aligning frontier foundation models?\n\nA) Ensuring model behaviors adhere to human values, safety, and helpful intent\nB) Maximizing token throughput speed of the GPU inference cluster\nC) Preventing open-source developers from inspecting underlying model weights\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Alignment steers raw next-token predictors into helpful, harmless, and honest assistants via techniques like RLHF, DPO, and constitutional AI principles.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 53 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "RfIlWHoIpic",
+      "youtube_url": "https://www.youtube.com/shorts/RfIlWHoIpic"
     },
     {
       "day": "Day 53",
@@ -3756,12 +3764,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🏔️✦\nCan true courage exist without your knees shaking first?",
       "cover_url": "assets/the_loop/cover_tale_044.jpg",
       "cover_filename": "cover_tale_044.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "youtube_id": "s-0ygz6iNa4",
+      "youtube_url": "https://www.youtube.com/shorts/s-0ygz6iNa4"
     },
     {
       "episode": 45,
@@ -3777,12 +3787,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🧵✦\nWhat memory or family tradition has kept generations warm in your home?",
       "cover_url": "assets/the_loop/cover_tale_045.jpg",
       "cover_filename": "cover_tale_045.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "youtube_id": "oFhpifrtMmY",
+      "youtube_url": "https://www.youtube.com/shorts/oFhpifrtMmY"
     },
     {
       "episode": 46,
@@ -3798,12 +3810,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🕰️✦\nIf the clock struck thirteen, would you stop and question reality or keep rushing?",
       "cover_url": "assets/the_loop/cover_tale_046.jpg",
       "cover_filename": "cover_tale_046.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "youtube_id": "dW631CaY4l0",
+      "youtube_url": "https://www.youtube.com/shorts/dW631CaY4l0"
     },
     {
       "episode": 47,
@@ -3819,12 +3833,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🐂✦\nWas the monster in the labyrinth evil, or was it just waiting for someone to bring flowers?",
       "cover_url": "assets/the_loop/cover_tale_047.jpg",
       "cover_filename": "cover_tale_047.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "youtube_id": "sEvksdP8MDU",
+      "youtube_url": "https://www.youtube.com/shorts/sEvksdP8MDU"
     },
     {
       "episode": 48,
@@ -3840,12 +3856,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⏳✦\nHow can ten years of longing vanish in ten seconds of silence?",
       "cover_url": "assets/the_loop/cover_tale_048.jpg",
       "cover_filename": "cover_tale_048.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "youtube_id": "bGw7bHpWv7A",
+      "youtube_url": "https://www.youtube.com/shorts/bGw7bHpWv7A"
     },
     {
       "episode": 49,
@@ -3861,12 +3879,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 💍✦\nWhat does it mean to offer someone not just your hand, but your entire universe?",
       "cover_url": "assets/the_loop/cover_tale_049.jpg",
       "cover_filename": "cover_tale_049.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "youtube_id": "fDyDopEm_ik",
+      "youtube_url": "https://www.youtube.com/shorts/fDyDopEm_ik"
     },
     {
       "episode": 50,
@@ -10428,11 +10448,13 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "டிராபிக் சிக்னல்ல நின்னுகிட்டு ரீல்ஸ் பாக்குற ஆட்களை நீங்க பாத்திருக்கீங்களா? 😂👇 Tag that friend!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_004.jpg",
       "cover_filename": "cover_comic_004.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "note": "Master V6 Definitive Release delivered to Telegram @SaravMPBot",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
-      "case_number": 4
+      "case_number": 4,
+      "youtube_id": "htqumSRPaQQ",
+      "youtube_url": "https://www.youtube.com/shorts/htqumSRPaQQ"
     },
     {
       "episode": 5,
@@ -10450,11 +10472,13 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "ஒன்-வே பாலத்துல எதிர் திசையில புகுந்து வர்றவங்களுக்கு மேலோக தண்டனை கரெக்டா? 😂👇 கமெண்ட்ல சொல்லுங்க!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_005.jpg",
       "cover_filename": "cover_comic_005.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "note": "Master V6 Definitive Release delivered to Telegram @SaravMPBot",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
-      "case_number": 5
+      "case_number": 5,
+      "youtube_id": "2ETPmy1dFpE",
+      "youtube_url": "https://www.youtube.com/shorts/2ETPmy1dFpE"
     },
     {
       "episode": 6,
@@ -10472,10 +10496,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_006.jpg",
       "cover_filename": "cover_comic_006.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
-      "case_number": 6
+      "case_number": 6,
+      "youtube_id": "e3ktx5fzbKY",
+      "youtube_url": "https://www.youtube.com/shorts/e3ktx5fzbKY"
     },
     {
       "episode": 7,
@@ -10493,10 +10519,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_007.jpg",
       "cover_filename": "cover_comic_007.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
-      "case_number": 7
+      "case_number": 7,
+      "youtube_id": "y7UJ3eevw98",
+      "youtube_url": "https://www.youtube.com/shorts/y7UJ3eevw98"
     },
     {
       "episode": 8,
@@ -10514,10 +10542,12 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_008.jpg",
       "cover_filename": "cover_comic_008.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
-      "case_number": 8
+      "case_number": 8,
+      "youtube_id": "XrzNlNxf4TM",
+      "youtube_url": "https://www.youtube.com/shorts/XrzNlNxf4TM"
     },
     {
       "episode": 9,
@@ -11659,9 +11689,11 @@ window.PUBLISHING_CATALOG = {
       "description": "\"Motivation quits at rep 8. Discipline builds daily. Obsession destroys limits. Which one are you?\"\n\n⚡ 365-DAY PULL-UP TEST:\n- Motivation: Day 1 (quits at rep 8).\n- Discipline: Day 365 (15,000 reps, steady consistency).\n- Obsession: Day 365 (45,200 reps, limitless intensity).\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 10:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\nDaily micro-habits and profound life lessons animated in minimalist looping line-art.\n\n🔔 SUBSCRIBE to @theloopvid for daily 10:30 PM mindset resets!\n\n#Shorts #Motivation #Discipline #Obsession #Mindset #SelfImprovement #TheLoop #Consistency",
       "tags": "shorts, motivation, discipline, obsession, pull up bar, 365 days, mindset, habit building, self improvement, gym motivation, fitness motivation, motivational quotes, the loop, theloopvid, daily motivation",
       "pinned_comment": "👇 Comment below: Which one are you right now — Motivation, Discipline, or Obsession? ⚡💬\n\nSubscribe to @theloopvid — Ep 2 drops tomorrow at 10:30 PM IST! 🚀",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
+      "youtube_id": "-40OryoM7Cc",
+      "youtube_url": "https://www.youtube.com/shorts/-40OryoM7Cc"
     },
     {
       "episode": 2,
@@ -11695,9 +11727,11 @@ window.PUBLISHING_CATALOG = {
       "description": "\"Don't let yesterday's fall spoil today's race. Today is a fresh track.\"\n\n🏃 THE RUNNER'S RESET:\n- Yesterday: Stumbled on the hurdle, crashed hard on the track, felt defeated.\n- Today: Stepped back on the track, ignored past fear, cleared the hurdle cleanly and crossed the finish line!\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 10:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\n🔔 SUBSCRIBE to @theloopvid for daily 10:30 PM mindset resets!\n\n#Shorts #Resilience #RunnersMindset #FreshStart #OvercomingFailure #TheLoop #Mindset",
       "tags": "shorts, resilience, runner mindset, fresh start, overcoming failure, the loop, theloopvid, daily motivation, athletic mindset",
       "pinned_comment": "👇 Yesterday is dead. What hurdle are you clearing today? Tell us in the comments! ⚡👟\n\nSubscribe to @theloopvid — Ep 4 drops tomorrow at 10:30 PM IST! 🚀",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
+      "youtube_id": "1ViVXJqPYP8",
+      "youtube_url": "https://www.youtube.com/shorts/1ViVXJqPYP8"
     },
     {
       "episode": 4,
@@ -11713,9 +11747,11 @@ window.PUBLISHING_CATALOG = {
       "description": "\"Shortcuts lead to crashes. 1% daily progress builds an unbreakable ladder.\"\n\n🧱 THE SHORTCUT TRAP:\n- Shortcut Guy: Tries to jump to the summit in one giant leap, slips and crashes repeatedly.\n- 1% Builder: Lays one solid brick every single day, calmly walks up to the summit.\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 10:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\n🔔 SUBSCRIBE to @theloopvid for daily 10:30 PM mindset resets!\n\n#Shorts #AtomicHabits #DailyProgress #Consistency #Shortcuts #TheLoop #SelfImprovement",
       "tags": "shorts, atomic habits, daily progress, consistency, 1 percent better, shortcuts, the loop, theloopvid, self improvement",
       "pinned_comment": "👇 1% better every day beats 100% once a month. Agree? Drop a '💯'!\n\nSubscribe to @theloopvid — Ep 5 drops tomorrow at 10:30 PM IST! 🚀",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
+      "youtube_id": "mOfrrLaPrnw",
+      "youtube_url": "https://www.youtube.com/shorts/mOfrrLaPrnw"
     },
     {
       "episode": 5,
@@ -11731,9 +11767,11 @@ window.PUBLISHING_CATALOG = {
       "description": "\"Looking at their lane makes you lose your footing. Run your own race.\"\n\n👀 STAY IN YOUR LANE:\n- Comparison Runner: Constantly looking sideways at others, loses balance and tumbles.\n- Focused Runner: Laser eyes locked straight on the finish tape, crosses smoothly and wins.\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 10:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\n🔔 SUBSCRIBE to @theloopvid for daily 10:30 PM mindset resets!\n\n#Shorts #ComparisonTrap #Focus #StayInYourLane #SelfDiscipline #TheLoop #Mindset",
       "tags": "shorts, comparison trap, focus, stay in your lane, self discipline, personal growth, the loop, theloopvid",
       "pinned_comment": "👇 Comparison is the thief of joy. Keep your eyes on your own tape! 🏃‍♂️💨\n\nSubscribe to @theloopvid — Ep 6 drops tomorrow at 10:30 PM IST! 🚀",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
+      "youtube_id": "mbUi5q7vE-w",
+      "youtube_url": "https://www.youtube.com/shorts/mbUi5q7vE-w"
     },
     {
       "episode": 6,

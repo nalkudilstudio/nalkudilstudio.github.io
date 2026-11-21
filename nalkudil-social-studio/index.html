@@ -1023,7 +1023,8 @@
     let currentSearchQuery = '';
     const catalog = window.PUBLISHING_CATALOG || { sarav_ai: [], the_loop: [], sid_isha: [], inkling_ig: [] };
 
-    // Published Checklists (persisted in localStorage)
+    // Published Checklists (persisted in localStorage with version migration)
+    const CATALOG_VERSION = '2026-11-21-v3';
     const storageKeys = {
       sarav_ai: 'nss_published_sarav_ai',
       the_loop: 'nss_published_the_loop',
@@ -1035,16 +1036,30 @@
       studio_apps: 'nss_published_studio_apps'
     };
 
+    try {
+      if (localStorage.getItem('nss_catalog_version') !== CATALOG_VERSION) {
+        Object.values(storageKeys).forEach(k => localStorage.removeItem(k));
+        localStorage.setItem('nss_catalog_version', CATALOG_VERSION);
+      }
+    } catch (e) {}
+
     function getPublishedSet(suite) {
+      const items = catalog[suite] || [];
+      const catalogPublished = items
+        .filter(x => x.status === 'PUBLISHED' || (typeof x.status === 'string' && x.status.includes('LIVE')))
+        .map(x => (suite === 'sid_isha' ? x.day : (suite === 'studio_apps' ? x.id : x.episode)));
+
+      let set = new Set(catalogPublished);
       try {
         const raw = localStorage.getItem(storageKeys[suite]);
-        if (raw) return new Set(JSON.parse(raw));
+        if (raw) {
+          const stored = JSON.parse(raw);
+          if (Array.isArray(stored)) {
+            stored.forEach(id => set.add(id));
+          }
+        }
       } catch (e) {}
-      const items = catalog[suite] || [];
-      const seed = items
-        .filter(x => x.status === 'PUBLISHED')
-        .map(x => (suite === 'sid_isha' ? x.day : (suite === 'studio_apps' ? x.id : x.episode)));
-      return new Set(seed);
+      return set;
     }
 
     function savePublishedSet(suite, set) {
@@ -1077,7 +1092,10 @@
             checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : (trItem && trItem.status === 'COMPLETED' ? 'Ready 🚀' : 'Queued ⏳');
           } else if (suite === 'comic_tales') {
             const ctItem = (catalog.comic_tales || []).find(x => x.episode === id);
-            checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : (ctItem && ctItem.status === 'READY 🚀' ? 'Ready 🚀' : 'Queued ⏳');
+            checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : (ctItem && ctItem.status && ctItem.status.includes('READY') ? 'Ready 🚀' : 'Queued ⏳');
+          } else if (suite === 'motivation_tales') {
+            const mtItem = (catalog.motivation_tales || []).find(x => x.episode === id);
+            checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : (mtItem && mtItem.status && mtItem.status.includes('READY') ? 'Ready 🚀' : 'Queued ⏳');
           } else {
             checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : 'Pending';
           }
@@ -1204,7 +1222,7 @@
       } else if (currentSuite === 'motivation_tales') {
         chips.push(
           { id: 'all', label: 'All (20)' },
-          { id: 'ready', label: '🚀 Ready (20)' },
+          { id: 'ready', label: '🚀 Ready' },
           { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
           { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
           { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
@@ -1215,7 +1233,7 @@
       } else if (currentSuite === 'comic_tales') {
         chips.push(
           { id: 'all', label: 'All (50)' },
-          { id: 'ready', label: '🚀 Ready (10)' },
+          { id: 'ready', label: '🚀 Ready' },
           { id: 'cat_traffic', label: '🚗 Traffic & Road' },
           { id: 'cat_digital', label: '📱 Digital & Social' },
           { id: 'cat_office', label: '💼 Corporate & Office' },
@@ -1297,14 +1315,14 @@
           if (currentFilter === 'cat_hope' && !cat.includes('hope')) return false;
         } else if (currentSuite === 'motivation_tales') {
           const cat = (item.category || '').toLowerCase();
-          if (currentFilter === 'ready' && item.status !== 'READY') return false;
+          if (currentFilter === 'ready' && !(item.status && item.status.includes('READY'))) return false;
           if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
           if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
           if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
           if (currentFilter === 'cat_systems' && !(cat.includes('system') || cat.includes('leverage'))) return false;
         } else if (currentSuite === 'comic_tales') {
           const cat = item.category || '';
-          if (currentFilter === 'ready' && item.status !== 'READY 🚀') return false;
+          if (currentFilter === 'ready' && !(item.status && item.status.includes('READY'))) return false;
           if (currentFilter === 'cat_traffic' && !cat.includes('போக்குவரத்து')) return false;
           if (currentFilter === 'cat_digital' && !cat.includes('டிஜிட்டல்')) return false;
           if (currentFilter === 'cat_office' && !cat.includes('அலுவலக')) return false;
@@ -1787,7 +1805,7 @@
               <span class="cat-badge" style="background: rgba(230, 200, 117, 0.12); color: var(--gold-bright); border: 1px solid rgba(230, 200, 117, 0.3);">${escapeHtml(item.category)}</span>
               <span class="cat-badge">🏛️ Melogam Justice</span>
               <span class="slot-badge">🕒 13:30 IST Lunchtime Drop</span>
-              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none;">▶️ Preview Short</a>` : ''}
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none; font-weight: 700;">${isPublished ? '▶️ Live Short' : '▶️ Preview Short'}</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('comic_tales', ${ep})">
@@ -1919,7 +1937,7 @@ ${item.description}`;
       const ep = item.episode;
       const coverUrl = item.cover_url || '';
       const downloadName = `mcr_verification_motivation_${String(ep).padStart(3, '0')}.jpg`;
-      const isReady = item.status === 'READY';
+      const isReady = item.status && item.status.includes('READY');
 
       return `
         <article class="pub-card ${isPublished ? 'is-published' : ''}" id="card-motivation_tales-${ep}">
@@ -1929,6 +1947,7 @@ ${item.description}`;
               <span class="cat-badge" style="background: rgba(255, 184, 0, 0.12); color: #FFD700; border: 1px solid rgba(255, 184, 0, 0.3);">⚡ ${escapeHtml(item.category)}</span>
               <span class="cat-badge">🌀 The Loop Minimalist Animation</span>
               <span class="slot-badge">🕒 22:30 IST Bedtime Reset</span>
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none; font-weight: 700;">▶️ Live Short</a>` : ''}
               <a href="${item.playlist_url || 'https://www.youtube.com/playlist?list=PLePHexsR8nF4'}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(255, 184, 0, 0.15); color: #FFD700; border: 1px solid rgba(255, 184, 0, 0.4); text-decoration: none; font-weight: 700;">📑 Motivation Playlist</a>
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">

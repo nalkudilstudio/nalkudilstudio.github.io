@@ -9468,7 +9468,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_21_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_21.jpg",
       "slide2_filename": "SidIsha_Day_21_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/Df_ajBEjbOy/",
       "slide1_alt": "A nostalgic photograph in a sunny school courtyard on uniform shirt-signing day, showing a teenage girl smiling brightly as she inks bold black marker cursive across the back of a boy's pristine white school shirt. A text overlay at the top reads \"Property of Isha. Forever non-negotiable.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Ink on Cotton\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates farewell day at school, where Isha claims Sid's uniform shirt with a permanent marker, writing a fiercely tender message that forever seals her claim on his heart. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

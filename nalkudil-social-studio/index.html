@@ -943,7 +943,7 @@
       </button>
             <button class="nav-tab-btn" onclick="switchSuite('motivation_tales', this)">
         <span>⚡ Motivation Tales</span>
-        <span class="tab-count" id="count-motivation">10</span>
+        <span class="tab-count" id="count-motivation">20</span>
       </button>
 <button class="nav-tab-btn" onclick="switchSuite('comic_tales', this)">
         <span>⚖️ Karma Court</span>
@@ -1191,18 +1191,19 @@
         );
       } else if (currentSuite === 'motivation_tales') {
         chips.push(
-          { id: 'all', label: 'All (10)' },
-          { id: 'ready', label: '🚀 Ready (10)' },
+          { id: 'all', label: 'All (20)' },
+          { id: 'ready', label: '🚀 Ready (20)' },
           { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
           { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
           { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
+          { id: 'cat_systems', label: '⚡ Systems & Leverage' },
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
         );
       } else if (currentSuite === 'comic_tales') {
         chips.push(
           { id: 'all', label: 'All (50)' },
-          { id: 'ready', label: '🚀 Ready (5)' },
+          { id: 'ready', label: '🚀 Ready (10)' },
           { id: 'cat_traffic', label: '🚗 Traffic & Road' },
           { id: 'cat_digital', label: '📱 Digital & Social' },
           { id: 'cat_office', label: '💼 Corporate & Office' },
@@ -1279,6 +1280,7 @@
           if (currentFilter === 'cat_discipline' && !cat.includes('discipline')) return false;
           if (currentFilter === 'cat_perseverance' && !cat.includes('persistence')) return false;
           if (currentFilter === 'cat_mindset' && !cat.includes('mindset')) return false;
+          if (currentFilter === 'cat_systems' && !(cat.includes('system') || cat.includes('leverage'))) return false;
         } else if (currentSuite === 'comic_tales') {
           const cat = item.category || '';
           if (currentFilter === 'ready' && item.status !== 'READY 🚀') return false;
@@ -1762,7 +1764,7 @@
                 ${coverUrl ? `<img src="${coverUrl}" alt="Case ${ep} Cover" loading="lazy">` : `<div class="thumb-placeholder"><span>⚖️</span><span>Karma Court Case ${ep}</span></div>`}
               </div>
               ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download Shorts Cover</a>` : ''}
-              ${isReady ? `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ Master V4 Cut Ready</div>` : `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--amber); font-weight: 600;">⏳ Dialogue Staged</div>`}
+              ${isReady ? `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ Master V6 Ready</div>` : `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--amber); font-weight: 600;">⏳ Dialogue Staged</div>`}
             </div>
 
             <div class="content-box">
@@ -1903,7 +1905,7 @@ ${item.description}`;
               <div class="preview-thumb-wrap">
                 ${coverUrl ? `<img src="${coverUrl}" alt="Ep ${ep} MCR Sheet" loading="lazy">` : `<div class="thumb-placeholder"><span>⚡</span><span>Motivation Tales Ep ${ep}</span></div>`}
               </div>
-              ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download MCR Sheet</a>` : ''}
+              ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download Cover</a>` : ''}
               <div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ 20.0s NVENC CFR Master Ready</div>
             </div>
 

@@ -3743,12 +3743,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "11:11 Manifestation Drop ✨\nType 'CLAIM' if you know true success comes when everyone thought you failed. 👇",
       "cover_url": "assets/the_loop/cover_1111_special.jpg",
       "cover_filename": "cover_1111_special.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "youtube_url": "https://www.youtube.com/shorts/0dYr-MKUVy4",
+      "live_url": "https://www.youtube.com/shorts/0dYr-MKUVy4"
     },
     {
       "episode": 44,
@@ -3902,12 +3904,14 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🌿✦\nHow does a fragile seedling break through solid pavement?",
       "cover_url": "assets/the_loop/cover_tale_050.jpg",
       "cover_filename": "cover_tale_050.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "youtube_url": "https://www.youtube.com/shorts/nMtrc8KZXqY",
+      "live_url": "https://www.youtube.com/shorts/nMtrc8KZXqY"
     },
     {
       "episode": 51,
@@ -11896,9 +11900,11 @@ window.PUBLISHING_CATALOG = {
       "description": "\"A boss says 'GO'. A leader says 'LET'S GO'.\"\n\n⚡ THE BOULDER TEST:\n- The Boss sits on top, demands speed, team collapses.\n- The Leader grabs the rope in front, pulls first, team surges.\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 10:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\nDaily micro-habits and profound life lessons animated in minimalist looping line-art.\n\n🔔 SUBSCRIBE to @theloopvid for daily 10:30 PM mindset resets!\n\n#Shorts #Motivation #Leadership #BossVsLeader #Management #Culture #TheLoop #Inspiration",
       "tags": "shorts, motivation, boss vs leader, leadership, management, team building, inspiring, workplace culture, the loop, theloopvid, daily motivation",
       "pinned_comment": "👇 Have you worked with a Boss or a Leader? Drop your experience below! 🪨💬",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
+      "youtube_url": "https://www.youtube.com/shorts/Sf5kdXR4lJw",
+      "live_url": "https://www.youtube.com/shorts/Sf5kdXR4lJw"
     },
     {
       "episode": 13,

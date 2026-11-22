@@ -9530,7 +9530,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_22_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_22.jpg",
       "slide2_filename": "SidIsha_Day_22_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DgB-qEeJTsB/",
       "slide1_alt": "A reflective sunset photograph on a weathered stone terrace parapet, showing two official university admission envelopes resting side-by-side with postmarks from Delhi and Bangalore against a violet evening sky. A text overlay at the top reads \"The skies are different. The gravity stays the same.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Different Envelopes\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the bitter reality of university counseling letters placing Sid in Delhi and Isha in Bangalore, facing the realization that different skies cannot break their shared gravitational pull. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

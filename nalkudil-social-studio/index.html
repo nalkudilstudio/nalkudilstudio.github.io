@@ -1946,7 +1946,7 @@ ${item.description}`;
               <span class="ep-badge gold" style="background: linear-gradient(135deg, #FFB800, #FF3D00); color: #070B11; font-weight: 800;">EPISODE #${String(ep).padStart(2, '0')}</span>
               <span class="cat-badge" style="background: rgba(255, 184, 0, 0.12); color: #FFD700; border: 1px solid rgba(255, 184, 0, 0.3);">⚡ ${escapeHtml(item.category)}</span>
               <span class="cat-badge">🌀 The Loop Minimalist Animation</span>
-              <span class="slot-badge">🕒 22:30 IST Bedtime Reset</span>
+              <span class="slot-badge" style="background: rgba(255, 184, 0, 0.15); color: #FFB800; font-weight: 700;">🕒 ${escapeHtml(item.target_drop || item.slot || '21:30 IST (Mon-Fri)')}</span>
               ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none; font-weight: 700;">▶️ Live Short</a>` : ''}
               <a href="${item.playlist_url || 'https://www.youtube.com/playlist?list=PLePHexsR8nF4'}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(255, 184, 0, 0.15); color: #FFD700; border: 1px solid rgba(255, 184, 0, 0.4); text-decoration: none; font-weight: 700;">📑 Motivation Playlist</a>
             </div>

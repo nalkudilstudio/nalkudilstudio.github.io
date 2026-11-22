@@ -10608,7 +10608,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_011.jpg",
       "cover_filename": "cover_comic_011.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 11
@@ -10629,7 +10629,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_012.jpg",
       "cover_filename": "cover_comic_012.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 12
@@ -10650,7 +10650,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_013.jpg",
       "cover_filename": "cover_comic_013.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 13
@@ -10671,7 +10671,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_014.jpg",
       "cover_filename": "cover_comic_014.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 14
@@ -10692,7 +10692,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_015.jpg",
       "cover_filename": "cover_comic_015.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 15
@@ -10713,7 +10713,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_016.jpg",
       "cover_filename": "cover_comic_016.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 16
@@ -10734,7 +10734,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_017.jpg",
       "cover_filename": "cover_comic_017.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 17
@@ -10755,7 +10755,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_018.jpg",
       "cover_filename": "cover_comic_018.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 18
@@ -10776,7 +10776,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_019.jpg",
       "cover_filename": "cover_comic_019.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 19
@@ -10797,7 +10797,7 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "உங்க வாழ்க்கையிலும் இப்படி பண்ற ஆட்களை பாத்திருக்கீங்களா? 😂👇 Drop your thoughts in the comments!\n\n🔔 Subscribe to @theloopvid for daily Karma Court ⚖️😂 at 1:30 PM IST! 🚀",
       "cover_url": "assets/comic_tales/cover_comic_020.jpg",
       "cover_filename": "cover_comic_020.jpg",
-      "status": "STAGED 🎬",
+      "status": "READY 🚀",
       "playlist_name": "Karma Court ⚖️😂 | கர்மா கோர்ட் (Comic Tales)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 20

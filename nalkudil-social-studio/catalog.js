@@ -12116,7 +12116,7 @@ window.PUBLISHING_CATALOG = {
       "category": "Persistence & Focus",
       "situation": "Underground 4-lane cross-section: Motivation drops pickaxe at 10m, Ego breaks rock, Discipline chips away, Obsession shatters into diamond light.",
       "moral": "4 miners. 100 meters of bedrock. Most people quit 1 inch before the diamonds.",
-      "video_filename": "motivation_tales_022_who_reaches_the_diamonds_master.mp4",
+      "video_filename": "motivation_tales_022_who_reaches_diamonds_master.mp4",
       "cover_url": "assets/motivations/cover_motivation_022.jpg",
       "title": "Motivation Tales: Ep 22 | Who Reaches the Diamonds? ⚡ #Shorts #TheLoop",
       "description": "\"4 miners. 100 meters of bedrock. Most people quit 1 inch before the diamonds.\"\n\n⚡ THE CORE LESSON:\nUnderground 4-lane cross-section: Motivation drops pickaxe at 10m, Ego breaks rock, Discipline chips away, Obsession shatters into diamond light.\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 9:30 PM IST (Mon-Fri Bedtime Mindset Reset)\n───────────────\n\nDaily micro-habits and profound life lessons animated in minimalist looping line-art.\n\n🔔 SUBSCRIBE to @theloopvid for daily 9:30 PM mindset resets!\n\n#Shorts #Motivation #Discipline #Obsession #Mindset #SelfImprovement #TheLoop",

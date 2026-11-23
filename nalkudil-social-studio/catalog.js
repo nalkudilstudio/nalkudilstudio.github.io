@@ -9551,7 +9551,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_23_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_23.jpg",
       "slide2_filename": "SidIsha_Day_23_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DgEjX7RFwp_/",
       "slide1_alt": "An emotional airport departure terminal photograph framed through glass departure gates, showing a young Indian couple embracing tightly as boarding call announcements echo under cool airport halogen lights. A text overlay at the top reads \"Every frequency in my mind is tuned to you.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Terminal Goodbyes\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid seeing Isha off at Terminal 1 as she boards her flight for overseas higher education, sharing a desperate embrace that promises their minds will stay tuned to each other across any distance. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

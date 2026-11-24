@@ -1024,7 +1024,7 @@
     const catalog = window.PUBLISHING_CATALOG || { sarav_ai: [], the_loop: [], sid_isha: [], inkling_ig: [] };
 
     // Published Checklists (persisted in localStorage with version migration)
-    const CATALOG_VERSION = '2026-11-21-v3';
+    const CATALOG_VERSION = '2026-11-24-v1';
     const storageKeys = {
       sarav_ai: 'nss_published_sarav_ai',
       the_loop: 'nss_published_the_loop',
@@ -1221,7 +1221,7 @@
         );
       } else if (currentSuite === 'motivation_tales') {
         chips.push(
-          { id: 'all', label: 'All (20)' },
+          { id: 'all', label: 'All (50)' },
           { id: 'ready', label: '🚀 Ready' },
           { id: 'cat_discipline', label: '🛡️ Discipline & Habits' },
           { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },

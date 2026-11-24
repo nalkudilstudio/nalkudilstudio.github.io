@@ -1024,7 +1024,7 @@
     const catalog = window.PUBLISHING_CATALOG || { sarav_ai: [], the_loop: [], sid_isha: [], inkling_ig: [] };
 
     // Published Checklists (persisted in localStorage with version migration)
-    const CATALOG_VERSION = '2026-11-24-v2';
+    const CATALOG_VERSION = '2026-11-24-v3';
     const storageKeys = {
       sarav_ai: 'nss_published_sarav_ai',
       the_loop: 'nss_published_the_loop',
@@ -1812,6 +1812,7 @@
               <span class="ep-badge gold" style="background: linear-gradient(135deg, #E6C875, #B89230); color: #070B11; font-weight: 800;">CASE #${String(ep).padStart(2, '0')}</span>
               <span class="cat-badge" style="background: rgba(230, 200, 117, 0.12); color: var(--gold-bright); border: 1px solid rgba(230, 200, 117, 0.3);">${escapeHtml(item.category)}</span>
               <span class="cat-badge">🏛️ Melogam Justice</span>
+              <span class="cat-badge" style="background: rgba(255, 184, 0, 0.15); color: #FFB800; border: 1px solid rgba(255, 184, 0, 0.3); font-weight: 700;">🎭 @NammaOoruDrama</span>
               <span class="slot-badge">🕒 13:30 IST Lunchtime Drop</span>
               ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none; font-weight: 700;">${isPublished ? '▶️ Live Short' : '▶️ Preview Short'}</a>` : ''}
             </div>

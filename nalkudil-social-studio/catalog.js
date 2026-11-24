@@ -9568,7 +9568,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_24_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_24.jpg",
       "slide2_filename": "SidIsha_Day_24_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DgIEHJkEaUi/",
       "slide1_alt": "A somber, vintage photograph of a yellow coin-box payphone on a peeling hostel hallway wall under a dim fluorescent bulb, the telephone receiver hanging silent from its coiled cord. A text overlay at the top reads \"The silence felt absolute.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"The Cut Wire\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid standing before a dead hostel coin-box payphone as the hostel gates slam shut, facing the deafening silence of disconnected phone lines and unanswered letters. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

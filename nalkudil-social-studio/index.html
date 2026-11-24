@@ -1024,7 +1024,7 @@
     const catalog = window.PUBLISHING_CATALOG || { sarav_ai: [], the_loop: [], sid_isha: [], inkling_ig: [] };
 
     // Published Checklists (persisted in localStorage with version migration)
-    const CATALOG_VERSION = '2026-11-24-v1';
+    const CATALOG_VERSION = '2026-11-24-v2';
     const storageKeys = {
       sarav_ai: 'nss_published_sarav_ai',
       the_loop: 'nss_published_the_loop',
@@ -1192,11 +1192,13 @@
           { id: 'inkling', label: '🔁 Inkling Tales (6)' }
         );
       } else if (currentSuite === 'the_loop') {
+        for (let i = 1; i <= 300; i += 10) {
+          const end = Math.min(i + 9, 300);
+          const startStr = String(i).padStart(3, '0');
+          const endStr = String(end).padStart(3, '0');
+          chips.push({ id: `b_${startStr}_${endStr}`, label: `Ep ${startStr}–${endStr}` });
+        }
         chips.push(
-          { id: 'b1', label: 'Ep 001–050' },
-          { id: 'b2', label: 'Ep 051–100' },
-          { id: 'b3', label: 'Ep 101–200' },
-          { id: 'b4', label: 'Ep 201–300' },
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
         );
@@ -1296,10 +1298,16 @@
           if (currentFilter === 'inkling' && item.category !== 'inkling_tales') return false;
         } else if (currentSuite === 'the_loop') {
           const ep = item.episode;
-          if (currentFilter === 'b1' && !(ep >= 1 && ep <= 50)) return false;
-          if (currentFilter === 'b2' && !(ep >= 51 && ep <= 100)) return false;
-          if (currentFilter === 'b3' && !(ep >= 101 && ep <= 200)) return false;
-          if (currentFilter === 'b4' && !(ep >= 201 && ep <= 300)) return false;
+          if (currentFilter.startsWith('b_')) {
+            const parts = currentFilter.split('_');
+            const startEp = parseInt(parts[1], 10);
+            const endEp = parseInt(parts[2], 10);
+            if (ep === 1111) {
+              if (!(startEp === 41 && endEp === 50)) return false;
+            } else if (!(ep >= startEp && ep <= endEp)) {
+              return false;
+            }
+          }
         } else if (currentSuite === 'sid_isha') {
           const act = item.act;
           if (currentFilter === 'act1' && act !== 1) return false;

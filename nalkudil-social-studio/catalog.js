@@ -2780,13 +2780,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_002.jpg",
       "cover_filename": "cover_tale_002.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "IAgz19sfr_o",
-      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "youtube_id": "5_DCih2Pnb4",
+      "youtube_url": "https://www.youtube.com/shorts/5_DCih2Pnb4",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 3,
@@ -2803,13 +2804,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_003.jpg",
       "cover_filename": "cover_tale_003.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "34MLcUDzmYY",
-      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "youtube_id": "CjSIFUaPOFY",
+      "youtube_url": "https://www.youtube.com/shorts/CjSIFUaPOFY",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 4,
@@ -2849,13 +2851,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_005.jpg",
       "cover_filename": "cover_tale_005.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "BzALSyseXeY",
-      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "youtube_id": "0ou3XMg29q0",
+      "youtube_url": "https://www.youtube.com/shorts/0ou3XMg29q0",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 6,
@@ -2872,13 +2875,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_006.jpg",
       "cover_filename": "cover_tale_006.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "mf7Qv7vkejU",
-      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "youtube_id": "-lV7TCRAI5Y",
+      "youtube_url": "https://www.youtube.com/shorts/-lV7TCRAI5Y",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 7,
@@ -3102,13 +3106,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_016.jpg",
       "cover_filename": "cover_tale_016.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "9DOM966d0zQ",
-      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "youtube_id": "2f1ma97EXmg",
+      "youtube_url": "https://www.youtube.com/shorts/2f1ma97EXmg",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 17,
@@ -3148,13 +3153,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_018.jpg",
       "cover_filename": "cover_tale_018.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "BzALSyseXeY",
-      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "youtube_id": "vjhlHng_3Fk",
+      "youtube_url": "https://www.youtube.com/shorts/vjhlHng_3Fk",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 19,
@@ -3217,13 +3223,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_021.jpg",
       "cover_filename": "cover_tale_021.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "IAgz19sfr_o",
-      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "youtube_id": "CIC8O381F4c",
+      "youtube_url": "https://www.youtube.com/shorts/CIC8O381F4c",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 22,
@@ -3263,13 +3270,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_023.jpg",
       "cover_filename": "cover_tale_023.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vfxAY56RHa4",
-      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "youtube_id": "2vXrp2kVrB4",
+      "youtube_url": "https://www.youtube.com/shorts/2vXrp2kVrB4",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 24,
@@ -3286,13 +3294,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_024.jpg",
       "cover_filename": "cover_tale_024.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "BzALSyseXeY",
-      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "youtube_id": "GwmdZN5d0e8",
+      "youtube_url": "https://www.youtube.com/shorts/GwmdZN5d0e8",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 25,
@@ -3309,13 +3318,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_025.jpg",
       "cover_filename": "cover_tale_025.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "mf7Qv7vkejU",
-      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "youtube_id": "kNncJhSb8Zc",
+      "youtube_url": "https://www.youtube.com/shorts/kNncJhSb8Zc",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 26,
@@ -3332,13 +3342,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_026.jpg",
       "cover_filename": "cover_tale_026.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "34MLcUDzmYY",
-      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "youtube_id": "zamOBe0-vPo",
+      "youtube_url": "https://www.youtube.com/shorts/zamOBe0-vPo",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 27,
@@ -3355,13 +3366,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_027.jpg",
       "cover_filename": "cover_tale_027.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "IAgz19sfr_o",
-      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "youtube_id": "MZrEJ-xejZE",
+      "youtube_url": "https://www.youtube.com/shorts/MZrEJ-xejZE",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 28,
@@ -3378,13 +3390,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_028.jpg",
       "cover_filename": "cover_tale_028.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "9DOM966d0zQ",
-      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "youtube_id": "36Ai0o4E8HU",
+      "youtube_url": "https://www.youtube.com/shorts/36Ai0o4E8HU",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 29,
@@ -3401,13 +3414,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_029.jpg",
       "cover_filename": "cover_tale_029.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vfxAY56RHa4",
-      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "youtube_id": "IqP5HLEhgvY",
+      "youtube_url": "https://www.youtube.com/shorts/IqP5HLEhgvY",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 30,
@@ -3424,13 +3438,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_030.jpg",
       "cover_filename": "cover_tale_030.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "BzALSyseXeY",
-      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "youtube_id": "bSkSpR5CyGU",
+      "youtube_url": "https://www.youtube.com/shorts/bSkSpR5CyGU",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 31,
@@ -3447,13 +3462,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_031.jpg",
       "cover_filename": "cover_tale_031.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "mf7Qv7vkejU",
-      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "youtube_id": "YCapkhSNgT0",
+      "youtube_url": "https://www.youtube.com/shorts/YCapkhSNgT0",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 32,
@@ -3470,13 +3486,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_032.jpg",
       "cover_filename": "cover_tale_032.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "34MLcUDzmYY",
-      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "youtube_id": "JyL3bTLTM6E",
+      "youtube_url": "https://www.youtube.com/shorts/JyL3bTLTM6E",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 33,
@@ -3493,13 +3510,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_033.jpg",
       "cover_filename": "cover_tale_033.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "IAgz19sfr_o",
-      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "youtube_id": "OeCjG-VmgMc",
+      "youtube_url": "https://www.youtube.com/shorts/OeCjG-VmgMc",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 34,
@@ -3516,13 +3534,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_034.jpg",
       "cover_filename": "cover_tale_034.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "9DOM966d0zQ",
-      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "youtube_id": "6lp_9vJKdKA",
+      "youtube_url": "https://www.youtube.com/shorts/6lp_9vJKdKA",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 35,
@@ -3539,13 +3558,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_035.jpg",
       "cover_filename": "cover_tale_035.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vfxAY56RHa4",
-      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "youtube_id": "K0tGpRyoRm8",
+      "youtube_url": "https://www.youtube.com/shorts/K0tGpRyoRm8",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 36,
@@ -3562,13 +3582,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_036.jpg",
       "cover_filename": "cover_tale_036.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "BzALSyseXeY",
-      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "youtube_id": "70c5yFgSnrQ",
+      "youtube_url": "https://www.youtube.com/shorts/70c5yFgSnrQ",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 37,
@@ -3606,13 +3627,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_038.jpg",
       "cover_filename": "cover_tale_038.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "mf7Qv7vkejU",
-      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "youtube_id": "9DOM966d0zQ",
+      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 39,
@@ -3629,13 +3651,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_039.jpg",
       "cover_filename": "cover_tale_039.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "34MLcUDzmYY",
-      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "youtube_id": "IAgz19sfr_o",
+      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 40,
@@ -3652,13 +3675,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_040.jpg",
       "cover_filename": "cover_tale_040.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "IAgz19sfr_o",
-      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "youtube_id": "34MLcUDzmYY",
+      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 41,
@@ -3675,13 +3699,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_041.jpg",
       "cover_filename": "cover_tale_041.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "9DOM966d0zQ",
-      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "youtube_id": "vfxAY56RHa4",
+      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 42,
@@ -3698,13 +3723,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_042.jpg",
       "cover_filename": "cover_tale_042.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vfxAY56RHa4",
-      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "youtube_id": "BzALSyseXeY",
+      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 43,
@@ -3721,13 +3747,14 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_043.jpg",
       "cover_filename": "cover_tale_043.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "BzALSyseXeY",
-      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "youtube_id": "mf7Qv7vkejU",
+      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 1111,
@@ -3750,7 +3777,9 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
       "youtube_url": "https://www.youtube.com/shorts/0dYr-MKUVy4",
-      "live_url": "https://www.youtube.com/shorts/0dYr-MKUVy4"
+      "live_url": "https://www.youtube.com/shorts/0dYr-MKUVy4",
+      "youtube_id": "0dYr-MKUVy4",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 44,
@@ -3773,7 +3802,8 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
       "youtube_id": "s-0ygz6iNa4",
-      "youtube_url": "https://www.youtube.com/shorts/s-0ygz6iNa4"
+      "youtube_url": "https://www.youtube.com/shorts/s-0ygz6iNa4",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 45,
@@ -3796,7 +3826,8 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
       "youtube_id": "oFhpifrtMmY",
-      "youtube_url": "https://www.youtube.com/shorts/oFhpifrtMmY"
+      "youtube_url": "https://www.youtube.com/shorts/oFhpifrtMmY",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 46,
@@ -3819,7 +3850,8 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
       "youtube_id": "dW631CaY4l0",
-      "youtube_url": "https://www.youtube.com/shorts/dW631CaY4l0"
+      "youtube_url": "https://www.youtube.com/shorts/dW631CaY4l0",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 47,
@@ -3842,7 +3874,8 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
       "youtube_id": "sEvksdP8MDU",
-      "youtube_url": "https://www.youtube.com/shorts/sEvksdP8MDU"
+      "youtube_url": "https://www.youtube.com/shorts/sEvksdP8MDU",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 48,
@@ -3865,7 +3898,8 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "youtube_id": "bGw7bHpWv7A",
-      "youtube_url": "https://www.youtube.com/shorts/bGw7bHpWv7A"
+      "youtube_url": "https://www.youtube.com/shorts/bGw7bHpWv7A",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 49,
@@ -3888,7 +3922,8 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
       "youtube_id": "fDyDopEm_ik",
-      "youtube_url": "https://www.youtube.com/shorts/fDyDopEm_ik"
+      "youtube_url": "https://www.youtube.com/shorts/fDyDopEm_ik",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 50,
@@ -3911,7 +3946,9 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
       "youtube_url": "https://www.youtube.com/shorts/nMtrc8KZXqY",
-      "live_url": "https://www.youtube.com/shorts/nMtrc8KZXqY"
+      "live_url": "https://www.youtube.com/shorts/nMtrc8KZXqY",
+      "youtube_id": "nMtrc8KZXqY",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 51,
@@ -3932,7 +3969,10 @@ window.PUBLISHING_CATALOG = {
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "youtube_id": "xAEHuVsYj-g",
+      "youtube_url": "https://www.youtube.com/shorts/xAEHuVsYj-g",
+      "target_drop": "Scheduled for Tomorrow ⏳"
     },
     {
       "episode": 52,
@@ -3953,7 +3993,10 @@ window.PUBLISHING_CATALOG = {
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "youtube_id": "N7OCv7zCVko",
+      "youtube_url": "https://www.youtube.com/shorts/N7OCv7zCVko",
+      "target_drop": "Scheduled for Tomorrow ⏳"
     },
     {
       "episode": 53,
@@ -3969,12 +4012,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🔍✦\nDid the detective solve the mystery, or did he sacrifice himself to protect someone?",
       "cover_url": "assets/the_loop/cover_tale_053.jpg",
       "cover_filename": "cover_tale_053.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "youtube_id": "-PBuSGKMccg",
+      "youtube_url": "https://www.youtube.com/shorts/-PBuSGKMccg",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 54,

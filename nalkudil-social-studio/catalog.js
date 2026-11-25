@@ -9631,7 +9631,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_25_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_25.jpg",
       "slide2_filename": "SidIsha_Day_25_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DgKygLtDUhp/",
       "slide1_alt": "A striking dual-contrast photograph: an Indian woman bundled in a winter wool coat walking along a snowy Munich boulevard, contrasted against a man working at a rainy Bangalore desk, both glancing at the cloudy sky. A text overlay at the top reads \"Distant horizons, zero contact—yet never so alone.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Across Hemispheres\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates the passage of years across different continents, as Isha walks through European autumns and Sid builds his engineering career, living parallel lives bound by silent memory. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

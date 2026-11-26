@@ -25,8 +25,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "1beFkdxqO-s",
-      "youtube_url": "https://www.youtube.com/shorts/1beFkdxqO-s",
-      "whatsapp_post": "Day 1 / 100: Tokens — (Day 1/100) Your AI Doesn't Read Words. It Reads THIS\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tokens with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/1beFkdxqO-s\n\n🗳️ Test your knowledge (Day 1 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/1beFkdxqO-s",
+      "whatsapp_post": "Day 1 / 100: Tokens — (Day 1/100) Your AI Doesn't Read Words. It Reads THIS\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tokens with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/1beFkdxqO-s\n\n🗳️ Test your knowledge (Day 1 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/1beFkdxqO-s",
+      "views": 146,
+      "view_count": 146
     },
     {
       "day": "Day 2",
@@ -53,8 +56,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "mvegAJR9Qdg",
-      "youtube_url": "https://www.youtube.com/shorts/mvegAJR9Qdg",
-      "whatsapp_post": "Day 2 / 100: Context Window — (Day 2/100) AI Has a Secret Memory Limit: Context Windows\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Window with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/mvegAJR9Qdg\n\n🗳️ Test your knowledge (Day 2 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/mvegAJR9Qdg",
+      "whatsapp_post": "Day 2 / 100: Context Window — (Day 2/100) AI Has a Secret Memory Limit: Context Windows\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Window with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/mvegAJR9Qdg\n\n🗳️ Test your knowledge (Day 2 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/mvegAJR9Qdg",
+      "views": 75,
+      "view_count": 75
     },
     {
       "day": "Day 3",
@@ -81,8 +87,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "ghOUtQoi9x8",
-      "youtube_url": "https://www.youtube.com/shorts/ghOUtQoi9x8",
-      "whatsapp_post": "Day 3 / 100: Embeddings — (Day 3/100) Why AI Turns Every Word Into Numbers: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ghOUtQoi9x8\n\n🗳️ Test your knowledge (Day 3 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/ghOUtQoi9x8",
+      "whatsapp_post": "Day 3 / 100: Embeddings — (Day 3/100) Why AI Turns Every Word Into Numbers: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ghOUtQoi9x8\n\n🗳️ Test your knowledge (Day 3 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/ghOUtQoi9x8",
+      "views": 77,
+      "view_count": 77
     },
     {
       "day": "Day 4",
@@ -109,8 +118,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "kWRB1bpI1QY",
-      "youtube_url": "https://www.youtube.com/shorts/kWRB1bpI1QY",
-      "whatsapp_post": "Day 4 / 100: Transformers — (Day 4/100) The One Invention Behind Every AI: Transformers\n\nDive into today's bite-sized AI architecture breakdown! We unpack Transformers with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/kWRB1bpI1QY\n\n🗳️ Test your knowledge (Day 4 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/kWRB1bpI1QY",
+      "whatsapp_post": "Day 4 / 100: Transformers — (Day 4/100) The One Invention Behind Every AI: Transformers\n\nDive into today's bite-sized AI architecture breakdown! We unpack Transformers with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/kWRB1bpI1QY\n\n🗳️ Test your knowledge (Day 4 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/kWRB1bpI1QY",
+      "views": 51,
+      "view_count": 51
     },
     {
       "day": "Day 5",
@@ -137,8 +149,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "TgiUHtfkWig",
-      "youtube_url": "https://www.youtube.com/shorts/TgiUHtfkWig",
-      "whatsapp_post": "Day 5 / 100: Attention Mechanism — (Day 5/100) How AI Knows Which Words Matter Most: Attention\n\nDive into today's bite-sized AI architecture breakdown! We unpack Attention Mechanism with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/TgiUHtfkWig\n\n🗳️ Test your knowledge (Day 5 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/TgiUHtfkWig",
+      "whatsapp_post": "Day 5 / 100: Attention Mechanism — (Day 5/100) How AI Knows Which Words Matter Most: Attention\n\nDive into today's bite-sized AI architecture breakdown! We unpack Attention Mechanism with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/TgiUHtfkWig\n\n🗳️ Test your knowledge (Day 5 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/TgiUHtfkWig",
+      "views": 63,
+      "view_count": 63
     },
     {
       "day": "Day 6",
@@ -165,8 +180,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-krKiNXAH_Y",
-      "youtube_url": "https://www.youtube.com/shorts/-krKiNXAH_Y",
-      "whatsapp_post": "Day 6 / 100: Temperature — (Day 6/100) This One Setting Controls AI Creativity: Temperature\n\nDive into today's bite-sized AI architecture breakdown! We unpack Temperature with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-krKiNXAH_Y\n\n🗳️ Test your knowledge (Day 6 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/-krKiNXAH_Y",
+      "whatsapp_post": "Day 6 / 100: Temperature — (Day 6/100) This One Setting Controls AI Creativity: Temperature\n\nDive into today's bite-sized AI architecture breakdown! We unpack Temperature with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-krKiNXAH_Y\n\n🗳️ Test your knowledge (Day 6 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/-krKiNXAH_Y",
+      "views": 40,
+      "view_count": 40
     },
     {
       "day": "Day 7",
@@ -193,8 +211,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "A7p_ETb7V48",
-      "youtube_url": "https://www.youtube.com/shorts/A7p_ETb7V48",
-      "whatsapp_post": "Day 7 / 100: Zero-shot Learning — (Day 7/100) How AI Solves Tasks It Was NEVER Trained For\n\nDive into today's bite-sized AI architecture breakdown! We unpack Zero-shot Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/A7p_ETb7V48\n\n🗳️ Test your knowledge (Day 7 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/A7p_ETb7V48",
+      "whatsapp_post": "Day 7 / 100: Zero-shot Learning — (Day 7/100) How AI Solves Tasks It Was NEVER Trained For\n\nDive into today's bite-sized AI architecture breakdown! We unpack Zero-shot Learning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/A7p_ETb7V48\n\n🗳️ Test your knowledge (Day 7 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/A7p_ETb7V48",
+      "views": 143,
+      "view_count": 143
     },
     {
       "day": "Day 8",
@@ -221,8 +242,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "EM7Ue3j2u1c",
-      "youtube_url": "https://www.youtube.com/shorts/EM7Ue3j2u1c",
-      "whatsapp_post": "Day 8 / 100: Few-Shot Prompting — (Day 8/100) Teach AI Anything Using Just 3 Examples: Few-Shot\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-Shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/EM7Ue3j2u1c\n\n🗳️ Test your knowledge (Day 8 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/EM7Ue3j2u1c",
+      "whatsapp_post": "Day 8 / 100: Few-Shot Prompting — (Day 8/100) Teach AI Anything Using Just 3 Examples: Few-Shot\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-Shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/EM7Ue3j2u1c\n\n🗳️ Test your knowledge (Day 8 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/EM7Ue3j2u1c",
+      "views": 384,
+      "view_count": 384
     },
     {
       "day": "Day 9",
@@ -249,8 +273,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "dI-iFQ1j_SY",
-      "youtube_url": "https://www.youtube.com/shorts/dI-iFQ1j_SY",
-      "whatsapp_post": "Day 9 / 100: Chain of Thought — (Day 9/100) Why \"Think Step by Step\" Makes AI 10x Smarter\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chain of Thought with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/dI-iFQ1j_SY\n\n🗳️ Test your knowledge (Day 9 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/dI-iFQ1j_SY",
+      "whatsapp_post": "Day 9 / 100: Chain of Thought — (Day 9/100) Why \"Think Step by Step\" Makes AI 10x Smarter\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chain of Thought with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/dI-iFQ1j_SY\n\n🗳️ Test your knowledge (Day 9 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/dI-iFQ1j_SY",
+      "views": 398,
+      "view_count": 398
     },
     {
       "day": "Day 10",
@@ -277,8 +304,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "xnhOWpL_P0E",
-      "youtube_url": "https://www.youtube.com/shorts/xnhOWpL_P0E",
-      "whatsapp_post": "Day 10 / 100: AI Hallucination — (Day 10/100) Why AI Confidently Lies to You: Hallucinations\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Hallucination with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xnhOWpL_P0E\n\n🗳️ Test your knowledge (Day 10 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/xnhOWpL_P0E",
+      "whatsapp_post": "Day 10 / 100: AI Hallucination — (Day 10/100) Why AI Confidently Lies to You: Hallucinations\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Hallucination with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xnhOWpL_P0E\n\n🗳️ Test your knowledge (Day 10 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/xnhOWpL_P0E",
+      "views": 63,
+      "view_count": 63
     },
     {
       "day": "Day 11",
@@ -305,8 +335,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "os_bDL3rLKM",
-      "youtube_url": "https://www.youtube.com/shorts/os_bDL3rLKM",
-      "whatsapp_post": "Day 11 / 100: System Prompts — (Day 11/100) The Hidden Rules Controlling Every AI: System Prompts\n\nDive into today's bite-sized AI architecture breakdown! We unpack System Prompts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/os_bDL3rLKM\n\n🗳️ Test your knowledge (Day 11 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/os_bDL3rLKM",
+      "whatsapp_post": "Day 11 / 100: System Prompts — (Day 11/100) The Hidden Rules Controlling Every AI: System Prompts\n\nDive into today's bite-sized AI architecture breakdown! We unpack System Prompts with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/os_bDL3rLKM\n\n🗳️ Test your knowledge (Day 11 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/os_bDL3rLKM",
+      "views": 147,
+      "view_count": 147
     },
     {
       "day": "Day 12",
@@ -333,8 +366,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "tZ_ka5zOvz0",
-      "youtube_url": "https://www.youtube.com/shorts/tZ_ka5zOvz0",
-      "whatsapp_post": "Day 12 / 100: Prompt Chaining — (Day 12/100) Stop Asking AI One Giant Question: Prompt Chaining\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Chaining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/tZ_ka5zOvz0\n\n🗳️ Test your knowledge (Day 12 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/tZ_ka5zOvz0",
+      "whatsapp_post": "Day 12 / 100: Prompt Chaining — (Day 12/100) Stop Asking AI One Giant Question: Prompt Chaining\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Chaining with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/tZ_ka5zOvz0\n\n🗳️ Test your knowledge (Day 12 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/tZ_ka5zOvz0",
+      "views": 325,
+      "view_count": 325
     },
     {
       "day": "Day 13",
@@ -361,8 +397,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "xjEeQ-YiteU",
-      "youtube_url": "https://www.youtube.com/shorts/xjEeQ-YiteU",
-      "whatsapp_post": "Day 13 / 100: Role Prompting — (Day 13/100) How One Job Title Unlocks Expert AI: Role Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Role Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xjEeQ-YiteU\n\n🗳️ Test your knowledge (Day 13 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/xjEeQ-YiteU",
+      "whatsapp_post": "Day 13 / 100: Role Prompting — (Day 13/100) How One Job Title Unlocks Expert AI: Role Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Role Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/xjEeQ-YiteU\n\n🗳️ Test your knowledge (Day 13 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/xjEeQ-YiteU",
+      "views": 155,
+      "view_count": 155
     },
     {
       "day": "Day 14",
@@ -389,8 +428,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "i9KuTmULUfs",
-      "youtube_url": "https://www.youtube.com/shorts/i9KuTmULUfs",
-      "whatsapp_post": "Day 14 / 100: Few-shot Prompting — (Day 14/100) Show, Don't Tell: How to Make AI Write Like You\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/i9KuTmULUfs\n\n🗳️ Test your knowledge (Day 14 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/i9KuTmULUfs",
+      "whatsapp_post": "Day 14 / 100: Few-shot Prompting — (Day 14/100) Show, Don't Tell: How to Make AI Write Like You\n\nDive into today's bite-sized AI architecture breakdown! We unpack Few-shot Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/i9KuTmULUfs\n\n🗳️ Test your knowledge (Day 14 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/i9KuTmULUfs",
+      "views": 112,
+      "view_count": 112
     },
     {
       "day": "Day 15",
@@ -417,8 +459,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "KFLDBvjufkA",
-      "youtube_url": "https://www.youtube.com/shorts/KFLDBvjufkA",
-      "whatsapp_post": "Day 15 / 100: Negative Prompting — (Day 15/100) Stop AI From Using Robot Fluff: Negative Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Negative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KFLDBvjufkA\n\n🗳️ Test your knowledge (Day 15 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/KFLDBvjufkA",
+      "whatsapp_post": "Day 15 / 100: Negative Prompting — (Day 15/100) Stop AI From Using Robot Fluff: Negative Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Negative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KFLDBvjufkA\n\n🗳️ Test your knowledge (Day 15 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/KFLDBvjufkA",
+      "views": 837,
+      "view_count": 837
     },
     {
       "day": "Day 16",
@@ -445,8 +490,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "_yAo-Ej18eg",
-      "youtube_url": "https://www.youtube.com/shorts/_yAo-Ej18eg",
-      "whatsapp_post": "Day 16 / 100: Prompt Injection — (Day 16/100) How 1 Line of Hidden Text Hacks Enterprise AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/_yAo-Ej18eg\n\n🗳️ Test your knowledge (Day 16 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/_yAo-Ej18eg",
+      "whatsapp_post": "Day 16 / 100: Prompt Injection — (Day 16/100) How 1 Line of Hidden Text Hacks Enterprise AI\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/_yAo-Ej18eg\n\n🗳️ Test your knowledge (Day 16 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/_yAo-Ej18eg",
+      "views": 163,
+      "view_count": 163
     },
     {
       "day": "Day 17",
@@ -473,8 +521,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "LXaadvIMv6s",
-      "youtube_url": "https://www.youtube.com/shorts/LXaadvIMv6s",
-      "whatsapp_post": "Day 17 / 100: Structured Output — (Day 17/100) Stop Parsing AI Text: Use Structured JSON Output\n\nDive into today's bite-sized AI architecture breakdown! We unpack Structured Output with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/LXaadvIMv6s\n\n🗳️ Test your knowledge (Day 17 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/LXaadvIMv6s",
+      "whatsapp_post": "Day 17 / 100: Structured Output — (Day 17/100) Stop Parsing AI Text: Use Structured JSON Output\n\nDive into today's bite-sized AI architecture breakdown! We unpack Structured Output with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/LXaadvIMv6s\n\n🗳️ Test your knowledge (Day 17 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/LXaadvIMv6s",
+      "views": 487,
+      "view_count": 487
     },
     {
       "day": "Day 18",
@@ -501,8 +552,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "8lG7o0zeCLA",
-      "youtube_url": "https://www.youtube.com/shorts/8lG7o0zeCLA",
-      "whatsapp_post": "Day 18 / 100: Meta Prompting — (Day 18/100) Stop Writing AI Prompts Yourself: Meta-Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Meta Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8lG7o0zeCLA\n\n🗳️ Test your knowledge (Day 18 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/8lG7o0zeCLA",
+      "whatsapp_post": "Day 18 / 100: Meta Prompting — (Day 18/100) Stop Writing AI Prompts Yourself: Meta-Prompting\n\nDive into today's bite-sized AI architecture breakdown! We unpack Meta Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8lG7o0zeCLA\n\n🗳️ Test your knowledge (Day 18 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/8lG7o0zeCLA",
+      "views": 375,
+      "view_count": 375
     },
     {
       "day": "Day 19",
@@ -529,8 +583,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "c-DmZdCa7W0",
-      "youtube_url": "https://www.youtube.com/shorts/c-DmZdCa7W0",
-      "whatsapp_post": "Day 19 / 100: Iterative Prompting — (Day 19/100) Stop Accepting AI's First Draft: Fix It Fast\n\nDive into today's bite-sized AI architecture breakdown! We unpack Iterative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-DmZdCa7W0\n\n🗳️ Test your knowledge (Day 19 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/c-DmZdCa7W0",
+      "whatsapp_post": "Day 19 / 100: Iterative Prompting — (Day 19/100) Stop Accepting AI's First Draft: Fix It Fast\n\nDive into today's bite-sized AI architecture breakdown! We unpack Iterative Prompting with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-DmZdCa7W0\n\n🗳️ Test your knowledge (Day 19 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/c-DmZdCa7W0",
+      "views": 168,
+      "view_count": 168
     },
     {
       "day": "Day 20",
@@ -557,8 +614,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-XcuPBDl2aM",
-      "youtube_url": "https://www.youtube.com/shorts/-XcuPBDl2aM",
-      "whatsapp_post": "Day 20 / 100: Prompt Templates — (Day 20/100) Stop Typing Prompts From Scratch: Use R-C-T-F\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Templates with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-XcuPBDl2aM\n\n🗳️ Test your knowledge (Day 20 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/-XcuPBDl2aM",
+      "whatsapp_post": "Day 20 / 100: Prompt Templates — (Day 20/100) Stop Typing Prompts From Scratch: Use R-C-T-F\n\nDive into today's bite-sized AI architecture breakdown! We unpack Prompt Templates with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-XcuPBDl2aM\n\n🗳️ Test your knowledge (Day 20 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/-XcuPBDl2aM",
+      "views": 257,
+      "view_count": 257
     },
     {
       "day": "Day 21",
@@ -586,9 +646,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "5MKvLB09J-c",
-      "youtube_url": "https://www.youtube.com/shorts/5MKvLB09J-c",
+      "youtube_url": "https://youtube.com/shorts/5MKvLB09J-c",
       "whatsapp_post": "Day 21 / 100: Vector Database — (Day 21/100) Stop Fine-Tuning AI Models: Use RAG Instead\n\nDive into today's bite-sized AI architecture breakdown! We unpack Vector Database with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5MKvLB09J-c\n\n🗳️ Test your knowledge (Day 21 Quiz):\nhttps://youtube.com/post/UgkxD5FtAgBKpTYGm1F8NxEmOUIba24D59OG\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxD5FtAgBKpTYGm1F8NxEmOUIba24D59OG"
+      "poll_url": "https://youtube.com/post/UgkxD5FtAgBKpTYGm1F8NxEmOUIba24D59OG",
+      "video_url": "https://youtube.com/shorts/5MKvLB09J-c",
+      "views": 211,
+      "view_count": 211
     },
     {
       "day": "Day 22",
@@ -615,8 +678,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-AaLQMEHZAU",
-      "youtube_url": "https://www.youtube.com/shorts/-AaLQMEHZAU",
-      "whatsapp_post": "Day 22 / 100: Semantic Search — (Day 22/100) Stop Using Keyword Search for AI: Vector DBs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Semantic Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-AaLQMEHZAU\n\n🗳️ Test your knowledge (Day 22 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/-AaLQMEHZAU",
+      "whatsapp_post": "Day 22 / 100: Semantic Search — (Day 22/100) Stop Using Keyword Search for AI: Vector DBs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Semantic Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-AaLQMEHZAU\n\n🗳️ Test your knowledge (Day 22 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/-AaLQMEHZAU",
+      "views": 111,
+      "view_count": 111
     },
     {
       "day": "Day 23",
@@ -644,9 +710,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "cCyNsnQAe-Q",
-      "youtube_url": "https://www.youtube.com/shorts/cCyNsnQAe-Q",
+      "youtube_url": "https://youtube.com/shorts/cCyNsnQAe-Q",
       "whatsapp_post": "Day 23 / 100: RAG — (Day 23/100) Stop Dumping Huge PDFs Into AI: Chunking Fix\n\nDive into today's bite-sized AI architecture breakdown! We unpack RAG with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/cCyNsnQAe-Q\n\n🗳️ Test your knowledge (Day 23 Quiz):\nhttps://youtube.com/post/UgkxS5uxlv44TgUwxuKHRst9KrmkojHgIFfv\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxS5uxlv44TgUwxuKHRst9KrmkojHgIFfv"
+      "poll_url": "https://youtube.com/post/UgkxS5uxlv44TgUwxuKHRst9KrmkojHgIFfv",
+      "video_url": "https://youtube.com/shorts/cCyNsnQAe-Q",
+      "views": 96,
+      "view_count": 96
     },
     {
       "day": "Day 24",
@@ -673,8 +742,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "8cc_WGDMOBU",
-      "youtube_url": "https://www.youtube.com/shorts/8cc_WGDMOBU",
-      "whatsapp_post": "Day 24 / 100: Chunking — (Day 24/100) Stop Keyword Search for Long Docs: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chunking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8cc_WGDMOBU\n\n🗳️ Test your knowledge (Day 24 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/8cc_WGDMOBU",
+      "whatsapp_post": "Day 24 / 100: Chunking — (Day 24/100) Stop Keyword Search for Long Docs: Embeddings\n\nDive into today's bite-sized AI architecture breakdown! We unpack Chunking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/8cc_WGDMOBU\n\n🗳️ Test your knowledge (Day 24 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/8cc_WGDMOBU",
+      "views": 158,
+      "view_count": 158
     },
     {
       "day": "Day 25",
@@ -702,9 +774,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "qY2LbgivWWU",
-      "youtube_url": "https://www.youtube.com/shorts/qY2LbgivWWU",
+      "youtube_url": "https://youtube.com/shorts/qY2LbgivWWU",
       "whatsapp_post": "Day 25 / 100: Embeddings — (Day 25/100) Stop Blind Retrieval: Cosine Similarity\n\nDive into today's bite-sized AI architecture breakdown! We unpack Embeddings with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/qY2LbgivWWU\n\n🗳️ Test your knowledge (Day 25 Quiz):\nhttps://youtube.com/post/UgkxHUZe6cZe0y_iZjx8CVm0xOnrVoEFfJoU\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxHUZe6cZe0y_iZjx8CVm0xOnrVoEFfJoU"
+      "poll_url": "https://youtube.com/post/UgkxHUZe6cZe0y_iZjx8CVm0xOnrVoEFfJoU",
+      "video_url": "https://youtube.com/shorts/qY2LbgivWWU",
+      "views": 515,
+      "view_count": 515
     },
     {
       "day": "Day 26",
@@ -732,9 +807,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "lswnFGuDIq8",
-      "youtube_url": "https://www.youtube.com/shorts/lswnFGuDIq8",
+      "youtube_url": "https://youtube.com/shorts/lswnFGuDIq8",
       "whatsapp_post": "Day 26 / 100: Reranking — (Day 26/100) Stop Trusting the Top Search Result: Always Rerank\n\nDive into today's bite-sized AI architecture breakdown! We unpack Reranking with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/lswnFGuDIq8\n\n🗳️ Test your knowledge (Day 26 Quiz):\nhttps://youtube.com/post/UgkxFanbj79Kv6DWJbjYQIi2ktAjQdyHu1O9\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxFanbj79Kv6DWJbjYQIi2ktAjQdyHu1O9"
+      "poll_url": "https://youtube.com/post/UgkxFanbj79Kv6DWJbjYQIi2ktAjQdyHu1O9",
+      "video_url": "https://youtube.com/shorts/lswnFGuDIq8",
+      "views": 577,
+      "view_count": 577
     },
     {
       "day": "Day 27",
@@ -761,8 +839,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "KSSWj-5mPus",
-      "youtube_url": "https://www.youtube.com/shorts/KSSWj-5mPus",
-      "whatsapp_post": "Day 27 / 100: Knowledge Grounding — (Day 27/100) Stop AI Hallucinations Cold: Anchor With Grounding\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Grounding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KSSWj-5mPus\n\n🗳️ Test your knowledge (Day 27 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/KSSWj-5mPus",
+      "whatsapp_post": "Day 27 / 100: Knowledge Grounding — (Day 27/100) Stop AI Hallucinations Cold: Anchor With Grounding\n\nDive into today's bite-sized AI architecture breakdown! We unpack Knowledge Grounding with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/KSSWj-5mPus\n\n🗳️ Test your knowledge (Day 27 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/KSSWj-5mPus",
+      "views": 481,
+      "view_count": 481
     },
     {
       "day": "Day 28",
@@ -789,8 +870,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "O6R4vPadEgk",
-      "youtube_url": "https://www.youtube.com/shorts/O6R4vPadEgk",
-      "whatsapp_post": "Day 28 / 100: Hybrid Search — (Day 28/100) Stop Relying on One Search Method: Use Hybrid Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Hybrid Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/O6R4vPadEgk\n\n🗳️ Test your knowledge (Day 28 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/O6R4vPadEgk",
+      "whatsapp_post": "Day 28 / 100: Hybrid Search — (Day 28/100) Stop Relying on One Search Method: Use Hybrid Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Hybrid Search with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/O6R4vPadEgk\n\n🗳️ Test your knowledge (Day 28 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/O6R4vPadEgk",
+      "views": 139,
+      "view_count": 139
     },
     {
       "day": "Day 29",
@@ -817,8 +901,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "fwShBL1tWvo",
-      "youtube_url": "https://www.youtube.com/shorts/fwShBL1tWvo",
-      "whatsapp_post": "Day 29 / 100: Context Injection — (Day 29/100) Stop Letting Chatbots Forget Context: Inject State\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fwShBL1tWvo\n\n🗳️ Test your knowledge (Day 29 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/fwShBL1tWvo",
+      "whatsapp_post": "Day 29 / 100: Context Injection — (Day 29/100) Stop Letting Chatbots Forget Context: Inject State\n\nDive into today's bite-sized AI architecture breakdown! We unpack Context Injection with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fwShBL1tWvo\n\n🗳️ Test your knowledge (Day 29 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/fwShBL1tWvo",
+      "views": 363,
+      "view_count": 363
     },
     {
       "day": "Day 30",
@@ -845,8 +932,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "L61U79mMTLY",
-      "youtube_url": "https://www.youtube.com/shorts/L61U79mMTLY",
-      "whatsapp_post": "Day 30 / 100: Retrieval Latency — (Day 30/100) Stop Suffering 5-Second Latency: Optimize Vector Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Retrieval Latency with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/L61U79mMTLY\n\n🗳️ Test your knowledge (Day 30 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/L61U79mMTLY",
+      "whatsapp_post": "Day 30 / 100: Retrieval Latency — (Day 30/100) Stop Suffering 5-Second Latency: Optimize Vector Search\n\nDive into today's bite-sized AI architecture breakdown! We unpack Retrieval Latency with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/L61U79mMTLY\n\n🗳️ Test your knowledge (Day 30 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/L61U79mMTLY",
+      "views": 127,
+      "view_count": 127
     },
     {
       "day": "Day 31",
@@ -874,9 +964,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "ORpH9c0crUM",
-      "youtube_url": "https://www.youtube.com/shorts/ORpH9c0crUM",
+      "youtube_url": "https://youtube.com/shorts/ORpH9c0crUM",
       "whatsapp_post": "Day 31 / 100: AI Agents — (Day 31/100) Stop Using AI Just for Chat: Deploy Autonomous Agents\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Agents with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ORpH9c0crUM\n\n🗳️ Test your knowledge (Day 31 Quiz):\nhttps://youtube.com/post/Ugkx2NxO8_IbEQK-i7Xanyh7YunTlHQ6iRBi\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/Ugkx2NxO8_IbEQK-i7Xanyh7YunTlHQ6iRBi"
+      "poll_url": "https://youtube.com/post/Ugkx2NxO8_IbEQK-i7Xanyh7YunTlHQ6iRBi",
+      "video_url": "https://youtube.com/shorts/ORpH9c0crUM",
+      "views": 135,
+      "view_count": 135
     },
     {
       "day": "Day 32",
@@ -904,9 +997,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "smgvSDF_r2Y",
-      "youtube_url": "https://www.youtube.com/shorts/smgvSDF_r2Y",
+      "youtube_url": "https://youtube.com/shorts/smgvSDF_r2Y",
       "whatsapp_post": "Day 32 / 100: Tool Use — (Day 32/100) Stop Copy-Pasting AI Answers: Give AI Tools & APIs\n\nDive into today's bite-sized AI architecture breakdown! We unpack Tool Use with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/smgvSDF_r2Y\n\n🗳️ Test your knowledge (Day 32 Quiz):\nhttps://youtube.com/post/Ugkxs8eMUMZFmtBp8N_IQmXkwu74fi1NU5Ml\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/Ugkxs8eMUMZFmtBp8N_IQmXkwu74fi1NU5Ml"
+      "poll_url": "https://youtube.com/post/Ugkxs8eMUMZFmtBp8N_IQmXkwu74fi1NU5Ml",
+      "video_url": "https://youtube.com/shorts/smgvSDF_r2Y",
+      "views": 56,
+      "view_count": 56
     },
     {
       "day": "Day 33",
@@ -934,9 +1030,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "7EjgeXQrLsk",
-      "youtube_url": "https://www.youtube.com/shorts/7EjgeXQrLsk",
+      "youtube_url": "https://youtube.com/shorts/7EjgeXQrLsk",
       "whatsapp_post": "Day 33 / 100: Multi-Agent Systems — (Day 33/100) Stop Using One AI for Everything: Build Agent Squads\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multi-Agent Systems with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/7EjgeXQrLsk\n\n🗳️ Test your knowledge (Day 33 Quiz):\nhttps://youtube.com/post/UgkxMOHJKomKUsrOmPh19e5MJC-bGxEOo8bf\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxMOHJKomKUsrOmPh19e5MJC-bGxEOo8bf"
+      "poll_url": "https://youtube.com/post/UgkxMOHJKomKUsrOmPh19e5MJC-bGxEOo8bf",
+      "video_url": "https://youtube.com/shorts/7EjgeXQrLsk",
+      "views": 139,
+      "view_count": 139
     },
     {
       "day": "Day 34",
@@ -964,9 +1063,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "08iitruCQgs",
-      "youtube_url": "https://www.youtube.com/shorts/08iitruCQgs",
+      "youtube_url": "https://youtube.com/shorts/08iitruCQgs",
       "whatsapp_post": "Day 34 / 100: Agent Memory — (Day 34/100) Stop Losing Agent Chat History: Add Persistent Memory\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Memory with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/08iitruCQgs\n\n🗳️ Test your knowledge (Day 34 Quiz):\nhttps://youtube.com/post/UgkxTKrW4y4_UKPOFt_74HaBYc0nU4Y9zTI9\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxTKrW4y4_UKPOFt_74HaBYc0nU4Y9zTI9"
+      "poll_url": "https://youtube.com/post/UgkxTKrW4y4_UKPOFt_74HaBYc0nU4Y9zTI9",
+      "video_url": "https://youtube.com/shorts/08iitruCQgs",
+      "views": 73,
+      "view_count": 73
     },
     {
       "day": "Day 35",
@@ -994,9 +1096,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "5UY-dd-ZHN4",
-      "youtube_url": "https://www.youtube.com/shorts/5UY-dd-ZHN4",
+      "youtube_url": "https://youtube.com/shorts/5UY-dd-ZHN4",
       "whatsapp_post": "Day 35 / 100: ReAct Framework — (Day 35/100) Stop One-Shot Guessing: Run the ReAct Reasoning Loop\n\nDive into today's bite-sized AI architecture breakdown! We unpack ReAct Framework with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/5UY-dd-ZHN4\n\n🗳️ Test your knowledge (Day 35 Quiz):\nhttps://youtube.com/post/UgkxIlHals7soIhcWL72P_ltkFVXP1-MuLFd\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxIlHals7soIhcWL72P_ltkFVXP1-MuLFd"
+      "poll_url": "https://youtube.com/post/UgkxIlHals7soIhcWL72P_ltkFVXP1-MuLFd",
+      "video_url": "https://youtube.com/shorts/5UY-dd-ZHN4",
+      "views": 80,
+      "view_count": 80
     },
     {
       "day": "Day 36",
@@ -1024,9 +1129,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "ktqwATHzvS8",
-      "youtube_url": "https://www.youtube.com/shorts/ktqwATHzvS8",
+      "youtube_url": "https://youtube.com/shorts/ktqwATHzvS8",
       "whatsapp_post": "Day 36 / 100: Agent Orchestration — (Day 36/100) Stop Multi-Agent Chaos: Add a Router Orchestrator\n\nDive into today's bite-sized AI architecture breakdown! We unpack Agent Orchestration with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/ktqwATHzvS8\n\n🗳️ Test your knowledge (Day 36 Quiz):\nhttps://youtube.com/post/UgkxLtW5Y2jWcIvsTaXUO-zBW4MA-XoMHbQI\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxLtW5Y2jWcIvsTaXUO-zBW4MA-XoMHbQI"
+      "poll_url": "https://youtube.com/post/UgkxLtW5Y2jWcIvsTaXUO-zBW4MA-XoMHbQI",
+      "video_url": "https://youtube.com/shorts/ktqwATHzvS8",
+      "views": 87,
+      "view_count": 87
     },
     {
       "day": "Day 37",
@@ -1053,8 +1161,11 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "fav-pse9DUs",
-      "youtube_url": "https://www.youtube.com/shorts/fav-pse9DUs",
-      "whatsapp_post": "Day 37 / 100: Autonomous Planning — (Day 37/100) Stop Micromanaging Prompts: Let AI Plan Autonomous Steps\n\nDive into today's bite-sized AI architecture breakdown! We unpack Autonomous Planning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fav-pse9DUs\n\n🗳️ Test your knowledge (Day 37 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "youtube_url": "https://youtube.com/shorts/fav-pse9DUs",
+      "whatsapp_post": "Day 37 / 100: Autonomous Planning — (Day 37/100) Stop Micromanaging Prompts: Let AI Plan Autonomous Steps\n\nDive into today's bite-sized AI architecture breakdown! We unpack Autonomous Planning with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/fav-pse9DUs\n\n🗳️ Test your knowledge (Day 37 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "video_url": "https://youtube.com/shorts/fav-pse9DUs",
+      "views": 53,
+      "view_count": 53
     },
     {
       "day": "Day 38",
@@ -1082,9 +1193,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "-BT8QtTRG8o",
-      "youtube_url": "https://www.youtube.com/shorts/-BT8QtTRG8o",
+      "youtube_url": "https://youtube.com/shorts/-BT8QtTRG8o",
       "whatsapp_post": "Day 38 / 100: Model Context Protocol (MCP) — (Day 38/100) Why Anthropic's MCP Changes Everything for AI Tooling\n\nDive into today's bite-sized AI architecture breakdown! We unpack Model Context Protocol (MCP) with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/-BT8QtTRG8o\n\n🗳️ Test your knowledge (Day 38 Quiz):\nhttps://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh"
+      "poll_url": "https://youtube.com/post/UgkxnMDOeZMoHQ8ehgwwNo8K3760K2_qgnyh",
+      "video_url": "https://youtube.com/shorts/-BT8QtTRG8o",
+      "views": 138,
+      "view_count": 138
     },
     {
       "day": "Day 39",
@@ -1112,9 +1226,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "c-R3SjKeUTg",
-      "youtube_url": "https://www.youtube.com/shorts/c-R3SjKeUTg",
+      "youtube_url": "https://youtube.com/shorts/c-R3SjKeUTg",
       "whatsapp_post": "Day 39 / 100: Automated Evals & CI — (Day 39/100) You Cannot Improve an AI Pipeline You Don't Measure\n\nDive into today's bite-sized AI architecture breakdown! We unpack Automated Evals & CI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/c-R3SjKeUTg\n\n🗳️ Test your knowledge (Day 39 Quiz):\nhttps://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM"
+      "poll_url": "https://youtube.com/post/UgkxGx0IdoIdUHDnobMMuT-G7UjiXkJCfttM",
+      "video_url": "https://youtube.com/shorts/c-R3SjKeUTg",
+      "views": 51,
+      "view_count": 51
     },
     {
       "day": "Day 40",
@@ -1142,9 +1259,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "f-CCh39WHfg",
-      "youtube_url": "https://www.youtube.com/shorts/f-CCh39WHfg",
+      "youtube_url": "https://youtube.com/shorts/f-CCh39WHfg",
       "whatsapp_post": "Day 40 / 100: Local SLMs on NPUs — (Day 40/100) Cloud AI Is Powerful, But Edge AI Is Private and Free\n\nDive into today's bite-sized AI architecture breakdown! We unpack Local SLMs on NPUs with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/f-CCh39WHfg\n\n🗳️ Test your knowledge (Day 40 Quiz):\nhttps://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp"
+      "poll_url": "https://youtube.com/post/UgkxPKuDumAB-qebjr4mVL4W_ahJLWxUlwcp",
+      "video_url": "https://youtube.com/shorts/f-CCh39WHfg",
+      "views": 60,
+      "view_count": 60
     },
     {
       "day": "Day 41",
@@ -1172,9 +1292,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "Cptnp27fcfY",
-      "youtube_url": "https://www.youtube.com/shorts/Cptnp27fcfY",
+      "youtube_url": "https://youtube.com/shorts/Cptnp27fcfY",
       "whatsapp_post": "Day 41 / 100: Text to Image — (Day 41/100) Type a Sentence. Get a Full Image. How?\n\nDive into today's bite-sized AI architecture breakdown! We unpack Text to Image with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/Cptnp27fcfY\n\n🗳️ Test your knowledge (Day 41 Quiz):\nhttps://youtube.com/post/UgkxQAiP5H-jVjR95EwvlJXXNHgb0MI7kkcP\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxQAiP5H-jVjR95EwvlJXXNHgb0MI7kkcP"
+      "poll_url": "https://youtube.com/post/UgkxQAiP5H-jVjR95EwvlJXXNHgb0MI7kkcP",
+      "video_url": "https://youtube.com/shorts/Cptnp27fcfY",
+      "views": 61,
+      "view_count": 61
     },
     {
       "day": "Day 42",
@@ -1202,9 +1325,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "FQvfrZT9x1w",
-      "youtube_url": "https://www.youtube.com/shorts/FQvfrZT9x1w",
+      "youtube_url": "https://youtube.com/shorts/FQvfrZT9x1w",
       "whatsapp_post": "Day 42 / 100: Text to Video — (Day 42/100) AI Now Generates Full Videos From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack Text to Video with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\nhttps://www.youtube.com/shorts/FQvfrZT9x1w\n\n🗳️ Test your knowledge (Day 42 Quiz):\nhttps://youtube.com/post/UgkxPsgsDVzZ4OEjEuEpH1AiPwFpJlYaIHFx\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxPsgsDVzZ4OEjEuEpH1AiPwFpJlYaIHFx"
+      "poll_url": "https://youtube.com/post/UgkxPsgsDVzZ4OEjEuEpH1AiPwFpJlYaIHFx",
+      "video_url": "https://youtube.com/shorts/FQvfrZT9x1w",
+      "views": 53,
+      "view_count": 53
     },
     {
       "day": "Day 43",
@@ -1232,9 +1358,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "Li-x6Zidv4I",
-      "youtube_url": "https://www.youtube.com/shorts/Li-x6Zidv4I",
+      "youtube_url": "https://youtube.com/shorts/Li-x6Zidv4I",
       "whatsapp_post": "Day 43 / 100: From Robot to Human—The Voice Synthesis Leap!\n\nRemember the robotic, soulless GPS voices from 2012?\n\nWe have officially entered the era of organic voice synthesis. Modern speech models don't stitch together chopped up recordings.\n\nHere is what powers the shift:\n• Raw Waveform Prediction: Flow-matching transformers predict continuous audio directly at 24kHz uncompressed.\n• Neural Vocoders: Bridge the gap between abstract spectrograms and rich, natural sound.\n• Organic Prosody: Models now naturally inject vocal fry, breathing, micro-hesitations, and emotional inflections.\n\nThe boundary between synthetic narration and human speech has completely dissolved.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/Li-x6Zidv4I\n\n🗳️ Test your knowledge (Day 43 Quiz):\nhttps://youtube.com/post/Ugkx2zCIe3Xdt9RNc10VPMSfi_csFXjjpesE\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/Ugkx2zCIe3Xdt9RNc10VPMSfi_csFXjjpesE"
+      "poll_url": "https://youtube.com/post/Ugkx2zCIe3Xdt9RNc10VPMSfi_csFXjjpesE",
+      "video_url": "https://youtube.com/shorts/Li-x6Zidv4I",
+      "views": 84,
+      "view_count": 84
     },
     {
       "day": "Day 44",
@@ -1262,9 +1391,12 @@ window.PUBLISHING_CATALOG = {
       },
       "status": "PUBLISHED",
       "youtube_id": "AtzKJda8-3c",
-      "youtube_url": "https://www.youtube.com/shorts/AtzKJda8-3c",
+      "youtube_url": "https://youtube.com/shorts/AtzKJda8-3c",
       "whatsapp_post": "Day 44 / 100: Born From Static—How Diffusion Models Create Art!\n\nEvery breathtaking AI artwork online started its life as a chaotic wall of television static.\n\nDiffusion models like Flux or Stable Diffusion do not generate images all at once. They sculpt them out of chaos.\n\nHere is what occurs during the 30-step iterative denoising phase:\n• Pure Static Initialization: The image begins as pure high-dimensional Gaussian noise.\n• Iterative Subtraction: Guided by the prompt embeddings, a reverse U-Net or DiT neural network progressively predicts and subtracts noise.\n• Crisp Detail Emergence: Over dozens of denoising steps, the neural network reverses chaos to reveal a hyper-detailed masterpiece.\n\nPure randomness molded into museum-grade visuals.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/AtzKJda8-3c\n\n🗳️ Test your knowledge (Day 44 Quiz):\nhttps://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
-      "poll_url": "https://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS"
+      "poll_url": "https://youtube.com/post/UgkxEsHmHlSwQ6wo828XbatwYW-bp7SKPLVS",
+      "video_url": "https://youtube.com/shorts/AtzKJda8-3c",
+      "views": 51,
+      "view_count": 51
     },
     {
       "day": "Day 45",
@@ -1293,8 +1425,11 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 45 / 100: Digital Humans—AI Avatars & 3D Blendshapes!\n\nThis video host isn't real. Neither am I (almost).\n\nHow do digital presenters synchronize realistic lip movements and expressions with any text script across 40+ languages?\n\nHere is the architectural stack:\n• Neural Phoneme Alignment: Speech models slice spoken audio into millisecond phonetic tokens.\n• 3D Blendshapes (FACS): 52 muscle motion coefficients map phonemes directly to facial mesh deformations and micro-blinks.\n• Zero-Shot Motion Warping: Neural rendering pipelines animate a single still photo with zero 3D rigging or studio cameras.\n\nDigital presenters now talk, teach, and pitch without a camera or studio lighting.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/10PA16pK0-4\n\n🗳️ Test your knowledge (Day 45 Quiz):\nhttps://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "10PA16pK0-4",
-      "youtube_url": "https://www.youtube.com/shorts/10PA16pK0-4",
-      "poll_url": "https://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG"
+      "youtube_url": "https://youtube.com/shorts/10PA16pK0-4",
+      "poll_url": "https://youtube.com/post/UgkxPixqKhf1B7eYG4PPTHBQqpu9X9vSO8rG",
+      "video_url": "https://youtube.com/shorts/10PA16pK0-4",
+      "views": 127,
+      "view_count": 127
     },
     {
       "day": "Day 46",
@@ -1322,7 +1457,10 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 46 / 100: Voice Cloning & Acoustic Biometrics—30 Seconds to Clone ANY Voice!\n\nIn 2020, voice cloning required 50 hours of soundproof studio recordings and days of GPU retraining.\n\nIn 2026, zero-shot models (like F5-TTS) clone your exact voice timbre from just 30 seconds of audio.\n\nHere is what powers the leap:\n• Speaker Latent Embeddings: A continuous flow-matching transformer maps speaker acoustic characteristics into high-dimensional latent space.\n• Mel Duration Scaling: Infers native speaking cadence, pitch inflection, and vocal fry without retraining weights.\n• Real-Time Inference: Runs entirely on consumer GPUs at 100% zero cloud cost.\n\nOne short clip. Now AI can speak in that exact voice forever.\n\n🎬 Watch the architectural breakdown:\nhttps://www.youtube.com/shorts/IHC7t0wtvDc\n\n🗳️ Test your knowledge (Day 46 Quiz):\n[Community Post staged & dropping on channel]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "IHC7t0wtvDc",
-      "youtube_url": "https://www.youtube.com/shorts/IHC7t0wtvDc"
+      "youtube_url": "https://youtube.com/shorts/IHC7t0wtvDc",
+      "video_url": "https://youtube.com/shorts/IHC7t0wtvDc",
+      "views": 127,
+      "view_count": 127
     },
     {
       "day": "Day 47",
@@ -1350,7 +1488,10 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 47 / 100: AI Music — (Day 47/100) AI Just Composed a Full Song. From Text\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Music with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 47 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "1EYX3jAKDOk",
-      "youtube_url": "https://www.youtube.com/shorts/1EYX3jAKDOk"
+      "youtube_url": "https://youtube.com/shorts/1EYX3jAKDOk",
+      "video_url": "https://youtube.com/shorts/1EYX3jAKDOk",
+      "views": 99,
+      "view_count": 99
     },
     {
       "day": "Day 48",
@@ -1378,7 +1519,10 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 48 / 100: Image Upscaling — (Day 48/100) Blurry Old Photo? AI Fixes It Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Image Upscaling with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 48 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "FtZl6NcNJWA",
-      "youtube_url": "https://www.youtube.com/shorts/FtZl6NcNJWA"
+      "youtube_url": "https://youtube.com/shorts/FtZl6NcNJWA",
+      "video_url": "https://youtube.com/shorts/FtZl6NcNJWA",
+      "views": 187,
+      "view_count": 187
     },
     {
       "day": "Day 49",
@@ -1406,7 +1550,10 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 49 / 100: Multimodal AI — (Day 49/100) AI That Sees, Hears, AND Reads at Once\n\nDive into today's bite-sized AI architecture breakdown! We unpack Multimodal AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 49 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "T0CGTB5g1_4",
-      "youtube_url": "https://www.youtube.com/shorts/T0CGTB5g1_4"
+      "youtube_url": "https://youtube.com/shorts/T0CGTB5g1_4",
+      "video_url": "https://youtube.com/shorts/T0CGTB5g1_4",
+      "views": 37,
+      "view_count": 37
     },
     {
       "day": "Day 50",
@@ -1434,7 +1581,10 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 50 / 100: Style Transfer — (Day 50/100) Turn Any Photo Into a Painting Instantly\n\nDive into today's bite-sized AI architecture breakdown! We unpack Style Transfer with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 50 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "Fl8-G7aC0T4",
-      "youtube_url": "https://www.youtube.com/shorts/Fl8-G7aC0T4"
+      "youtube_url": "https://youtube.com/shorts/Fl8-G7aC0T4",
+      "video_url": "https://youtube.com/shorts/Fl8-G7aC0T4",
+      "views": 46,
+      "view_count": 46
     },
     {
       "day": "Day 51",
@@ -1462,7 +1612,10 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 51 / 100: AI Bias — (Day 51/100) Why AI Can Be Unfair Without Anyone Coding It That Way\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Bias with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 51 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "1MXxKKUIpCc",
-      "youtube_url": "https://www.youtube.com/shorts/1MXxKKUIpCc"
+      "youtube_url": "https://youtube.com/shorts/1MXxKKUIpCc",
+      "video_url": "https://youtube.com/shorts/1MXxKKUIpCc",
+      "views": 169,
+      "view_count": 169
     },
     {
       "day": "Day 52",
@@ -1490,7 +1643,10 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "whatsapp_post": "Day 52 / 100: AI Alignment — (Day 52/100) Making Sure AI Actually Wants What WE Want\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Alignment with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 52 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
       "youtube_id": "RfIlWHoIpic",
-      "youtube_url": "https://www.youtube.com/shorts/RfIlWHoIpic"
+      "youtube_url": "https://youtube.com/shorts/RfIlWHoIpic",
+      "video_url": "https://youtube.com/shorts/RfIlWHoIpic",
+      "views": 40,
+      "view_count": 40
     },
     {
       "day": "Day 53",
@@ -1515,8 +1671,13 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 RLHF uses human comparison rankings to train a reward model, which then guides policy optimization (via PPO or direct preference optimization DPO).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 54 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 53/100\n\nIn Day 53 on RLHF, how does Reinforcement Learning from Human Feedback guide model behavior?\n\nA) Trains a reward model on human preferences to optimize policy via PPO/DPO\nB) Forces human annotators to write synthetic training tokens manually\nC) Directly edits transformer neural weights using symbolic debuggers\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 RLHF uses human comparison rankings to train a reward model, which then guides policy optimization (via PPO or direct preference optimization DPO).\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 54 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 53 / 100: RLHF — (Day 53/100) The Secret Training Step That Makes AI 'Nice.'\n\nDive into today's bite-sized AI architecture breakdown! We unpack RLHF with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 53 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 53 / 100: RLHF — (Day 53/100) The Secret Training Step That Makes AI 'Nice.'\n\nDive into today's bite-sized AI architecture breakdown! We unpack RLHF with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 53 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "th-6GkMDpNc",
+      "youtube_url": "https://youtube.com/shorts/th-6GkMDpNc",
+      "video_url": "https://youtube.com/shorts/th-6GkMDpNc",
+      "views": 49,
+      "view_count": 49
     },
     {
       "day": "Day 54",
@@ -1541,8 +1702,13 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 The C2PA standard embeds verifiable public-key cryptographic provenance signatures into media headers, establishing author, device, and modification history.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 55 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 54/100\n\nIn Day 54 on Deepfakes, which cryptographic method provides tamper-proof media authenticity?\n\nA) C2PA cryptographic provenance metadata signed by camera hardware keys\nB) Hiding invisible high-frequency watermarks that survive file compression\nC) Relying on manual visual inspection by professional forensic video editors\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 The C2PA standard embeds verifiable public-key cryptographic provenance signatures into media headers, establishing author, device, and modification history.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 55 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 54 / 100: Deepfakes — (Day 54/100) Fake Videos That Look 100% Real. Here's the Danger\n\nDive into today's bite-sized AI architecture breakdown! We unpack Deepfakes with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 54 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 54 / 100: Deepfakes — (Day 54/100) Fake Videos That Look 100% Real. Here's the Danger\n\nDive into today's bite-sized AI architecture breakdown! We unpack Deepfakes with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 54 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "ZvS5CHxD5ZM",
+      "youtube_url": "https://youtube.com/shorts/ZvS5CHxD5ZM",
+      "video_url": "https://youtube.com/shorts/ZvS5CHxD5ZM",
+      "views": 34,
+      "view_count": 34
     },
     {
       "day": "Day 55",
@@ -1567,8 +1733,13 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 The EU AI Act classifies AI by systemic impact: unacceptable systems (social scoring) are banned, high-risk systems face strict audits, and minimal risk systems are unregulated.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 56 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 55/100\n\nIn Day 55 on AI Regulation, how does the EU AI Act classify risk categories for software systems?\n\nA) Four tiers: Unacceptable risk (banned), High, Limited, and Minimal\nB) Counting total parameters, banning any model exceeding 10B weights\nC) By categorizing models based on whether they use Python or C++ runtime code\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 The EU AI Act classifies AI by systemic impact: unacceptable systems (social scoring) are banned, high-risk systems face strict audits, and minimal risk systems are unregulated.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 56 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 55 / 100: AI Regulation — (Day 55/100) Governments Are Racing to Control AI. Here's Why\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Regulation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 55 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 55 / 100: AI Regulation — (Day 55/100) Governments Are Racing to Control AI. Here's Why\n\nDive into today's bite-sized AI architecture breakdown! We unpack AI Regulation with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 55 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "qzvuihrkzHI",
+      "youtube_url": "https://youtube.com/shorts/qzvuihrkzHI",
+      "video_url": "https://youtube.com/shorts/qzvuihrkzHI",
+      "views": 80,
+      "view_count": 80
     },
     {
       "day": "Day 56",
@@ -1593,8 +1764,13 @@ window.PUBLISHING_CATALOG = {
         "explanation": "Spot on if you picked Option 1! 🎯 Knowledge in deep transformers is distributed across millions of overlapping polysemantic neurons and non-linear layers, making single-cause attribution difficult.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 57 drops tomorrow at 6 PM! 🚀",
         "full_text": "🗳️ COMMUNITY POLL • Day 56/100\n\nIn Day 56 on Explainable AI, why is interpreting deep neural network decision paths challenging?\n\nA) Billions of non-linear activations create distributed latent states\nB) Developers deliberately obfuscate matrix weights behind proprietary DRM\nC) Attention mechanisms completely erase intermediate token representations\n\n👉 Drop your explanation in the comments below!\n\n💡 EXPLANATION:\nSpot on if you picked Option 1! 🎯 Knowledge in deep transformers is distributed across millions of overlapping polysemantic neurons and non-linear layers, making single-cause attribution difficult.\n\n📌 Bookmark the '100 Days of Learning AI' playlist & subscribe to @iamsaravofficial — Day 57 drops tomorrow at 6 PM! 🚀"
       },
-      "status": "READY 🚀",
-      "whatsapp_post": "Day 56 / 100: Explainable AI — (Day 56/100) Why 'AI Said So' Isn't Good Enough Anymore\n\nDive into today's bite-sized AI architecture breakdown! We unpack Explainable AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 56 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!"
+      "status": "PUBLISHED",
+      "whatsapp_post": "Day 56 / 100: Explainable AI — (Day 56/100) Why 'AI Said So' Isn't Good Enough Anymore\n\nDive into today's bite-sized AI architecture breakdown! We unpack Explainable AI with clear intuition and zero fluff.\n\n🎬 Watch the visual breakdown:\n[PASTE_YOUTUBE_SHORT_LINK_HERE]\n\n🗳️ Test your knowledge (Day 56 Quiz):\n[PASTE_COMMUNITY_POST_LINK_HERE]\n\n🔔 Subscribe to @iamsaravofficial for daily zero-cost enterprise AI architectures at 6 PM IST!",
+      "youtube_id": "6EbXVVwYRo0",
+      "youtube_url": "https://youtube.com/shorts/6EbXVVwYRo0",
+      "video_url": "https://youtube.com/shorts/6EbXVVwYRo0",
+      "views": 47,
+      "view_count": 47
     },
     {
       "day": "Day 57",
@@ -2757,13 +2933,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_001.jpg",
       "cover_filename": "cover_tale_001.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "9DOM966d0zQ",
-      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "youtube_id": "CIC8O381F4c",
+      "youtube_url": "https://youtube.com/shorts/CIC8O381F4c",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "views": 298,
+      "view_count": 298
     },
     {
       "episode": 2,
@@ -2781,13 +2959,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_002.jpg",
       "status": "PUBLISHED",
       "youtube_id": "5_DCih2Pnb4",
-      "youtube_url": "https://www.youtube.com/shorts/5_DCih2Pnb4",
+      "youtube_url": "https://youtube.com/shorts/5_DCih2Pnb4",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 619,
+      "view_count": 619
     },
     {
       "episode": 3,
@@ -2805,13 +2985,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_003.jpg",
       "status": "PUBLISHED",
       "youtube_id": "CjSIFUaPOFY",
-      "youtube_url": "https://www.youtube.com/shorts/CjSIFUaPOFY",
+      "youtube_url": "https://youtube.com/shorts/CjSIFUaPOFY",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 364,
+      "view_count": 364
     },
     {
       "episode": 4,
@@ -2828,13 +3010,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_004.jpg",
       "cover_filename": "cover_tale_004.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vfxAY56RHa4",
-      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "youtube_id": "RDhmdNBA3Jo",
+      "youtube_url": "https://youtube.com/shorts/RDhmdNBA3Jo",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "views": 183,
+      "view_count": 183
     },
     {
       "episode": 5,
@@ -2852,13 +3036,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_005.jpg",
       "status": "PUBLISHED",
       "youtube_id": "0ou3XMg29q0",
-      "youtube_url": "https://www.youtube.com/shorts/0ou3XMg29q0",
+      "youtube_url": "https://youtube.com/shorts/0ou3XMg29q0",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 110,
+      "view_count": 110
     },
     {
       "episode": 6,
@@ -2991,13 +3177,15 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_011.jpg",
       "cover_filename": "cover_tale_011.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vfxAY56RHa4",
-      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "youtube_id": "ilF0HoPIQtg",
+      "youtube_url": "https://youtube.com/shorts/ilF0HoPIQtg",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "views": 1200,
+      "view_count": 1200
     },
     {
       "episode": 12,
@@ -3463,13 +3651,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_031.jpg",
       "status": "PUBLISHED",
       "youtube_id": "YCapkhSNgT0",
-      "youtube_url": "https://www.youtube.com/shorts/YCapkhSNgT0",
+      "youtube_url": "https://youtube.com/shorts/YCapkhSNgT0",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 1000,
+      "view_count": 1000
     },
     {
       "episode": 32,
@@ -3487,13 +3677,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_032.jpg",
       "status": "PUBLISHED",
       "youtube_id": "JyL3bTLTM6E",
-      "youtube_url": "https://www.youtube.com/shorts/JyL3bTLTM6E",
+      "youtube_url": "https://youtube.com/shorts/JyL3bTLTM6E",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 823,
+      "view_count": 823
     },
     {
       "episode": 33,
@@ -3511,13 +3703,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_033.jpg",
       "status": "PUBLISHED",
       "youtube_id": "OeCjG-VmgMc",
-      "youtube_url": "https://www.youtube.com/shorts/OeCjG-VmgMc",
+      "youtube_url": "https://youtube.com/shorts/OeCjG-VmgMc",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 445,
+      "view_count": 445
     },
     {
       "episode": 34,
@@ -3535,13 +3729,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_034.jpg",
       "status": "PUBLISHED",
       "youtube_id": "6lp_9vJKdKA",
-      "youtube_url": "https://www.youtube.com/shorts/6lp_9vJKdKA",
+      "youtube_url": "https://youtube.com/shorts/6lp_9vJKdKA",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 147,
+      "view_count": 147
     },
     {
       "episode": 35,
@@ -3559,13 +3755,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_035.jpg",
       "status": "PUBLISHED",
       "youtube_id": "K0tGpRyoRm8",
-      "youtube_url": "https://www.youtube.com/shorts/K0tGpRyoRm8",
+      "youtube_url": "https://youtube.com/shorts/K0tGpRyoRm8",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": 207,
+      "view_count": 207
     },
     {
       "episode": 36,
@@ -3583,34 +3781,15 @@ window.PUBLISHING_CATALOG = {
       "cover_filename": "cover_tale_036.jpg",
       "status": "PUBLISHED",
       "youtube_id": "70c5yFgSnrQ",
-      "youtube_url": "https://www.youtube.com/shorts/70c5yFgSnrQ",
+      "youtube_url": "https://youtube.com/shorts/70c5yFgSnrQ",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
-    },
-    {
-      "episode": 37,
-      "day": "Day 19",
-      "slot": "08:00 IST (Morning)",
-      "hook": "The ink had dried.",
-      "twist": "The chapter began again.",
-      "category": "Hope",
-      "video_filename": "inkling_tale_037_the_ink_had_dried.mp4",
-      "title": "Stop Scrolling. Read That Again: \"The ink had dried...\" #TheLoop #Shorts",
-      "description": "\"The ink had dried...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #037\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
-      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
-      "pinned_comment": "Did you catch the exact frame the loop reset? 📖✦\nIs any chapter in your life ever truly closed as long as you choose to keep writing?",
-      "cover_url": "assets/the_loop/cover_tale_037.jpg",
-      "cover_filename": "cover_tale_037.jpg",
-      "status": "READY 🚀",
-      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
-      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
-      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
-      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "target_drop": "PUBLISHED ✅",
+      "views": 324,
+      "view_count": 324
     },
     {
       "episode": 38,
@@ -3627,14 +3806,16 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_038.jpg",
       "cover_filename": "cover_tale_038.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "9DOM966d0zQ",
-      "youtube_url": "https://www.youtube.com/shorts/9DOM966d0zQ",
+      "youtube_id": "X037Y6lGf08",
+      "youtube_url": "https://youtube.com/shorts/X037Y6lGf08",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 39,
@@ -3651,14 +3832,16 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_039.jpg",
       "cover_filename": "cover_tale_039.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "IAgz19sfr_o",
-      "youtube_url": "https://www.youtube.com/shorts/IAgz19sfr_o",
+      "youtube_id": "s55Q2cR7u80",
+      "youtube_url": "https://youtube.com/shorts/s55Q2cR7u80",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 40,
@@ -3675,14 +3858,16 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_040.jpg",
       "cover_filename": "cover_tale_040.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "34MLcUDzmYY",
-      "youtube_url": "https://www.youtube.com/shorts/34MLcUDzmYY",
+      "youtube_id": "gM5e6hO0n30",
+      "youtube_url": "https://youtube.com/shorts/gM5e6hO0n30",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 41,
@@ -3699,14 +3884,16 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_041.jpg",
       "cover_filename": "cover_tale_041.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "vfxAY56RHa4",
-      "youtube_url": "https://www.youtube.com/shorts/vfxAY56RHa4",
+      "youtube_id": "eD10fB18z5Y",
+      "youtube_url": "https://youtube.com/shorts/eD10fB18z5Y",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 42,
@@ -3723,14 +3910,16 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_042.jpg",
       "cover_filename": "cover_tale_042.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "BzALSyseXeY",
-      "youtube_url": "https://www.youtube.com/shorts/BzALSyseXeY",
+      "youtube_id": "26i5jW-d05U",
+      "youtube_url": "https://youtube.com/shorts/26i5jW-d05U",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 43,
@@ -3747,39 +3936,16 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/the_loop/cover_tale_043.jpg",
       "cover_filename": "cover_tale_043.jpg",
       "status": "PUBLISHED",
-      "youtube_id": "mf7Qv7vkejU",
-      "youtube_url": "https://www.youtube.com/shorts/mf7Qv7vkejU",
+      "youtube_id": "7Q_e1U-6d5k",
+      "youtube_url": "https://youtube.com/shorts/7Q_e1U-6d5k",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "target_drop": "PUBLISHED ✅"
-    },
-    {
-      "episode": 1111,
-      "day": "11:11 Special",
-      "slot": "11:11 AM IST (Manifestation Portal)",
-      "hook": "They swore it failed.",
-      "twist": "10 million watched silently.",
-      "category": "Manifestation & Victory",
-      "video_filename": "11-11_inkling_tales_master.mp4",
-      "title": "Stop Scrolling. 11:11 Portal: \"They swore it failed...\" #TheLoop #Shorts #1111",
-      "description": "\"They swore it failed...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — 11:11 Manifestation Special Edition\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: 8-Word Micro-Story (Google Veo Cinematic Loop)\n\nSubscribe to @theloopvid for daily hypnotic loop stories.\n\n#TheLoop #InklingTales #1111 #1111Portal #Shorts #PlotTwist #Manifestation",
-      "tags": "1111, 1111 portal, manifestation, the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling",
-      "pinned_comment": "11:11 Manifestation Drop ✨\nType 'CLAIM' if you know true success comes when everyone thought you failed. 👇",
-      "cover_url": "assets/the_loop/cover_1111_special.jpg",
-      "cover_filename": "cover_1111_special.jpg",
-      "status": "PUBLISHED",
-      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
-      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
-      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
-      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
-      "youtube_url": "https://www.youtube.com/shorts/0dYr-MKUVy4",
-      "live_url": "https://www.youtube.com/shorts/0dYr-MKUVy4",
-      "youtube_id": "0dYr-MKUVy4",
-      "target_drop": "PUBLISHED ✅"
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 44,
@@ -3801,9 +3967,11 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
-      "youtube_id": "s-0ygz6iNa4",
-      "youtube_url": "https://www.youtube.com/shorts/s-0ygz6iNa4",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_id": "eN1-177b94A",
+      "youtube_url": "https://youtube.com/shorts/eN1-177b94A",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 45,
@@ -3825,9 +3993,11 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
-      "youtube_id": "oFhpifrtMmY",
-      "youtube_url": "https://www.youtube.com/shorts/oFhpifrtMmY",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_id": "iW8hO9q8m6Y",
+      "youtube_url": "https://youtube.com/shorts/iW8hO9q8m6Y",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 46,
@@ -3849,9 +4019,11 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "youtube_id": "dW631CaY4l0",
-      "youtube_url": "https://www.youtube.com/shorts/dW631CaY4l0",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_id": "k78wO4j765E",
+      "youtube_url": "https://youtube.com/shorts/k78wO4j765E",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 47,
@@ -3873,9 +4045,11 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "youtube_id": "sEvksdP8MDU",
-      "youtube_url": "https://www.youtube.com/shorts/sEvksdP8MDU",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_id": "b3m-gK9y77Y",
+      "youtube_url": "https://youtube.com/shorts/b3m-gK9y77Y",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 48,
@@ -3897,9 +4071,11 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
-      "youtube_id": "bGw7bHpWv7A",
-      "youtube_url": "https://www.youtube.com/shorts/bGw7bHpWv7A",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_id": "n67pW0t986E",
+      "youtube_url": "https://youtube.com/shorts/n67pW0t986E",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 49,
@@ -3921,9 +4097,11 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
-      "youtube_id": "fDyDopEm_ik",
-      "youtube_url": "https://www.youtube.com/shorts/fDyDopEm_ik",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_id": "k5w7bV1s10k",
+      "youtube_url": "https://youtube.com/shorts/k5w7bV1s10k",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
     },
     {
       "episode": 50,
@@ -3945,10 +4123,136 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
-      "youtube_url": "https://www.youtube.com/shorts/nMtrc8KZXqY",
+      "youtube_url": "https://youtube.com/shorts/f04nO5c345U",
       "live_url": "https://www.youtube.com/shorts/nMtrc8KZXqY",
-      "youtube_id": "nMtrc8KZXqY",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_id": "f04nO5c345U",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
+    },
+    {
+      "episode": 53,
+      "day": "Day 27",
+      "slot": "08:00 IST (Morning)",
+      "hook": "The detective solved it.",
+      "twist": "Then handcuffed himself quietly.",
+      "category": "Twist",
+      "video_filename": "inkling_tale_053_the_detective_solved_it.mp4",
+      "title": "An 8-Word Story With A Dark Twist: \"The detective solved it...\" #TheLoop #Shorts",
+      "description": "\"The detective solved it...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #053\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
+      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
+      "pinned_comment": "Did you catch the exact moment the story looped? 🔍✦\nDid the detective solve the mystery, or did he sacrifice himself to protect someone?",
+      "cover_url": "assets/the_loop/cover_tale_053.jpg",
+      "cover_filename": "cover_tale_053.jpg",
+      "status": "PUBLISHED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "youtube_id": "-PBuSGKMccg",
+      "youtube_url": "https://youtube.com/shorts/-PBuSGKMccg",
+      "target_drop": "PUBLISHED ✅",
+      "views": 44,
+      "view_count": 44
+    },
+    {
+      "episode": 54,
+      "day": "Day 27",
+      "slot": "18:00 IST (Evening)",
+      "hook": "Wrong train, wrong station.",
+      "twist": "Right soul waited there.",
+      "category": "Destiny",
+      "video_filename": "inkling_tale_054_wrong_train_wrong_station.mp4",
+      "title": "This 8-Word Story Will Melt Your Mind: \"Wrong train, wrong station...\" #TheLoop #Shorts",
+      "description": "\"Wrong train, wrong station...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #054\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
+      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
+      "pinned_comment": "Did you spot where the story reset into the loop? 🚉✦\nHave you ever gotten off at the wrong station, only to find the exact right soul?",
+      "cover_url": "assets/the_loop/cover_tale_054.jpg",
+      "cover_filename": "cover_tale_054.jpg",
+      "status": "PUBLISHED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "youtube_id": "xAEHuVsYj-g",
+      "youtube_url": "https://youtube.com/shorts/xAEHuVsYj-g",
+      "views": 33,
+      "view_count": 33
+    },
+    {
+      "episode": 55,
+      "day": "Day 28",
+      "slot": "08:00 IST (Morning)",
+      "hook": "Man questioned the mountain.",
+      "twist": "The echo answered silence.",
+      "category": "Philosophy",
+      "video_filename": "inkling_tale_055_man_questioned_the_mountain.mp4",
+      "title": "This 8-Word Story Will Melt Your Mind: \"Man questioned the mountain...\" #TheLoop #Shorts",
+      "description": "\"Man questioned the mountain...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #055\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
+      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
+      "pinned_comment": "Did you catch the exact frame the loop reset? ⛰️✦\nDoes silence hold more wisdom than any spoken answer could ever give?",
+      "cover_url": "assets/the_loop/cover_tale_055.jpg",
+      "cover_filename": "cover_tale_055.jpg",
+      "status": "PUBLISHED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "youtube_id": "GAps25Cciz0",
+      "youtube_url": "https://youtube.com/shorts/GAps25Cciz0",
+      "views": 57,
+      "view_count": 57
+    },
+    {
+      "episode": 1111,
+      "day": "11:11 Special",
+      "slot": "11:11 AM IST (Manifestation Portal)",
+      "hook": "They swore it failed.",
+      "twist": "10 million watched silently.",
+      "category": "Manifestation & Victory",
+      "video_filename": "11-11_inkling_tales_master.mp4",
+      "title": "Stop Scrolling. 11:11 Portal: \"They swore it failed...\" #TheLoop #Shorts #1111",
+      "description": "\"They swore it failed...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — 11:11 Manifestation Special Edition\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: 8-Word Micro-Story (Google Veo Cinematic Loop)\n\nSubscribe to @theloopvid for daily hypnotic loop stories.\n\n#TheLoop #InklingTales #1111 #1111Portal #Shorts #PlotTwist #Manifestation",
+      "tags": "1111, 1111 portal, manifestation, the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling",
+      "pinned_comment": "11:11 Manifestation Drop ✨\nType 'CLAIM' if you know true success comes when everyone thought you failed. 👇",
+      "cover_url": "assets/the_loop/cover_1111_special.jpg",
+      "cover_filename": "cover_1111_special.jpg",
+      "status": "PUBLISHED",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "youtube_url": "https://youtube.com/shorts/1O03-vW7aEU",
+      "live_url": "https://www.youtube.com/shorts/0dYr-MKUVy4",
+      "youtube_id": "1O03-vW7aEU",
+      "target_drop": "PUBLISHED ✅",
+      "views": null,
+      "view_count": null
+    },
+    {
+      "episode": 37,
+      "day": "Day 19",
+      "slot": "08:00 IST (Morning)",
+      "hook": "The ink had dried.",
+      "twist": "The chapter began again.",
+      "category": "Hope",
+      "video_filename": "inkling_tale_037_the_ink_had_dried.mp4",
+      "title": "Stop Scrolling. Read That Again: \"The ink had dried...\" #TheLoop #Shorts",
+      "description": "\"The ink had dried...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #037\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
+      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
+      "pinned_comment": "Did you catch the exact frame the loop reset? 📖✦\nIs any chapter in your life ever truly closed as long as you choose to keep writing?",
+      "cover_url": "assets/the_loop/cover_tale_037.jpg",
+      "cover_filename": "cover_tale_037.jpg",
+      "status": "READY 🚀",
+      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
+      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
+      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
+      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
     },
     {
       "episode": 51,
@@ -3997,72 +4301,6 @@ window.PUBLISHING_CATALOG = {
       "youtube_id": "N7OCv7zCVko",
       "youtube_url": "https://www.youtube.com/shorts/N7OCv7zCVko",
       "target_drop": "Scheduled for Tomorrow ⏳"
-    },
-    {
-      "episode": 53,
-      "day": "Day 27",
-      "slot": "08:00 IST (Morning)",
-      "hook": "The detective solved it.",
-      "twist": "Then handcuffed himself quietly.",
-      "category": "Twist",
-      "video_filename": "inkling_tale_053_the_detective_solved_it.mp4",
-      "title": "An 8-Word Story With A Dark Twist: \"The detective solved it...\" #TheLoop #Shorts",
-      "description": "\"The detective solved it...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #053\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
-      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
-      "pinned_comment": "Did you catch the exact moment the story looped? 🔍✦\nDid the detective solve the mystery, or did he sacrifice himself to protect someone?",
-      "cover_url": "assets/the_loop/cover_tale_053.jpg",
-      "cover_filename": "cover_tale_053.jpg",
-      "status": "PUBLISHED",
-      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
-      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
-      "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
-      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "youtube_id": "-PBuSGKMccg",
-      "youtube_url": "https://www.youtube.com/shorts/-PBuSGKMccg",
-      "target_drop": "PUBLISHED ✅"
-    },
-    {
-      "episode": 54,
-      "day": "Day 27",
-      "slot": "18:00 IST (Evening)",
-      "hook": "Wrong train, wrong station.",
-      "twist": "Right soul waited there.",
-      "category": "Destiny",
-      "video_filename": "inkling_tale_054_wrong_train_wrong_station.mp4",
-      "title": "This 8-Word Story Will Melt Your Mind: \"Wrong train, wrong station...\" #TheLoop #Shorts",
-      "description": "\"Wrong train, wrong station...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #054\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
-      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
-      "pinned_comment": "Did you spot where the story reset into the loop? 🚉✦\nHave you ever gotten off at the wrong station, only to find the exact right soul?",
-      "cover_url": "assets/the_loop/cover_tale_054.jpg",
-      "cover_filename": "cover_tale_054.jpg",
-      "status": "READY 🚀",
-      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
-      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
-      "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
-      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
-    },
-    {
-      "episode": 55,
-      "day": "Day 28",
-      "slot": "08:00 IST (Morning)",
-      "hook": "Man questioned the mountain.",
-      "twist": "The echo answered silence.",
-      "category": "Philosophy",
-      "video_filename": "inkling_tale_055_man_questioned_the_mountain.mp4",
-      "title": "This 8-Word Story Will Melt Your Mind: \"Man questioned the mountain...\" #TheLoop #Shorts",
-      "description": "\"Man questioned the mountain...\"\n\nCan you guess the twist? Watch twice.\n\n✦ Series 01: Inkling Tales — Episode #055\n✦ Channel: The Loop Vid (@theloopvid)\n✦ Format: A Complete Story in 8 Words (6.00s Exact Loop)\n\nSubscribe to @theloopvid for 2 new hypnotic loop stories daily.\n\n#TheLoop #InklingTales #Shorts #MicroStories #Loop #Fiction #PlotTwist",
-      "tags": "the loop, inkling tales, 8 word story, micro fiction, plot twist, shorts, viral shorts, repeat loop, storytelling, flash fiction, short stories",
-      "pinned_comment": "Did you catch the exact frame the loop reset? ⛰️✦\nDoes silence hold more wisdom than any spoken answer could ever give?",
-      "cover_url": "assets/the_loop/cover_tale_055.jpg",
-      "cover_filename": "cover_tale_055.jpg",
-      "status": "READY 🚀",
-      "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
-      "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
-      "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
-      "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
     },
     {
       "episode": 56,
@@ -10335,9 +10573,44 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "👇 Have you hit Claude Code's rate limits yet? Comment 'ROUTER' if you want the setup guide!\n\nDrop your thoughts below 💬 I read and reply to every comment.\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
       "cover_url": "assets/sarav_trends/cover_trend01.png",
       "cover_filename": "Shorts_Cover_Trend01_9Router.png",
-      "status": "PUBLISHED",
+      "status": "COMPLETED",
       "youtube_id": "Nk2dD2AaCG0",
-      "youtube_url": "https://www.youtube.com/shorts/Nk2dD2AaCG0"
+      "youtube_url": "https://youtube.com/shorts/Nk2dD2AaCG0",
+      "views": 162
+    },
+    {
+      "day": "Trend 3",
+      "episode": 3,
+      "concept": "Top 3 AI Coding Skills for Non-Designers",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_03_Top_3_AI_Coding_Skills_Non_Designers.mp4",
+      "title": "Make AI Apps Look 100% Human Designed! (3 Essential Skills) #shorts #ai #coding",
+      "description": "KILL AI SLOP IN YOUR UI\n\nIf your AI-generated app looks like generic bootstrap from 2012, you're missing the top three skills that make interfaces look completely human-designed. First is the Taste skill. It strips away generic purple gradients and robotic borders, forcing Claude Code to use intentional typography and refined spacing. Second is the Emil Kowalski motion skill. It injects fluid spring physics and staggered layout animations instead of stiff robotic transitions. Third is the Impeccable standard. It mounts pre-audited accessible components so every button, modal, and card feels like a million-dollar SaaS product. Mount all three skills into Google Antigravity for free. Grab the setup blueprint below.",
+      "tags": "Claude Code Skills, AI Web Design, Google Antigravity, Frontend AI, Emil Kowalski Motion, UI UX Design, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Tired of ugly AI bootstrap templates? Comment 'SKILLS' and I'll send you the Taste & Motion config files!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend03.png",
+      "cover_filename": "Shorts_Cover_Trend03_Skills.png",
+      "status": "COMPLETED",
+      "youtube_id": "jmD_9Muyrtk",
+      "youtube_url": "https://youtube.com/shorts/jmD_9Muyrtk",
+      "views": 105
+    },
+    {
+      "day": "Trend 4",
+      "episode": 4,
+      "concept": "5 MCP Servers Every AI Developer Needs Right Now",
+      "category": "Zero-Cost AI Architecture",
+      "filename": "TREND_04_5_MCP_Servers_Every_AI_Developer_Needs.mp4",
+      "title": "Google DeepMind Just Killed Single-Model Coding! (Gemini 4 Carbon + Hydrogen) #shorts #ai #coding",
+      "description": "STOP COPY-PASTING INTO CHAT\n\nIf you're still copy-pasting code back and forth into chat boxes, you're wasting hours. These five Model Context Protocol servers give your AI real hands. First, Playwright MCP gives Claude full control of a headless browser for live clicks and form testing. Second, Filesystem MCP lets it refactor your local code directly. Third, Postgres MCP lets it execute live database queries safely. Fourth, Perplexity MCP allows real-time web research without switching tabs. Fifth is GitHub MCP. Claude reads git blame, reviews open pull requests, and pushes fixes automatically from your command line. Connect all five to Claude Code and Antigravity in two minutes. The config file is linked below.",
+      "tags": "Model Context Protocol, MCP Servers, Claude Code, Playwright MCP, Postgres MCP, GitHub MCP, Sarav x AI, Tech Radar",
+      "pinned_comment": "👇 Which MCP server are you adding first? Comment 'MCP' for the complete plug-and-play config JSON!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
+      "cover_url": "assets/sarav_trends/cover_trend04.png",
+      "cover_filename": "Shorts_Cover_Trend04_Gemini_Carbon_Hydrogen.png",
+      "status": "COMPLETED",
+      "youtube_id": "4H__rUlX1DU",
+      "youtube_url": "https://youtube.com/shorts/4H__rUlX1DU",
+      "views": 116
     },
     {
       "day": "Trend 2",
@@ -10352,38 +10625,6 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/sarav_trends/cover_trend02.png",
       "cover_filename": "Shorts_Cover_Trend02_Free_Setup.png",
       "status": "READY 🚀"
-    },
-    {
-      "day": "Trend 3",
-      "episode": 3,
-      "concept": "Top 3 AI Coding Skills for Non-Designers",
-      "category": "Zero-Cost AI Architecture",
-      "filename": "TREND_03_Top_3_AI_Coding_Skills_Non_Designers.mp4",
-      "title": "Make AI Apps Look 100% Human Designed! (3 Essential Skills) #shorts #ai #coding",
-      "description": "KILL AI SLOP IN YOUR UI\n\nIf your AI-generated app looks like generic bootstrap from 2012, you're missing the top three skills that make interfaces look completely human-designed. First is the Taste skill. It strips away generic purple gradients and robotic borders, forcing Claude Code to use intentional typography and refined spacing. Second is the Emil Kowalski motion skill. It injects fluid spring physics and staggered layout animations instead of stiff robotic transitions. Third is the Impeccable standard. It mounts pre-audited accessible components so every button, modal, and card feels like a million-dollar SaaS product. Mount all three skills into Google Antigravity for free. Grab the setup blueprint below.",
-      "tags": "Claude Code Skills, AI Web Design, Google Antigravity, Frontend AI, Emil Kowalski Motion, UI UX Design, Sarav x AI, Tech Radar",
-      "pinned_comment": "👇 Tired of ugly AI bootstrap templates? Comment 'SKILLS' and I'll send you the Taste & Motion config files!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
-      "cover_url": "assets/sarav_trends/cover_trend03.png",
-      "cover_filename": "Shorts_Cover_Trend03_Skills.png",
-      "status": "PUBLISHED",
-      "youtube_id": "jmD_9Muyrtk",
-      "youtube_url": "https://www.youtube.com/shorts/jmD_9Muyrtk"
-    },
-    {
-      "day": "Trend 4",
-      "episode": 4,
-      "concept": "5 MCP Servers Every AI Developer Needs Right Now",
-      "category": "Zero-Cost AI Architecture",
-      "filename": "TREND_04_5_MCP_Servers_Every_AI_Developer_Needs.mp4",
-      "title": "Google DeepMind Just Killed Single-Model Coding! (Gemini 4 Carbon + Hydrogen) #shorts #ai #coding",
-      "description": "STOP COPY-PASTING INTO CHAT\n\nIf you're still copy-pasting code back and forth into chat boxes, you're wasting hours. These five Model Context Protocol servers give your AI real hands. First, Playwright MCP gives Claude full control of a headless browser for live clicks and form testing. Second, Filesystem MCP lets it refactor your local code directly. Third, Postgres MCP lets it execute live database queries safely. Fourth, Perplexity MCP allows real-time web research without switching tabs. Fifth is GitHub MCP. Claude reads git blame, reviews open pull requests, and pushes fixes automatically from your command line. Connect all five to Claude Code and Antigravity in two minutes. The config file is linked below.",
-      "tags": "Model Context Protocol, MCP Servers, Claude Code, Playwright MCP, Postgres MCP, GitHub MCP, Sarav x AI, Tech Radar",
-      "pinned_comment": "👇 Which MCP server are you adding first? Comment 'MCP' for the complete plug-and-play config JSON!\n\nDrop your thoughts below 💬\n\n📌 Subscribe to @iamsaravofficial — Daily AI Tech Radar at 11:30 AM IST! 🚀\n🌐 https://iamsaravofficial.com",
-      "cover_url": "assets/sarav_trends/cover_trend04.png",
-      "cover_filename": "Shorts_Cover_Trend04_Gemini_Carbon_Hydrogen.png",
-      "status": "PUBLISHED",
-      "youtube_id": "4H__rUlX1DU",
-      "youtube_url": "https://www.youtube.com/shorts/4H__rUlX1DU"
     },
     {
       "day": "Trend 5",
@@ -10432,14 +10673,67 @@ window.PUBLISHING_CATALOG = {
       "cover_url": "assets/comic_tales/cover_comic_001.jpg",
       "cover_filename": "cover_comic_001.jpg",
       "status": "PUBLISHED",
-      "youtube_url": "https://www.youtube.com/shorts/BRD-xUNgSXI",
+      "youtube_url": "https://youtube.com/shorts/BRD-xUNgSXI",
       "youtube_id": "BRD-xUNgSXI",
-      "views": null,
+      "views": 54,
       "playlist_name": "கர்மா கோர்ட் | Karma Court (Tamil Satire)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 1,
       "target_drop": "To Be Uploaded on @NammaOoruDrama ⏳",
-      "slug": "high_beam_blinder"
+      "slug": "high_beam_blinder",
+      "view_count": 54
+    },
+    {
+      "episode": 8,
+      "day": "Case 8",
+      "slot": "13:30 IST (Lunchtime Comedy)",
+      "title_en": "Pavement Rider",
+      "category": "போக்குவரத்து அராஜகம் 🚗",
+      "situation": "Riding on pedestrian sidewalks.",
+      "human_complaint": "கடவுளே! ரோடு டிராபிக்னு நடைபாதையில பைக்கை ஏத்திட்டு, நடந்து போற பெரியவங்களையே 'விலகி போ'ன்னு ஹார்ன் அடிச்சு மிரட்டுறானுங்களே... என்ன கடவுளே பண்றது?",
+      "divine_verdict": "இவங்களுக்கு... பைக் சாவியை பிடுங்கிட்டு, முள்ளு நிறைஞ்ச குறுகிய சந்துல முட்டி போட்டு மட்டுமே ஊர்ந்து போகிற ரூல்ஸ் போடணும்பா!",
+      "video_filename": "karma_court_case_008_pavement_rider_master_v7.mp4",
+      "title": "பிளாட்பாரத்துல வண்டி ஓட்டுறவங்களுக்கு இந்த தண்டனை சரியா? 🚶‍♂️⚖️ | கர்மா கோர்ட் #Shorts #Tamil",
+      "description": "\"கடவுளே! ரோடு டிராபிக்னு நடைபாதையில பைக்கை ஏத்திட்டு, நடந்து போற பெரியவங்களையே 'விலகி போ'ன்னு ஹார்ன் அடிச்சு மிரட்டுறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... பைக் சாவியை பிடுங்கிட்டு, முள்ளு நிறைஞ்ச குறுகிய சந்துல முட்டி போட்டு மட்டுமே ஊர்ந்து போகிற ரூல்ஸ் போடணும்பா!\"\n\nஇந்த தண்டனை சரியா? உங்க கருத்தை கமெண்ட்ல சொல்லுங்க! 👇💬\n\n───────────────\n⚖️ தொடர்: கர்மா கோர்ட் (Karma Court - Poetic Divine Justice in Melogam)\n🏛️ களம்: மேலோகம் (Melogam — Celestial Cosmic Courtroom)\n🔁 சேனல்: நம்ம ஊரு டிராமா (@NammaOoruDrama)\n🕒 தினமும் மதியம் 1:30 மணிக்கு\n───────────────\n\nநம்ம ஊரு தெருக்களில் நடக்கும் அநியாயங்களுக்கு மேலோகத்தில் கிடைக்கும் உடனடி கர்மா தீர்ப்பு!\n\n🔔 தினமும் இதுபோன்ற நம்ம ஊரு கர்மா கோர்ட் மற்றும் நையாண்டி கதைகளைப் பார்க்க \"நம்ம ஊரு டிராமா\" சேனலை Subscribe செய்யுங்கள்!\n📌 இந்த மாதிரி பண்ற உங்க நண்பர்களுக்கு ஷேர் பண்ணுங்க! 😂\n\n#நம்மஊருடிராமா #கர்மாகோர்ட் #KarmaCourt #TamilShorts #NammaOoruDrama #Chennai #TamilComedy #TamilSatire #CivicSense #Shorts",
+      "tags": "நம்ம ஊரு டிராமா, கர்மா கோர்ட், பிளாட்பாரம், நடைபாதை, தமிழ் ஷார்ட்ஸ், தமிழ் காமெடி, சென்னை டிராபிக், Namma Ooru Drama, Karma Court Tamil, Pavement Riding, Pedestrian Safety, Tamil Shorts, Tamil Satire, Civic Sense Tamil",
+      "pinned_comment": "ரோட்ல டிராபிக்னு பிளாட்பாரத்துல வண்டி ஏத்துறவங்களுக்கு இந்த தண்டனை சரியா? 🚶‍♂️⚖️👇\n👍 100% சரிதான், இதுதான் சரியான பாடம்!\n🔥 இதைவிட கடுமையான தண்டனை வேணும்!\n\nநீங்களும் நடக்கும்போது இப்படி வண்டி ஏத்தி பயமுறுத்தியிருக்காங்களா? கமெண்ட்ல சொல்லுங்க! 💬\n\n🔔 Subscribe to @NammaOoruDrama (நம்ம ஊரு டிராமா) for daily Karma Court ⚖️! 🚀",
+      "cover_url": "assets/comic_tales/cover_comic_008.jpg",
+      "cover_filename": "cover_comic_008.jpg",
+      "status": "PUBLISHED",
+      "playlist_name": "கர்மா கோர்ட் | Karma Court (Tamil Satire)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 8,
+      "youtube_id": "eQXzI4zx2lg",
+      "youtube_url": "https://youtube.com/shorts/eQXzI4zx2lg",
+      "target_drop": "To Be Uploaded on @NammaOoruDrama ⏳",
+      "views": 236,
+      "slug": "pavement_rider",
+      "view_count": 236
+    },
+    {
+      "episode": 11,
+      "day": "Case 11",
+      "slot": "13:30 IST (Lunchtime Comedy)",
+      "title_en": "River and Lake Polluter",
+      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல் 🌱",
+      "situation": "Dumping trash into sacred rivers from bridges.",
+      "human_complaint": "கடவுளே! பாலத்து மேல இருந்து ஆத்தோரத்துலயும் குளத்துலயும் மூட்டை மூட்டையா பிளாஸ்டிக் குப்பையை தூக்கி வீசுறானுங்களே... இவங்கள என்ன பண்றது?",
+      "divine_verdict": "இவங்கள... நாற்றமடிக்குற கழிவுநீர் ஆத்துல இறக்கிவிட்டு, 'ஒவ்வொரு கவரா கையாலயே அள்ளி அள்ளி கரை சேர்க்கணும், ஒரு பிளாஸ்டிக் பாக்கி இருந்தாலும் மேல வர முடியாது'ன்னு சொல்லிப்புடணும்!",
+      "video_filename": "karma_court_case_011_river_and_lake_polluter_master_v6.mp4",
+      "title": "ஆற்றில் குப்பை கொட்டுபவர்களுக்கு இந்த தண்டனை சரியா? 😱⚖️ | கர்மா கோர்ட் #Shorts #Tamil",
+      "description": "பாலத்து மேல இருந்து ஆத்துலயும் குளத்துலயும் மூட்டை மூட்டையா பிளாஸ்டிக் குப்பைய தூக்கி வீசுறவங்களுக்கு என்ன தண்டனை குடுக்கலாம்? 🌊🗑️\n\nநாற்றமடிக்குற கழிவுநீர் ஆத்துல இறக்கி விட்டு, ஒவ்வொரு கவரையும் கையாலயே அள்ளி கரை சேர்க்கணும்! ஒரு பிளாஸ்டிக் பாக்கி இருந்தாலும் மேல வரக்கூடாது! 🔥\n\nஇந்த தண்டனை சரியா? இல்ல வேற தண்டனை குடுக்கலாமா? உங்க கருத்த கமெண்ட்ல சொல்லுங்க! 👇💬\n\n---\n🔔 தினமும் இதுபோன்ற நம்ம ஊரு கர்மா கோர்ட் (Karma Court) மற்றும் நையாண்டி கதைகளைப் பார்க்க \"நம்ம ஊரு டிராமா\" சேனலை Subscribe செய்யுங்கள்!\n\n#நம்மஊருடிராமா #கர்மாகோர்ட் #KarmaCourt #TamilShorts #NammaOoruDrama #Chennai #TamilComedy #TamilSatire #CivicSense #SaveRivers #PlasticPollution #Shorts",
+      "tags": "நம்ம ஊரு டிராமா, கர்மா கோர்ட், நம்ம ஊரு டிராமா சேனல், தமிழ் ஷார்ட்ஸ், தமிழ் காமெடி, சென்னை, Namma Ooru Drama, Karma Court Tamil, Karma Court Case 11, Tamil Shorts, Tamil Satire, Chennai Rivers, Civic Sense Tamil, Funny Tamil Video",
+      "pinned_comment": "இந்த தண்டனை சரியா? 👇\n👍 சரிதான், இதுதான் சரியான பாடம்!\n🔥 இன்னும் கடுமையான தண்டனை வேணும்!\n\nஉங்க பதில கமெண்ட்ல சொல்லுங்க! 💬",
+      "cover_url": "assets/comic_tales/cover_comic_011.jpg",
+      "cover_filename": "cover_comic_011.jpg",
+      "status": "PUBLISHED",
+      "playlist_name": "கர்மா கோர்ட் | Karma Court (Tamil Satire)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
+      "case_number": 11,
+      "target_drop": "PUBLISHED ✅",
+      "youtube_url": "https://www.youtube.com/shorts/saUMcfAp-w0",
+      "youtube_id": "saUMcfAp-w0",
+      "views": null
     },
     {
       "episode": 2,
@@ -10600,32 +10894,6 @@ window.PUBLISHING_CATALOG = {
       "slug": "triple_riding_speedster"
     },
     {
-      "episode": 8,
-      "day": "Case 8",
-      "slot": "13:30 IST (Lunchtime Comedy)",
-      "title_en": "Pavement Rider",
-      "category": "போக்குவரத்து அராஜகம் 🚗",
-      "situation": "Riding on pedestrian sidewalks.",
-      "human_complaint": "கடவுளே! ரோடு டிராபிக்னு நடைபாதையில பைக்கை ஏத்திட்டு, நடந்து போற பெரியவங்களையே 'விலகி போ'ன்னு ஹார்ன் அடிச்சு மிரட்டுறானுங்களே... என்ன கடவுளே பண்றது?",
-      "divine_verdict": "இவங்களுக்கு... பைக் சாவியை பிடுங்கிட்டு, முள்ளு நிறைஞ்ச குறுகிய சந்துல முட்டி போட்டு மட்டுமே ஊர்ந்து போகிற ரூல்ஸ் போடணும்பா!",
-      "video_filename": "karma_court_case_008_pavement_rider_master_v7.mp4",
-      "title": "பிளாட்பாரத்துல வண்டி ஓட்டுறவங்களுக்கு இந்த தண்டனை சரியா? 🚶‍♂️⚖️ | கர்மா கோர்ட் #Shorts #Tamil",
-      "description": "\"கடவுளே! ரோடு டிராபிக்னு நடைபாதையில பைக்கை ஏத்திட்டு, நடந்து போற பெரியவங்களையே 'விலகி போ'ன்னு ஹார்ன் அடிச்சு மிரட்டுறானுங்களே... என்ன கடவுளே பண்றது?\"\n\n⚡ மேலோகத் தீர்ப்பு:\n\"இவங்களுக்கு... பைக் சாவியை பிடுங்கிட்டு, முள்ளு நிறைஞ்ச குறுகிய சந்துல முட்டி போட்டு மட்டுமே ஊர்ந்து போகிற ரூல்ஸ் போடணும்பா!\"\n\nஇந்த தண்டனை சரியா? உங்க கருத்தை கமெண்ட்ல சொல்லுங்க! 👇💬\n\n───────────────\n⚖️ தொடர்: கர்மா கோர்ட் (Karma Court - Poetic Divine Justice in Melogam)\n🏛️ களம்: மேலோகம் (Melogam — Celestial Cosmic Courtroom)\n🔁 சேனல்: நம்ம ஊரு டிராமா (@NammaOoruDrama)\n🕒 தினமும் மதியம் 1:30 மணிக்கு\n───────────────\n\nநம்ம ஊரு தெருக்களில் நடக்கும் அநியாயங்களுக்கு மேலோகத்தில் கிடைக்கும் உடனடி கர்மா தீர்ப்பு!\n\n🔔 தினமும் இதுபோன்ற நம்ம ஊரு கர்மா கோர்ட் மற்றும் நையாண்டி கதைகளைப் பார்க்க \"நம்ம ஊரு டிராமா\" சேனலை Subscribe செய்யுங்கள்!\n📌 இந்த மாதிரி பண்ற உங்க நண்பர்களுக்கு ஷேர் பண்ணுங்க! 😂\n\n#நம்மஊருடிராமா #கர்மாகோர்ட் #KarmaCourt #TamilShorts #NammaOoruDrama #Chennai #TamilComedy #TamilSatire #CivicSense #Shorts",
-      "tags": "நம்ம ஊரு டிராமா, கர்மா கோர்ட், பிளாட்பாரம், நடைபாதை, தமிழ் ஷார்ட்ஸ், தமிழ் காமெடி, சென்னை டிராபிக், Namma Ooru Drama, Karma Court Tamil, Pavement Riding, Pedestrian Safety, Tamil Shorts, Tamil Satire, Civic Sense Tamil",
-      "pinned_comment": "ரோட்ல டிராபிக்னு பிளாட்பாரத்துல வண்டி ஏத்துறவங்களுக்கு இந்த தண்டனை சரியா? 🚶‍♂️⚖️👇\n👍 100% சரிதான், இதுதான் சரியான பாடம்!\n🔥 இதைவிட கடுமையான தண்டனை வேணும்!\n\nநீங்களும் நடக்கும்போது இப்படி வண்டி ஏத்தி பயமுறுத்தியிருக்காங்களா? கமெண்ட்ல சொல்லுங்க! 💬\n\n🔔 Subscribe to @NammaOoruDrama (நம்ம ஊரு டிராமா) for daily Karma Court ⚖️! 🚀",
-      "cover_url": "assets/comic_tales/cover_comic_008.jpg",
-      "cover_filename": "cover_comic_008.jpg",
-      "status": "READY 🚀",
-      "playlist_name": "கர்மா கோர்ட் | Karma Court (Tamil Satire)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
-      "case_number": 8,
-      "youtube_id": null,
-      "youtube_url": null,
-      "target_drop": "To Be Uploaded on @NammaOoruDrama ⏳",
-      "views": null,
-      "slug": "pavement_rider"
-    },
-    {
       "episode": 9,
       "day": "Case 9",
       "slot": "13:30 IST (Lunchtime Comedy)",
@@ -10676,31 +10944,6 @@ window.PUBLISHING_CATALOG = {
       "target_drop": "To Be Uploaded on @NammaOoruDrama ⏳",
       "views": null,
       "slug": "muddy_water_splasher"
-    },
-    {
-      "episode": 11,
-      "day": "Case 11",
-      "slot": "13:30 IST (Lunchtime Comedy)",
-      "title_en": "River and Lake Polluter",
-      "category": "சமூக விழிப்புணர்வு & சுற்றுச்சூழல் 🌱",
-      "situation": "Dumping trash into sacred rivers from bridges.",
-      "human_complaint": "கடவுளே! பாலத்து மேல இருந்து ஆத்தோரத்துலயும் குளத்துலயும் மூட்டை மூட்டையா பிளாஸ்டிக் குப்பையை தூக்கி வீசுறானுங்களே... இவங்கள என்ன பண்றது?",
-      "divine_verdict": "இவங்கள... நாற்றமடிக்குற கழிவுநீர் ஆத்துல இறக்கிவிட்டு, 'ஒவ்வொரு கவரா கையாலயே அள்ளி அள்ளி கரை சேர்க்கணும், ஒரு பிளாஸ்டிக் பாக்கி இருந்தாலும் மேல வர முடியாது'ன்னு சொல்லிப்புடணும்!",
-      "video_filename": "karma_court_case_011_river_and_lake_polluter_master_v6.mp4",
-      "title": "ஆற்றில் குப்பை கொட்டுபவர்களுக்கு இந்த தண்டனை சரியா? 😱⚖️ | கர்மா கோர்ட் #Shorts #Tamil",
-      "description": "பாலத்து மேல இருந்து ஆத்துலயும் குளத்துலயும் மூட்டை மூட்டையா பிளாஸ்டிக் குப்பைய தூக்கி வீசுறவங்களுக்கு என்ன தண்டனை குடுக்கலாம்? 🌊🗑️\n\nநாற்றமடிக்குற கழிவுநீர் ஆத்துல இறக்கி விட்டு, ஒவ்வொரு கவரையும் கையாலயே அள்ளி கரை சேர்க்கணும்! ஒரு பிளாஸ்டிக் பாக்கி இருந்தாலும் மேல வரக்கூடாது! 🔥\n\nஇந்த தண்டனை சரியா? இல்ல வேற தண்டனை குடுக்கலாமா? உங்க கருத்த கமெண்ட்ல சொல்லுங்க! 👇💬\n\n---\n🔔 தினமும் இதுபோன்ற நம்ம ஊரு கர்மா கோர்ட் (Karma Court) மற்றும் நையாண்டி கதைகளைப் பார்க்க \"நம்ம ஊரு டிராமா\" சேனலை Subscribe செய்யுங்கள்!\n\n#நம்மஊருடிராமா #கர்மாகோர்ட் #KarmaCourt #TamilShorts #NammaOoruDrama #Chennai #TamilComedy #TamilSatire #CivicSense #SaveRivers #PlasticPollution #Shorts",
-      "tags": "நம்ம ஊரு டிராமா, கர்மா கோர்ட், நம்ம ஊரு டிராமா சேனல், தமிழ் ஷார்ட்ஸ், தமிழ் காமெடி, சென்னை, Namma Ooru Drama, Karma Court Tamil, Karma Court Case 11, Tamil Shorts, Tamil Satire, Chennai Rivers, Civic Sense Tamil, Funny Tamil Video",
-      "pinned_comment": "இந்த தண்டனை சரியா? 👇\n👍 சரிதான், இதுதான் சரியான பாடம்!\n🔥 இன்னும் கடுமையான தண்டனை வேணும்!\n\nஉங்க பதில கமெண்ட்ல சொல்லுங்க! 💬",
-      "cover_url": "assets/comic_tales/cover_comic_011.jpg",
-      "cover_filename": "cover_comic_011.jpg",
-      "status": "PUBLISHED",
-      "playlist_name": "கர்மா கோர்ட் | Karma Court (Tamil Satire)",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
-      "case_number": 11,
-      "target_drop": "PUBLISHED ✅",
-      "youtube_url": "https://www.youtube.com/shorts/saUMcfAp-w0",
-      "youtube_id": "saUMcfAp-w0",
-      "views": null
     },
     {
       "episode": 12,
@@ -11761,7 +12004,7 @@ window.PUBLISHING_CATALOG = {
       "title": "100 Days of Learning AI 👉 Cluster 6: AI Safety, Ethics & Alignment (Ep 51–60) | Sigma Byte",
       "description": "Master AI Safety, Governance & Alignment in 10 bite-sized high-IQ episodes! 💡 Reinforcement Learning from Human Feedback (RLHF), Constitutional AI, guardrails, and adversarial testing.\n\n#shorts #ai #artificialintelligence #learnai #aisafety #sigmabyte #saravxai #100daysofai #techtips",
       "hashtags": "#shorts #ai #artificialintelligence #learnai #aisafety #sigmabyte #saravxai #100daysofai #techtips",
-      "playlist_url": ""
+      "playlist_url": "https://www.youtube.com/playlist?list=PLRi26KAnloz4"
     },
     {
       "id": "cluster_07",
@@ -11833,7 +12076,7 @@ window.PUBLISHING_CATALOG = {
       "title": "கர்மா கோர்ட் | Karma Court (Tamil Satire)",
       "description": "நம்ம ஊர் தெருக்களில் நடக்கும் அநியாயங்களுக்கு உடனடி தீர்ப்பு! தவறு செய்பவர்களை கர்மா எப்படி வச்சு செய்யுதுன்னு பாருங்க. (Instant karma & civic satire loops from Namma Ooru.)\n\n#நம்மஊருடிராமா #கர்மாகோர்ட் #KarmaCourt #TamilShorts #NammaOoruDrama #TamilComedy #TamilSatire #ChennaiLife",
       "hashtags": "#நம்மஊருடிராமா #கர்மாகோர்ட் #KarmaCourt #TamilShorts #NammaOoruDrama #TamilComedy #TamilSatire #ChennaiLife",
-      "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4"
+      "playlist_url": "https://www.youtube.com/playlist?list=PLO5zCzzwuhTw"
     },
     {
       "id": "inkling_complete",
@@ -11918,6 +12161,17 @@ window.PUBLISHING_CATALOG = {
       "description": "Profound human life lessons, atomic habits, and mindset shifts animated in minimalist looping line-art. ⚡\n\nEvery episode of Motivation Tales delivers an actionable psychological truth designed to break mental friction — discipline over fleeting motivation, persistence before breakthroughs, overcoming past regret, mastering temper, and running your own race.\n\n🕒 DAILY DROP: Every night at 10:30 PM IST (Bedtime Mindset Reset)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🎯 FORMAT: 20.00s Minimalist Vector Line-Art Loops\n\n───────────────\n📚 CORE THEMES & CLUSTERS:\n• Discipline & Daily Habits (1% Staircase, 5 AM Storm, Discipline vs Obsession)\n• Persistence & Unbroken Focus (Gold Mine Paradox, The Solitary Grind, The Runner's Reset)\n• Mindset, Peace & Silent Growth (Absorbing the Fire, Dropping Old Baggage, The Bamboo Seed)\n\n───────────────\n🔔 SUBSCRIBE to @theloopvid and save this playlist for your daily 10:30 PM mental reset!\n🌐 Interactive Command Deck: https://nalkudilstudio.github.io/nalkudil-social-studio/\n\n#Shorts #Motivation #Discipline #Mindset #SelfImprovement #TheLoop #AtomicHabits #LifeLessons",
       "hashtags": "#Shorts #Motivation #Discipline #Mindset #SelfImprovement #TheLoop #AtomicHabits #LifeLessons",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4"
+    },
+    {
+      "id": "heal_by_words",
+      "cluster_num": 13,
+      "cluster_title": "Heal By Words ✨ (Emotional Loops & Micro Lore)",
+      "title": "Heal By Words ✨ | 2-Second Emotional Trauma Loops",
+      "category": "the_loop",
+      "video_count": "5 Videos Live / 50 Scheduled",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLF6cGOMaGehU",
+      "hashtags": "#HealByWords #TheLoop #Shorts #Quotes #Heartbreak #SelfHealing",
+      "description": "2-Second Emotional Loops • Real Spill • Healing Words • Micro Lore.\n\nSubscribe to @TheLoopVid for daily reflections and stories."
     }
   ],
   "motivation_tales": [
@@ -11960,8 +12214,10 @@ window.PUBLISHING_CATALOG = {
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
       "youtube_id": "mOfrrLaPrnw",
-      "youtube_url": "https://www.youtube.com/shorts/mOfrrLaPrnw",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_url": "https://youtube.com/shorts/mOfrrLaPrnw",
+      "target_drop": "PUBLISHED ✅",
+      "views": 62,
+      "view_count": 62
     },
     {
       "episode": 3,
@@ -11981,8 +12237,10 @@ window.PUBLISHING_CATALOG = {
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
       "youtube_id": "1ViVXJqPYP8",
-      "youtube_url": "https://www.youtube.com/shorts/1ViVXJqPYP8",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_url": "https://youtube.com/shorts/1ViVXJqPYP8",
+      "target_drop": "PUBLISHED ✅",
+      "views": 94,
+      "view_count": 94
     },
     {
       "episode": 4,
@@ -12002,8 +12260,10 @@ window.PUBLISHING_CATALOG = {
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
       "youtube_id": "mbUi5q7vE-w",
-      "youtube_url": "https://www.youtube.com/shorts/mbUi5q7vE-w",
-      "target_drop": "PUBLISHED ✅"
+      "youtube_url": "https://youtube.com/shorts/mbUi5q7vE-w",
+      "target_drop": "PUBLISHED ✅",
+      "views": 83,
+      "view_count": 83
     },
     {
       "episode": 5,
@@ -12022,10 +12282,12 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
-      "youtube_url": "https://www.youtube.com/shorts/Sf5kdXR4lJw",
+      "youtube_url": "https://youtube.com/shorts/Sf5kdXR4lJw",
       "live_url": "https://www.youtube.com/shorts/Sf5kdXR4lJw",
       "target_drop": "PUBLISHED ✅",
-      "youtube_id": "Sf5kdXR4lJw"
+      "youtube_id": "Sf5kdXR4lJw",
+      "views": 435,
+      "view_count": 435
     },
     {
       "episode": 6,
@@ -12047,7 +12309,9 @@ window.PUBLISHING_CATALOG = {
       "target_drop": "PUBLISHED ✅",
       "priority_rank": 5,
       "youtube_id": "XHig8whUUWU",
-      "youtube_url": "https://www.youtube.com/shorts/XHig8whUUWU"
+      "youtube_url": "https://youtube.com/shorts/XHig8whUUWU",
+      "views": 361,
+      "view_count": 361
     },
     {
       "episode": 7,
@@ -12069,7 +12333,9 @@ window.PUBLISHING_CATALOG = {
       "target_drop": "PUBLISHED ✅",
       "priority_rank": 1,
       "youtube_id": "HvPMWePUfBs",
-      "youtube_url": "https://www.youtube.com/shorts/HvPMWePUfBs"
+      "youtube_url": "https://youtube.com/shorts/HvPMWePUfBs",
+      "views": 53,
+      "view_count": 53
     },
     {
       "episode": 8,
@@ -12085,13 +12351,15 @@ window.PUBLISHING_CATALOG = {
       "description": "\"Most people quit 1 inch before the breakthrough. Never stop swinging.\"\n\n⛏️ THE 1-INCH RULE:\nTwo miners dig through 100 feet of bedrock:\n- Quitter: Digs 99 feet, gets exhausted, drops pickaxe and walks away right before the gold.\n- Breakthrough: Takes one more swing, shatters the thin rock wall, and finds the gold chamber!\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 9:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\n🔔 SUBSCRIBE to @theloopvid for daily 10:30 PM mindset resets!\n\n#Shorts #GoldMine #Persistence #NeverGiveUp #Breakthrough #SuccessMindset #TheLoop",
       "tags": "shorts, gold mine paradox, 1 inch rule, never give up, persistence, breakthrough, success mindset, motivation tales, the loop, theloopvid, daily habits",
       "pinned_comment": "👇 Have you ever felt like quitting right before a big win? Drop a '🔥' if you're taking that final swing!\n\nSubscribe to @theloopvid — Ep 9 drops tomorrow at 9:30 PM IST! 🚀",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
       "target_drop": "SCHEDULED ⏳",
       "priority_rank": 2,
       "youtube_id": "XdfbENkm5E0",
-      "youtube_url": "https://www.youtube.com/shorts/XdfbENkm5E0"
+      "youtube_url": "https://youtube.com/shorts/XdfbENkm5E0",
+      "views": 754,
+      "view_count": 754
     },
     {
       "episode": 9,
@@ -12107,13 +12375,15 @@ window.PUBLISHING_CATALOG = {
       "description": "\"Effort without leverage is just exhaustion. Build systems, don't just sweat.\"\n\n⚡ SWEAT VS SYSTEM:\n- Person A: Throws spear 100 times, catches 1 fish, exhausted.\n- Person B: Sets up a woven net system, catches 24 fish while resting.\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 9:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\nDaily micro-habits and profound life lessons animated in minimalist looping line-art.\n\n🔔 SUBSCRIBE to @theloopvid for daily 10:30 PM mindset resets!\n\n#Shorts #Motivation #WorkSmart #Leverage #Systems #Productivity #TheLoop #Mindset",
       "tags": "shorts, motivation, work smart, work hard, productivity, leverage, systems, business mindset, self improvement, the loop, theloopvid, daily motivation",
       "pinned_comment": "👇 Are you throwing spears or building nets right now? ⚡💬\n\nSubscribe to @theloopvid for daily 10:30 PM lessons! 🚀",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
       "target_drop": "Thu, Nov 26 @ 21:30 IST",
       "priority_rank": 3,
-      "youtube_id": null,
-      "youtube_url": null
+      "youtube_id": "N7OCv7zCVko",
+      "youtube_url": "https://youtube.com/shorts/N7OCv7zCVko",
+      "views": 989,
+      "view_count": 989
     },
     {
       "episode": 10,
@@ -12129,13 +12399,15 @@ window.PUBLISHING_CATALOG = {
       "description": "\"Obligation runs until it gets tired. Hunger runs until victory.\"\n\n⚡ OBLIGATION VS HUNGER:\n- The casual runner checks their watch at hurdle 3 and sits down.\n- The hungry soul leaps over every barrier until the trophy is in hand.\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 9:30 PM IST (Bedtime Mindset Reset)\n───────────────\n\n#Shorts #Motivation #Hunger #Determination #Victory #Obsession #Relentless #TheLoop",
       "tags": "shorts, motivation, relentless, winner mindset, determination, work ethic, athletic motivation, the loop, theloopvid",
       "pinned_comment": "👇 How hungry are you? Hunger always outlasts obligation. ⚡🏆",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
       "target_drop": "Fri, Nov 27 @ 21:30 IST",
       "priority_rank": 4,
-      "youtube_id": null,
-      "youtube_url": null
+      "youtube_id": "-cDPsLYZoEw",
+      "youtube_url": "https://youtube.com/shorts/-cDPsLYZoEw",
+      "views": 362,
+      "view_count": 362
     },
     {
       "episode": 11,
@@ -12979,152 +13251,154 @@ window.PUBLISHING_CATALOG = {
     }
   ],
   "two_seconds": [
-  {
-    "episode": 1,
-    "day": "Day 1",
-    "slot": "21:30 IST (Late Night Mood / Real Spill)",
-    "title": "The Truth About The Apology You Never Got 💔 #Shorts",
-    "concept": "Waiting for Closure",
-    "category": "Heal By Words 🤍",
-    "emotion": "sad",
-    "animation_type": "heart_walk_and_fall",
-    "bg_theme": "obsidian_charcoal",
-    "lines": [
-      "you aren't waiting for closure.",
-      "you are using their silence",
-      "as your final quiet excuse",
-      "to keep them alive inside."
-    ],
-    "hook_large": "IS THIS YOU?",
-    "sub_dilemma": "using their silence as your excuse to keep them alive inside.",
-    "video_filename": "2s_trauma_ep001_waiting_for_closure_master.mp4",
-    "cover_url": "assets/two_seconds/cover_2s_trauma_ep001.jpg",
-    "cover_filename": "cover_2s_trauma_ep001.jpg",
-    "description": "Read that again. The closure you're waiting for will never come from their mouth.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-    "status": "READY 🚀",
-    "youtube_id": null,
-    "youtube_url": null,
-    "target_drop": "New Drop on @TheLoopVid ⏳"
-  },
-  {
-    "episode": 2,
-    "day": "Day 2",
-    "slot": "21:30 IST (Late Night Mood / Real Spill)",
-    "title": "The Truth Nobody Wants To Admit 💔 #Shorts",
-    "concept": "Losing Trust",
-    "category": "Heal By Words 🤍",
-    "emotion": "numb",
-    "animation_type": "heart_sitting_swing",
-    "bg_theme": "midnight_navy",
-    "lines": [
-      "it wasn't losing you",
-      "that broke me in two.",
-      "it was losing the version",
-      "of me that trusted everyone."
-    ],
-    "hook_large": "DOES THIS RESONATE WITH YOU?",
-    "sub_dilemma": "losing the version of yourself that trusted everyone.",
-    "video_filename": "2s_trauma_ep002_losing_trust_master.mp4",
-    "cover_url": "assets/two_seconds/cover_2s_trauma_ep002.jpg",
-    "cover_filename": "cover_2s_trauma_ep002.jpg",
-    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-    "status": "SCHEDULED ⏳",
-    "youtube_id": "mXsckNTK34w",
-    "youtube_url": "https://youtube.com/shorts/mXsckNTK34w",
-    "target_drop": "Scheduled on @TheLoopVid ⏳"
-  },
-  {
-    "episode": 3,
-    "day": "Day 3",
-    "slot": "21:30 IST (Late Night Mood / Real Spill)",
-    "title": "Why Being Too Kind Will Destroy You 💔 #Shorts",
-    "concept": "Too Forgiving / Boundaries",
-    "category": "Heal By Words 🤍",
-    "emotion": "betrayal",
-    "animation_type": "heart_bandage_floating",
-    "bg_theme": "plum_crimson",
-    "lines": [
-      "you forgave them so many times",
-      "they believed you were weak.",
-      "the truth was,",
-      "you were just too tired to hate."
-    ],
-    "hook_large": "ARE YOU TOO FORGIVING?",
-    "sub_dilemma": "forgiving them so many times they thought you were weak.",
-    "video_filename": "2s_trauma_ep003_too_forgiving_master.mp4",
-    "cover_url": "assets/two_seconds/cover_2s_trauma_ep003.jpg",
-    "cover_filename": "cover_2s_trauma_ep003.jpg",
-    "description": "Read that again. You taught them how to treat you by never walking away.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-    "status": "READY 🚀",
-    "youtube_id": null,
-    "youtube_url": null,
-    "target_drop": "New Drop on @TheLoopVid ⏳"
-  },
-  {
-    "episode": 4,
-    "day": "Day 4",
-    "slot": "21:30 IST (Late Night Mood / Real Spill)",
-    "title": "From Best Friends To Complete Strangers 💔 #Shorts",
-    "concept": "Strangers Again",
-    "category": "Heal By Words 🤍",
-    "emotion": "melancholy",
-    "animation_type": "heart_two_halves_drifting",
-    "bg_theme": "deep_slate_cyan",
-    "lines": [
-      "how wild it feels",
-      "that someone who once knew",
-      "every shadow of your soul",
-      "now walks past you in silence."
-    ],
-    "hook_large": "STRANGERS OVERNIGHT?",
-    "sub_dilemma": "someone who knew every secret now walks past you in silence.",
-    "video_filename": "2s_trauma_ep004_strangers_again_master.mp4",
-    "cover_url": "assets/two_seconds/cover_2s_trauma_ep004.jpg",
-    "cover_filename": "cover_2s_trauma_ep004.jpg",
-    "description": "Read that again. Strange how a person can go from your favorite conversation to a ghost.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-    "status": "READY 🚀",
-    "youtube_id": null,
-    "youtube_url": null,
-    "target_drop": "New Drop on @TheLoopVid ⏳"
-  },
-  {
-    "episode": 5,
-    "day": "Day 5",
-    "slot": "21:30 IST (Late Night Mood / Real Spill)",
-    "title": "The Sign You Need To Finally Let Go 💔 #Shorts",
-    "concept": "Watering Dead Flowers",
-    "category": "Heal By Words 🤍",
-    "emotion": "revelation",
-    "animation_type": "heart_sprouting_rose",
-    "bg_theme": "forest_moss_black",
-    "lines": [
-      "you kept watering dead flowers",
-      "hoping spring would return.",
-      "all you ever got back",
-      "were hands covered in mud."
-    ],
-    "hook_large": "GET HEALED",
-    "sub_dilemma": "you kept watering dead flowers hoping spring would return.",
-    "video_filename": "2s_trauma_ep005_watering_dead_flowers_master.mp4",
-    "cover_url": "assets/two_seconds/cover_2s_trauma_ep005.jpg",
-    "cover_filename": "cover_2s_trauma_ep005.jpg",
-    "description": "Read that again. You cannot resurrect what was never willing to survive.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-    "status": "READY 🚀",
-    "youtube_id": null,
-    "youtube_url": null,
-    "target_drop": "New Drop on @TheLoopVid ⏳"
-  }
-],
+    {
+      "episode": 2,
+      "day": "Day 2",
+      "slot": "21:30 IST (Late Night Mood / Real Spill)",
+      "title": "The Truth Nobody Wants To Admit 💔 #Shorts",
+      "concept": "Losing Trust",
+      "category": "Heal By Words 🤍",
+      "emotion": "numb",
+      "animation_type": "heart_sitting_swing",
+      "bg_theme": "midnight_navy",
+      "lines": [
+        "it wasn't losing you",
+        "that broke me in two.",
+        "it was losing the version",
+        "of me that trusted everyone."
+      ],
+      "hook_large": "DOES THIS RESONATE WITH YOU?",
+      "sub_dilemma": "losing the version of yourself that trusted everyone.",
+      "video_filename": "2s_trauma_ep002_losing_trust_master.mp4",
+      "cover_url": "assets/two_seconds/cover_2s_trauma_ep002.jpg",
+      "cover_filename": "cover_2s_trauma_ep002.jpg",
+      "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+      "status": "PUBLISHED",
+      "youtube_id": "mXsckNTK34w",
+      "youtube_url": "https://youtube.com/shorts/mXsckNTK34w",
+      "target_drop": "Scheduled on @TheLoopVid ⏳",
+      "views": 68,
+      "view_count": 68
+    },
+    {
+      "episode": 1,
+      "day": "Day 1",
+      "slot": "21:30 IST (Late Night Mood / Real Spill)",
+      "title": "The Truth About The Apology You Never Got 💔 #Shorts",
+      "concept": "Waiting for Closure",
+      "category": "Heal By Words 🤍",
+      "emotion": "sad",
+      "animation_type": "heart_walk_and_fall",
+      "bg_theme": "obsidian_charcoal",
+      "lines": [
+        "you aren't waiting for closure.",
+        "you are using their silence",
+        "as your final quiet excuse",
+        "to keep them alive inside."
+      ],
+      "hook_large": "IS THIS YOU?",
+      "sub_dilemma": "using their silence as your excuse to keep them alive inside.",
+      "video_filename": "2s_trauma_ep001_waiting_for_closure_master.mp4",
+      "cover_url": "assets/two_seconds/cover_2s_trauma_ep001.jpg",
+      "cover_filename": "cover_2s_trauma_ep001.jpg",
+      "description": "Read that again. The closure you're waiting for will never come from their mouth.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+      "status": "READY 🚀",
+      "youtube_id": null,
+      "youtube_url": null,
+      "target_drop": "New Drop on @TheLoopVid ⏳"
+    },
+    {
+      "episode": 3,
+      "day": "Day 3",
+      "slot": "21:30 IST (Late Night Mood / Real Spill)",
+      "title": "Why Being Too Kind Will Destroy You 💔 #Shorts",
+      "concept": "Too Forgiving / Boundaries",
+      "category": "Heal By Words 🤍",
+      "emotion": "betrayal",
+      "animation_type": "heart_bandage_floating",
+      "bg_theme": "plum_crimson",
+      "lines": [
+        "you forgave them so many times",
+        "they believed you were weak.",
+        "the truth was,",
+        "you were just too tired to hate."
+      ],
+      "hook_large": "ARE YOU TOO FORGIVING?",
+      "sub_dilemma": "forgiving them so many times they thought you were weak.",
+      "video_filename": "2s_trauma_ep003_too_forgiving_master.mp4",
+      "cover_url": "assets/two_seconds/cover_2s_trauma_ep003.jpg",
+      "cover_filename": "cover_2s_trauma_ep003.jpg",
+      "description": "Read that again. You taught them how to treat you by never walking away.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+      "status": "READY 🚀",
+      "youtube_id": null,
+      "youtube_url": null,
+      "target_drop": "New Drop on @TheLoopVid ⏳"
+    },
+    {
+      "episode": 4,
+      "day": "Day 4",
+      "slot": "21:30 IST (Late Night Mood / Real Spill)",
+      "title": "From Best Friends To Complete Strangers 💔 #Shorts",
+      "concept": "Strangers Again",
+      "category": "Heal By Words 🤍",
+      "emotion": "melancholy",
+      "animation_type": "heart_two_halves_drifting",
+      "bg_theme": "deep_slate_cyan",
+      "lines": [
+        "how wild it feels",
+        "that someone who once knew",
+        "every shadow of your soul",
+        "now walks past you in silence."
+      ],
+      "hook_large": "STRANGERS OVERNIGHT?",
+      "sub_dilemma": "someone who knew every secret now walks past you in silence.",
+      "video_filename": "2s_trauma_ep004_strangers_again_master.mp4",
+      "cover_url": "assets/two_seconds/cover_2s_trauma_ep004.jpg",
+      "cover_filename": "cover_2s_trauma_ep004.jpg",
+      "description": "Read that again. Strange how a person can go from your favorite conversation to a ghost.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+      "status": "READY 🚀",
+      "youtube_id": null,
+      "youtube_url": null,
+      "target_drop": "New Drop on @TheLoopVid ⏳"
+    },
+    {
+      "episode": 5,
+      "day": "Day 5",
+      "slot": "21:30 IST (Late Night Mood / Real Spill)",
+      "title": "The Sign You Need To Finally Let Go 💔 #Shorts",
+      "concept": "Watering Dead Flowers",
+      "category": "Heal By Words 🤍",
+      "emotion": "revelation",
+      "animation_type": "heart_sprouting_rose",
+      "bg_theme": "forest_moss_black",
+      "lines": [
+        "you kept watering dead flowers",
+        "hoping spring would return.",
+        "all you ever got back",
+        "were hands covered in mud."
+      ],
+      "hook_large": "GET HEALED",
+      "sub_dilemma": "you kept watering dead flowers hoping spring would return.",
+      "video_filename": "2s_trauma_ep005_watering_dead_flowers_master.mp4",
+      "cover_url": "assets/two_seconds/cover_2s_trauma_ep005.jpg",
+      "cover_filename": "cover_2s_trauma_ep005.jpg",
+      "description": "Read that again. You cannot resurrect what was never willing to survive.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+      "status": "READY 🚀",
+      "youtube_id": null,
+      "youtube_url": null,
+      "target_drop": "New Drop on @TheLoopVid ⏳"
+    }
+  ],
   "studio_apps": [
     {
       "id": 1,

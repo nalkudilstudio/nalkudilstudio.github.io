@@ -9648,7 +9648,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_26_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_26.jpg",
       "slide2_filename": "SidIsha_Day_26_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DgMRyvOCOR1/",
       "slide1_alt": "A sleek modern corporate photograph inside a glass office tower late at night, showing an exhausted software architect looking thoughtfully up from dual glowing monitors filled with lines of code. A text overlay at the top reads \"Fate, after seven silent years, quietly cracked its knuckles.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Lines of Code\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid working late on an enterprise software module seven years later, stumbling upon a code repository signed by an engineer named Isha, feeling fate stir once again in the dark. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },

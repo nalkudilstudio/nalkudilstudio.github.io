@@ -1101,6 +1101,9 @@
           } else if (suite === 'motivation_tales') {
             const mtItem = (catalog.motivation_tales || []).find(x => x.episode === id);
             checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : (mtItem && mtItem.status && mtItem.status.includes('READY') ? 'Ready 🚀' : 'Queued ⏳');
+          } else if (suite === 'two_seconds') {
+            const tsItem = (catalog.two_seconds || []).find(x => x.episode === id);
+            checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : (tsItem && tsItem.status ? tsItem.status : 'Ready 🚀');
           } else {
             checkLabel.querySelector('.status-text').textContent = isPub ? 'Published ✅' : 'Pending';
           }
@@ -1353,6 +1356,15 @@
           if (currentFilter === 'cat_office' && !cat.includes('அலுவலக')) return false;
           if (currentFilter === 'cat_civic' && !cat.includes('சமூக விழிப்புணர்வு')) return false;
           if (currentFilter === 'cat_daily' && !cat.includes('அண்டைவீட்டார்')) return false;
+        } else if (currentSuite === 'two_seconds') {
+          const concept = (item.concept || '').toLowerCase();
+          if (currentFilter === 'ready' && !(item.status && item.status.includes('READY'))) return false;
+          if (currentFilter === 'scheduled' && !(item.status && item.status.includes('SCHEDULED'))) return false;
+          if (currentFilter === 'cat_closure' && !concept.includes('closure')) return false;
+          if (currentFilter === 'cat_trust' && !concept.includes('trust') && !concept.includes('losing')) return false;
+          if (currentFilter === 'cat_boundaries' && !concept.includes('boundaries') && !concept.includes('forgiving')) return false;
+          if (currentFilter === 'cat_strangers' && !concept.includes('strangers')) return false;
+          if (currentFilter === 'cat_letgo' && !concept.includes('let go') && !concept.includes('flowers')) return false;
         } else if (currentSuite === 'studio_apps') {
           const status = item.status || '';
           const cat = item.category || '';
@@ -1419,6 +1431,8 @@
           cardHtml = buildMotivationTalesCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'comic_tales') {
           cardHtml = buildComicTalesCard(item, pubSet.has(item.episode));
+        } else if (currentSuite === 'two_seconds') {
+          cardHtml = buildTwoSecondsCard(item, pubSet.has(item.episode));
         } else if (currentSuite === 'sarav_playlists') {
           cardHtml = buildPlaylistsCard(item);
         } else if (currentSuite === 'studio_apps') {
@@ -1831,10 +1845,11 @@
               <span class="cat-badge">⏱️ 2.0s Kinetic Loop</span>
               <span class="cat-badge" style="background: rgba(0, 245, 212, 0.12); color: #00F5D4; border: 1px solid rgba(0, 245, 212, 0.3);">❤️ ${escapeHtml(item.animation_type || '')}</span>
               <span class="slot-badge">🕒 21:30 IST Night Mood</span>
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none; font-weight: 700;">${item.status && item.status.includes('SCHEDULED') ? '⏳ Scheduled Short' : (isPublished ? '▶️ Live Short' : '▶️ Watch Short')}</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('two_seconds', ${ep})">
-              <span class="status-text">${isPublished ? 'Published ✅' : (isReady ? 'Ready 🚀' : 'Queued ⏳')}</span>
+              <span class="status-text">${isPublished ? 'Published ✅' : (item.status ? item.status : (isReady ? 'Ready 🚀' : 'Queued ⏳'))}</span>
             </label>
           </div>
 
@@ -2463,6 +2478,7 @@ ${item.description}`;
       if (document.getElementById('count-loop')) document.getElementById('count-loop').textContent = (catalog.the_loop || []).length;
       if (document.getElementById('count-motivation')) document.getElementById('count-motivation').textContent = (catalog.motivation_tales || []).length;
       if (document.getElementById('count-comic')) document.getElementById('count-comic').textContent = (catalog.comic_tales || []).length;
+      if (document.getElementById('count-two-seconds')) document.getElementById('count-two-seconds').textContent = (catalog.two_seconds || []).length;
       if (document.getElementById('count-sidisha')) document.getElementById('count-sidisha').textContent = (catalog.sid_isha || []).length;
       if (document.getElementById('count-inkling')) document.getElementById('count-inkling').textContent = (catalog.inkling_ig || []).length;
       if (document.getElementById('count-apps')) document.getElementById('count-apps').textContent = (catalog.studio_apps || []).length;

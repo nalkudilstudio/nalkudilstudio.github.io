@@ -939,7 +939,7 @@
       </button>
       <button class="nav-tab-btn" onclick="switchSuite('the_loop', this)">
         <span>🔁 The Loop</span>
-        <span class="tab-count" id="count-loop">300</span>
+        <span class="tab-count" id="count-loop">301</span>
       </button>
             <button class="nav-tab-btn" onclick="switchSuite('motivation_tales', this)">
         <span>⚡ Motivation Tales</span>
@@ -1135,7 +1135,19 @@
       document.getElementById('btn-clear-search').style.display = 'none';
 
       document.querySelectorAll('.nav-tab-btn').forEach(b => b.classList.remove('active'));
-      if (btn) btn.classList.add('active');
+      if (btn) {
+        btn.classList.add('active');
+      } else {
+        const targetBtn = document.querySelector(`.nav-tab-btn[onclick*="'${suite}'"]`);
+        if (targetBtn) targetBtn.classList.add('active');
+      }
+
+      // Update URL hash seamlessly
+      if (history.replaceState) {
+        history.replaceState(null, null, `#${suite}`);
+      } else {
+        window.location.hash = suite;
+      }
 
       renderFilterChips();
       renderCards();
@@ -1188,7 +1200,8 @@
           { id: 'c3', label: 'Cluster 3: RAG (21–30)' },
           { id: 'c4', label: 'Cluster 4: Agents (31–40)' },
           { id: 'c5', label: 'Cluster 5: GenAI (41–50)' },
-          { id: 'upcoming', label: 'Upcoming (51–100)' },
+          { id: 'c6', label: 'Cluster 6: Ethics & Safety (51–60)' },
+          { id: 'upcoming', label: 'Upcoming (61–100)' },
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
         );
@@ -1310,7 +1323,8 @@
           if (currentFilter === 'c3' && !(ep >= 21 && ep <= 30)) return false;
           if (currentFilter === 'c4' && !(ep >= 31 && ep <= 40)) return false;
           if (currentFilter === 'c5' && !(ep >= 41 && ep <= 50)) return false;
-          if (currentFilter === 'upcoming' && !(ep >= 51)) return false;
+          if (currentFilter === 'c6' && !(ep >= 51 && ep <= 60)) return false;
+          if (currentFilter === 'upcoming' && !(ep >= 61)) return false;
         } else if (currentSuite === 'sarav_playlists') {
           if (currentFilter === '100days' && item.category !== '100_days') return false;
           if (currentFilter === 'techradar' && item.category !== 'tech_radar') return false;
@@ -2482,6 +2496,16 @@ ${item.description}`;
       if (document.getElementById('count-sidisha')) document.getElementById('count-sidisha').textContent = (catalog.sid_isha || []).length;
       if (document.getElementById('count-inkling')) document.getElementById('count-inkling').textContent = (catalog.inkling_ig || []).length;
       if (document.getElementById('count-apps')) document.getElementById('count-apps').textContent = (catalog.studio_apps || []).length;
+
+      // Hash Routing for Direct Links (e.g., #two_seconds, #motivation_tales, #comic_tales)
+      const hash = (window.location.hash || '').replace('#', '').trim().toLowerCase();
+      const validSuites = ['sarav_ai', 'sarav_trends', 'the_loop', 'motivation_tales', 'two_seconds', 'comic_tales', 'sid_isha', 'inkling_ig', 'sarav_playlists', 'studio_apps'];
+      if (hash && validSuites.includes(hash)) {
+        currentSuite = hash;
+        document.querySelectorAll('.nav-tab-btn').forEach(b => b.classList.remove('active'));
+        const targetBtn = document.querySelector(`.nav-tab-btn[onclick*="'${hash}'"]`);
+        if (targetBtn) targetBtn.classList.add('active');
+      }
 
       renderFilterChips();
       renderCards();

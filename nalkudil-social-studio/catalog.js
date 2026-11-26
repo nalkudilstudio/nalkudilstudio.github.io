@@ -13251,154 +13251,1761 @@ window.PUBLISHING_CATALOG = {
     }
   ],
   "two_seconds": [
-    {
-      "episode": 2,
-      "day": "Day 2",
-      "slot": "21:30 IST (Late Night Mood / Real Spill)",
-      "title": "The Truth Nobody Wants To Admit 💔 #Shorts",
-      "concept": "Losing Trust",
-      "category": "Heal By Words 🤍",
-      "emotion": "numb",
-      "animation_type": "heart_sitting_swing",
-      "bg_theme": "midnight_navy",
-      "lines": [
-        "it wasn't losing you",
-        "that broke me in two.",
-        "it was losing the version",
-        "of me that trusted everyone."
-      ],
-      "hook_large": "DOES THIS RESONATE WITH YOU?",
-      "sub_dilemma": "losing the version of yourself that trusted everyone.",
-      "video_filename": "2s_trauma_ep002_losing_trust_master.mp4",
-      "cover_url": "assets/two_seconds/cover_2s_trauma_ep002.jpg",
-      "cover_filename": "cover_2s_trauma_ep002.jpg",
-      "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "PUBLISHED",
-      "youtube_id": "mXsckNTK34w",
-      "youtube_url": "https://youtube.com/shorts/mXsckNTK34w",
-      "target_drop": "Scheduled on @TheLoopVid ⏳",
-      "views": 68,
-      "view_count": 68
-    },
-    {
-      "episode": 1,
-      "day": "Day 1",
-      "slot": "21:30 IST (Late Night Mood / Real Spill)",
-      "title": "The Truth About The Apology You Never Got 💔 #Shorts",
-      "concept": "Waiting for Closure",
-      "category": "Heal By Words 🤍",
-      "emotion": "sad",
-      "animation_type": "heart_walk_and_fall",
-      "bg_theme": "obsidian_charcoal",
-      "lines": [
-        "you aren't waiting for closure.",
-        "you are using their silence",
-        "as your final quiet excuse",
-        "to keep them alive inside."
-      ],
-      "hook_large": "IS THIS YOU?",
-      "sub_dilemma": "using their silence as your excuse to keep them alive inside.",
-      "video_filename": "2s_trauma_ep001_waiting_for_closure_master.mp4",
-      "cover_url": "assets/two_seconds/cover_2s_trauma_ep001.jpg",
-      "cover_filename": "cover_2s_trauma_ep001.jpg",
-      "description": "Read that again. The closure you're waiting for will never come from their mouth.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY 🚀",
-      "youtube_id": null,
-      "youtube_url": null,
-      "target_drop": "New Drop on @TheLoopVid ⏳"
-    },
-    {
-      "episode": 3,
-      "day": "Day 3",
-      "slot": "21:30 IST (Late Night Mood / Real Spill)",
-      "title": "Why Being Too Kind Will Destroy You 💔 #Shorts",
-      "concept": "Too Forgiving / Boundaries",
-      "category": "Heal By Words 🤍",
-      "emotion": "betrayal",
-      "animation_type": "heart_bandage_floating",
-      "bg_theme": "plum_crimson",
-      "lines": [
-        "you forgave them so many times",
-        "they believed you were weak.",
-        "the truth was,",
-        "you were just too tired to hate."
-      ],
-      "hook_large": "ARE YOU TOO FORGIVING?",
-      "sub_dilemma": "forgiving them so many times they thought you were weak.",
-      "video_filename": "2s_trauma_ep003_too_forgiving_master.mp4",
-      "cover_url": "assets/two_seconds/cover_2s_trauma_ep003.jpg",
-      "cover_filename": "cover_2s_trauma_ep003.jpg",
-      "description": "Read that again. You taught them how to treat you by never walking away.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY 🚀",
-      "youtube_id": null,
-      "youtube_url": null,
-      "target_drop": "New Drop on @TheLoopVid ⏳"
-    },
-    {
-      "episode": 4,
-      "day": "Day 4",
-      "slot": "21:30 IST (Late Night Mood / Real Spill)",
-      "title": "From Best Friends To Complete Strangers 💔 #Shorts",
-      "concept": "Strangers Again",
-      "category": "Heal By Words 🤍",
-      "emotion": "melancholy",
-      "animation_type": "heart_two_halves_drifting",
-      "bg_theme": "deep_slate_cyan",
-      "lines": [
-        "how wild it feels",
-        "that someone who once knew",
-        "every shadow of your soul",
-        "now walks past you in silence."
-      ],
-      "hook_large": "STRANGERS OVERNIGHT?",
-      "sub_dilemma": "someone who knew every secret now walks past you in silence.",
-      "video_filename": "2s_trauma_ep004_strangers_again_master.mp4",
-      "cover_url": "assets/two_seconds/cover_2s_trauma_ep004.jpg",
-      "cover_filename": "cover_2s_trauma_ep004.jpg",
-      "description": "Read that again. Strange how a person can go from your favorite conversation to a ghost.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY 🚀",
-      "youtube_id": null,
-      "youtube_url": null,
-      "target_drop": "New Drop on @TheLoopVid ⏳"
-    },
-    {
-      "episode": 5,
-      "day": "Day 5",
-      "slot": "21:30 IST (Late Night Mood / Real Spill)",
-      "title": "The Sign You Need To Finally Let Go 💔 #Shorts",
-      "concept": "Watering Dead Flowers",
-      "category": "Heal By Words 🤍",
-      "emotion": "revelation",
-      "animation_type": "heart_sprouting_rose",
-      "bg_theme": "forest_moss_black",
-      "lines": [
-        "you kept watering dead flowers",
-        "hoping spring would return.",
-        "all you ever got back",
-        "were hands covered in mud."
-      ],
-      "hook_large": "GET HEALED",
-      "sub_dilemma": "you kept watering dead flowers hoping spring would return.",
-      "video_filename": "2s_trauma_ep005_watering_dead_flowers_master.mp4",
-      "cover_url": "assets/two_seconds/cover_2s_trauma_ep005.jpg",
-      "cover_filename": "cover_2s_trauma_ep005.jpg",
-      "description": "Read that again. You cannot resurrect what was never willing to survive.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
-      "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
-      "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY 🚀",
-      "youtube_id": null,
-      "youtube_url": null,
-      "target_drop": "New Drop on @TheLoopVid ⏳"
-    }
-  ],
+  {
+    "episode": 2,
+    "day": "Day 2",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "The Truth Nobody Wants To Admit 💔 #Shorts",
+    "concept": "Losing Trust",
+    "category": "Heal By Words 🤍",
+    "emotion": "numb",
+    "animation_type": "heart_crack_pulse",
+    "bg_theme": "midnight_abyss",
+    "lines": [
+      "the hardest part wasn't losing",
+      "the person you deeply loved.",
+      "it was losing the version",
+      "of yourself that trusted everyone."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "losing the version of yourself that trusted everyone.",
+    "video_filename": "2s_trauma_ep002_losing_yourself_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep002.jpg",
+    "cover_filename": "cover_2s_trauma_ep002.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "PUBLISHED",
+    "youtube_id": "mXsckNTK34w",
+    "youtube_url": "https://youtube.com/shorts/mXsckNTK34w",
+    "target_drop": "Scheduled on @TheLoopVid ⏳",
+    "views": 68,
+    "view_count": 68
+  },
+  {
+    "episode": 1,
+    "day": "Day 1",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "The Truth About The Apology You Never Got 💔 #Shorts",
+    "concept": "The Truth About The Apology You Never Got 💔",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_walk_and_fall",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "you aren't waiting for closure.",
+      "you are using their silence",
+      "as your final quiet excuse",
+      "to keep them alive inside."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you aren't waiting for closure. you are using their silence",
+    "video_filename": "2s_trauma_ep001_waiting_for_closure_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep001.jpg",
+    "cover_filename": "cover_2s_trauma_ep001.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 1 21:30 IST"
+  },
+  {
+    "episode": 3,
+    "day": "Day 3",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Why Being Too Forgiving Hurts You 🌧️ #Shorts",
+    "concept": "Why Being Too Forgiving Hurts You 🌧️",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_rain_cloud",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "you gave them endless chances",
+      "to treat you with kindness.",
+      "they only learned how far",
+      "they could push your limits."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you gave them endless chances to treat you with kindness.",
+    "video_filename": "2s_trauma_ep003_too_forgiving_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep003.jpg",
+    "cover_filename": "cover_2s_trauma_ep003.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 3 21:30 IST"
+  },
+  {
+    "episode": 4,
+    "day": "Day 4",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "From Best Friends To Strangers Overnight #Shorts",
+    "concept": "From Best Friends To Strangers Overnight",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_fading_echo",
+    "bg_theme": "deep_plum_noir",
+    "lines": [
+      "it hurts when someone turns",
+      "into a complete stranger overnight",
+      "after knowing every single secret",
+      "you ever whispered in dark."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "it hurts when someone turns into a complete stranger overnight",
+    "video_filename": "2s_trauma_ep004_strangers_overnight_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep004.jpg",
+    "cover_filename": "cover_2s_trauma_ep004.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 4 21:30 IST"
+  },
+  {
+    "episode": 5,
+    "day": "Day 5",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Stop Watering Dead Flowers 🥀 #Shorts",
+    "concept": "Stop Watering Dead Flowers 🥀",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_walk_and_fall",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "you kept watering dead flowers",
+      "hoping spring would somehow return.",
+      "all you ever got back",
+      "were hands covered in mud."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you kept watering dead flowers hoping spring would somehow return.",
+    "video_filename": "2s_trauma_ep005_watering_dead_flowers_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep005.jpg",
+    "cover_filename": "cover_2s_trauma_ep005.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 5 21:30 IST"
+  },
+  {
+    "episode": 6,
+    "day": "Day 6",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "The Quietest Exit Nobody Notices #Shorts",
+    "concept": "The Quietest Exit Nobody Notices",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_rain_cloud",
+    "bg_theme": "midnight_abyss",
+    "lines": [
+      "nobody notices how quietly you",
+      "pull away from the table",
+      "when you finally realize you",
+      "were never truly invited anyway."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "nobody notices how quietly you pull away from the table",
+    "video_filename": "2s_trauma_ep006_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep006.jpg",
+    "cover_filename": "cover_2s_trauma_ep006.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 6 21:30 IST"
+  },
+  {
+    "episode": 7,
+    "day": "Day 7",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Loyal To Memories They Forgot 💔 #Shorts",
+    "concept": "Loyal To Memories They Forgot 💔",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_fading_echo",
+    "bg_theme": "deep_plum_noir",
+    "lines": [
+      "you stayed loyal to memories",
+      "that they stopped caring about",
+      "months before they ever packed",
+      "their bags and walked away."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you stayed loyal to memories that they stopped caring about",
+    "video_filename": "2s_trauma_ep007_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep007.jpg",
+    "cover_filename": "cover_2s_trauma_ep007.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 7 21:30 IST"
+  },
+  {
+    "episode": 8,
+    "day": "Day 8",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Never Beg Someone To Choose You #Shorts",
+    "concept": "Never Beg Someone To Choose You",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_walk_and_fall",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "begging someone to choose you",
+      "breaks something deep inside you",
+      "even if they finally say",
+      "they will stay this time."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "begging someone to choose you breaks something deep inside you",
+    "video_filename": "2s_trauma_ep008_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep008.jpg",
+    "cover_filename": "cover_2s_trauma_ep008.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 8 21:30 IST"
+  },
+  {
+    "episode": 9,
+    "day": "Day 9",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "When Nobody Checks If You're Okay #Shorts",
+    "concept": "When Nobody Checks If You're Okay",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_rain_cloud",
+    "bg_theme": "midnight_abyss",
+    "lines": [
+      "some nights the heaviest weight",
+      "isn't the silence in room.",
+      "it is realizing nobody checked",
+      "if you made it home."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "some nights the heaviest weight isn't the silence in room.",
+    "video_filename": "2s_trauma_ep009_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep009.jpg",
+    "cover_filename": "cover_2s_trauma_ep009.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 9 21:30 IST"
+  },
+  {
+    "episode": 10,
+    "day": "Day 10",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Why We Lower Our Standards For Love #Shorts",
+    "concept": "Why We Lower Our Standards For Love",
+    "category": "Heal By Words 🤍",
+    "emotion": "sad",
+    "animation_type": "heart_fading_echo",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "you forgave things you swore",
+      "you would never tolerate once",
+      "just to keep someone around",
+      "who wasn't even fully yours."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you forgave things you swore you would never tolerate once",
+    "video_filename": "2s_trauma_ep010_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep010.jpg",
+    "cover_filename": "cover_2s_trauma_ep010.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 10 21:30 IST"
+  },
+  {
+    "episode": 11,
+    "day": "Day 11",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "You Survived Your Hardest Days ✨ #Shorts",
+    "concept": "You Survived Your Hardest Days ✨",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_jump_left_right",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "you survived every single day",
+      "you swore would break you.",
+      "look at you smiling now,",
+      "completely unbothered and finally free."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you survived every single day you swore would break you.",
+    "video_filename": "2s_trauma_ep011_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep011.jpg",
+    "cover_filename": "cover_2s_trauma_ep011.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 11 21:30 IST"
+  },
+  {
+    "episode": 12,
+    "day": "Day 12",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "The Morning You Finally Feel Free ☀️ #Shorts",
+    "concept": "The Morning You Finally Feel Free ☀️",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_sparkle_orbit",
+    "bg_theme": "emerald_velvet",
+    "lines": [
+      "one day you wake up",
+      "and their name carries zero",
+      "weight inside your chest anymore.",
+      "that is real peace arriving."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "one day you wake up and their name carries zero",
+    "video_filename": "2s_trauma_ep012_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep012.jpg",
+    "cover_filename": "cover_2s_trauma_ep012.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 12 21:30 IST"
+  },
+  {
+    "episode": 13,
+    "day": "Day 13",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Protect Your Purest Joy 💛 #Shorts",
+    "concept": "Protect Your Purest Joy 💛",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_jump_left_right",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "protect the version of you",
+      "that laughs until your stomach",
+      "hurts over nothing at all.",
+      "that joy is pure magic."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "protect the version of you that laughs until your stomach",
+    "video_filename": "2s_trauma_ep013_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep013.jpg",
+    "cover_filename": "cover_2s_trauma_ep013.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 13 21:30 IST"
+  },
+  {
+    "episode": 14,
+    "day": "Day 14",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "When Good Things Finally Find You ✨ #Shorts",
+    "concept": "When Good Things Finally Find You ✨",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_bloom_sun",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "good things quietly find you",
+      "the exact moment you stop",
+      "chasing people who make you",
+      "feel hard to be loved."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "good things quietly find you the exact moment you stop",
+    "video_filename": "2s_trauma_ep014_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep014.jpg",
+    "cover_filename": "cover_2s_trauma_ep014.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 14 21:30 IST"
+  },
+  {
+    "episode": 15,
+    "day": "Day 15",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Zero Explanations Needed 🌿 #Shorts",
+    "concept": "Zero Explanations Needed 🌿",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_jump_left_right",
+    "bg_theme": "emerald_velvet",
+    "lines": [
+      "there is nothing quite like",
+      "sitting in warm morning sunlight",
+      "knowing you owe nobody explanations",
+      "for choosing your own peace."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "there is nothing quite like sitting in warm morning sunlight",
+    "video_filename": "2s_trauma_ep015_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep015.jpg",
+    "cover_filename": "cover_2s_trauma_ep015.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 15 21:30 IST"
+  },
+  {
+    "episode": 16,
+    "day": "Day 16",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Your Future Self Is Proud Of You #Shorts",
+    "concept": "Your Future Self Is Proud Of You",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_sparkle_orbit",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "your future self is smiling",
+      "at how bravely you walked",
+      "away from half-hearted love",
+      "to make room for real."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "your future self is smiling at how bravely you walked",
+    "video_filename": "2s_trauma_ep016_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep016.jpg",
+    "cover_filename": "cover_2s_trauma_ep016.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 16 21:30 IST"
+  },
+  {
+    "episode": 17,
+    "day": "Day 17",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "How The Right People Feel 🏡 #Shorts",
+    "concept": "How The Right People Feel 🏡",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_bloom_sun",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "the right people never make",
+      "you feel like a burden.",
+      "being around them feels like",
+      "taking off tight shoes home."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "the right people never make you feel like a burden.",
+    "video_filename": "2s_trauma_ep017_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep017.jpg",
+    "cover_filename": "cover_2s_trauma_ep017.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 17 21:30 IST"
+  },
+  {
+    "episode": 18,
+    "day": "Day 18",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Celebrate Your Quiet Wins Today ✨ #Shorts",
+    "concept": "Celebrate Your Quiet Wins Today ✨",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_jump_left_right",
+    "bg_theme": "emerald_velvet",
+    "lines": [
+      "celebrate the quiet small wins",
+      "nobody else even claps for.",
+      "getting out of bed today",
+      "already counts as a victory."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "celebrate the quiet small wins nobody else even claps for.",
+    "video_filename": "2s_trauma_ep018_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep018.jpg",
+    "cover_filename": "cover_2s_trauma_ep018.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 18 21:30 IST"
+  },
+  {
+    "episode": 19,
+    "day": "Day 19",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "What Real Healing Looks Like 💫 #Shorts",
+    "concept": "What Real Healing Looks Like 💫",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_sparkle_orbit",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "healing looks like finally enjoying",
+      "your own company without checking",
+      "your phone every five minutes",
+      "for someone who rarely texts."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "healing looks like finally enjoying your own company without checking",
+    "video_filename": "2s_trauma_ep019_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep019.jpg",
+    "cover_filename": "cover_2s_trauma_ep019.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 19 21:30 IST"
+  },
+  {
+    "episode": 20,
+    "day": "Day 20",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Everything You Lost Made Space ☀️ #Shorts",
+    "concept": "Everything You Lost Made Space ☀️",
+    "category": "Heal By Words 🤍",
+    "emotion": "happy",
+    "animation_type": "heart_bloom_sun",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "everything you lost made space",
+      "for things that won't ever",
+      "require you to shrink yourself",
+      "just to keep them around."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "everything you lost made space for things that won't ever",
+    "video_filename": "2s_trauma_ep020_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep020.jpg",
+    "cover_filename": "cover_2s_trauma_ep020.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 20 21:30 IST"
+  },
+  {
+    "episode": 21,
+    "day": "Day 21",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Stop Fighting Imaginary Battles 🧠 #Shorts",
+    "concept": "Stop Fighting Imaginary Battles 🧠",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_pace_fast",
+    "bg_theme": "midnight_abyss",
+    "lines": [
+      "you are fighting imaginary battles",
+      "inside your head every night.",
+      "breathe out and look around—",
+      "nothing bad is happening here."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you are fighting imaginary battles inside your head every night.",
+    "video_filename": "2s_trauma_ep021_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep021.jpg",
+    "cover_filename": "cover_2s_trauma_ep021.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 21 21:30 IST"
+  },
+  {
+    "episode": 22,
+    "day": "Day 22",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Why Your Brain Overthinks Everything #Shorts",
+    "concept": "Why Your Brain Overthinks Everything",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_tangled_loop",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "overthinking is just your brain",
+      "trying to protect your heart",
+      "from pain that hasn't even",
+      "happened in real life yet."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "overthinking is just your brain trying to protect your heart",
+    "video_filename": "2s_trauma_ep022_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep022.jpg",
+    "cover_filename": "cover_2s_trauma_ep022.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 22 21:30 IST"
+  },
+  {
+    "episode": 23,
+    "day": "Day 23",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Read This If You're Stressed Tonight 🌬️ #Shorts",
+    "concept": "Read This If You're Stressed Tonight 🌬️",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_deep_breathe",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "drop your shoulders right now.",
+      "unclench your jaw and breathe.",
+      "you do not have to",
+      "solve your whole life tonight."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "drop your shoulders right now. unclench your jaw and breathe.",
+    "video_filename": "2s_trauma_ep023_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep023.jpg",
+    "cover_filename": "cover_2s_trauma_ep023.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 23 21:30 IST"
+  },
+  {
+    "episode": 24,
+    "day": "Day 24",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Stop Replaying Old Conversations #Shorts",
+    "concept": "Stop Replaying Old Conversations",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_pace_fast",
+    "bg_theme": "midnight_abyss",
+    "lines": [
+      "replaying a two-minute conversation",
+      "for three straight hours won't",
+      "change a single word said.",
+      "let your tired mind rest."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "replaying a two-minute conversation for three straight hours won't",
+    "video_filename": "2s_trauma_ep024_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep024.jpg",
+    "cover_filename": "cover_2s_trauma_ep024.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 24 21:30 IST"
+  },
+  {
+    "episode": 25,
+    "day": "Day 25",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "A Delayed Text Isn't Rejection #Shorts",
+    "concept": "A Delayed Text Isn't Rejection",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_tangled_loop",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "not every delayed text message",
+      "means someone is secretly mad.",
+      "most people are just drowning",
+      "in their own messy day."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "not every delayed text message means someone is secretly mad.",
+    "video_filename": "2s_trauma_ep025_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep025.jpg",
+    "cover_filename": "cover_2s_trauma_ep025.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 25 21:30 IST"
+  },
+  {
+    "episode": 26,
+    "day": "Day 26",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Your Track Record Is 100% Undefeated #Shorts",
+    "concept": "Your Track Record Is 100% Undefeated",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_deep_breathe",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "you have survived one hundred",
+      "percent of your worst days.",
+      "your track record for getting",
+      "through storms is still undefeated."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you have survived one hundred percent of your worst days.",
+    "video_filename": "2s_trauma_ep026_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep026.jpg",
+    "cover_filename": "cover_2s_trauma_ep026.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 26 21:30 IST"
+  },
+  {
+    "episode": 27,
+    "day": "Day 27",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Stop Apologizing For Existing #Shorts",
+    "concept": "Stop Apologizing For Existing",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_pace_fast",
+    "bg_theme": "midnight_abyss",
+    "lines": [
+      "stop apologizing for taking up",
+      "space in rooms you earned.",
+      "you are allowed to exist",
+      "without shrinking for everyone else."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "stop apologizing for taking up space in rooms you earned.",
+    "video_filename": "2s_trauma_ep027_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep027.jpg",
+    "cover_filename": "cover_2s_trauma_ep027.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 27 21:30 IST"
+  },
+  {
+    "episode": 28,
+    "day": "Day 28",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Let People Misunderstand You #Shorts",
+    "concept": "Let People Misunderstand You",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_tangled_loop",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "peace begins the exact second",
+      "you stop trying to control",
+      "how other people choose to",
+      "misunderstand your pure intentions."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "peace begins the exact second you stop trying to control",
+    "video_filename": "2s_trauma_ep028_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep028.jpg",
+    "cover_filename": "cover_2s_trauma_ep028.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 28 21:30 IST"
+  },
+  {
+    "episode": 29,
+    "day": "Day 29",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Rest Is Not Quitting 🌿 #Shorts",
+    "concept": "Rest Is Not Quitting 🌿",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_deep_breathe",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "being tired doesn't mean failing.",
+      "even the strongest engines need",
+      "cool water and quiet rest",
+      "before climbing the next hill."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "being tired doesn't mean failing. even the strongest engines need",
+    "video_filename": "2s_trauma_ep029_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep029.jpg",
+    "cover_filename": "cover_2s_trauma_ep029.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 29 21:30 IST"
+  },
+  {
+    "episode": 30,
+    "day": "Day 30",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "What If It All Works Out? ✨ #Shorts",
+    "concept": "What If It All Works Out? ✨",
+    "category": "Heal By Words 🤍",
+    "emotion": "anxious",
+    "animation_type": "heart_pace_fast",
+    "bg_theme": "midnight_abyss",
+    "lines": [
+      "what if everything works out",
+      "ten times better than anything",
+      "your anxious mind is currently",
+      "trying to scare you with?"
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "what if everything works out ten times better than anything",
+    "video_filename": "2s_trauma_ep030_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep030.jpg",
+    "cover_filename": "cover_2s_trauma_ep030.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 30 21:30 IST"
+  },
+  {
+    "episode": 31,
+    "day": "Day 31",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "They Don't Miss You, They Miss Control #Shorts",
+    "concept": "They Don't Miss You, They Miss Control",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_crack_pulse",
+    "bg_theme": "crimson_shadow",
+    "lines": [
+      "they never actually felt sorry",
+      "for the damage they caused.",
+      "they only started missing you",
+      "when nobody else tolerated them."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "they never actually felt sorry for the damage they caused.",
+    "video_filename": "2s_trauma_ep031_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep031.jpg",
+    "cover_filename": "cover_2s_trauma_ep031.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 31 21:30 IST"
+  },
+  {
+    "episode": 32,
+    "day": "Day 32",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Why People Hate Your Boundaries #Shorts",
+    "concept": "Why People Hate Your Boundaries",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_shield_up",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "people love your kind heart",
+      "until you finally build boundaries",
+      "that stop them from taking",
+      "advantage of your endless patience."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "people love your kind heart until you finally build boundaries",
+    "video_filename": "2s_trauma_ep032_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep032.jpg",
+    "cover_filename": "cover_2s_trauma_ep032.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 32 21:30 IST"
+  },
+  {
+    "episode": 33,
+    "day": "Day 33",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "It Wasn't A Mistake, It Was A Choice #Shorts",
+    "concept": "It Wasn't A Mistake, It Was A Choice",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_turn_away",
+    "bg_theme": "crimson_shadow",
+    "lines": [
+      "they knew exactly what would",
+      "break your heart in half.",
+      "they simply decided their moment",
+      "mattered more than your pain."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "they knew exactly what would break your heart in half.",
+    "video_filename": "2s_trauma_ep033_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep033.jpg",
+    "cover_filename": "cover_2s_trauma_ep033.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 33 21:30 IST"
+  },
+  {
+    "episode": 34,
+    "day": "Day 34",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "When You Stop Being A Doormat #Shorts",
+    "concept": "When You Stop Being A Doormat",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_crack_pulse",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "notice how you become the",
+      "villain in every single story",
+      "the moment you stop letting",
+      "people disrespect you in silence."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "notice how you become the villain in every single story",
+    "video_filename": "2s_trauma_ep034_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep034.jpg",
+    "cover_filename": "cover_2s_trauma_ep034.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 34 21:30 IST"
+  },
+  {
+    "episode": 35,
+    "day": "Day 35",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Words Without Change Are Manipulation #Shorts",
+    "concept": "Words Without Change Are Manipulation",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_shield_up",
+    "bg_theme": "crimson_shadow",
+    "lines": [
+      "an apology without changed behavior",
+      "is just manipulation dressed up",
+      "in nice words to buy",
+      "another chance to hurt you."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "an apology without changed behavior is just manipulation dressed up",
+    "video_filename": "2s_trauma_ep035_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep035.jpg",
+    "cover_filename": "cover_2s_trauma_ep035.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 35 21:30 IST"
+  },
+  {
+    "episode": 36,
+    "day": "Day 36",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Revoke Their Access Quietly 🔒 #Shorts",
+    "concept": "Revoke Their Access Quietly 🔒",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_turn_away",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "do not get bitter over",
+      "people who played you dirty.",
+      "just revoke their VIP access",
+      "and let karma handle the rest."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "do not get bitter over people who played you dirty.",
+    "video_filename": "2s_trauma_ep036_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep036.jpg",
+    "cover_filename": "cover_2s_trauma_ep036.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 36 21:30 IST"
+  },
+  {
+    "episode": 37,
+    "day": "Day 37",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Built A Wall From Their Stones #Shorts",
+    "concept": "Built A Wall From Their Stones",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_crack_pulse",
+    "bg_theme": "crimson_shadow",
+    "lines": [
+      "they threw stones at you",
+      "and then acted completely shocked",
+      "when you finally picked them",
+      "up to build a wall."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "they threw stones at you and then acted completely shocked",
+    "video_filename": "2s_trauma_ep037_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep037.jpg",
+    "cover_filename": "cover_2s_trauma_ep037.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 37 21:30 IST"
+  },
+  {
+    "episode": 38,
+    "day": "Day 38",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "The Best Revenge Is Moving On #Shorts",
+    "concept": "The Best Revenge Is Moving On",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_shield_up",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "you don't need loud revenge.",
+      "watching someone realize they lost",
+      "a genuinely loyal person forever",
+      "is punishment enough on its own."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you don't need loud revenge. watching someone realize they lost",
+    "video_filename": "2s_trauma_ep038_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep038.jpg",
+    "cover_filename": "cover_2s_trauma_ep038.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 38 21:30 IST"
+  },
+  {
+    "episode": 39,
+    "day": "Day 39",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "They Understand, They Just Don't Care #Shorts",
+    "concept": "They Understand, They Just Don't Care",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_turn_away",
+    "bg_theme": "crimson_shadow",
+    "lines": [
+      "stop explaining basic human decency",
+      "to grown adults who benefit",
+      "from pretending they don't understand",
+      "how deeply their actions hurt."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "stop explaining basic human decency to grown adults who benefit",
+    "video_filename": "2s_trauma_ep039_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep039.jpg",
+    "cover_filename": "cover_2s_trauma_ep039.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 39 21:30 IST"
+  },
+  {
+    "episode": 40,
+    "day": "Day 40",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Believe People The First Time #Shorts",
+    "concept": "Believe People The First Time",
+    "category": "Heal By Words 🤍",
+    "emotion": "angry",
+    "animation_type": "heart_crack_pulse",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "when someone shows you their",
+      "true colors the first time,",
+      "stop trying to repaint them",
+      "with your own good heart."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "when someone shows you their true colors the first time,",
+    "video_filename": "2s_trauma_ep040_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep040.jpg",
+    "cover_filename": "cover_2s_trauma_ep040.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 40 21:30 IST"
+  },
+  {
+    "episode": 41,
+    "day": "Day 41",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "You Miss The Illusion, Not Them ⏳ #Shorts",
+    "concept": "You Miss The Illusion, Not Them ⏳",
+    "category": "Heal By Words 🤍",
+    "emotion": "nostalgia",
+    "animation_type": "heart_two_reach_fade",
+    "bg_theme": "deep_plum_noir",
+    "lines": [
+      "we don't miss the person",
+      "they actually turned out to be.",
+      "we only miss the version",
+      "we invented in our heads."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "we don't miss the person they actually turned out to be.",
+    "video_filename": "2s_trauma_ep041_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep041.jpg",
+    "cover_filename": "cover_2s_trauma_ep041.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 41 21:30 IST"
+  },
+  {
+    "episode": 42,
+    "day": "Day 42",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Never Shrink To Fit Old Rooms 🌱 #Shorts",
+    "concept": "Never Shrink To Fit Old Rooms 🌱",
+    "category": "Heal By Words 🤍",
+    "emotion": "resilience",
+    "animation_type": "heart_climb_peak",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "outgrowing people you once loved",
+      "feels like a quiet grief.",
+      "do not shrink yourself back",
+      "just to fit old rooms."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "outgrowing people you once loved feels like a quiet grief.",
+    "video_filename": "2s_trauma_ep042_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep042.jpg",
+    "cover_filename": "cover_2s_trauma_ep042.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 42 21:30 IST"
+  },
+  {
+    "episode": 43,
+    "day": "Day 43",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Right Person, Wrong Chapter 🕰️ #Shorts",
+    "concept": "Right Person, Wrong Chapter 🕰️",
+    "category": "Heal By Words 🤍",
+    "emotion": "nostalgia",
+    "animation_type": "heart_two_reach_fade",
+    "bg_theme": "deep_plum_noir",
+    "lines": [
+      "sometimes two good people meet",
+      "at the completely wrong chapter",
+      "and spend years wondering what",
+      "could have been if timing aligned."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "sometimes two good people meet at the completely wrong chapter",
+    "video_filename": "2s_trauma_ep043_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep043.jpg",
+    "cover_filename": "cover_2s_trauma_ep043.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 43 21:30 IST"
+  },
+  {
+    "episode": 44,
+    "day": "Day 44",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Staying Soft Is Real Strength 👑 #Shorts",
+    "concept": "Staying Soft Is Real Strength 👑",
+    "category": "Heal By Words 🤍",
+    "emotion": "resilience",
+    "animation_type": "heart_crown_rise",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "be proud of how soft",
+      "your heart still remains after",
+      "everything this cold world tried",
+      "to turn you into lately."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "be proud of how soft your heart still remains after",
+    "video_filename": "2s_trauma_ep044_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep044.jpg",
+    "cover_filename": "cover_2s_trauma_ep044.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 44 21:30 IST"
+  },
+  {
+    "episode": 45,
+    "day": "Day 45",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "The One Who Made You Feel Safe #Shorts",
+    "concept": "The One Who Made You Feel Safe",
+    "category": "Heal By Words 🤍",
+    "emotion": "nostalgia",
+    "animation_type": "heart_two_reach_fade",
+    "bg_theme": "deep_plum_noir",
+    "lines": [
+      "you never really forget the",
+      "first person who made you",
+      "feel completely safe enough to",
+      "let your heavy guard down."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "you never really forget the first person who made you",
+    "video_filename": "2s_trauma_ep045_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep045.jpg",
+    "cover_filename": "cover_2s_trauma_ep045.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 45 21:30 IST"
+  },
+  {
+    "episode": 46,
+    "day": "Day 46",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "What Discipline Actually Means 🔥 #Shorts",
+    "concept": "What Discipline Actually Means 🔥",
+    "category": "Heal By Words 🤍",
+    "emotion": "resilience",
+    "animation_type": "heart_climb_peak",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "discipline is choosing between what",
+      "you want right this second",
+      "and what you want most",
+      "for your future self tomorrow."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "discipline is choosing between what you want right this second",
+    "video_filename": "2s_trauma_ep046_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep046.jpg",
+    "cover_filename": "cover_2s_trauma_ep046.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 46 21:30 IST"
+  },
+  {
+    "episode": 47,
+    "day": "Day 47",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Why Solitude Becomes Addictive 🧘 #Shorts",
+    "concept": "Why Solitude Becomes Addictive 🧘",
+    "category": "Heal By Words 🤍",
+    "emotion": "resilience",
+    "animation_type": "heart_crown_rise",
+    "bg_theme": "deep_teal_slate",
+    "lines": [
+      "alone time is dangerous once",
+      "you realize how peaceful life",
+      "gets without fake friends draining",
+      "every ounce of your energy."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "alone time is dangerous once you realize how peaceful life",
+    "video_filename": "2s_trauma_ep047_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep047.jpg",
+    "cover_filename": "cover_2s_trauma_ep047.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 47 21:30 IST"
+  },
+  {
+    "episode": 48,
+    "day": "Day 48",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Everything Connects Looking Back 🌌 #Shorts",
+    "concept": "Everything Connects Looking Back 🌌",
+    "category": "Heal By Words 🤍",
+    "emotion": "nostalgia",
+    "animation_type": "heart_two_reach_fade",
+    "bg_theme": "deep_plum_noir",
+    "lines": [
+      "one day you'll look back",
+      "at these late sleepless nights",
+      "and realize they were building",
+      "the strength you needed next."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "one day you'll look back at these late sleepless nights",
+    "video_filename": "2s_trauma_ep048_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep048.jpg",
+    "cover_filename": "cover_2s_trauma_ep048.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 48 21:30 IST"
+  },
+  {
+    "episode": 49,
+    "day": "Day 49",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Protect Your Inner Peace First 🛡️ #Shorts",
+    "concept": "Protect Your Inner Peace First 🛡️",
+    "category": "Heal By Words 🤍",
+    "emotion": "resilience",
+    "animation_type": "heart_climb_peak",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "if it costs your inner",
+      "peace to keep them happy,",
+      "then the price is already",
+      "way too expensive for you."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "if it costs your inner peace to keep them happy,",
+    "video_filename": "2s_trauma_ep049_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep049.jpg",
+    "cover_filename": "cover_2s_trauma_ep049.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 49 21:30 IST"
+  },
+  {
+    "episode": 50,
+    "day": "Day 50",
+    "slot": "21:30 IST (Late Night Mood / Real Spill)",
+    "title": "Build Your Own Light 🕯️ #Shorts",
+    "concept": "Build Your Own Light 🕯️",
+    "category": "Heal By Words 🤍",
+    "emotion": "resilience",
+    "animation_type": "heart_crown_rise",
+    "bg_theme": "obsidian_charcoal",
+    "lines": [
+      "nobody is coming to save",
+      "you from your own habits.",
+      "stand up, wipe your face,",
+      "and build your own light."
+    ],
+    "hook_large": "DOES THIS RESONATE WITH YOU?",
+    "sub_dilemma": "nobody is coming to save you from your own habits.",
+    "video_filename": "2s_trauma_ep050_heal_by_words_master.mp4",
+    "cover_url": "assets/two_seconds/cover_2s_trauma_ep050.jpg",
+    "cover_filename": "cover_2s_trauma_ep050.jpg",
+    "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.
+
+Did this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.
+
+Subscribe to The Loop Vid for daily reflections and stories.
+
+#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
+    "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇
+
+🔔 Subscribe to The Loop Vid for daily reflections and stories.",
+    "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
+    "status": "READY",
+    "target_drop": "Day 50 21:30 IST"
+  }
+],
   "studio_apps": [
     {
       "id": 1,

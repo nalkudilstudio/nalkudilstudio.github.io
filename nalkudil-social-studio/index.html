@@ -945,7 +945,11 @@
         <span>⚡ Motivation Tales</span>
         <span class="tab-count" id="count-motivation">50</span>
       </button>
-<button class="nav-tab-btn" onclick="switchSuite('comic_tales', this)">
+      <button class="nav-tab-btn" onclick="switchSuite('two_seconds', this)">
+        <span>🤍 Heal By Words</span>
+        <span class="tab-count" id="count-two-seconds">5</span>
+      </button>
+      <button class="nav-tab-btn" onclick="switchSuite('comic_tales', this)">
         <span>⚖️ Karma Court</span>
         <span class="tab-count" id="count-comic">50</span>
       </button>
@@ -1031,6 +1035,7 @@
       sid_isha: 'nss_published_sid_isha',
       inkling_ig: 'nss_published_inkling_ig',
       sarav_trends: 'nss_published_sarav_trends',
+      two_seconds: 'nss_published_two_seconds',
       comic_tales: 'nss_published_comic_tales',
       motivation_tales: 'nss_published_motivation_tales',
       studio_apps: 'nss_published_studio_apps'
@@ -1229,6 +1234,18 @@
           { id: 'cat_perseverance', label: '⛏️ Persistence & Focus' },
           { id: 'cat_mindset', label: '🌱 Mindset & Growth' },
           { id: 'cat_systems', label: '⚡ Systems & Leverage' },
+          { id: 'pending', label: '⏳ Pending' },
+          { id: 'published', label: '✅ Published' }
+        );
+      } else if (currentSuite === 'two_seconds') {
+        chips.push(
+          { id: 'all', label: 'All (5)' },
+          { id: 'ready', label: '🚀 Ready' },
+          { id: 'cat_closure', label: '💔 Closure' },
+          { id: 'cat_trust', label: '🥀 Trust' },
+          { id: 'cat_boundaries', label: '🌧️ Boundaries' },
+          { id: 'cat_strangers', label: '👤 Strangers' },
+          { id: 'cat_letgo', label: '🌱 Let Go' },
           { id: 'pending', label: '⏳ Pending' },
           { id: 'published', label: '✅ Published' }
         );
@@ -1798,6 +1815,73 @@
     }
 
 
+    // Builder: Two Seconds / Heal By Words
+    function buildTwoSecondsCard(item, isPublished) {
+      const ep = item.episode;
+      const coverUrl = item.cover_url || '';
+      const downloadName = item.cover_filename || `cover_2s_trauma_${String(ep).padStart(3, '0')}.jpg`;
+      const isReady = item.status && item.status.includes('READY');
+
+      return `
+        <article class="pub-card ${isPublished ? 'is-published' : ''}" id="card-two_seconds-${ep}">
+          <div class="card-top">
+            <div class="card-meta-left">
+              <span class="ep-badge" style="background: linear-gradient(135deg, #E63946, #D90429); color: #FFF; font-weight: 800;">EPISODE #${String(ep).padStart(3, '0')}</span>
+              <span class="cat-badge" style="background: rgba(230, 57, 70, 0.15); color: #FF4D6D; border: 1px solid rgba(230, 57, 70, 0.3); font-weight: 700;">🤍 ${escapeHtml(item.category || 'Heal By Words')}</span>
+              <span class="cat-badge">⏱️ 2.0s Kinetic Loop</span>
+              <span class="cat-badge" style="background: rgba(0, 245, 212, 0.12); color: #00F5D4; border: 1px solid rgba(0, 245, 212, 0.3);">❤️ ${escapeHtml(item.animation_type || '')}</span>
+              <span class="slot-badge">🕒 21:30 IST Night Mood</span>
+            </div>
+            <label class="status-check-label ${isPublished ? 'checked' : ''}">
+              <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('two_seconds', ${ep})">
+              <span class="status-text">${isPublished ? 'Published ✅' : (isReady ? 'Ready 🚀' : 'Queued ⏳')}</span>
+            </label>
+          </div>
+
+          <div class="card-grid">
+            <div class="media-box">
+              <div class="preview-thumb-wrap">
+                ${coverUrl ? `<img src="${coverUrl}" alt="Heal By Words Ep ${ep} Cover" loading="lazy">` : `<div class="thumb-placeholder"><span>🤍</span><span>Cover Pending</span></div>`}
+              </div>
+              ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download Dilemma Cover</a>` : ''}
+              ${isReady ? `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ Master 60fps CFR Video Ready</div>` : ''}
+            </div>
+
+            <div class="content-box">
+              <!-- Emotional Stack Spotlight -->
+              <div style="background: rgba(18, 18, 24, 0.85); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px;">
+                <div style="font-size: 11px; color: #94A3B8; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;">📖 4-Line Emotional Kinetic Stack:</div>
+                <div style="font-family: Georgia, serif; font-style: italic; font-size: 13.5px; color: #F1F5F9; line-height: 1.6;">
+                  ${item.lines ? item.lines.map(l => `<div>• ${escapeHtml(l)}</div>`).join('') : ''}
+                </div>
+              </div>
+
+              <h2 class="card-title-text" style="font-size: 16px;">${escapeHtml(item.title)}</h2>
+
+              <div class="actions-grid">
+                <button class="btn-copy gold" onclick="copyCardField('two_seconds', ${ep}, 'title', this)">📋 Copy Title</button>
+                <button class="btn-copy cyan" onclick="copyCardField('two_seconds', ${ep}, 'description', this)">📋 Copy Description</button>
+                <button class="btn-copy" onclick="copyCardField('two_seconds', ${ep}, 'tags', this)">🏷️ Copy Tags</button>
+                <button class="btn-copy" onclick="copyCardField('two_seconds', ${ep}, 'pinned_comment', this)">📌 Pinned Comment</button>
+              </div>
+
+              <button class="btn-master-packet" style="background: linear-gradient(135deg, rgba(230, 57, 70, 0.3), rgba(0, 245, 212, 0.2)); border-color: #E63946;" onclick="copyCardField('two_seconds', ${ep}, 'two_seconds_full_packet', this)">
+                ⚡ 1-Click Copy Full Video Packet (Title + Desc + Tags + Pinned)
+              </button>
+
+              <details class="field-drawer" style="margin-top: 8px;">
+                <summary>
+                  <span>View Description &amp; Pinned Comment</span>
+                  <span>▾</span>
+                </summary>
+                <div class="field-drawer-body"><b>Description:</b><br>${escapeHtml(item.description)}<br><br><b>Tags:</b><br>${escapeHtml(item.tags)}<br><br><b>Pinned Comment:</b><br>${escapeHtml(item.pinned_comment)}</div>
+              </details>
+            </div>
+          </div>
+        </article>
+      `;
+    }
+
     // Builder 5: Comic Tales / Karma Strikes
     function buildComicTalesCard(item, isPublished) {
       const ep = item.episode;
@@ -2101,6 +2185,10 @@ ${item.description}`;
         case 'motivation_full_packet':
           text = `TITLE:\n${item.title || ''}\n\nDESCRIPTION:\n${item.description || ''}\n\nTAGS:\n${item.tags || ''}\n\nPINNED COMMENT:\n${item.pinned_comment || ''}`;
           label = 'Full Motivation Packet';
+          break;
+        case 'two_seconds_full_packet':
+          text = `TITLE:\n${item.title || ''}\n\nDESCRIPTION:\n${item.description || ''}\n\nTAGS:\n${item.tags || ''}\n\nPINNED COMMENT:\n${item.pinned_comment || ''}`;
+          label = 'Full Video Packet';
           break;
         case 'loop_full_packet':
           text = `TITLE:\n${item.title || ''}\n\nDESCRIPTION:\n${item.description || ''}\n\nTAGS:\n${item.tags || ''}\n\nPINNED COMMENT:\n${item.pinned_comment || ''}`;

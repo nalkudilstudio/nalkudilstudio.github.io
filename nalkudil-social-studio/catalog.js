@@ -3119,8 +3119,9 @@ window.PUBLISHING_CATALOG = {
       "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
-      "views": 83,
-      "view_count": 83
+      "views": 84,
+      "view_count": 84,
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 9,
@@ -4201,8 +4202,8 @@ window.PUBLISHING_CATALOG = {
       "youtube_id": "-PBuSGKMccg",
       "youtube_url": "https://youtube.com/shorts/-PBuSGKMccg",
       "target_drop": "PUBLISHED ✅",
-      "views": 49,
-      "view_count": 49
+      "views": 50,
+      "view_count": 50
     },
     {
       "episode": 54,
@@ -4226,8 +4227,9 @@ window.PUBLISHING_CATALOG = {
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
       "youtube_id": "xAEHuVsYj-g",
       "youtube_url": "https://youtube.com/shorts/xAEHuVsYj-g",
-      "views": 39,
-      "view_count": 39
+      "views": 40,
+      "view_count": 40,
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 55,
@@ -4251,8 +4253,9 @@ window.PUBLISHING_CATALOG = {
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "youtube_id": "GAps25Cciz0",
       "youtube_url": "https://youtube.com/shorts/GAps25Cciz0",
-      "views": 72,
-      "view_count": 72
+      "views": 75,
+      "view_count": 75,
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 1111,
@@ -4364,13 +4367,17 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact second the story looped? 🤖✦\nIf an artificial creation learns to pray, what do you think it prays for?",
       "cover_url": "assets/the_loop/cover_tale_056.jpg",
       "cover_filename": "cover_tale_056.jpg",
-      "status": "SCHEDULED ⏳",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLWoVZdxSkuGw",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Mind-Bending Sci-Fi & Paradoxes | 8-Word Stories",
-      "target_drop": "Fri, Nov 27 @ 12:30 PM IST"
+      "target_drop": "PUBLISHED ✅",
+      "youtube_id": "X2ednWuzbTo",
+      "youtube_url": "https://youtube.com/shorts/X2ednWuzbTo",
+      "views": 20,
+      "view_count": 20
     },
     {
       "episode": 57,
@@ -10785,9 +10792,10 @@ window.PUBLISHING_CATALOG = {
       "playlist_url": "https://www.youtube.com/playlist?list=PLHuZo_k1eGx4",
       "case_number": 11,
       "target_drop": "PUBLISHED ✅",
-      "youtube_url": "https://www.youtube.com/shorts/saUMcfAp-w0",
+      "youtube_url": "https://youtube.com/shorts/saUMcfAp-w0",
       "youtube_id": "saUMcfAp-w0",
-      "views": null
+      "views": 491,
+      "view_count": 491
     },
     {
       "episode": 2,
@@ -13332,9 +13340,9 @@ window.PUBLISHING_CATALOG = {
       "status": "PUBLISHED",
       "youtube_id": "mXsckNTK34w",
       "youtube_url": "https://youtube.com/shorts/mXsckNTK34w",
-      "target_drop": "Scheduled on @TheLoopVid ⏳",
-      "views": 68,
-      "view_count": 68
+      "target_drop": "PUBLISHED ✅",
+      "views": 93,
+      "view_count": 93
     },
     {
       "episode": 1,
@@ -13387,8 +13395,12 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "SCHEDULED ⏳",
-      "target_drop": "Fri, Nov 27 @ 5:30 PM IST"
+      "status": "PUBLISHED",
+      "target_drop": "PUBLISHED ✅",
+      "youtube_id": "LJSq_3kOEqs",
+      "youtube_url": "https://youtube.com/shorts/LJSq_3kOEqs",
+      "views": 27,
+      "view_count": 27
     },
     {
       "episode": 4,

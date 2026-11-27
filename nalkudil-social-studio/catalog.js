@@ -13310,6 +13310,26 @@ window.PUBLISHING_CATALOG = {
       "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
       "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4",
       "cover_filename": "cover_motivation_050.jpg"
+    },
+    {
+      "episode": 51,
+      "day": "Ep 51",
+      "slot": "21:00 IST (Mon-Fri Bedtime Reset)",
+      "target_drop": "Mon, Jan 26 @ 21:00 IST",
+      "priority_rank": 51,
+      "title_en": "Tesla's 3-6-9 Motivation Rule",
+      "category": "Tesla 369 Systems",
+      "situation": "24-hour discipline vortex: At 06:00 AM lock 3 Non-Negotiable Goals before touching your phone. At Midday execute 6 Deep Focus Blocks with zero distractions. At 09:00 PM complete your Audit & Reset to seal tomorrow.",
+      "moral": "3 goals. 6 deep blocks. 9 PM reset. Repeat.",
+      "video_filename": "motivation_tales_051_tesla_369_rule_master.mp4",
+      "cover_url": "assets/motivations/cover_motivation_051.jpg",
+      "title": "Motivation Tales: Ep 51 | Tesla's 3-6-9 Motivation Rule ⚡ #Shorts #TheLoop",
+      "description": "\"3 goals. 6 deep blocks. 9 PM reset. Repeat.\"\n\n⚡ TESLA'S 3-6-9 DAILY OPERATING SYSTEM:\n• 3 (Morning): Lock 3 non-negotiable priorities before touching your phone.\n• 6 (Midday): Execute 6 deep focus blocks with zero distractions.\n• 9 (Night): Complete a 9 PM audit & reset to lock tomorrow's momentum.\n\n───────────────\n⚡ SERIES: Motivation Tales (Minimalist Animated Life Lessons)\n🔁 CHANNEL: The Loop Vid (@theloopvid)\n🕒 DAILY DROP: 9:00 PM IST (Mon-Fri Bedtime Mindset Reset)\n───────────────\n\n🔔 SUBSCRIBE to @theloopvid for daily 9:00 PM mindset resets!\n\n#Shorts #Tesla369 #369Method #Motivation #Discipline #Focus #TheLoop",
+      "tags": "shorts, tesla 369 rule, 369 method, nikola tesla motivation, discipline system, focus routine, the loop",
+      "pinned_comment": "Are you trying Tesla's 3-6-9 Rule tomorrow? Drop '369 ⚡' below! 👇\n\n🔔 Subscribe to @theloopvid for daily 9:00 PM mindset resets! 🚀",
+      "status": "READY 🚀",
+      "playlist_name": "Motivation Tales ⚡ (Minimalist Animated Life Lessons)",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLePHexsR8nF4"
     }
   ],
   "two_seconds": [

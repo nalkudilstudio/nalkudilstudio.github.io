@@ -1665,11 +1665,11 @@
               <span class="cat-badge">${escapeHtml(item.day)}</span>
               <span class="cat-badge">${escapeHtml(item.slot || '19:00 IST')}</span>
               <span class="cat-badge">${escapeHtml(item.category)}</span>
-              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none;">▶️ Live Short</a>` : ''}
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: ${item.status && item.status.includes('UNLISTED') ? 'rgba(245, 158, 11, 0.2)' : 'rgba(239, 68, 68, 0.2)'}; color: ${item.status && item.status.includes('UNLISTED') ? '#F59E0B' : '#EF4444'}; border: 1px solid ${item.status && item.status.includes('UNLISTED') ? 'rgba(245, 158, 11, 0.4)' : 'rgba(239, 68, 68, 0.4)'}; text-decoration: none;">${item.status && item.status.includes('SCHEDULED') ? '⏳ Scheduled Short' : (item.status && item.status.includes('UNLISTED') ? '🔗 Unlisted Short' : '▶️ Live Short')}</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('the_loop', ${ep})">
-              <span class="status-text">${isPublished ? 'Published ✅' : 'Pending'}</span>
+              <span class="status-text">${isPublished ? 'Published ✅' : (item.status && (item.status.includes('UNLISTED') || item.status.includes('SCHEDULED')) ? item.status : 'Pending')}</span>
             </label>
           </div>
 

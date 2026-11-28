@@ -4319,15 +4319,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 📱✦\nWhy do we keep voicemails from people who will never call again?",
       "cover_url": "assets/the_loop/cover_tale_051.jpg",
       "cover_filename": "cover_tale_051.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
-      "youtube_id": "xAEHuVsYj-g",
-      "youtube_url": "https://www.youtube.com/shorts/xAEHuVsYj-g",
-      "target_drop": "Scheduled for Tomorrow ⏳"
+      "youtube_id": "ktMsIeb3pY4",
+      "youtube_url": "https://youtube.com/shorts/ktMsIeb3pY4",
+      "target_drop": "PUBLISHED ✅"
     },
     {
       "episode": 52,
@@ -4343,15 +4343,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 🏮✦\nWere the ghost ships guiding the lost sailors home, or leading them into the deep?",
       "cover_url": "assets/the_loop/cover_tale_052.jpg",
       "cover_filename": "cover_tale_052.jpg",
-      "status": "READY 🚀",
+      "status": "UNLISTED 🔗",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
       "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
-      "youtube_id": "N7OCv7zCVko",
-      "youtube_url": "https://www.youtube.com/shorts/N7OCv7zCVko",
-      "target_drop": "Scheduled for Tomorrow ⏳"
+      "youtube_id": "jpTjYm_jvwU",
+      "youtube_url": "https://youtube.com/shorts/jpTjYm_jvwU",
+      "target_drop": "Unlisted on @TheLoopVid 🔗"
     },
     {
       "episode": 56,
@@ -4393,12 +4393,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the loop reset on the first watch? 🐕✦\nIs there any loyalty purer than a faithful companion waiting at an open gate?",
       "cover_url": "assets/the_loop/cover_tale_057.jpg",
       "cover_filename": "cover_tale_057.jpg",
-      "status": "READY 🚀",
+      "status": "UNLISTED 🔗",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Heartbreaking 8-Word Stories | Loss & Nostalgia",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLGod06q62ML0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Heartbreaking 8-Word Stories | Loss & Nostalgia",
+      "youtube_id": "9xdfIFzNRQM",
+      "youtube_url": "https://youtube.com/shorts/9xdfIFzNRQM",
+      "target_drop": "Unlisted on @TheLoopVid 🔗"
     },
     {
       "episode": 58,
@@ -4414,12 +4417,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the twist before the loop snapped back? 👀✦\nHave you ever had a conversation where neither person spoke a single word?",
       "cover_url": "assets/the_loop/cover_tale_058.jpg",
       "cover_filename": "cover_tale_058.jpg",
-      "status": "READY 🚀",
+      "status": "UNLISTED 🔗",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Love & Silent Goodbyes | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLR9g7dI8ZMx0",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Love & Silent Goodbyes | 8-Word Stories",
+      "youtube_id": "72n6yB5hyEo",
+      "youtube_url": "https://youtube.com/shorts/72n6yB5hyEo",
+      "target_drop": "Unlisted on @TheLoopVid 🔗"
     },
     {
       "episode": 59,
@@ -4435,12 +4441,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact moment the story looped? 🚒✦\nWas the rain an act of mercy, or did nature just steal the firefighters' victory?",
       "cover_url": "assets/the_loop/cover_tale_059.jpg",
       "cover_filename": "cover_tale_059.jpg",
-      "status": "READY 🚀",
+      "status": "UNLISTED 🔗",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "youtube_id": "C5LKtKpzQeU",
+      "youtube_url": "https://youtube.com/shorts/C5LKtKpzQeU",
+      "target_drop": "Unlisted on @TheLoopVid 🔗"
     },
     {
       "episode": 60,
@@ -4456,12 +4465,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you spot where the story reset into the loop? ⚔️✦\nDo your scars remind you of the pain you endured, or the fact that you survived?",
       "cover_url": "assets/the_loop/cover_tale_060.jpg",
       "cover_filename": "cover_tale_060.jpg",
-      "status": "READY 🚀",
+      "status": "UNLISTED 🔗",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Hope, Courage & Rebirth | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLFHCY47lRvH4",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Hope, Courage & Rebirth | 8-Word Stories",
+      "youtube_id": "6rxP3hOiljQ",
+      "youtube_url": "https://youtube.com/shorts/6rxP3hOiljQ",
+      "target_drop": "Unlisted on @TheLoopVid 🔗"
     },
     {
       "episode": 61,
@@ -4477,12 +4489,15 @@ window.PUBLISHING_CATALOG = {
       "pinned_comment": "Did you catch the exact frame the loop reset? 👤✦\nIf the man stayed put... whose shadow was stepping forward into the dark?",
       "cover_url": "assets/the_loop/cover_tale_061.jpg",
       "cover_filename": "cover_tale_061.jpg",
-      "status": "QUEUED",
+      "status": "UNLISTED 🔗",
       "master_playlist": "Inkling Tales: 8-Word Stories | Complete Series",
       "master_playlist_url": "https://www.youtube.com/playlist?list=PLcHWWWwKKWjY",
       "mood_playlist": "Dark Twists & Mysteries | 8-Word Stories",
       "mood_playlist_url": "https://www.youtube.com/playlist?list=PLU4K-iVBBNoQ",
-      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories"
+      "playlists_to_select": "1. Inkling Tales: 8-Word Stories | Complete Series\n2. Dark Twists & Mysteries | 8-Word Stories",
+      "youtube_id": "f6FztPItDhY",
+      "youtube_url": "https://youtube.com/shorts/f6FztPItDhY",
+      "target_drop": "Unlisted on @TheLoopVid 🔗"
     },
     {
       "episode": 62,

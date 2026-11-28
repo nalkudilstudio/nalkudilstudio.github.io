@@ -13797,8 +13797,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 16 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "37P98X12pdk",
+      "youtube_url": "https://youtube.com/shorts/37P98X12pdk"
     },
     {
       "episode": 17,
@@ -13824,8 +13826,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 17 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "ZhSGAo7akyM",
+      "youtube_url": "https://youtube.com/shorts/ZhSGAo7akyM"
     },
     {
       "episode": 18,

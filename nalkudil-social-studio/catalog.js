@@ -9980,7 +9980,8 @@ window.PUBLISHING_CATALOG = {
       "slide1_filename": "SidIsha_Day_28_Slide1_Art.jpg",
       "slide2_url": "assets/sid_isha/slide2/day_28.jpg",
       "slide2_filename": "SidIsha_Day_28_Slide2_Story.jpg",
-      "status": "READY 🚀",
+      "status": "PUBLISHED",
+      "instagram_url": "https://www.instagram.com/p/DgRbWr_FIQr/",
       "slide1_alt": "A crisp autumn morning photograph outside the futuristic glass architecture of BMW Welt in Munich, showing a man and woman holding paper coffee cups, walking together on a path covered in golden fallen maple leaves. A text overlay at the top reads \"Seven years vanished in seven seconds.\" alongside a circular author portrait badge in the lower right corner.",
       "slide2_alt": "A dark, vintage-framed micro-fiction reading slide titled \"Warm Coffee, Cold Morning\" by author Saravanakumar Murugan, from the Sid and Isha 30-day Drabble series. The story narrates Sid and Isha walking through the chilly Munich morning after their reunion, feeling seven years of separation melt away as naturally as their very first conversation. An illustrated footer banner displays \"SIDISHA: HOME WAS YOU\" featuring two school students with bicycles on an evening street."
     },
@@ -13388,8 +13389,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 1 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "39mryUvy_LE",
+      "youtube_url": "https://youtube.com/shorts/39mryUvy_LE"
     },
     {
       "episode": 3,
@@ -13446,8 +13449,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 4 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "h_M1JgslDoQ",
+      "youtube_url": "https://youtube.com/shorts/h_M1JgslDoQ"
     },
     {
       "episode": 5,
@@ -13473,8 +13478,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 5 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "Bg_VQlm-9jY",
+      "youtube_url": "https://youtube.com/shorts/Bg_VQlm-9jY"
     },
     {
       "episode": 6,
@@ -13500,8 +13507,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 6 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "Tw1eNFiQa0M",
+      "youtube_url": "https://youtube.com/shorts/Tw1eNFiQa0M"
     },
     {
       "episode": 7,
@@ -13527,8 +13536,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 7 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "bsTJoKsWsyo",
+      "youtube_url": "https://youtube.com/shorts/bsTJoKsWsyo"
     },
     {
       "episode": 8,
@@ -13554,8 +13565,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 8 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "bf_cX_EBxaA",
+      "youtube_url": "https://youtube.com/shorts/bf_cX_EBxaA"
     },
     {
       "episode": 9,
@@ -13581,8 +13594,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 9 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "T5dDJT9l6HA",
+      "youtube_url": "https://youtube.com/shorts/T5dDJT9l6HA"
     },
     {
       "episode": 10,
@@ -13608,8 +13623,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 10 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "laTldtbs7iw",
+      "youtube_url": "https://youtube.com/shorts/laTldtbs7iw"
     },
     {
       "episode": 11,
@@ -13635,8 +13652,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 11 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "L9zrGqwrwMk",
+      "youtube_url": "https://youtube.com/shorts/L9zrGqwrwMk"
     },
     {
       "episode": 12,
@@ -13662,8 +13681,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 12 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "oajunqz6a8c",
+      "youtube_url": "https://youtube.com/shorts/oajunqz6a8c"
     },
     {
       "episode": 13,
@@ -13689,8 +13710,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 13 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "3diNArVwEbE",
+      "youtube_url": "https://youtube.com/shorts/3diNArVwEbE"
     },
     {
       "episode": 14,
@@ -13716,8 +13739,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 14 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "6mHQMe8YRmk",
+      "youtube_url": "https://youtube.com/shorts/6mHQMe8YRmk"
     },
     {
       "episode": 15,
@@ -13743,8 +13768,10 @@ window.PUBLISHING_CATALOG = {
       "description": "Read that again. Some truths take three seconds to read, but a lifetime to accept.\n\nDid this hit a little too close to home? Drop a \"💔\" in the comments if you felt this, or share what letting go means to you.\n\nSubscribe to The Loop Vid for daily reflections and stories.\n\n#healbywords #TheLoop #Shorts #LifeLessons #SelfHealing #Quotes #Heartbreak",
       "pinned_comment": "did this hit a little too close to home? drop a \"💔\" or share what letting go means to you 👇\n\n🔔 Subscribe to The Loop Vid for daily reflections and stories.",
       "tags": "healbywords, the loop, the loop vid, shorts, life lessons, self healing, quotes, heartbreak, emotional loops, letting go, real spill",
-      "status": "READY",
-      "target_drop": "Day 15 21:30 IST"
+      "status": "UNLISTED 🔗",
+      "target_drop": "Unlisted on @TheLoopVid 🔗",
+      "youtube_id": "vVjeTsxAjik",
+      "youtube_url": "https://youtube.com/shorts/vVjeTsxAjik"
     },
     {
       "episode": 16,

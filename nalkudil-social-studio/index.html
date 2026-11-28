@@ -1254,8 +1254,11 @@
           { id: 'published', label: '✅ Published' }
         );
       } else if (currentSuite === 'two_seconds') {
+        const tsCount = (catalog.two_seconds || []).length;
         chips.push(
-          { id: 'all', label: 'All (5)' },
+          { id: 'all', label: `All (${tsCount})` },
+          { id: 'unlisted', label: '🔗 Unlisted' },
+          { id: 'scheduled', label: '⏳ Scheduled' },
           { id: 'ready', label: '🚀 Ready' },
           { id: 'cat_closure', label: '💔 Closure' },
           { id: 'cat_trust', label: '🥀 Trust' },
@@ -1373,6 +1376,7 @@
         } else if (currentSuite === 'two_seconds') {
           const concept = (item.concept || '').toLowerCase();
           if (currentFilter === 'ready' && !(item.status && item.status.includes('READY'))) return false;
+          if (currentFilter === 'unlisted' && !(item.status && item.status.includes('UNLISTED'))) return false;
           if (currentFilter === 'scheduled' && !(item.status && item.status.includes('SCHEDULED'))) return false;
           if (currentFilter === 'cat_closure' && !concept.includes('closure')) return false;
           if (currentFilter === 'cat_trust' && !concept.includes('trust') && !concept.includes('losing')) return false;
@@ -1849,6 +1853,8 @@
       const coverUrl = item.cover_url || '';
       const downloadName = item.cover_filename || `cover_2s_trauma_${String(ep).padStart(3, '0')}.jpg`;
       const isReady = item.status && item.status.includes('READY');
+      const isUnlisted = item.status && item.status.includes('UNLISTED');
+      const isScheduled = item.status && item.status.includes('SCHEDULED');
 
       return `
         <article class="pub-card ${isPublished ? 'is-published' : ''}" id="card-two_seconds-${ep}">
@@ -1858,8 +1864,8 @@
               <span class="cat-badge" style="background: rgba(230, 57, 70, 0.15); color: #FF4D6D; border: 1px solid rgba(230, 57, 70, 0.3); font-weight: 700;">🤍 ${escapeHtml(item.category || 'Heal By Words')}</span>
               <span class="cat-badge">⏱️ 2.0s Kinetic Loop</span>
               <span class="cat-badge" style="background: rgba(0, 245, 212, 0.12); color: #00F5D4; border: 1px solid rgba(0, 245, 212, 0.3);">❤️ ${escapeHtml(item.animation_type || '')}</span>
-              <span class="slot-badge">🕒 21:30 IST Night Mood</span>
-              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: rgba(239, 68, 68, 0.2); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.4); text-decoration: none; font-weight: 700;">${item.status && item.status.includes('SCHEDULED') ? '⏳ Scheduled Short' : (isPublished ? '▶️ Live Short' : '▶️ Watch Short')}</a>` : ''}
+              <span class="slot-badge">🕒 17:30 IST Evening Mood</span>
+              ${item.youtube_url ? `<a href="${item.youtube_url}" target="_blank" rel="noopener" class="cat-badge" style="background: ${isUnlisted ? 'rgba(245, 158, 11, 0.2)' : 'rgba(239, 68, 68, 0.2)'}; color: ${isUnlisted ? '#F59E0B' : '#EF4444'}; border: 1px solid ${isUnlisted ? 'rgba(245, 158, 11, 0.4)' : 'rgba(239, 68, 68, 0.4)'}; text-decoration: none; font-weight: 700;">${isScheduled ? '⏳ Scheduled Short' : (isUnlisted ? '🔗 Unlisted Short' : (isPublished ? '▶️ Live Short' : '▶️ Watch Short'))}</a>` : ''}
             </div>
             <label class="status-check-label ${isPublished ? 'checked' : ''}">
               <input type="checkbox" ${isPublished ? 'checked' : ''} onchange="togglePublishStatus('two_seconds', ${ep})">
@@ -1873,7 +1879,7 @@
                 ${coverUrl ? `<img src="${coverUrl}" alt="Heal By Words Ep ${ep} Cover" loading="lazy">` : `<div class="thumb-placeholder"><span>🤍</span><span>Cover Pending</span></div>`}
               </div>
               ${coverUrl ? `<a href="${coverUrl}" download="${downloadName}" class="btn-download-direct">⬇️ Download Dilemma Cover</a>` : ''}
-              ${isReady ? `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ Master 60fps CFR Video Ready</div>` : ''}
+              ${isUnlisted ? `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: #F59E0B; font-weight: 700;">🔗 Unlisted on YouTube • Ready to Schedule</div>` : (isReady ? `<div style="margin-top: 6px; text-align: center; font-size: 11px; color: var(--green); font-weight: 700;">✅ Master 60fps CFR Video Ready</div>` : '')}
             </div>
 
             <div class="content-box">
